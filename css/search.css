@@ -1,29 +1,7 @@
 /* ============================================
-           PAGE-SPECIFIC STYLES
-           ============================================ */
+   PAGE-SPECIFIC STYLES
+   ============================================ */
 
-/* Page Header - Custom styling for fungi census */
-/*
-.header {
-    text-align: center;
-    position: static;
-    / Override sticky positioning from shared CSS /
-    box-shadow: none;
-    / Remove default shadow /
-    border-bottom: 2px solid #e9ecef;
-}
-
-.header h1 {
-    color: #2c5530;
-    font-size: 2.2em;
-    margin-bottom: 10px;
-}
-
-.header p {
-    color: #6c757d;
-    font-size: 1.1em;
-}
-*/
 /* Search Section */
 .search-section {
     background: white;
