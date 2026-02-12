@@ -1,79 +1,56 @@
-<!DOCTYPE html>
-<html lang="it">
+---
+layout: default
+title: Ricerca
+---
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Censimento Specie Fungine</title>
+<div class="container">
+    <p>&nbsp;</p>
+    <p id="total-count" class="total-count">Caricamento in corso...</p>
 
-    <!-- Shared CSS from repository -->
-    <link rel="stylesheet" href="shared/css/variables.css">
-    <link rel="stylesheet" href="shared/css/reset.css">
-    <link rel="stylesheet" href="shared/css/layout.css">
-    <link rel="stylesheet" href="shared/css/components.css">
-    <!-- Page-specific CSS -->
-    <link rel="stylesheet" href="css/search.css">
-</head>
-
-<body>
-    <div class="container">
-        <div class="header">
-            <h1>Censimento Specie Fungine</h1>
+    <div class="search-section">
+        <div class="tabs">
+            <button class="tab-button active" data-tab="genus-species">Cerca per Genere/Specie</button>
+            <button class="tab-button" data-tab="free-search">Ricerca Libera</button>
         </div>
 
-        <p>&nbsp;</p>
-        <p id="total-count" class="total-count">Caricamento in corso...</p>
-
-        <div class="search-section">
-            <div class="tabs">
-                <button class="tab-button active" data-tab="genus-species">Cerca per Genere/Specie</button>
-                <button class="tab-button" data-tab="free-search">Ricerca Libera</button>
-            </div>
-
-            <div class="tab-content">
-                <div id="genus-species-pane" class="tab-pane active">
-                    <div class="search-form">
-                        <div class="form-group">
-                            <label for="genus-select">Genere:</label>
-                            <select id="genus-select">
-                                <option value="">Tutti i generi</option>
-                            </select>
-                        </div>
-                        <div class="form-group">
-                            <label for="species-select">Specie:</label>
-                            <select id="species-select">
-                                <option value="">Tutte le specie</option>
-                            </select>
-                        </div>
-                        <button class="btn" id="reset-btn">Reset</button>
+        <div class="tab-content">
+            <div id="genus-species-pane" class="tab-pane active">
+                <div class="search-form">
+                    <div class="form-group">
+                        <label for="genus-select">Genere:</label>
+                        <select id="genus-select">
+                            <option value="">Tutti i generi</option>
+                        </select>
                     </div>
-                </div>
-
-                <div id="free-search-pane" class="tab-pane">
-                    <div class="free-search-form">
-                        <div class="form-group autocomplete-container">
-                            <label for="free-search">Cerca:</label>
-                            <input type="text" id="free-search" placeholder="Cerca genere, specie o tassonomia...">
-                            <div id="autocomplete-list" class="autocomplete-list"></div>
-                        </div>
-                        <button class="btn" id="free-reset-btn">Reset</button>
+                    <div class="form-group">
+                        <label for="species-select">Specie:</label>
+                        <select id="species-select">
+                            <option value="">Tutte le specie</option>
+                        </select>
                     </div>
+                    <button class="btn" id="reset-btn">Reset</button>
                 </div>
             </div>
-        </div>
 
-        <div class="results-section">
-            <div class="results-header">
-                <span id="results-count">Risultati: 0</span>
-            </div>
-            <div class="species-list" id="species-list">
-                <div class="no-results">Caricamento dei dati in corso...</div>
+            <div id="free-search-pane" class="tab-pane">
+                <div class="free-search-form">
+                    <div class="form-group autocomplete-container">
+                        <label for="free-search">Cerca:</label>
+                        <input type="text" id="free-search" placeholder="Cerca genere, specie o tassonomia...">
+                        <div id="autocomplete-list" class="autocomplete-list"></div>
+                    </div>
+                    <button class="btn" id="free-reset-btn">Reset</button>
+                </div>
             </div>
         </div>
     </div>
 
-    <script src="shared/js/common.js"></script>
-    <script src="js/search.js"></script>
-</body>
-
-</html>
+    <div class="results-section">
+        <div class="results-header">
+            <span id="results-count">Risultati: 0</span>
+        </div>
+        <div class="species-list" id="species-list">
+            <div class="no-results">Caricamento dei dati in corso...</div>
+        </div>
+    </div>
+</div>
