@@ -235,7 +235,7 @@ async function loadSpeciesData() {
     const filename = getSpeciesFilename(genus, species);
 
     // Update page title and header
-    document.title = `${genus} ${species} - Census Funghi`;
+    document.title = `${genus} ${species} - Specie fungine della Valseriana`;
     document.getElementById('genus-name').textContent = genus;
     document.getElementById('species-name').textContent = species;
 
