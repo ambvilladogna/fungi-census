@@ -1,0 +1,17 @@
+{
+  "corpus": [
+    { "type": "genus",   "value": "Micromphale",             "matchSpecies": ["Micromphale perforans"] },
+    { "type": "genus",   "value": "Trametes",                "matchSpecies": ["Trametes versicolor"] },
+    { "type": "genus",   "value": "Paragymnopus",            "matchSpecies": ["Micromphale perforans"] },
+    { "type": "species", "value": "Micromphale perforans",   "matchSpecies": ["Micromphale perforans"] },
+    { "type": "species", "value": "Trametes versicolor",     "matchSpecies": ["Trametes versicolor"] },
+    { "type": "synonym", "value": "Paragymnopus perforans",  "matchSpecies": ["Micromphale perforans"] },
+    { "type": "taxon",   "value": "Agaricales",              "matchSpecies": ["Micromphale perforans"] },
+    { "type": "taxon",   "value": "Omphalotaceae",           "matchSpecies": ["Micromphale perforans"] },
+    { "type": "taxon",   "value": "Agaricomycetes",          "matchSpecies": ["Micromphale perforans", "Trametes versicolor"] },
+    { "type": "taxon",   "value": "Basidiomycota",           "matchSpecies": ["Micromphale perforans", "Trametes versicolor"] },
+    { "type": "taxon",   "value": "Fungi",                   "matchSpecies": ["Micromphale perforans", "Trametes versicolor"] },
+    { "type": "taxon",   "value": "Polyporales",             "matchSpecies": ["Trametes versicolor"] },
+    { "type": "taxon",   "value": "Polyporaceae",            "matchSpecies": ["Trametes versicolor"] }
+  ]
+}
