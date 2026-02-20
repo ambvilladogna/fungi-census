@@ -1,5 +1,9 @@
 /* calendar.css */
 
+.hidden {
+    display: none;
+}
+
 /* ── Page title ──────────────────────────────────────────────────────────── */
 .sub-title {
     text-align: center;
@@ -154,13 +158,13 @@
 }
 
 #species-modal.is-open,
-#species-modal.is-open ~ #modal-overlay,
+#species-modal.is-open~#modal-overlay,
 #modal-overlay.is-open {
     display: flex;
 }
 
 /* Show overlay when modal is open */
-#species-modal.is-open + #modal-overlay {
+#species-modal.is-open+#modal-overlay {
     display: block;
 }
 
@@ -177,8 +181,15 @@
 }
 
 @keyframes modal-in {
-    from { opacity: 0; transform: translateY(16px) scale(0.97); }
-    to   { opacity: 1; transform: translateY(0) scale(1); }
+    from {
+        opacity: 0;
+        transform: translateY(16px) scale(0.97);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0) scale(1);
+    }
 }
 
 .modal-header {
@@ -204,12 +215,12 @@
 
 .modal-header__authority {
     font-size: var(--font-size-small);
-    color: rgba(255,255,255,0.75);
+    color: rgba(255, 255, 255, 0.75);
     margin-top: 2px;
 }
 
 .modal-close {
-    background: rgba(255,255,255,0.15);
+    background: rgba(255, 255, 255, 0.15);
     border: none;
     color: white;
     width: 32px;
@@ -226,7 +237,7 @@
 }
 
 .modal-close:hover {
-    background: rgba(255,255,255,0.3);
+    background: rgba(255, 255, 255, 0.3);
 }
 
 .modal-body {
@@ -234,6 +245,12 @@
     display: flex;
     flex-direction: column;
     gap: var(--spacing-lg);
+}
+
+.modal-header__current_name {
+    border-left: 3px solid var(--color-primary-light);
+    margin-top: var(--spacing-sm);
+    padding-left: var(--spacing-sm);
 }
 
 /* lineage breadcrumb */

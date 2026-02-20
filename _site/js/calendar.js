@@ -145,6 +145,13 @@
 
         document.getElementById('modal-species-name').textContent = sp.fullName;
         document.getElementById('modal-authority').textContent = sp.authority || '';
+        document.getElementById('modal-species-current-name').textContent = sp.currentName || '';
+        document.getElementById('modal-current-authority').textContent = sp.currentAuthority || '';
+        if (sp.currentName) {
+            document.getElementById('modal-current-name').classList.remove('hidden');
+        } else {
+            document.getElementById('modal-current-name').classList.add('hidden');
+        }
         document.getElementById('modal-lineage').textContent = sp.lineage || '';
         document.getElementById('modal-total-samples').textContent = sp.totalSamples;
 
@@ -172,17 +179,16 @@
             return;
         }
         el.innerHTML = `
-      <div class="sample-block">
-        <h4 class="sample-label">${label}</h4>
-        <dl class="sample-dl">
-          <dt>Data</dt>       <dd>${formatDate(sample.collectionDate)}</dd>
-          <dt>Legit</dt><dd>${sample.collector || '—'}</dd>
-          <dt>Determinatore</dt><dd>${sample.determiner || '—'}</dd>
-          <dt>Località</dt>   <dd>${sample.locality || '—'}</dd>
-          <dt>Habitat</dt>    <dd>${sample.habitat || '—'}</dd>
-          ${sample.localityCoordinates ? `<dt>Coordinate</dt><dd><a href="https://www.openstreetmap.org/?mlat=${sample.localityCoordinates.split(',')[0].trim()}&mlon=${sample.localityCoordinates.split(',')[1].trim()}&zoom=14" target="_blank" rel="noopener">${sample.localityCoordinates}</a></dd>` : ''}
-        </dl>
-      </div>`;
+          <div class="sample-block">
+            <h4 class="sample-label">${label}</h4>
+            <dl class="sample-dl">
+              <dt>Data</dt>       <dd>${formatDate(sample.collectionDate)}</dd>
+              <dt>Legit</dt><dd>${sample.collector || '—'}</dd>
+              <dt>Determinatore</dt><dd>${sample.determiner || '—'}</dd>
+              <dt>Località</dt>   <dd><a href="https://www.openstreetmap.org/?mlat=${sample.localityCoordinates.split(',')[0].trim()}&mlon=${sample.localityCoordinates.split(',')[1].trim()}&zoom=14" target="_blank" rel="noopener">${sample.locality}</a></dd>
+              <dt>Habitat</dt>    <dd>${sample.habitat || '—'}</dd>
+            </dl>
+          </div>`;
     }
 
     function closeModal() {
