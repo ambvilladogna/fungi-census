@@ -321,6 +321,7 @@
         const otherKey = sampleKey === 'earliestSample' ? 'latestSample' : 'earliestSample';
         const otherSample = sp[otherKey] || {};
 
+        console.log(sp);
         document.getElementById('modal-species-name').textContent = sp.fullName;
         document.getElementById('modal-authority').textContent = sp.authority || '';
         document.getElementById('modal-species-current-name').textContent = sp.currentName || '';
