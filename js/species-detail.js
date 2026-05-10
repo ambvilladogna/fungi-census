@@ -35,7 +35,7 @@ function formatSampleDetails(sample) {
 }
 
 function formatDayAndMonth(dateString) {
-    const [day, month] = dateString.split('/');
+    const [month, day] = dateString.split('-');
     const months = [
         '',
         'gennaio',
