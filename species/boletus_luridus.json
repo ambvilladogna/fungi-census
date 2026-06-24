@@ -6,6 +6,14 @@
   "autoreCorrente": "(Schaeff.) Murrill 1909",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-06-18",
+      "collector": "Fabio Locatelli",
+      "locality": "Blum, Rovetta",
+      "localityCoordinates": "45.909548, 9.973256",
+      "habitat": "Abete rosso",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2026-06-16",
       "collector": "Antonio Guana",
       "locality": "Ardesio",
@@ -99,7 +107,7 @@
         "mag": 0
       },
       {
-        "giu": 4
+        "giu": 5
       },
       {
         "lug": 2
@@ -122,8 +130,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 9,
-    "campioniRaccolti": 9,
+    "totaleCampioni": 10,
+    "campioniRaccolti": 10,
     "campioniExsiccata": 0
   }
 }

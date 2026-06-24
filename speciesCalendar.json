@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-22T00:12:09.307Z",
+  "generatedAt": "2026-06-24T00:12:11.452Z",
   "totalSpecies": 454,
-  "totalSamples": 1148,
+  "totalSamples": 1149,
   "species": [
     {
       "genus": "Flammulina",
@@ -3747,14 +3747,14 @@
       "authority": "Schaeff. 1774",
       "currentName": "Suillellus luridus",
       "currentAuthority": "(Schaeff.) Murrill 1909",
-      "totalSamples": 9,
+      "totalSamples": 10,
       "monthlyCount": [
         0,
         0,
         0,
         0,
         0,
-        4,
+        5,
         2,
         1,
         1,
