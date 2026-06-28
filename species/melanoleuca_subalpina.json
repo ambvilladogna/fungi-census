@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-06-28",
+      "collector": "Erica Pozzi",
+      "locality": "Isola di Fondra",
+      "localityCoordinates": "45.978491, 9.746387",
+      "habitat": "Pascolo",
+      "determiner": "Erica Pozzi"
+    },
+    {
       "collectionDate": "2026-05-24",
       "collector": "Pietro Centenari",
       "locality": "Strada per alpeggio Fogarolo, Rovetta",
@@ -83,7 +91,7 @@
         "mag": 4
       },
       {
-        "giu": 2
+        "giu": 3
       },
       {
         "lug": 0
@@ -106,8 +114,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 7,
-    "campioniRaccolti": 7,
+    "totaleCampioni": 8,
+    "campioniRaccolti": 8,
     "campioniExsiccata": 0
   }
 }

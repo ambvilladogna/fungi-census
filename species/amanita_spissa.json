@@ -6,6 +6,22 @@
   "autoreCorrente": "(Fr.) Bertill. 1866",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-06-28",
+      "collector": "Pietro Centenari",
+      "locality": "Strada Falecchio - Camasone - San Fermo, Songavazzo, Bergamo",
+      "localityCoordinates": "45.869370, 10.020795",
+      "habitat": "Abete rosso",
+      "determiner": "Pietro Centenari"
+    },
+    {
+      "collectionDate": "2026-06-28",
+      "collector": "Pietro Centenari",
+      "locality": "Strada Falecchio - Camasone - San Fermo, Songavazzo, Bergamo",
+      "localityCoordinates": "45.860490, 10.030865",
+      "habitat": "Abete rosso",
+      "determiner": "Pietro Centenari"
+    },
+    {
       "collectionDate": "2025-09-21",
       "collector": "Pietro Centenari",
       "locality": "Campos, Rovetta",
@@ -32,7 +48,7 @@
   ],
   "campioniExsiccata": [],
   "fenologia": {
-    "raccoltaPiuPrecoce": "09-15",
+    "raccoltaPiuPrecoce": "06-28",
     "raccoltaPiuTarda": "09-21",
     "campioniPerMese": [
       {
@@ -51,7 +67,7 @@
         "mag": 0
       },
       {
-        "giu": 0
+        "giu": 2
       },
       {
         "lug": 0
@@ -74,8 +90,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 3,
-    "campioniRaccolti": 3,
+    "totaleCampioni": 5,
+    "campioniRaccolti": 5,
     "campioniExsiccata": 0
   }
 }

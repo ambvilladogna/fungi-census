@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-28T00:12:17.290Z",
-  "totalSpecies": 454,
-  "totalSamples": 1082,
+  "generatedAt": "2026-06-28T15:52:11.970Z",
+  "totalSpecies": 455,
+  "totalSamples": 1091,
   "species": [
     {
       "genus": "Abortiporus",
@@ -1246,6 +1246,13 @@
       "fullName": "Fuligo septica",
       "lineage": "regno: Protozoa > phylum: Amoebozoa > classe: Myxogastrea > ordine: Physarida > famiglia: Physaridae",
       "authority": "(L.) F.H. Wigg. 1780"
+    },
+    {
+      "genus": "Fuligo",
+      "species": "septica var. candida",
+      "fullName": "Fuligo septica var. candida",
+      "lineage": "regno: Protozoa > phylum: Amoebozoa > classe: Myxogastrea > ordine: Physarida > famiglia: Physaridae",
+      "authority": "(Pers.) R.E. Fr. 1912"
     },
     {
       "genus": "Galerina",

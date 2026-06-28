@@ -6,6 +6,14 @@
   "autoreCorrente": "(Bull.) B.K. Cui, M.L. Han & Y.C. Dai 2016",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-06-28",
+      "collector": "Pietro Centenari",
+      "locality": "Strada Falecchio - Camasone - San Fermo, Songavazzo, Bergamo",
+      "localityCoordinates": "45.862475, 10.029345",
+      "habitat": "Su tronco morto di betulla",
+      "determiner": "Pietro Centenari"
+    },
+    {
       "collectionDate": "2026-06-07",
       "collector": "Pietro Centenari",
       "locality": "Sentiero di Blum, Rovetta, Bergamo",
@@ -83,7 +91,7 @@
         "mag": 1
       },
       {
-        "giu": 1
+        "giu": 2
       },
       {
         "lug": 0
@@ -106,8 +114,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 7,
-    "campioniRaccolti": 7,
+    "totaleCampioni": 8,
+    "campioniRaccolti": 8,
     "campioniExsiccata": 0
   }
 }

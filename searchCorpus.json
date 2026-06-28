@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T00:11:56.891Z",
+  "generatedAt": "2026-06-28T15:52:12.236Z",
   "corpus": [
     {
       "type": "genus",
@@ -744,7 +744,8 @@
       "type": "genus",
       "value": "Fuligo",
       "matchSpecies": [
-        "Fuligo septica"
+        "Fuligo septica",
+        "Fuligo septica var. candida"
       ]
     },
     {
@@ -3553,6 +3554,13 @@
       "value": "Fuligo septica",
       "matchSpecies": [
         "Fuligo septica"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Fuligo septica var. candida",
+      "matchSpecies": [
+        "Fuligo septica var. candida"
       ]
     },
     {
@@ -6840,7 +6848,8 @@
       "value": "Physaridae",
       "matchSpecies": [
         "Badhamia melanospora",
-        "Fuligo septica"
+        "Fuligo septica",
+        "Fuligo septica var. candida"
       ]
     },
     {
@@ -7737,7 +7746,8 @@
       "value": "Physarida",
       "matchSpecies": [
         "Badhamia melanospora",
-        "Fuligo septica"
+        "Fuligo septica",
+        "Fuligo septica var. candida"
       ]
     },
     {
@@ -8469,6 +8479,7 @@
       "matchSpecies": [
         "Badhamia melanospora",
         "Fuligo septica",
+        "Fuligo septica var. candida",
         "Hemitrichia clavata",
         "Hemitrichia serpula",
         "Lycogala epidendrum",
@@ -8525,6 +8536,7 @@
       "matchSpecies": [
         "Badhamia melanospora",
         "Fuligo septica",
+        "Fuligo septica var. candida",
         "Hemitrichia clavata",
         "Hemitrichia serpula",
         "Lycogala epidendrum",
@@ -9653,6 +9665,7 @@
       "matchSpecies": [
         "Badhamia melanospora",
         "Fuligo septica",
+        "Fuligo septica var. candida",
         "Hemitrichia clavata",
         "Hemitrichia serpula",
         "Lycogala epidendrum",
