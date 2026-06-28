@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-24T00:12:11.452Z",
+  "generatedAt": "2026-06-28T00:12:17.372Z",
   "totalSpecies": 454,
-  "totalSamples": 1149,
+  "totalSamples": 1151,
   "species": [
     {
       "genus": "Flammulina",
@@ -3837,14 +3837,14 @@
       "fullName": "Russula cyanoxantha",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
       "authority": "(Schaeff.) Fr. 1863",
-      "totalSamples": 7,
+      "totalSamples": 8,
       "monthlyCount": [
         0,
         0,
         0,
         0,
         0,
-        1,
+        2,
         2,
         3,
         0,
@@ -4498,6 +4498,50 @@
         "localityCoordinates": "45.93408, 10.00331",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Leccinum",
+      "species": "scabrum",
+      "fullName": "Leccinum scabrum",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
+      "authority": "(Bull.) Gray 1821",
+      "totalSamples": 6,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        3,
+        1,
+        0,
+        0
+      ],
+      "earliestDate": "06-25",
+      "earliestDayOfYear": 176,
+      "earliestSample": {
+        "collectionDate": "2026-06-25",
+        "collector": "Fabio Locatelli",
+        "locality": "Falecchio, Songavazzo",
+        "localityCoordinates": "45.882296, 10.000041",
+        "habitat": "Betulla",
+        "determiner": "Fabio Locatelli",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "10-02",
+      "latestDayOfYear": 275,
+      "latestSample": {
+        "collectionDate": "2025-10-02",
+        "collector": "Pietro Centenari",
+        "locality": "Blum, Rovetta",
+        "localityCoordinates": "45.90764, 9.96713",
+        "habitat": "Betulla",
+        "determiner": "Pietro Centenari",
         "_tipo": "raccolto"
       }
     },
@@ -7254,50 +7298,6 @@
         "localityCoordinates": "45.898619, 9.984853",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
-        "_tipo": "raccolto"
-      }
-    },
-    {
-      "genus": "Leccinum",
-      "species": "scabrum",
-      "fullName": "Leccinum scabrum",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
-      "authority": "(Bull.) Gray 1821",
-      "totalSamples": 5,
-      "monthlyCount": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        3,
-        1,
-        0,
-        0
-      ],
-      "earliestDate": "08-01",
-      "earliestDayOfYear": 213,
-      "earliestSample": {
-        "collectionDate": "2025-08-01",
-        "collector": "Fabio Locatelli",
-        "locality": "Prat del sul, Clusone",
-        "localityCoordinates": "45.867941, 9.932321",
-        "habitat": "Betulla",
-        "determiner": "Fabio Locatelli",
-        "_tipo": "raccolto"
-      },
-      "latestDate": "10-02",
-      "latestDayOfYear": 275,
-      "latestSample": {
-        "collectionDate": "2025-10-02",
-        "collector": "Pietro Centenari",
-        "locality": "Blum, Rovetta",
-        "localityCoordinates": "45.90764, 9.96713",
-        "habitat": "Betulla",
-        "determiner": "Pietro Centenari",
         "_tipo": "raccolto"
       }
     },

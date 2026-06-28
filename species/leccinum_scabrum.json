@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-06-25",
+      "collector": "Fabio Locatelli",
+      "locality": "Falecchio, Songavazzo",
+      "localityCoordinates": "45.882296, 10.000041",
+      "habitat": "Betulla",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2025-10-02",
       "collector": "Pietro Centenari",
       "locality": "Blum, Rovetta",
@@ -48,7 +56,7 @@
   ],
   "campioniExsiccata": [],
   "fenologia": {
-    "raccoltaPiuPrecoce": "08-01",
+    "raccoltaPiuPrecoce": "06-25",
     "raccoltaPiuTarda": "10-02",
     "campioniPerMese": [
       {
@@ -67,7 +75,7 @@
         "mag": 0
       },
       {
-        "giu": 0
+        "giu": 1
       },
       {
         "lug": 0
@@ -90,8 +98,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 5,
-    "campioniRaccolti": 5,
+    "totaleCampioni": 6,
+    "campioniRaccolti": 6,
     "campioniExsiccata": 0
   }
 }
