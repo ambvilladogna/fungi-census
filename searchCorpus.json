@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T15:52:12.236Z",
+  "generatedAt": "2026-06-29T00:12:16.479Z",
   "corpus": [
     {
       "type": "genus",
@@ -744,8 +744,8 @@
       "type": "genus",
       "value": "Fuligo",
       "matchSpecies": [
-        "Fuligo septica",
-        "Fuligo septica var. candida"
+        "Fuligo candida",
+        "Fuligo septica"
       ]
     },
     {
@@ -3551,16 +3551,16 @@
     },
     {
       "type": "species",
-      "value": "Fuligo septica",
+      "value": "Fuligo candida",
       "matchSpecies": [
-        "Fuligo septica"
+        "Fuligo candida"
       ]
     },
     {
       "type": "species",
-      "value": "Fuligo septica var. candida",
+      "value": "Fuligo septica",
       "matchSpecies": [
-        "Fuligo septica var. candida"
+        "Fuligo septica"
       ]
     },
     {
@@ -6848,8 +6848,8 @@
       "value": "Physaridae",
       "matchSpecies": [
         "Badhamia melanospora",
-        "Fuligo septica",
-        "Fuligo septica var. candida"
+        "Fuligo candida",
+        "Fuligo septica"
       ]
     },
     {
@@ -7746,8 +7746,8 @@
       "value": "Physarida",
       "matchSpecies": [
         "Badhamia melanospora",
-        "Fuligo septica",
-        "Fuligo septica var. candida"
+        "Fuligo candida",
+        "Fuligo septica"
       ]
     },
     {
@@ -8478,8 +8478,8 @@
       "value": "Myxogastrea",
       "matchSpecies": [
         "Badhamia melanospora",
+        "Fuligo candida",
         "Fuligo septica",
-        "Fuligo septica var. candida",
         "Hemitrichia clavata",
         "Hemitrichia serpula",
         "Lycogala epidendrum",
@@ -8535,8 +8535,8 @@
       "value": "Amoebozoa",
       "matchSpecies": [
         "Badhamia melanospora",
+        "Fuligo candida",
         "Fuligo septica",
-        "Fuligo septica var. candida",
         "Hemitrichia clavata",
         "Hemitrichia serpula",
         "Lycogala epidendrum",
@@ -9664,8 +9664,8 @@
       "value": "Protozoa",
       "matchSpecies": [
         "Badhamia melanospora",
+        "Fuligo candida",
         "Fuligo septica",
-        "Fuligo septica var. candida",
         "Hemitrichia clavata",
         "Hemitrichia serpula",
         "Lycogala epidendrum",

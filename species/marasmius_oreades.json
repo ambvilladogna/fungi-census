@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-06-25",
+      "collector": "Fabio Locatelli",
+      "locality": "Alpe Rigada, Valzurio",
+      "localityCoordinates": "",
+      "habitat": "Pascolo",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2025-09-15",
       "collector": "Antonio Guana",
       "locality": "Cimitero monumentale, Bergamo",
@@ -32,7 +40,7 @@
   ],
   "campioniExsiccata": [],
   "fenologia": {
-    "raccoltaPiuPrecoce": "09-08",
+    "raccoltaPiuPrecoce": "06-25",
     "raccoltaPiuTarda": "09-15",
     "campioniPerMese": [
       {
@@ -51,7 +59,7 @@
         "mag": 0
       },
       {
-        "giu": 0
+        "giu": 1
       },
       {
         "lug": 0
@@ -74,8 +82,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 3,
-    "campioniRaccolti": 3,
+    "totaleCampioni": 4,
+    "campioniRaccolti": 4,
     "campioniExsiccata": 0
   }
 }

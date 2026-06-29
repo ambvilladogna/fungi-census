@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-28T15:52:12.063Z",
+  "generatedAt": "2026-06-29T00:12:16.334Z",
   "totalSpecies": 455,
-  "totalSamples": 1160,
+  "totalSamples": 1161,
   "species": [
     {
       "genus": "Flammulina",
@@ -4546,6 +4546,50 @@
       }
     },
     {
+      "genus": "Marasmius",
+      "species": "oreades",
+      "fullName": "Marasmius oreades",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Marasmiaceae",
+      "authority": "(Bolton) Fr. 1836",
+      "totalSamples": 4,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        3,
+        0,
+        0,
+        0
+      ],
+      "earliestDate": "06-25",
+      "earliestDayOfYear": 176,
+      "earliestSample": {
+        "collectionDate": "2026-06-25",
+        "collector": "Fabio Locatelli",
+        "locality": "Alpe Rigada, Valzurio",
+        "localityCoordinates": "",
+        "habitat": "Pascolo",
+        "determiner": "Fabio Locatelli",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "09-15",
+      "latestDayOfYear": 258,
+      "latestSample": {
+        "collectionDate": "2025-09-15",
+        "collector": "Antonio Guana",
+        "locality": "Cimitero monumentale, Bergamo",
+        "localityCoordinates": "45.697583, 9.690081",
+        "habitat": "Aiuole",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
       "genus": "Russula",
       "species": "alutacea",
       "fullName": "Russula alutacea",
@@ -4683,10 +4727,10 @@
     },
     {
       "genus": "Fuligo",
-      "species": "septica var. candida",
-      "fullName": "Fuligo septica var. candida",
+      "species": "candida",
+      "fullName": "Fuligo candida",
       "lineage": "regno: Protozoa > phylum: Amoebozoa > classe: Myxogastrea > ordine: Physarida > famiglia: Physaridae",
-      "authority": "(Pers.) R.E. Fr. 1912",
+      "authority": "Pers. 1796",
       "totalSamples": 1,
       "monthlyCount": [
         0,
@@ -12285,50 +12329,6 @@
         "locality": "Peschiera del Garda",
         "localityCoordinates": "45.438945, 10.692017",
         "habitat": "Pioppo",
-        "determiner": "Pierino Bigoni",
-        "_tipo": "raccolto"
-      }
-    },
-    {
-      "genus": "Marasmius",
-      "species": "oreades",
-      "fullName": "Marasmius oreades",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Marasmiaceae",
-      "authority": "(Bolton) Fr. 1836",
-      "totalSamples": 3,
-      "monthlyCount": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        3,
-        0,
-        0,
-        0
-      ],
-      "earliestDate": "09-08",
-      "earliestDayOfYear": 251,
-      "earliestSample": {
-        "collectionDate": "2025-09-08",
-        "collector": "Pierino Bigoni",
-        "locality": "Strada per le baite del Moschel, Oltressenda Alta",
-        "localityCoordinates": "45.93408, 10.00331",
-        "habitat": "Prato",
-        "determiner": "Pierino Bigoni",
-        "_tipo": "raccolto"
-      },
-      "latestDate": "09-15",
-      "latestDayOfYear": 258,
-      "latestSample": {
-        "collectionDate": "2025-09-15",
-        "collector": "Antonio Guana",
-        "locality": "Cimitero monumentale, Bergamo",
-        "localityCoordinates": "45.697583, 9.690081",
-        "habitat": "Aiuole",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
