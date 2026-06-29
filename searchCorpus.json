@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T00:12:16.479Z",
+  "generatedAt": "2026-06-29T14:30:10.787Z",
   "corpus": [
     {
       "type": "genus",
@@ -1226,6 +1226,7 @@
       "matchSpecies": [
         "Chlorophyllum brunneum",
         "Chlorophyllum rhacodes",
+        "Macrolepiota fuliginosa",
         "Macrolepiota konradii",
         "Macrolepiota mastoidea",
         "Macrolepiota procera",
@@ -3921,13 +3922,15 @@
       "type": "species",
       "value": "Hypholoma lateritium",
       "matchSpecies": [
-        "Hypholoma lateritium"
+        "Hypholoma lateritium",
+        "Hypholoma sublateritium"
       ]
     },
     {
       "type": "species",
       "value": "Hypholoma sublateritium",
       "matchSpecies": [
+        "Hypholoma lateritium",
         "Hypholoma sublateritium"
       ]
     },
@@ -4535,6 +4538,14 @@
     },
     {
       "type": "species",
+      "value": "Macrolepiota fuliginosa",
+      "matchSpecies": [
+        "Macrolepiota fuliginosa",
+        "Macrolepiota procera var. fuliginosa"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Macrolepiota konradii",
       "matchSpecies": [
         "Macrolepiota konradii",
@@ -4560,6 +4571,7 @@
       "type": "species",
       "value": "Macrolepiota procera var. fuliginosa",
       "matchSpecies": [
+        "Macrolepiota fuliginosa",
         "Macrolepiota procera var. fuliginosa"
       ]
     },
@@ -6153,6 +6165,7 @@
         "Lepiota ventriosospora",
         "Leucoagaricus leucothites",
         "Leucocoprinus leucothites",
+        "Macrolepiota fuliginosa",
         "Macrolepiota konradii",
         "Macrolepiota mastoidea",
         "Macrolepiota procera",
@@ -7409,6 +7422,7 @@
         "Lycoperdon umbrinum",
         "Lyophyllum connatum",
         "Lyophyllum decastes",
+        "Macrolepiota fuliginosa",
         "Macrolepiota konradii",
         "Macrolepiota mastoidea",
         "Macrolepiota procera",
@@ -8221,6 +8235,7 @@
         "Lycoperdon umbrinum",
         "Lyophyllum connatum",
         "Lyophyllum decastes",
+        "Macrolepiota fuliginosa",
         "Macrolepiota konradii",
         "Macrolepiota mastoidea",
         "Macrolepiota procera",
@@ -8893,6 +8908,7 @@
         "Lycoperdon umbrinum",
         "Lyophyllum connatum",
         "Lyophyllum decastes",
+        "Macrolepiota fuliginosa",
         "Macrolepiota konradii",
         "Macrolepiota mastoidea",
         "Macrolepiota procera",
@@ -9441,6 +9457,7 @@
         "Lycoperdon umbrinum",
         "Lyophyllum connatum",
         "Lyophyllum decastes",
+        "Macrolepiota fuliginosa",
         "Macrolepiota konradii",
         "Macrolepiota mastoidea",
         "Macrolepiota procera",

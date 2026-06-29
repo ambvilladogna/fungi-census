@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-29T11:24:14.885Z",
+  "generatedAt": "2026-06-29T14:30:10.581Z",
   "totalSpecies": 455,
-  "totalSamples": 1161,
+  "totalSamples": 1169,
   "species": [
     {
       "genus": "Flammulina",
@@ -9311,7 +9311,7 @@
       "fullName": "Hypholoma lateritium",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Strophariaceae",
       "authority": "(Schaeff.) P. Kumm. 1871",
-      "totalSamples": 6,
+      "totalSamples": 8,
       "monthlyCount": [
         0,
         0,
@@ -9322,9 +9322,9 @@
         0,
         3,
         2,
-        0,
         1,
-        0
+        1,
+        1
       ],
       "earliestDate": "08-26",
       "earliestDayOfYear": 238,
@@ -9337,15 +9337,61 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "11-17",
-      "latestDayOfYear": 322,
+      "latestDate": "12-22",
+      "latestDayOfYear": 357,
       "latestSample": {
-        "collectionDate": "2025-11-17",
-        "collector": "Antonio Guana",
-        "locality": "Ave, Ardesio",
-        "localityCoordinates": "45.945285, 9.963584",
+        "collectionDate": "2025-12-22",
+        "collector": "Fabio Locatelli",
+        "locality": "Pineta della Selva, Clusone",
+        "localityCoordinates": "45.88196, 9.91806",
+        "habitat": "Ceppaia",
+        "determiner": "Fabio Locatelli",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Hypholoma",
+      "species": "sublateritium",
+      "fullName": "Hypholoma sublateritium",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Strophariaceae",
+      "authority": "(Fr.) Quél. 1872",
+      "currentName": "Hypholoma lateritium",
+      "currentAuthority": "(Schaeff.) P. Kumm. 1871",
+      "totalSamples": 8,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        2,
+        1,
+        1,
+        1
+      ],
+      "earliestDate": "08-26",
+      "earliestDayOfYear": 238,
+      "earliestSample": {
+        "collectionDate": "2025-08-26",
+        "collector": "Pierino Bigoni",
+        "locality": "Strada per le baite del Moschel, Oltressenda Alta",
+        "localityCoordinates": "45.93408, 10.00331",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "12-22",
+      "latestDayOfYear": 357,
+      "latestSample": {
+        "collectionDate": "2025-12-22",
+        "collector": "Fabio Locatelli",
+        "locality": "Pineta della Selva, Clusone",
+        "localityCoordinates": "45.88196, 9.91806",
+        "habitat": "Ceppaia",
+        "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
     },
@@ -13809,6 +13855,8 @@
       "fullName": "Macrolepiota procera var. fuliginosa",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
       "authority": "(Barla) Bellù & Lanzoni 1987",
+      "currentName": "Macrolepiota fuliginosa",
+      "currentAuthority": "(Barla) Bon 1977",
       "totalSamples": 1,
       "monthlyCount": [
         0,
@@ -17807,50 +17855,6 @@
         "locality": "Prat del sul, Clusone",
         "localityCoordinates": "45.867941, 9.932321",
         "habitat": "Faggio",
-        "determiner": "Fabio Locatelli",
-        "_tipo": "raccolto"
-      }
-    },
-    {
-      "genus": "Hypholoma",
-      "species": "sublateritium",
-      "fullName": "Hypholoma sublateritium",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Strophariaceae",
-      "authority": "(Fr.) Quél. 1872",
-      "totalSamples": 2,
-      "monthlyCount": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        1
-      ],
-      "earliestDate": "10-08",
-      "earliestDayOfYear": 281,
-      "earliestSample": {
-        "collectionDate": "2025-10-08",
-        "collector": "Fabio Locatelli",
-        "locality": "Prat del sul, Clusone",
-        "localityCoordinates": "45.867941, 9.932321",
-        "habitat": "Faggio",
-        "determiner": "Fabio Locatelli",
-        "_tipo": "raccolto"
-      },
-      "latestDate": "12-22",
-      "latestDayOfYear": 357,
-      "latestSample": {
-        "collectionDate": "2025-12-22",
-        "collector": "Fabio Locatelli",
-        "locality": "Pineta della Selva, Clusone",
-        "localityCoordinates": "45.88196, 9.91806",
-        "habitat": "Ceppaia",
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }

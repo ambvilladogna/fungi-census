@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T00:12:09.892Z",
+  "generatedAt": "2026-06-29T14:30:10.806Z",
   "corpus": [
     {
       "type": "genus",
@@ -280,6 +280,7 @@
       "matchSpecies": [
         "Hypholoma capnoides",
         "Hypholoma fasciculare",
+        "Hypholoma lateritium",
         "Hypholoma sublateritium"
       ]
     },
@@ -1109,8 +1110,17 @@
     },
     {
       "type": "species",
+      "value": "Hypholoma lateritium",
+      "matchSpecies": [
+        "Hypholoma lateritium",
+        "Hypholoma sublateritium"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Hypholoma sublateritium",
       "matchSpecies": [
+        "Hypholoma lateritium",
         "Hypholoma sublateritium"
       ]
     },
@@ -2033,6 +2043,7 @@
       "matchSpecies": [
         "Hypholoma capnoides",
         "Hypholoma fasciculare",
+        "Hypholoma lateritium",
         "Hypholoma sublateritium",
         "Pholiota lenta",
         "Stropharia aeruginosa"
@@ -2096,6 +2107,7 @@
         "Hygrophorus eburneus",
         "Hypholoma capnoides",
         "Hypholoma fasciculare",
+        "Hypholoma lateritium",
         "Hypholoma sublateritium",
         "Infundibulicybe geotropa",
         "Inocybe cervicolor",
@@ -2337,6 +2349,7 @@
         "Hygrophorus eburneus",
         "Hypholoma capnoides",
         "Hypholoma fasciculare",
+        "Hypholoma lateritium",
         "Hypholoma sublateritium",
         "Imleria badia",
         "Infundibulicybe geotropa",
@@ -2528,6 +2541,7 @@
         "Hygrophorus eburneus",
         "Hypholoma capnoides",
         "Hypholoma fasciculare",
+        "Hypholoma lateritium",
         "Hypholoma sublateritium",
         "Imleria badia",
         "Infundibulicybe geotropa",
@@ -2680,6 +2694,7 @@
         "Hygrophorus eburneus",
         "Hypholoma capnoides",
         "Hypholoma fasciculare",
+        "Hypholoma lateritium",
         "Hypholoma sublateritium",
         "Hypoxylon fragiforme",
         "Imleria badia",

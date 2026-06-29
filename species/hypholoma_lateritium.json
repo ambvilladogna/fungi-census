@@ -6,12 +6,28 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2025-12-22",
+      "collector": "Fabio Locatelli",
+      "locality": "Pineta della Selva, Clusone",
+      "localityCoordinates": "45.88196, 9.91806",
+      "habitat": "Ceppaia",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2025-11-17",
       "collector": "Antonio Guana",
       "locality": "Ave, Ardesio",
       "localityCoordinates": "45.945285, 9.963584",
       "habitat": "Bosco misto",
       "determiner": "Pierino Bigoni"
+    },
+    {
+      "collectionDate": "2025-10-08",
+      "collector": "Fabio Locatelli",
+      "locality": "Prat del sul, Clusone",
+      "localityCoordinates": "45.867941, 9.932321",
+      "habitat": "Faggio",
+      "determiner": "Fabio Locatelli"
     },
     {
       "collectionDate": "2025-09-22",
@@ -57,7 +73,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "08-26",
-    "raccoltaPiuTarda": "11-17",
+    "raccoltaPiuTarda": "12-22",
     "campioniPerMese": [
       {
         "gen": 0
@@ -87,19 +103,19 @@
         "set": 2
       },
       {
-        "ott": 0
+        "ott": 1
       },
       {
         "nov": 1
       },
       {
-        "dic": 0
+        "dic": 1
       }
     ]
   },
   "statistiche": {
-    "totaleCampioni": 6,
-    "campioniRaccolti": 6,
+    "totaleCampioni": 8,
+    "campioniRaccolti": 8,
     "campioniExsiccata": 0
   }
 }
