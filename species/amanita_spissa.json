@@ -9,6 +9,14 @@
       "collectionDate": "2026-06-28",
       "collector": "Pietro Centenari",
       "locality": "Strada Falecchio - Camasone - San Fermo, Songavazzo, Bergamo",
+      "localityCoordinates": "45.853662, 10.034288",
+      "habitat": "Al suolo in bosco di abete rosso",
+      "determiner": "Pietro Centenari"
+    },
+    {
+      "collectionDate": "2026-06-28",
+      "collector": "Pietro Centenari",
+      "locality": "Strada Falecchio - Camasone - San Fermo, Songavazzo, Bergamo",
       "localityCoordinates": "45.869370, 10.020795",
       "habitat": "Abete rosso",
       "determiner": "Pietro Centenari"
@@ -67,7 +75,7 @@
         "mag": 0
       },
       {
-        "giu": 2
+        "giu": 3
       },
       {
         "lug": 0
@@ -90,8 +98,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 5,
-    "campioniRaccolti": 5,
+    "totaleCampioni": 6,
+    "campioniRaccolti": 6,
     "campioniExsiccata": 0
   }
 }

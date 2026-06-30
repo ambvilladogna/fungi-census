@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-06-29",
+      "collector": "Pierino Bigoni",
+      "locality": "Falecchio, Songavazzo",
+      "localityCoordinates": "45.882296, 10.000041",
+      "habitat": "Bosco misto",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2025-10-09",
       "collector": "Pierino Bigoni",
       "locality": "Pineta della Selva, Clusone",
@@ -91,7 +99,7 @@
         "mag": 0
       },
       {
-        "giu": 1
+        "giu": 2
       },
       {
         "lug": 3
@@ -114,8 +122,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 8,
-    "campioniRaccolti": 8,
+    "totaleCampioni": 9,
+    "campioniRaccolti": 9,
     "campioniExsiccata": 0
   }
 }

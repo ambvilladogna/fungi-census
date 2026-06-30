@@ -6,6 +6,14 @@
   "autoreCorrente": "(Relhan) R.H. Petersen 2010",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-06-29",
+      "collector": "Pietro Centenari",
+      "locality": "Val Righenzuolo, Onore",
+      "localityCoordinates": "45.87806, 10.02910",
+      "habitat": "Abete rosso",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2025-07-17",
       "collector": "Pierino Bigoni",
       "locality": "Roccolo Zuccone, San Lucio, Clusone",
@@ -24,7 +32,7 @@
   ],
   "campioniExsiccata": [],
   "fenologia": {
-    "raccoltaPiuPrecoce": "07-07",
+    "raccoltaPiuPrecoce": "06-29",
     "raccoltaPiuTarda": "07-17",
     "campioniPerMese": [
       {
@@ -43,7 +51,7 @@
         "mag": 0
       },
       {
-        "giu": 0
+        "giu": 1
       },
       {
         "lug": 2
@@ -66,8 +74,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 2,
-    "campioniRaccolti": 2,
+    "totaleCampioni": 3,
+    "campioniRaccolti": 3,
     "campioniExsiccata": 0
   }
 }

@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-06-29",
+      "collector": "Pierino Bigoni",
+      "locality": "Falecchio, Songavazzo",
+      "localityCoordinates": "45.882296, 10.000041",
+      "habitat": "Bosco misto",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-06-28",
       "collector": "Pietro Centenari",
       "locality": "Strada Falecchio - Camasone - San Fermo, Songavazzo, Bergamo",
@@ -99,7 +107,7 @@
         "mag": 0
       },
       {
-        "giu": 3
+        "giu": 4
       },
       {
         "lug": 2
@@ -122,8 +130,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 9,
-    "campioniRaccolti": 9,
+    "totaleCampioni": 10,
+    "campioniRaccolti": 10,
     "campioniExsiccata": 0
   }
 }

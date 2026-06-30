@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-06-29",
+      "collector": "Pierino Bigoni",
+      "locality": "Falecchio, Songavazzo",
+      "localityCoordinates": "45.882296, 10.000041",
+      "habitat": "Bosco misto",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2025-08-26",
       "collector": "Renato Depressi",
       "locality": "Strada per le baite del Moschel, Oltressenda Alta",
@@ -48,7 +56,7 @@
   ],
   "campioniExsiccata": [],
   "fenologia": {
-    "raccoltaPiuPrecoce": "07-14",
+    "raccoltaPiuPrecoce": "06-29",
     "raccoltaPiuTarda": "08-26",
     "campioniPerMese": [
       {
@@ -67,7 +75,7 @@
         "mag": 0
       },
       {
-        "giu": 0
+        "giu": 1
       },
       {
         "lug": 3
@@ -90,8 +98,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 5,
-    "campioniRaccolti": 5,
+    "totaleCampioni": 6,
+    "campioniRaccolti": 6,
     "campioniExsiccata": 0
   }
 }
