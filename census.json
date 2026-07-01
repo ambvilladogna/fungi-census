@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-30T00:12:09.889Z",
-  "totalSpecies": 455,
-  "totalSamples": 1098,
+  "generatedAt": "2026-07-01T00:12:16.025Z",
+  "totalSpecies": 456,
+  "totalSamples": 1099,
   "species": [
     {
       "genus": "Abortiporus",
@@ -175,6 +175,13 @@
       "fullName": "Amanita rubescens f. annulosulphurea",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
       "authority": "(Gillet) J.E. Lange 1915"
+    },
+    {
+      "genus": "Amanita",
+      "species": "simulans",
+      "fullName": "Amanita simulans",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
+      "authority": "Contu 1999"
     },
     {
       "genus": "Amanita",

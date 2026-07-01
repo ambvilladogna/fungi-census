@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T14:30:10.787Z",
+  "generatedAt": "2026-07-01T00:12:16.282Z",
   "corpus": [
     {
       "type": "genus",
@@ -67,6 +67,7 @@
         "Amanita phalloides",
         "Amanita rubescens",
         "Amanita rubescens f. annulosulphurea",
+        "Amanita simulans",
         "Amanita spissa"
       ]
     },
@@ -2237,6 +2238,13 @@
       "value": "Amanita rubescens f. annulosulphurea",
       "matchSpecies": [
         "Amanita rubescens f. annulosulphurea"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Amanita simulans",
+      "matchSpecies": [
+        "Amanita simulans"
       ]
     },
     {
@@ -6211,6 +6219,7 @@
         "Amanita phalloides",
         "Amanita rubescens",
         "Amanita rubescens f. annulosulphurea",
+        "Amanita simulans",
         "Amanita spissa",
         "Limacella delicata",
         "Limacella glioderma"
@@ -7239,6 +7248,7 @@
         "Amanita phalloides",
         "Amanita rubescens",
         "Amanita rubescens f. annulosulphurea",
+        "Amanita simulans",
         "Amanita spissa",
         "Ampulloclitocybe clavipes",
         "Apioperdon pyriforme",
@@ -7958,6 +7968,7 @@
         "Amanita phalloides",
         "Amanita rubescens",
         "Amanita rubescens f. annulosulphurea",
+        "Amanita simulans",
         "Amanita spissa",
         "Ampulloclitocybe clavipes",
         "Apioperdon pyriforme",
@@ -8627,6 +8638,7 @@
         "Amanita phalloides",
         "Amanita rubescens",
         "Amanita rubescens f. annulosulphurea",
+        "Amanita simulans",
         "Amanita spissa",
         "Ampulloclitocybe clavipes",
         "Apioperdon pyriforme",
@@ -9156,6 +9168,7 @@
         "Amanita phalloides",
         "Amanita rubescens",
         "Amanita rubescens f. annulosulphurea",
+        "Amanita simulans",
         "Amanita spissa",
         "Ampulloclitocybe clavipes",
         "Apioperdon pyriforme",

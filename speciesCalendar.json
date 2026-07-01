@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-30T00:12:09.972Z",
-  "totalSpecies": 455,
-  "totalSamples": 1175,
+  "generatedAt": "2026-07-01T00:12:16.113Z",
+  "totalSpecies": 456,
+  "totalSamples": 1176,
   "species": [
     {
       "genus": "Flammulina",
@@ -4770,6 +4770,52 @@
       }
     },
     {
+      "genus": "Oudemansiella",
+      "species": "radicata",
+      "fullName": "Oudemansiella radicata",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Physalacriaceae",
+      "authority": "(Relhan) Singer 1936",
+      "currentName": "Hymenopellis radicata",
+      "currentAuthority": "(Relhan) R.H. Petersen 2010",
+      "totalSamples": 3,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "earliestDate": "06-28",
+      "earliestDayOfYear": 179,
+      "earliestSample": {
+        "collectionDate": "2026-06-28",
+        "collector": "Pietro Centenari",
+        "locality": "Strada Falecchio - Camasone - San Fermo, Songavazzo, Bergamo",
+        "localityCoordinates": "45.856022, 10.034506",
+        "habitat": "Faggio",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "07-17",
+      "latestDayOfYear": 198,
+      "latestSample": {
+        "collectionDate": "2025-07-17",
+        "collector": "Pierino Bigoni",
+        "locality": "Roccolo Zuccone, San Lucio, Clusone",
+        "localityCoordinates": "45.867303, 9.950853",
+        "habitat": "Ai piedi di Fagus sylvatica",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
       "genus": "Tylopilus",
       "species": "felleus",
       "fullName": "Tylopilus felleus",
@@ -4810,52 +4856,6 @@
         "localityCoordinates": "45.976347, 9.928513",
         "habitat": "Faggio",
         "determiner": "Fabio Locatelli",
-        "_tipo": "raccolto"
-      }
-    },
-    {
-      "genus": "Oudemansiella",
-      "species": "radicata",
-      "fullName": "Oudemansiella radicata",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Physalacriaceae",
-      "authority": "(Relhan) Singer 1936",
-      "currentName": "Hymenopellis radicata",
-      "currentAuthority": "(Relhan) R.H. Petersen 2010",
-      "totalSamples": 3,
-      "monthlyCount": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        2,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "earliestDate": "06-29",
-      "earliestDayOfYear": 180,
-      "earliestSample": {
-        "collectionDate": "2026-06-29",
-        "collector": "Pietro Centenari",
-        "locality": "Val Righenzuolo, Onore",
-        "localityCoordinates": "45.87806, 10.02910",
-        "habitat": "Abete rosso",
-        "determiner": "Pierino Bigoni",
-        "_tipo": "raccolto"
-      },
-      "latestDate": "07-17",
-      "latestDayOfYear": 198,
-      "latestSample": {
-        "collectionDate": "2025-07-17",
-        "collector": "Pierino Bigoni",
-        "locality": "Roccolo Zuccone, San Lucio, Clusone",
-        "localityCoordinates": "45.867303, 9.950853",
-        "habitat": "Ai piedi di Fagus sylvatica",
-        "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
     },
@@ -18348,6 +18348,50 @@
         "localityCoordinates": "45.882983, 9.918480",
         "habitat": "Bosco misto abete e pino silvestre",
         "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Amanita",
+      "species": "simulans",
+      "fullName": "Amanita simulans",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
+      "authority": "Contu 1999",
+      "totalSamples": 1,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "earliestDate": "10-16",
+      "earliestDayOfYear": 289,
+      "earliestSample": {
+        "collectionDate": "2025-10-16",
+        "collector": "Angelo Ballabeni",
+        "locality": "Rovetta",
+        "localityCoordinates": "45.892989, 9.983457",
+        "habitat": "Betulla e castagno",
+        "determiner": "Angelo Ballabeni",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "10-16",
+      "latestDayOfYear": 289,
+      "latestSample": {
+        "collectionDate": "2025-10-16",
+        "collector": "Angelo Ballabeni",
+        "locality": "Rovetta",
+        "localityCoordinates": "45.892989, 9.983457",
+        "habitat": "Betulla e castagno",
+        "determiner": "Angelo Ballabeni",
         "_tipo": "raccolto"
       }
     },

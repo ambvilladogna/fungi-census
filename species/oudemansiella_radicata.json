@@ -6,11 +6,11 @@
   "autoreCorrente": "(Relhan) R.H. Petersen 2010",
   "campioniRaccolti": [
     {
-      "collectionDate": "2026-06-29",
+      "collectionDate": "2026-06-28",
       "collector": "Pietro Centenari",
-      "locality": "Val Righenzuolo, Onore",
-      "localityCoordinates": "45.87806, 10.02910",
-      "habitat": "Abete rosso",
+      "locality": "Strada Falecchio - Camasone - San Fermo, Songavazzo, Bergamo",
+      "localityCoordinates": "45.856022, 10.034506",
+      "habitat": "Faggio",
       "determiner": "Pierino Bigoni"
     },
     {
@@ -32,7 +32,7 @@
   ],
   "campioniExsiccata": [],
   "fenologia": {
-    "raccoltaPiuPrecoce": "06-29",
+    "raccoltaPiuPrecoce": "06-28",
     "raccoltaPiuTarda": "07-17",
     "campioniPerMese": [
       {
