@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T00:12:16.282Z",
+  "generatedAt": "2026-07-02T00:12:20.697Z",
   "corpus": [
     {
       "type": "genus",
@@ -1699,6 +1699,7 @@
         "Russula laurocerasi",
         "Russula lepida",
         "Russula lutea",
+        "Russula mairei",
         "Russula nana",
         "Russula nauseosa",
         "Russula nigricans",
@@ -5508,6 +5509,14 @@
     },
     {
       "type": "species",
+      "value": "Russula mairei",
+      "matchSpecies": [
+        "Russula mairei",
+        "Russula nobilis"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Russula nana",
       "matchSpecies": [
         "Russula nana"
@@ -5532,6 +5541,7 @@
       "value": "Russula nobilis",
       "matchSpecies": [
         "Russula fageticola",
+        "Russula mairei",
         "Russula nobilis"
       ]
     },
@@ -7036,6 +7046,7 @@
         "Russula laurocerasi",
         "Russula lepida",
         "Russula lutea",
+        "Russula mairei",
         "Russula nana",
         "Russula nauseosa",
         "Russula nigricans",
@@ -7880,6 +7891,7 @@
         "Russula laurocerasi",
         "Russula lepida",
         "Russula lutea",
+        "Russula mairei",
         "Russula nana",
         "Russula nauseosa",
         "Russula nigricans",
@@ -8374,6 +8386,7 @@
         "Russula laurocerasi",
         "Russula lepida",
         "Russula lutea",
+        "Russula mairei",
         "Russula nana",
         "Russula nauseosa",
         "Russula nigricans",
@@ -9048,6 +9061,7 @@
         "Russula laurocerasi",
         "Russula lepida",
         "Russula lutea",
+        "Russula mairei",
         "Russula nana",
         "Russula nauseosa",
         "Russula nigricans",
@@ -9600,6 +9614,7 @@
         "Russula laurocerasi",
         "Russula lepida",
         "Russula lutea",
+        "Russula mairei",
         "Russula nana",
         "Russula nauseosa",
         "Russula nigricans",

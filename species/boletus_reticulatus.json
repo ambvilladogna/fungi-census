@@ -1,9 +1,9 @@
 {
-  "nomeCompleto": "Boletus aestivalis",
-  "autore": "(Paulet) Fr. 1838",
+  "nomeCompleto": "Boletus reticulatus",
+  "autore": "Schaeff. 1774",
   "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
-  "nomeCorrente": "Boletus reticulatus",
-  "autoreCorrente": "Schaeff. 1774",
+  "nomeCorrente": null,
+  "autoreCorrente": null,
   "campioniRaccolti": [
     {
       "collectionDate": "2026-07-01",

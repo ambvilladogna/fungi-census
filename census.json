@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-01T00:12:16.025Z",
-  "totalSpecies": 456,
-  "totalSamples": 1099,
+  "generatedAt": "2026-07-02T00:12:20.470Z",
+  "totalSpecies": 458,
+  "totalSamples": 1104,
   "species": [
     {
       "genus": "Abortiporus",
@@ -333,6 +333,13 @@
       "authority": "Pers. 1801",
       "currentName": "Caloboletus radicans",
       "currentAuthority": "(Pers.) Vizzini 2014"
+    },
+    {
+      "genus": "Boletus",
+      "species": "reticulatus",
+      "fullName": "Boletus reticulatus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
+      "authority": "Schaeff. 1774"
     },
     {
       "genus": "Boletus",
@@ -2899,6 +2906,15 @@
       "authority": "(Huds.) Gray 1821",
       "currentName": "Russula risigallina",
       "currentAuthority": "(Batsch) Sacc. 1915"
+    },
+    {
+      "genus": "Russula",
+      "species": "mairei",
+      "fullName": "Russula mairei",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
+      "authority": "Singer 1929",
+      "currentName": "Russula nobilis",
+      "currentAuthority": "Velen. 1920"
     },
     {
       "genus": "Russula",
