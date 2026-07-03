@@ -6,6 +6,14 @@
   "autoreCorrente": "Schaeff. 1774",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-07-02",
+      "collector": "Massimo Mapelli",
+      "locality": "Strada per Colle Palazzo, Contrada Dosso, Plass, Oltressenda Alta, Bergamo",
+      "localityCoordinates": "45.924703, 9.958321",
+      "habitat": "Faggio",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-07-01",
       "collector": "Fabio Locatelli",
       "locality": "Valbondione",
@@ -110,7 +118,7 @@
         "giu": 4
       },
       {
-        "lug": 3
+        "lug": 4
       },
       {
         "ago": 1
@@ -130,8 +138,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 10,
-    "campioniRaccolti": 10,
+    "totaleCampioni": 11,
+    "campioniRaccolti": 11,
     "campioniExsiccata": 0
   }
 }

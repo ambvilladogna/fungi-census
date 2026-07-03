@@ -6,6 +6,14 @@
   "autoreCorrente": "(L.) Roussel 1806",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-07-01",
+      "collector": "Fabio Locatelli",
+      "locality": "Valbondione",
+      "localityCoordinates": "46.034193, 10.005855",
+      "habitat": "Faggio",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2025-08-04",
       "collector": "Fabio Locatelli",
       "locality": "Ripa, Gromo",
@@ -62,7 +70,7 @@
         "giu": 0
       },
       {
-        "lug": 3
+        "lug": 4
       },
       {
         "ago": 1
@@ -82,8 +90,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 4,
-    "campioniRaccolti": 4,
+    "totaleCampioni": 5,
+    "campioniRaccolti": 5,
     "campioniExsiccata": 0
   }
 }

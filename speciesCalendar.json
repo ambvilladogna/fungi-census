@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-02T00:12:20.551Z",
+  "generatedAt": "2026-07-03T00:12:28.812Z",
   "totalSpecies": 458,
-  "totalSamples": 1191,
+  "totalSamples": 1196,
   "species": [
     {
       "genus": "Flammulina",
@@ -3747,7 +3747,7 @@
       "authority": "Schaeff. 1774",
       "currentName": "Suillellus luridus",
       "currentAuthority": "(Schaeff.) Murrill 1909",
-      "totalSamples": 11,
+      "totalSamples": 12,
       "monthlyCount": [
         0,
         0,
@@ -3755,7 +3755,7 @@
         0,
         0,
         6,
-        2,
+        3,
         1,
         1,
         1,
@@ -3927,7 +3927,7 @@
       "authority": "(Paulet) Fr. 1838",
       "currentName": "Boletus reticulatus",
       "currentAuthority": "Schaeff. 1774",
-      "totalSamples": 10,
+      "totalSamples": 11,
       "monthlyCount": [
         0,
         0,
@@ -3935,7 +3935,7 @@
         0,
         0,
         4,
-        3,
+        4,
         1,
         2,
         0,
@@ -3971,7 +3971,7 @@
       "fullName": "Boletus reticulatus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
       "authority": "Schaeff. 1774",
-      "totalSamples": 10,
+      "totalSamples": 11,
       "monthlyCount": [
         0,
         0,
@@ -3979,7 +3979,7 @@
         0,
         0,
         4,
-        3,
+        4,
         1,
         2,
         0,
@@ -5087,7 +5087,7 @@
       "authority": "(L.) Pers. 1797",
       "currentName": "Lactifluus piperatus",
       "currentAuthority": "(L.) Roussel 1806",
-      "totalSamples": 4,
+      "totalSamples": 5,
       "monthlyCount": [
         0,
         0,
@@ -5095,7 +5095,7 @@
         0,
         0,
         0,
-        3,
+        4,
         1,
         0,
         0,
@@ -5105,7 +5105,7 @@
       "earliestDate": "07-01",
       "earliestDayOfYear": 182,
       "earliestSample": {
-        "collectionDate": "2025-07-01",
+        "collectionDate": "2026-07-01",
         "collector": "Fabio Locatelli",
         "locality": "Valbondione",
         "localityCoordinates": "46.034193, 10.005855",
@@ -5131,7 +5131,7 @@
       "fullName": "Lactifluus piperatus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
       "authority": "(L.) Roussel 1806",
-      "totalSamples": 4,
+      "totalSamples": 5,
       "monthlyCount": [
         0,
         0,
@@ -5139,7 +5139,7 @@
         0,
         0,
         0,
-        3,
+        4,
         1,
         0,
         0,
@@ -5149,7 +5149,7 @@
       "earliestDate": "07-01",
       "earliestDayOfYear": 182,
       "earliestSample": {
-        "collectionDate": "2025-07-01",
+        "collectionDate": "2026-07-01",
         "collector": "Fabio Locatelli",
         "locality": "Valbondione",
         "localityCoordinates": "46.034193, 10.005855",

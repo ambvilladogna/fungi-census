@@ -6,6 +6,14 @@
   "autoreCorrente": "(Schaeff.) Murrill 1909",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-07-02",
+      "collector": "Pierino Bigoni",
+      "locality": "Strada per Colle Palazzo, Contrada Dosso, Plass, Oltressenda Alta, Bergamo",
+      "localityCoordinates": "45.921882, 9.953105",
+      "habitat": "Abete rosso",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-06-28",
       "collector": "Pietro Centenari",
       "locality": "Strada Falecchio - Camasone - San Fermo, Songavazzo, Bergamo",
@@ -118,7 +126,7 @@
         "giu": 6
       },
       {
-        "lug": 2
+        "lug": 3
       },
       {
         "ago": 1
@@ -138,8 +146,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 11,
-    "campioniRaccolti": 11,
+    "totaleCampioni": 12,
+    "campioniRaccolti": 12,
     "campioniExsiccata": 0
   }
 }
