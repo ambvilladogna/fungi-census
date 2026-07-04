@@ -6,6 +6,22 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-07-03",
+      "collector": "Fabio Locatelli",
+      "locality": "Ripa, Gromo",
+      "localityCoordinates": "45.976347, 9.928513",
+      "habitat": "Faggio",
+      "determiner": "Fabio Locatelli"
+    },
+    {
+      "collectionDate": "2026-07-01",
+      "collector": "Fabio Locatelli",
+      "locality": "Valbondione",
+      "localityCoordinates": "46.034193, 10.005855",
+      "habitat": "Faggio",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2025-11-27",
       "collector": "Fabio Locatelli",
       "locality": "Fino del monte",
@@ -48,7 +64,7 @@
   ],
   "campioniExsiccata": [],
   "fenologia": {
-    "raccoltaPiuPrecoce": "08-01",
+    "raccoltaPiuPrecoce": "07-01",
     "raccoltaPiuTarda": "11-27",
     "campioniPerMese": [
       {
@@ -70,7 +86,7 @@
         "giu": 0
       },
       {
-        "lug": 0
+        "lug": 2
       },
       {
         "ago": 2
@@ -90,8 +106,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 5,
-    "campioniRaccolti": 5,
+    "totaleCampioni": 7,
+    "campioniRaccolti": 7,
     "campioniExsiccata": 0
   }
 }

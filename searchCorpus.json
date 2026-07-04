@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T00:12:20.697Z",
+  "generatedAt": "2026-07-04T00:12:19.015Z",
   "corpus": [
     {
       "type": "genus",
@@ -1712,6 +1712,7 @@
         "Russula queletii",
         "Russula recondita",
         "Russula risigallina",
+        "Russula romellii",
         "Russula rosea",
         "Russula rubroalba",
         "Russula solaris",
@@ -5605,6 +5606,13 @@
     },
     {
       "type": "species",
+      "value": "Russula romellii",
+      "matchSpecies": [
+        "Russula romellii"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Russula rosea",
       "matchSpecies": [
         "Russula lepida",
@@ -7059,6 +7067,7 @@
         "Russula queletii",
         "Russula recondita",
         "Russula risigallina",
+        "Russula romellii",
         "Russula rosea",
         "Russula rubroalba",
         "Russula solaris",
@@ -7904,6 +7913,7 @@
         "Russula queletii",
         "Russula recondita",
         "Russula risigallina",
+        "Russula romellii",
         "Russula rosea",
         "Russula rubroalba",
         "Russula solaris",
@@ -8399,6 +8409,7 @@
         "Russula queletii",
         "Russula recondita",
         "Russula risigallina",
+        "Russula romellii",
         "Russula rosea",
         "Russula rubroalba",
         "Russula solaris",
@@ -9074,6 +9085,7 @@
         "Russula queletii",
         "Russula recondita",
         "Russula risigallina",
+        "Russula romellii",
         "Russula rosea",
         "Russula rubroalba",
         "Russula solaris",
@@ -9627,6 +9639,7 @@
         "Russula queletii",
         "Russula recondita",
         "Russula risigallina",
+        "Russula romellii",
         "Russula rosea",
         "Russula rubroalba",
         "Russula solaris",

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-03T00:12:28.733Z",
-  "totalSpecies": 458,
-  "totalSamples": 1107,
+  "generatedAt": "2026-07-04T00:12:18.781Z",
+  "totalSpecies": 460,
+  "totalSamples": 1112,
   "species": [
     {
       "genus": "Abortiporus",
@@ -2990,6 +2990,13 @@
     },
     {
       "genus": "Russula",
+      "species": "romellii",
+      "fullName": "Russula romellii",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
+      "authority": "Maire 1910"
+    },
+    {
+      "genus": "Russula",
       "species": "rubroalba",
       "fullName": "Russula rubroalba",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
@@ -3140,6 +3147,13 @@
       "authority": "(Batsch) Quél. 1872",
       "currentName": "Protostropharia semiglobata",
       "currentAuthority": "(Batsch) Redhead, Moncalvo & Vilgalys 2013"
+    },
+    {
+      "genus": "Suillellus",
+      "species": "rubrosanguineus",
+      "fullName": "Suillellus rubrosanguineus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
+      "authority": "(Cheype) Blanco-Dios 2015"
     },
     {
       "genus": "Suillus",

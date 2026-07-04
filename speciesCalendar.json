@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-03T00:12:28.812Z",
-  "totalSpecies": 458,
-  "totalSamples": 1196,
+  "generatedAt": "2026-07-04T00:12:18.860Z",
+  "totalSpecies": 460,
+  "totalSamples": 1203,
   "species": [
     {
       "genus": "Flammulina",
@@ -1875,14 +1875,14 @@
       "fullName": "Melanoleuca subalpina",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Melanoleucaceae",
       "authority": "(Britzelm.) Bresinsky & Stangl 1976",
-      "totalSamples": 8,
+      "totalSamples": 9,
       "monthlyCount": [
         0,
         0,
         0,
         0,
         4,
-        3,
+        4,
         0,
         1,
         0,
@@ -4417,7 +4417,7 @@
       "authority": "Cheype 1983",
       "currentName": "Suillellus rubrosanguineus",
       "currentAuthority": "(Cheype) Blanco-Dios 2015",
-      "totalSamples": 1,
+      "totalSamples": 2,
       "monthlyCount": [
         0,
         0,
@@ -4425,7 +4425,7 @@
         0,
         0,
         1,
-        0,
+        1,
         0,
         0,
         0,
@@ -4443,15 +4443,15 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "06-23",
-      "latestDayOfYear": 174,
+      "latestDate": "07-03",
+      "latestDayOfYear": 184,
       "latestSample": {
-        "collectionDate": "2025-06-23",
-        "collector": "Angelo Fraschina",
-        "locality": "Spiazzi, Gromo",
-        "localityCoordinates": "45.970802, 9.963785",
-        "habitat": "Bosco misto abete bianco e abete rosso",
-        "determiner": "Pierino Bigoni",
+        "collectionDate": "2026-07-03",
+        "collector": "Angelo Ballabeni",
+        "locality": "Rovetta",
+        "localityCoordinates": "45.892989, 9.983457",
+        "habitat": "Abete rosso",
+        "determiner": "Angelo Ballabeni",
         "_tipo": "raccolto"
       }
     },
@@ -4542,6 +4542,50 @@
         "localityCoordinates": "45.93408, 10.00331",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Suillellus",
+      "species": "rubrosanguineus",
+      "fullName": "Suillellus rubrosanguineus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
+      "authority": "(Cheype) Blanco-Dios 2015",
+      "totalSamples": 2,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "earliestDate": "06-23",
+      "earliestDayOfYear": 174,
+      "earliestSample": {
+        "collectionDate": "2025-06-23",
+        "collector": "Angelo Fraschina",
+        "locality": "Spiazzi, Gromo",
+        "localityCoordinates": "45.970802, 9.963785",
+        "habitat": "Bosco misto abete bianco e abete rosso",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "07-03",
+      "latestDayOfYear": 184,
+      "latestSample": {
+        "collectionDate": "2026-07-03",
+        "collector": "Angelo Ballabeni",
+        "locality": "Rovetta",
+        "localityCoordinates": "45.892989, 9.983457",
+        "habitat": "Abete rosso",
+        "determiner": "Angelo Ballabeni",
         "_tipo": "raccolto"
       }
     },
@@ -5080,6 +5124,50 @@
       }
     },
     {
+      "genus": "Cantharellus",
+      "species": "cibarius",
+      "fullName": "Cantharellus cibarius",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Cantharellales > famiglia: Hydnaceae",
+      "authority": "Fr. 1821",
+      "totalSamples": 7,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        2,
+        0,
+        1,
+        0
+      ],
+      "earliestDate": "07-01",
+      "earliestDayOfYear": 182,
+      "earliestSample": {
+        "collectionDate": "2026-07-01",
+        "collector": "Fabio Locatelli",
+        "locality": "Valbondione",
+        "localityCoordinates": "46.034193, 10.005855",
+        "habitat": "Faggio",
+        "determiner": "Fabio Locatelli",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "11-27",
+      "latestDayOfYear": 332,
+      "latestSample": {
+        "collectionDate": "2025-11-27",
+        "collector": "Fabio Locatelli",
+        "locality": "Fino del monte",
+        "localityCoordinates": "45.890368, 9.992619",
+        "habitat": "Pino silvestre",
+        "determiner": "Fabio Locatelli",
+        "_tipo": "raccolto"
+      }
+    },
+    {
       "genus": "Lactarius",
       "species": "piperatus",
       "fullName": "Lactarius piperatus",
@@ -5298,6 +5386,50 @@
         "collector": "Fabio Locatelli",
         "locality": "Valbondione",
         "localityCoordinates": "46.034193, 10.005855",
+        "habitat": "Faggio",
+        "determiner": "Fabio Locatelli",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Russula",
+      "species": "romellii",
+      "fullName": "Russula romellii",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
+      "authority": "Maire 1910",
+      "totalSamples": 1,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "earliestDate": "07-01",
+      "earliestDayOfYear": 182,
+      "earliestSample": {
+        "collectionDate": "2026-07-01",
+        "collector": "Fabio Locatelli",
+        "locality": "Sentiero per il rifugio Coca, Valbondione",
+        "localityCoordinates": "46.050309, 10.013158",
+        "habitat": "Faggio",
+        "determiner": "Fabio Locatelli",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "07-01",
+      "latestDayOfYear": 182,
+      "latestSample": {
+        "collectionDate": "2026-07-01",
+        "collector": "Fabio Locatelli",
+        "locality": "Sentiero per il rifugio Coca, Valbondione",
+        "localityCoordinates": "46.050309, 10.013158",
         "habitat": "Faggio",
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
@@ -7344,50 +7476,6 @@
         "localityCoordinates": "45.970802, 9.963785",
         "habitat": "Bosco misto abete bianco e abete rosso",
         "determiner": "Erica Pozzi",
-        "_tipo": "raccolto"
-      }
-    },
-    {
-      "genus": "Cantharellus",
-      "species": "cibarius",
-      "fullName": "Cantharellus cibarius",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Cantharellales > famiglia: Hydnaceae",
-      "authority": "Fr. 1821",
-      "totalSamples": 5,
-      "monthlyCount": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        2,
-        2,
-        0,
-        1,
-        0
-      ],
-      "earliestDate": "08-01",
-      "earliestDayOfYear": 213,
-      "earliestSample": {
-        "collectionDate": "2025-08-01",
-        "collector": "Fabio Locatelli",
-        "locality": "Ripa, Gromo",
-        "localityCoordinates": "45.976347, 9.928513",
-        "habitat": "Abete rosso",
-        "determiner": "Fabio Locatelli",
-        "_tipo": "raccolto"
-      },
-      "latestDate": "11-27",
-      "latestDayOfYear": 332,
-      "latestSample": {
-        "collectionDate": "2025-11-27",
-        "collector": "Fabio Locatelli",
-        "locality": "Fino del monte",
-        "localityCoordinates": "45.890368, 9.992619",
-        "habitat": "Pino silvestre",
-        "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
     },

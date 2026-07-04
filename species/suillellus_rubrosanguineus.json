@@ -1,9 +1,9 @@
 {
-  "nomeCompleto": "Boletus rubrosanguineus",
-  "autore": "Cheype 1983",
+  "nomeCompleto": "Suillellus rubrosanguineus",
+  "autore": "(Cheype) Blanco-Dios 2015",
   "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
-  "nomeCorrente": "Suillellus rubrosanguineus",
-  "autoreCorrente": "(Cheype) Blanco-Dios 2015",
+  "nomeCorrente": null,
+  "autoreCorrente": null,
   "campioniRaccolti": [
     {
       "collectionDate": "2026-07-03",
