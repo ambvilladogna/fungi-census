@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-04T00:12:18.860Z",
+  "generatedAt": "2026-07-05T00:12:09.242Z",
   "totalSpecies": 460,
-  "totalSamples": 1203,
+  "totalSamples": 1204,
   "species": [
     {
       "genus": "Flammulina",
@@ -4147,7 +4147,7 @@
       "fullName": "Amanita rubescens",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
       "authority": "Pers. 1797",
-      "totalSamples": 4,
+      "totalSamples": 5,
       "monthlyCount": [
         0,
         0,
@@ -4155,7 +4155,7 @@
         0,
         0,
         1,
-        1,
+        2,
         0,
         1,
         1,
