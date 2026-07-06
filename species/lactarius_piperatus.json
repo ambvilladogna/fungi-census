@@ -6,6 +6,22 @@
   "autoreCorrente": "(L.) Roussel 1806",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-07-05",
+      "collector": "Pietro Centenari",
+      "locality": "Sentiero di Blum, Rovetta, Bergamo",
+      "localityCoordinates": "45.901276, 9.984121",
+      "habitat": "Castagno",
+      "determiner": "Pietro Centenari"
+    },
+    {
+      "collectionDate": "2026-07-05",
+      "collector": "Pietro Centenari",
+      "locality": "Sentiero di Blum, Rovetta, Bergamo",
+      "localityCoordinates": "45.901176, 9.983979",
+      "habitat": "Castagno",
+      "determiner": "Pietro Centenari"
+    },
+    {
       "collectionDate": "2026-07-01",
       "collector": "Fabio Locatelli",
       "locality": "Valbondione",
@@ -70,7 +86,7 @@
         "giu": 0
       },
       {
-        "lug": 4
+        "lug": 6
       },
       {
         "ago": 1
@@ -90,8 +106,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 5,
-    "campioniRaccolti": 5,
+    "totaleCampioni": 7,
+    "campioniRaccolti": 7,
     "campioniExsiccata": 0
   }
 }

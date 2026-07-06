@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-07-05",
+      "collector": "Pietro Centenari",
+      "locality": "Sentiero di Blum, Rovetta, Bergamo",
+      "localityCoordinates": "45.903434, 9.982205",
+      "habitat": "Bosco misto abete e latifoglie",
+      "determiner": "Pietro Centenari"
+    },
+    {
       "collectionDate": "2025-09-08",
       "collector": "Fabio Locatelli",
       "locality": "Ripa, Gromo",
@@ -16,7 +24,7 @@
   ],
   "campioniExsiccata": [],
   "fenologia": {
-    "raccoltaPiuPrecoce": "09-08",
+    "raccoltaPiuPrecoce": "07-05",
     "raccoltaPiuTarda": "09-08",
     "campioniPerMese": [
       {
@@ -38,7 +46,7 @@
         "giu": 0
       },
       {
-        "lug": 0
+        "lug": 1
       },
       {
         "ago": 0
@@ -58,8 +66,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 1,
-    "campioniRaccolti": 1,
+    "totaleCampioni": 2,
+    "campioniRaccolti": 2,
     "campioniExsiccata": 0
   }
 }

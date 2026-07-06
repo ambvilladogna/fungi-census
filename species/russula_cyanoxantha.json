@@ -6,6 +6,22 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-07-05",
+      "collector": "Pietro Centenari",
+      "locality": "Sentiero di Blum, Rovetta, Bergamo",
+      "localityCoordinates": "45.903095, 9.982435",
+      "habitat": "Bosco misto abete e latifoglie",
+      "determiner": "Pietro Centenari"
+    },
+    {
+      "collectionDate": "2026-07-05",
+      "collector": "Pietro Centenari",
+      "locality": "Sentiero di Blum, Rovetta, Bergamo",
+      "localityCoordinates": "45.904084, 9.983246",
+      "habitat": "Abete rosso",
+      "determiner": "Pietro Centenari"
+    },
+    {
       "collectionDate": "2026-06-29",
       "collector": "Pierino Bigoni",
       "locality": "Falecchio, Songavazzo",
@@ -110,7 +126,7 @@
         "giu": 4
       },
       {
-        "lug": 2
+        "lug": 4
       },
       {
         "ago": 3
@@ -130,8 +146,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 10,
-    "campioniRaccolti": 10,
+    "totaleCampioni": 12,
+    "campioniRaccolti": 12,
     "campioniExsiccata": 0
   }
 }

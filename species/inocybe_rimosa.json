@@ -6,6 +6,14 @@
   "autoreCorrente": "(Bull.) Matheny & Esteve-Rav. 2019",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-07-05",
+      "collector": "Pietro Centenari",
+      "locality": "Sentiero di Blum, Rovetta, Bergamo",
+      "localityCoordinates": "45.900318, 9.984888",
+      "habitat": "Abete rosso",
+      "determiner": "Pietro Centenari"
+    },
+    {
       "collectionDate": "2025-10-09",
       "collector": "Pierino Bigoni",
       "locality": "Pineta della Selva, Clusone",
@@ -16,7 +24,7 @@
   ],
   "campioniExsiccata": [],
   "fenologia": {
-    "raccoltaPiuPrecoce": "10-09",
+    "raccoltaPiuPrecoce": "07-05",
     "raccoltaPiuTarda": "10-09",
     "campioniPerMese": [
       {
@@ -38,7 +46,7 @@
         "giu": 0
       },
       {
-        "lug": 0
+        "lug": 1
       },
       {
         "ago": 0
@@ -58,8 +66,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 1,
-    "campioniRaccolti": 1,
+    "totaleCampioni": 2,
+    "campioniRaccolti": 2,
     "campioniExsiccata": 0
   }
 }
