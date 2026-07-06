@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-06T00:13:02.190Z",
+  "generatedAt": "2026-07-06T18:08:56.300Z",
   "totalSpecies": 460,
-  "totalSamples": 1215,
+  "totalSamples": 1216,
   "species": [
     {
       "genus": "Flammulina",
@@ -5746,6 +5746,50 @@
       }
     },
     {
+      "genus": "Russula",
+      "species": "camarophylla",
+      "fullName": "Russula camarophylla",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
+      "authority": "Romagn. 1967",
+      "totalSamples": 5,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        3,
+        1,
+        0,
+        0,
+        0
+      ],
+      "earliestDate": "07-05",
+      "earliestDayOfYear": 186,
+      "earliestSample": {
+        "collectionDate": "2026-07-05",
+        "collector": "Pierino Bigoni",
+        "locality": "Via Monsignor Luigi Speranza, Groppino, Piario, Bergamo",
+        "localityCoordinates": "45.886064, 9.919778",
+        "habitat": "Bosco misto",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "09-04",
+      "latestDayOfYear": 247,
+      "latestSample": {
+        "collectionDate": "2025-09-04",
+        "collector": "Renato Depressi",
+        "locality": "Campos, Rovetta",
+        "localityCoordinates": "45.903515, 9.983604",
+        "habitat": "Bosco misto",
+        "determiner": "Renato Depressi",
+        "_tipo": "raccolto"
+      }
+    },
+    {
       "genus": "Chrysomyxa",
       "species": "rhododendri",
       "fullName": "Chrysomyxa rhododendri",
@@ -8054,50 +8098,6 @@
         "localityCoordinates": "45.898619, 9.984853",
         "habitat": "Bordo sentiero",
         "determiner": "Pierino Bigoni",
-        "_tipo": "raccolto"
-      }
-    },
-    {
-      "genus": "Russula",
-      "species": "camarophylla",
-      "fullName": "Russula camarophylla",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
-      "authority": "Romagn. 1967",
-      "totalSamples": 4,
-      "monthlyCount": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        3,
-        1,
-        0,
-        0,
-        0
-      ],
-      "earliestDate": "08-04",
-      "earliestDayOfYear": 216,
-      "earliestSample": {
-        "collectionDate": "2025-08-04",
-        "collector": "Carlo Oprandi",
-        "locality": "Pineta della Selva, Clusone",
-        "localityCoordinates": "45.88196, 9.91806",
-        "habitat": "Pino silvestre e Abete rosso",
-        "determiner": "Pierino Bigoni",
-        "_tipo": "raccolto"
-      },
-      "latestDate": "09-04",
-      "latestDayOfYear": 247,
-      "latestSample": {
-        "collectionDate": "2025-09-04",
-        "collector": "Renato Depressi",
-        "locality": "Campos, Rovetta",
-        "localityCoordinates": "45.903515, 9.983604",
-        "habitat": "Bosco misto",
-        "determiner": "Renato Depressi",
         "_tipo": "raccolto"
       }
     },
