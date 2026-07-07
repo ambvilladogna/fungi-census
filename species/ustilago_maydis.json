@@ -1,0 +1,65 @@
+{
+  "nomeCompleto": "Ustilago maydis",
+  "autore": "(DC.) Corda 1842",
+  "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Ustilaginomycetes > ordine: Ustilaginales > famiglia: Ustilaginaceae",
+  "nomeCorrente": null,
+  "autoreCorrente": null,
+  "campioniRaccolti": [
+    {
+      "collectionDate": "2026-07-05",
+      "collector": "Pietro Centenari",
+      "locality": "Strada Statale della Val Seriana, San Lorenzo di Rovetta, Rovetta, Bergamo",
+      "localityCoordinates": "45.883869, 9.981348",
+      "habitat": "Su pianta di mais rostrato di Rovetta",
+      "determiner": "Pierino Bigoni"
+    }
+  ],
+  "campioniExsiccata": [],
+  "fenologia": {
+    "raccoltaPiuPrecoce": "07-05",
+    "raccoltaPiuTarda": "07-05",
+    "campioniPerMese": [
+      {
+        "gen": 0
+      },
+      {
+        "feb": 0
+      },
+      {
+        "mar": 0
+      },
+      {
+        "apr": 0
+      },
+      {
+        "mag": 0
+      },
+      {
+        "giu": 0
+      },
+      {
+        "lug": 1
+      },
+      {
+        "ago": 0
+      },
+      {
+        "set": 0
+      },
+      {
+        "ott": 0
+      },
+      {
+        "nov": 0
+      },
+      {
+        "dic": 0
+      }
+    ]
+  },
+  "statistiche": {
+    "totaleCampioni": 1,
+    "campioniRaccolti": 1,
+    "campioniExsiccata": 0
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "nomeCompleto": "Amanita vaginata",
+  "autore": "(Bull.) Lam. 1783",
+  "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
+  "nomeCorrente": "Amanita romagnesiana",
+  "autoreCorrente": "Tulloss 2000",
+  "campioniRaccolti": [
+    {
+      "collectionDate": "2026-07-05",
+      "collector": "Pietro Centenari",
+      "locality": "Sentiero di Blum, Rovetta, Bergamo",
+      "localityCoordinates": "45.903626, 9.982526",
+      "habitat": "Bordo sentiero",
+      "determiner": "Pietro Centenari"
+    }
+  ],
+  "campioniExsiccata": [],
+  "fenologia": {
+    "raccoltaPiuPrecoce": "07-05",
+    "raccoltaPiuTarda": "07-05",
+    "campioniPerMese": [
+      {
+        "gen": 0
+      },
+      {
+        "feb": 0
+      },
+      {
+        "mar": 0
+      },
+      {
+        "apr": 0
+      },
+      {
+        "mag": 0
+      },
+      {
+        "giu": 0
+      },
+      {
+        "lug": 1
+      },
+      {
+        "ago": 0
+      },
+      {
+        "set": 0
+      },
+      {
+        "ott": 0
+      },
+      {
+        "nov": 0
+      },
+      {
+        "dic": 0
+      }
+    ]
+  },
+  "statistiche": {
+    "totaleCampioni": 1,
+    "campioniRaccolti": 1,
+    "campioniExsiccata": 0
+  }
+}

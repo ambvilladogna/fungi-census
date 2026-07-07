@@ -9,14 +9,6 @@
       "collectionDate": "2026-07-05",
       "collector": "Pietro Centenari",
       "locality": "Sentiero di Blum, Rovetta, Bergamo",
-      "localityCoordinates": "45.901276, 9.984121",
-      "habitat": "Castagno",
-      "determiner": "Pietro Centenari"
-    },
-    {
-      "collectionDate": "2026-07-05",
-      "collector": "Pietro Centenari",
-      "locality": "Sentiero di Blum, Rovetta, Bergamo",
       "localityCoordinates": "45.901176, 9.983979",
       "habitat": "Castagno",
       "determiner": "Pietro Centenari"
@@ -86,7 +78,7 @@
         "giu": 0
       },
       {
-        "lug": 6
+        "lug": 5
       },
       {
         "ago": 1
@@ -106,8 +98,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 7,
-    "campioniRaccolti": 7,
+    "totaleCampioni": 6,
+    "campioniRaccolti": 6,
     "campioniExsiccata": 0
   }
 }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-06T18:08:56.300Z",
-  "totalSpecies": 460,
+  "generatedAt": "2026-07-07T00:12:30.707Z",
+  "totalSpecies": 462,
   "totalSamples": 1216,
   "species": [
     {
@@ -3837,7 +3837,7 @@
       "fullName": "Russula cyanoxantha",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
       "authority": "(Schaeff.) Fr. 1863",
-      "totalSamples": 12,
+      "totalSamples": 13,
       "monthlyCount": [
         0,
         0,
@@ -3845,7 +3845,7 @@
         0,
         0,
         4,
-        4,
+        5,
         3,
         0,
         1,
@@ -4103,7 +4103,7 @@
       "fullName": "Amanita magnivolvata",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
       "authority": "Aalto 1974",
-      "totalSamples": 3,
+      "totalSamples": 2,
       "monthlyCount": [
         0,
         0,
@@ -4111,7 +4111,7 @@
         0,
         0,
         1,
-        1,
+        0,
         0,
         0,
         1,
@@ -5175,7 +5175,7 @@
       "authority": "(L.) Pers. 1797",
       "currentName": "Lactifluus piperatus",
       "currentAuthority": "(L.) Roussel 1806",
-      "totalSamples": 7,
+      "totalSamples": 6,
       "monthlyCount": [
         0,
         0,
@@ -5183,7 +5183,7 @@
         0,
         0,
         0,
-        6,
+        5,
         1,
         0,
         0,
@@ -5219,7 +5219,7 @@
       "fullName": "Lactifluus piperatus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
       "authority": "(L.) Roussel 1806",
-      "totalSamples": 7,
+      "totalSamples": 6,
       "monthlyCount": [
         0,
         0,
@@ -5227,7 +5227,7 @@
         0,
         0,
         0,
-        6,
+        5,
         1,
         0,
         0,
@@ -5569,50 +5569,6 @@
     },
     {
       "genus": "Amanita",
-      "species": "argentea",
-      "fullName": "Amanita argentea",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
-      "authority": "Huijsman 1959",
-      "totalSamples": 3,
-      "monthlyCount": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        2,
-        0,
-        0,
-        0
-      ],
-      "earliestDate": "07-05",
-      "earliestDayOfYear": 186,
-      "earliestSample": {
-        "collectionDate": "2026-07-05",
-        "collector": "Pietro Centenari",
-        "locality": "Sentiero di Blum, Rovetta, Bergamo",
-        "localityCoordinates": "45.903626, 9.982526",
-        "habitat": "Bordo sentiero",
-        "determiner": "Pietro Centenari",
-        "_tipo": "raccolto"
-      },
-      "latestDate": "09-15",
-      "latestDayOfYear": 258,
-      "latestSample": {
-        "collectionDate": "2025-09-15",
-        "collector": "Pierino Bigoni",
-        "locality": "Zenier, Rovetta",
-        "localityCoordinates": "45.898619, 9.984853",
-        "habitat": "Bordo sentiero",
-        "determiner": "Pierino Bigoni",
-        "_tipo": "raccolto"
-      }
-    },
-    {
-      "genus": "Amanita",
       "species": "fulva",
       "fullName": "Amanita fulva",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
@@ -5652,6 +5608,52 @@
         "localityCoordinates": "45.976347, 9.928513",
         "habitat": "Faggio",
         "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Amanita",
+      "species": "vaginata",
+      "fullName": "Amanita vaginata",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
+      "authority": "(Bull.) Lam. 1783",
+      "currentName": "Amanita romagnesiana",
+      "currentAuthority": "Tulloss 2000",
+      "totalSamples": 1,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "earliestDate": "07-05",
+      "earliestDayOfYear": 186,
+      "earliestSample": {
+        "collectionDate": "2026-07-05",
+        "collector": "Pietro Centenari",
+        "locality": "Sentiero di Blum, Rovetta, Bergamo",
+        "localityCoordinates": "45.903626, 9.982526",
+        "habitat": "Bordo sentiero",
+        "determiner": "Pietro Centenari",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "07-05",
+      "latestDayOfYear": 186,
+      "latestSample": {
+        "collectionDate": "2026-07-05",
+        "collector": "Pietro Centenari",
+        "locality": "Sentiero di Blum, Rovetta, Bergamo",
+        "localityCoordinates": "45.903626, 9.982526",
+        "habitat": "Bordo sentiero",
+        "determiner": "Pietro Centenari",
         "_tipo": "raccolto"
       }
     },
@@ -5746,6 +5748,50 @@
       }
     },
     {
+      "genus": "Phallus",
+      "species": "impudicus",
+      "fullName": "Phallus impudicus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Phallales > famiglia: Phallaceae",
+      "authority": "L. 1753",
+      "totalSamples": 3,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      "earliestDate": "07-05",
+      "earliestDayOfYear": 186,
+      "earliestSample": {
+        "collectionDate": "2026-07-05",
+        "collector": "Pietro Centenari",
+        "locality": "Sentiero di Blum, Rovetta, Bergamo",
+        "localityCoordinates": "45.903129, 9.982367",
+        "habitat": "Bosco misto abete e latifoglie",
+        "determiner": "Fabio Locatelli",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "08-30",
+      "latestDayOfYear": 242,
+      "latestSample": {
+        "collectionDate": "2025-08-30",
+        "collector": "Pierino Bigoni",
+        "locality": "Strada per le baite del Moschel, Oltressenda Alta",
+        "localityCoordinates": "45.93408, 10.00331",
+        "habitat": "Bosco misto latifoglie",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
       "genus": "Russula",
       "species": "camarophylla",
       "fullName": "Russula camarophylla",
@@ -5786,6 +5832,50 @@
         "localityCoordinates": "45.903515, 9.983604",
         "habitat": "Bosco misto",
         "determiner": "Renato Depressi",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Ustilago",
+      "species": "maydis",
+      "fullName": "Ustilago maydis",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Ustilaginomycetes > ordine: Ustilaginales > famiglia: Ustilaginaceae",
+      "authority": "(DC.) Corda 1842",
+      "totalSamples": 1,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "earliestDate": "07-05",
+      "earliestDayOfYear": 186,
+      "earliestSample": {
+        "collectionDate": "2026-07-05",
+        "collector": "Pietro Centenari",
+        "locality": "Strada Statale della Val Seriana, San Lorenzo di Rovetta, Rovetta, Bergamo",
+        "localityCoordinates": "45.883869, 9.981348",
+        "habitat": "Su pianta di mais rostrato di Rovetta",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "07-05",
+      "latestDayOfYear": 186,
+      "latestSample": {
+        "collectionDate": "2026-07-05",
+        "collector": "Pietro Centenari",
+        "locality": "Strada Statale della Val Seriana, San Lorenzo di Rovetta, Rovetta, Bergamo",
+        "localityCoordinates": "45.883869, 9.981348",
+        "habitat": "Su pianta di mais rostrato di Rovetta",
+        "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
     },
@@ -10018,50 +10108,6 @@
       }
     },
     {
-      "genus": "Phallus",
-      "species": "impudicus",
-      "fullName": "Phallus impudicus",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Phallales > famiglia: Phallaceae",
-      "authority": "L. 1753",
-      "totalSamples": 2,
-      "monthlyCount": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        2,
-        0,
-        0,
-        0,
-        0
-      ],
-      "earliestDate": "08-26",
-      "earliestDayOfYear": 238,
-      "earliestSample": {
-        "collectionDate": "2025-08-26",
-        "collector": "Renato Depressi",
-        "locality": "Strada per le baite del Moschel, Oltressenda Alta",
-        "localityCoordinates": "45.93408, 10.00331",
-        "habitat": "Bosco misto",
-        "determiner": "Renato Depressi",
-        "_tipo": "raccolto"
-      },
-      "latestDate": "08-30",
-      "latestDayOfYear": 242,
-      "latestSample": {
-        "collectionDate": "2025-08-30",
-        "collector": "Pierino Bigoni",
-        "locality": "Strada per le baite del Moschel, Oltressenda Alta",
-        "localityCoordinates": "45.93408, 10.00331",
-        "habitat": "Bosco misto latifoglie",
-        "determiner": "Pierino Bigoni",
-        "_tipo": "raccolto"
-      }
-    },
-    {
       "genus": "Russula",
       "species": "foetens",
       "fullName": "Russula foetens",
@@ -11445,6 +11491,50 @@
         "locality": "Spiazzi, Gromo",
         "localityCoordinates": "45.970802, 9.963785",
         "habitat": "Bosco misto abete bianco e abete rosso",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Amanita",
+      "species": "argentea",
+      "fullName": "Amanita argentea",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
+      "authority": "Huijsman 1959",
+      "totalSamples": 2,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0
+      ],
+      "earliestDate": "09-04",
+      "earliestDayOfYear": 247,
+      "earliestSample": {
+        "collectionDate": "2025-09-04",
+        "collector": "Renato Depressi",
+        "locality": "Campos, Rovetta",
+        "localityCoordinates": "45.903515, 9.983604",
+        "habitat": "Bosco misto",
+        "determiner": "Renato Depressi",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "09-15",
+      "latestDayOfYear": 258,
+      "latestSample": {
+        "collectionDate": "2025-09-15",
+        "collector": "Pierino Bigoni",
+        "locality": "Zenier, Rovetta",
+        "localityCoordinates": "45.898619, 9.984853",
+        "habitat": "Bordo sentiero",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }

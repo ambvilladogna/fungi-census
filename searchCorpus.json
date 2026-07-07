@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T00:12:19.015Z",
+  "generatedAt": "2026-07-07T00:12:30.805Z",
   "corpus": [
     {
       "type": "genus",
@@ -65,10 +65,12 @@
         "Amanita ochraceomaculata",
         "Amanita pantherina",
         "Amanita phalloides",
+        "Amanita romagnesiana",
         "Amanita rubescens",
         "Amanita rubescens f. annulosulphurea",
         "Amanita simulans",
-        "Amanita spissa"
+        "Amanita spissa",
+        "Amanita vaginata"
       ]
     },
     {
@@ -1957,6 +1959,13 @@
     },
     {
       "type": "genus",
+      "value": "Ustilago",
+      "matchSpecies": [
+        "Ustilago maydis"
+      ]
+    },
+    {
+      "type": "genus",
       "value": "Utraria",
       "matchSpecies": [
         "Lycoperdon umbrinum",
@@ -2230,6 +2239,14 @@
     },
     {
       "type": "species",
+      "value": "Amanita romagnesiana",
+      "matchSpecies": [
+        "Amanita romagnesiana",
+        "Amanita vaginata"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Amanita rubescens",
       "matchSpecies": [
         "Amanita rubescens"
@@ -2255,6 +2272,14 @@
       "matchSpecies": [
         "Amanita excelsa",
         "Amanita spissa"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Amanita vaginata",
+      "matchSpecies": [
+        "Amanita romagnesiana",
+        "Amanita vaginata"
       ]
     },
     {
@@ -6062,6 +6087,13 @@
     },
     {
       "type": "species",
+      "value": "Ustilago maydis",
+      "matchSpecies": [
+        "Ustilago maydis"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Utraria umbrina",
       "matchSpecies": [
         "Lycoperdon umbrinum",
@@ -6235,10 +6267,12 @@
         "Amanita ochraceomaculata",
         "Amanita pantherina",
         "Amanita phalloides",
+        "Amanita romagnesiana",
         "Amanita rubescens",
         "Amanita rubescens f. annulosulphurea",
         "Amanita simulans",
         "Amanita spissa",
+        "Amanita vaginata",
         "Limacella delicata",
         "Limacella glioderma"
       ]
@@ -7227,6 +7261,13 @@
     },
     {
       "type": "famiglia",
+      "value": "Ustilaginaceae",
+      "matchSpecies": [
+        "Ustilago maydis"
+      ]
+    },
+    {
+      "type": "famiglia",
       "value": "Volvariellaceae",
       "matchSpecies": [
         "Volvariella murinella"
@@ -7266,10 +7307,12 @@
         "Amanita ochraceomaculata",
         "Amanita pantherina",
         "Amanita phalloides",
+        "Amanita romagnesiana",
         "Amanita rubescens",
         "Amanita rubescens f. annulosulphurea",
         "Amanita simulans",
         "Amanita spissa",
+        "Amanita vaginata",
         "Ampulloclitocybe clavipes",
         "Apioperdon pyriforme",
         "Armillaria mellea",
@@ -7951,6 +7994,13 @@
     },
     {
       "type": "ordine",
+      "value": "Ustilaginales",
+      "matchSpecies": [
+        "Ustilago maydis"
+      ]
+    },
+    {
+      "type": "ordine",
       "value": "Xylariales",
       "matchSpecies": [
         "Hypoxylon fragiforme",
@@ -7988,10 +8038,12 @@
         "Amanita ochraceomaculata",
         "Amanita pantherina",
         "Amanita phalloides",
+        "Amanita romagnesiana",
         "Amanita rubescens",
         "Amanita rubescens f. annulosulphurea",
         "Amanita simulans",
         "Amanita spissa",
+        "Amanita vaginata",
         "Ampulloclitocybe clavipes",
         "Apioperdon pyriforme",
         "Armillaria mellea",
@@ -8581,6 +8633,13 @@
       ]
     },
     {
+      "type": "classe",
+      "value": "Ustilaginomycetes",
+      "matchSpecies": [
+        "Ustilago maydis"
+      ]
+    },
+    {
       "type": "phylum",
       "value": "Amoebozoa",
       "matchSpecies": [
@@ -8660,10 +8719,12 @@
         "Amanita ochraceomaculata",
         "Amanita pantherina",
         "Amanita phalloides",
+        "Amanita romagnesiana",
         "Amanita rubescens",
         "Amanita rubescens f. annulosulphurea",
         "Amanita simulans",
         "Amanita spissa",
+        "Amanita vaginata",
         "Ampulloclitocybe clavipes",
         "Apioperdon pyriforme",
         "Armillaria mellea",
@@ -9140,6 +9201,7 @@
         "Tubaria furfuracea",
         "Tubaria hiemalis",
         "Tylopilus felleus",
+        "Ustilago maydis",
         "Utraria umbrina",
         "Vanderbylia fraxinea",
         "Vascellum pratense",
@@ -9192,10 +9254,12 @@
         "Amanita ochraceomaculata",
         "Amanita pantherina",
         "Amanita phalloides",
+        "Amanita romagnesiana",
         "Amanita rubescens",
         "Amanita rubescens f. annulosulphurea",
         "Amanita simulans",
         "Amanita spissa",
+        "Amanita vaginata",
         "Ampulloclitocybe clavipes",
         "Apioperdon pyriforme",
         "Armillaria mellea",
@@ -9701,6 +9765,7 @@
         "Tubaria furfuracea",
         "Tubaria hiemalis",
         "Tylopilus felleus",
+        "Ustilago maydis",
         "Utraria umbrina",
         "Vanderbylia fraxinea",
         "Vascellum pratense",

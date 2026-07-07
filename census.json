@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-06T18:08:56.202Z",
-  "totalSpecies": 460,
-  "totalSamples": 1123,
+  "generatedAt": "2026-07-07T00:12:30.625Z",
+  "totalSpecies": 462,
+  "totalSamples": 1124,
   "species": [
     {
       "genus": "Abortiporus",
@@ -191,6 +191,15 @@
       "authority": "(Fr.) Opiz 1852",
       "currentName": "Amanita excelsa",
       "currentAuthority": "(Fr.) Bertill. 1866"
+    },
+    {
+      "genus": "Amanita",
+      "species": "vaginata",
+      "fullName": "Amanita vaginata",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
+      "authority": "(Bull.) Lam. 1783",
+      "currentName": "Amanita romagnesiana",
+      "currentAuthority": "Tulloss 2000"
     },
     {
       "genus": "Armillaria",
@@ -3391,6 +3400,13 @@
       "fullName": "Tylopilus felleus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
       "authority": "(Bull.) P. Karst. 1881"
+    },
+    {
+      "genus": "Ustilago",
+      "species": "maydis",
+      "fullName": "Ustilago maydis",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Ustilaginomycetes > ordine: Ustilaginales > famiglia: Ustilaginaceae",
+      "authority": "(DC.) Corda 1842"
     },
     {
       "genus": "Vascellum",
