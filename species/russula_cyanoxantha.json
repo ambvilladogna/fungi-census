@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-07-10",
+      "collector": "Fabio Locatelli",
+      "locality": "Valbondione",
+      "localityCoordinates": "46.034193, 10.005855",
+      "habitat": "Faggio",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2026-07-05",
       "collector": "Pietro Centenari",
       "locality": "Sentiero di Blum, Rovetta, Bergamo",
@@ -134,7 +142,7 @@
         "giu": 4
       },
       {
-        "lug": 5
+        "lug": 6
       },
       {
         "ago": 3
@@ -154,8 +162,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 13,
-    "campioniRaccolti": 13,
+    "totaleCampioni": 14,
+    "campioniRaccolti": 14,
     "campioniExsiccata": 0
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T00:12:30.805Z",
+  "generatedAt": "2026-07-11T00:12:31.752Z",
   "corpus": [
     {
       "type": "genus",
@@ -895,6 +895,7 @@
       "value": "Hygrocybe",
       "matchSpecies": [
         "Hygrocybe calyptriformis",
+        "Hygrocybe coccineocrenata",
         "Hygrocybe conica",
         "Hygrocybe punicea",
         "Porpolomopsis calyptriformis"
@@ -3834,6 +3835,13 @@
     },
     {
       "type": "species",
+      "value": "Hygrocybe coccineocrenata",
+      "matchSpecies": [
+        "Hygrocybe coccineocrenata"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Hygrocybe conica",
       "matchSpecies": [
         "Hygrocybe conica"
@@ -6660,6 +6668,7 @@
       "type": "famiglia",
       "value": "Hygrocybaceae",
       "matchSpecies": [
+        "Hygrocybe coccineocrenata",
         "Hygrocybe conica",
         "Hygrocybe punicea"
       ]
@@ -7433,6 +7442,7 @@
         "Hebeloma crustuliniforme",
         "Hebeloma sinapizans",
         "Hygrocybe calyptriformis",
+        "Hygrocybe coccineocrenata",
         "Hygrocybe conica",
         "Hygrocybe punicea",
         "Hygronarius renidens",
@@ -8226,6 +8236,7 @@
         "Hydnum repandum",
         "Hydnum rufescens",
         "Hygrocybe calyptriformis",
+        "Hygrocybe coccineocrenata",
         "Hygrocybe conica",
         "Hygrocybe punicea",
         "Hygronarius renidens",
@@ -8911,6 +8922,7 @@
         "Hydnum repandum",
         "Hydnum rufescens",
         "Hygrocybe calyptriformis",
+        "Hygrocybe coccineocrenata",
         "Hygrocybe conica",
         "Hygrocybe punicea",
         "Hygronarius renidens",
@@ -9462,6 +9474,7 @@
         "Hydnum repandum",
         "Hydnum rufescens",
         "Hygrocybe calyptriformis",
+        "Hygrocybe coccineocrenata",
         "Hygrocybe conica",
         "Hygrocybe punicea",
         "Hygronarius renidens",

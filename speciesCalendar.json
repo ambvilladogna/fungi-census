@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-07T00:12:30.707Z",
-  "totalSpecies": 462,
-  "totalSamples": 1216,
+  "generatedAt": "2026-07-11T00:12:31.597Z",
+  "totalSpecies": 463,
+  "totalSamples": 1221,
   "species": [
     {
       "genus": "Flammulina",
@@ -3701,7 +3701,7 @@
       "fullName": "Russula nigricans",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
       "authority": "Fr. 2021",
-      "totalSamples": 6,
+      "totalSamples": 7,
       "monthlyCount": [
         0,
         0,
@@ -3709,7 +3709,7 @@
         0,
         0,
         1,
-        1,
+        2,
         2,
         0,
         1,
@@ -3837,7 +3837,7 @@
       "fullName": "Russula cyanoxantha",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
       "authority": "(Schaeff.) Fr. 1863",
-      "totalSamples": 13,
+      "totalSamples": 14,
       "monthlyCount": [
         0,
         0,
@@ -3845,7 +3845,7 @@
         0,
         0,
         4,
-        5,
+        6,
         3,
         0,
         1,
@@ -3927,7 +3927,7 @@
       "authority": "(Paulet) Fr. 1838",
       "currentName": "Boletus reticulatus",
       "currentAuthority": "Schaeff. 1774",
-      "totalSamples": 11,
+      "totalSamples": 12,
       "monthlyCount": [
         0,
         0,
@@ -3935,7 +3935,7 @@
         0,
         0,
         4,
-        4,
+        5,
         1,
         2,
         0,
@@ -3971,7 +3971,7 @@
       "fullName": "Boletus reticulatus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
       "authority": "Schaeff. 1774",
-      "totalSamples": 11,
+      "totalSamples": 12,
       "monthlyCount": [
         0,
         0,
@@ -3979,7 +3979,7 @@
         0,
         0,
         4,
-        4,
+        5,
         1,
         2,
         0,
@@ -6052,6 +6052,50 @@
         "localityCoordinates": "45.970802, 9.963785",
         "habitat": "Bosco misto abete bianco e abete rosso",
         "determiner": "Flavio Rossi",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Hygrocybe",
+      "species": "coccineocrenata",
+      "fullName": "Hygrocybe coccineocrenata",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Hygrocybaceae",
+      "authority": "(P.D. Orton) M.M. Moser 1967",
+      "totalSamples": 1,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "earliestDate": "07-09",
+      "earliestDayOfYear": 190,
+      "earliestSample": {
+        "collectionDate": "2026-07-09",
+        "collector": "Angelo Ballabeni",
+        "locality": "Lago basso di Cardeto",
+        "localityCoordinates": "46.004851, 9.911829",
+        "habitat": "Torbiera",
+        "determiner": "Angelo Ballabeni",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "07-09",
+      "latestDayOfYear": 190,
+      "latestSample": {
+        "collectionDate": "2026-07-09",
+        "collector": "Angelo Ballabeni",
+        "locality": "Lago basso di Cardeto",
+        "localityCoordinates": "46.004851, 9.911829",
+        "habitat": "Torbiera",
+        "determiner": "Angelo Ballabeni",
         "_tipo": "raccolto"
       }
     },

@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-07-10",
+      "collector": "Fabio Locatelli",
+      "locality": "Valbondione",
+      "localityCoordinates": "46.034193, 10.005855",
+      "habitat": "Faggio",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2026-07-02",
       "collector": "Massimo Mapelli",
       "locality": "Strada per Colle Palazzo, Contrada Dosso, Plass, Oltressenda Alta, Bergamo",
@@ -118,7 +126,7 @@
         "giu": 4
       },
       {
-        "lug": 4
+        "lug": 5
       },
       {
         "ago": 1
@@ -138,8 +146,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 11,
-    "campioniRaccolti": 11,
+    "totaleCampioni": 12,
+    "campioniRaccolti": 12,
     "campioniExsiccata": 0
   }
 }
