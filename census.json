@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-14T00:12:18.923Z",
-  "totalSpecies": 463,
-  "totalSamples": 1129,
+  "generatedAt": "2026-07-19T00:12:38.598Z",
+  "totalSpecies": 464,
+  "totalSamples": 1130,
   "species": [
     {
       "genus": "Abortiporus",
@@ -513,6 +513,13 @@
       "fullName": "Ciboria caucus",
       "lineage": "regno: Fungi > phylum: Ascomycota > classe: Leotiomycetes > ordine: Helotiales > famiglia: Sclerotiniaceae",
       "authority": "(Rebent.) Fuckel 1870"
+    },
+    {
+      "genus": "Clathrus",
+      "species": "archeri",
+      "fullName": "Clathrus archeri",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Phallales > famiglia: Phallaceae",
+      "authority": "(Berk.) Dring 1980"
     },
     {
       "genus": "Clavariadelphus",

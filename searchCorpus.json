@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T00:12:31.752Z",
+  "generatedAt": "2026-07-19T00:12:38.886Z",
   "corpus": [
     {
       "type": "genus",
@@ -356,6 +356,13 @@
       "value": "Ciboria",
       "matchSpecies": [
         "Ciboria caucus"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Clathrus",
+      "matchSpecies": [
+        "Clathrus archeri"
       ]
     },
     {
@@ -2720,6 +2727,13 @@
       "value": "Ciboria caucus",
       "matchSpecies": [
         "Ciboria caucus"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Clathrus archeri",
+      "matchSpecies": [
+        "Clathrus archeri"
       ]
     },
     {
@@ -6894,6 +6908,7 @@
       "type": "famiglia",
       "value": "Phallaceae",
       "matchSpecies": [
+        "Clathrus archeri",
         "Phallus impudicus"
       ]
     },
@@ -7835,6 +7850,7 @@
       "type": "ordine",
       "value": "Phallales",
       "matchSpecies": [
+        "Clathrus archeri",
         "Phallus impudicus"
       ]
     },
@@ -8104,6 +8120,7 @@
         "Chlorophyllum brunneum",
         "Chlorophyllum rhacodes",
         "Chroogomphus rutilus",
+        "Clathrus archeri",
         "Clavariadelphus pistillaris",
         "Clavariadelphus truncatus",
         "Clavulina cinerea",
@@ -8788,6 +8805,7 @@
         "Chlorophyllum rhacodes",
         "Chroogomphus rutilus",
         "Chrysomyxa rhododendri",
+        "Clathrus archeri",
         "Clavariadelphus pistillaris",
         "Clavariadelphus truncatus",
         "Clavulina cinerea",
@@ -9329,6 +9347,7 @@
         "Chroogomphus rutilus",
         "Chrysomyxa rhododendri",
         "Ciboria caucus",
+        "Clathrus archeri",
         "Clavariadelphus pistillaris",
         "Clavariadelphus truncatus",
         "Clavulina cinerea",

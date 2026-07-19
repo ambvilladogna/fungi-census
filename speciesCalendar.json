@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-14T00:12:19.000Z",
-  "totalSpecies": 463,
-  "totalSamples": 1222,
+  "generatedAt": "2026-07-19T00:12:38.688Z",
+  "totalSpecies": 464,
+  "totalSamples": 1223,
   "species": [
     {
       "genus": "Flammulina",
@@ -6768,6 +6768,50 @@
         "localityCoordinates": "45.970802, 9.963785",
         "habitat": "Bosco misto abete bianco e abete rosso",
         "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Clathrus",
+      "species": "archeri",
+      "fullName": "Clathrus archeri",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Phallales > famiglia: Phallaceae",
+      "authority": "(Berk.) Dring 1980",
+      "totalSamples": 1,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "earliestDate": "07-17",
+      "earliestDayOfYear": 198,
+      "earliestSample": {
+        "collectionDate": "2026-07-17",
+        "collector": "Fabio Locatelli",
+        "locality": "Bosgarina, Clusone",
+        "localityCoordinates": "",
+        "habitat": "Bosco misto latifoglie",
+        "determiner": "Fabio Locatelli",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "07-17",
+      "latestDayOfYear": 198,
+      "latestSample": {
+        "collectionDate": "2026-07-17",
+        "collector": "Fabio Locatelli",
+        "locality": "Bosgarina, Clusone",
+        "localityCoordinates": "",
+        "habitat": "Bosco misto latifoglie",
+        "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
     },
