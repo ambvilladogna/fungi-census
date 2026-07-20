@@ -1,39 +1,23 @@
 {
-  "nomeCompleto": "Russula amara",
-  "autore": "Kučera 1927",
+  "nomeCompleto": "Russula subfoetens",
+  "autore": "W.G. Sm. 1873",
   "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
-  "nomeCorrente": "Russula caerulea",
-  "autoreCorrente": "Fr. 1838",
+  "nomeCorrente": null,
+  "autoreCorrente": null,
   "campioniRaccolti": [
     {
       "collectionDate": "2026-07-19",
       "collector": "Fabio Locatelli",
       "locality": "Loc. Ronchi, Schilpario",
       "localityCoordinates": "46.01473, 10.13823",
-      "habitat": "Pino silvestre",
+      "habitat": "Abete rosso",
       "determiner": "Fabio Locatelli"
-    },
-    {
-      "collectionDate": "2025-11-05",
-      "collector": "Pierino Bigoni",
-      "locality": "Roccolo Sparpaì, Piario",
-      "localityCoordinates": "45.882983, 9.918480",
-      "habitat": "Bosco misto abete e pino silvestre",
-      "determiner": "Pierino Bigoni"
-    },
-    {
-      "collectionDate": "2025-10-09",
-      "collector": "Pierino Bigoni",
-      "locality": "Pineta della Selva, Clusone",
-      "localityCoordinates": "45.88196, 9.91806",
-      "habitat": "Bosco misto abete e latifoglie",
-      "determiner": "Pierino Bigoni"
     }
   ],
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "07-19",
-    "raccoltaPiuTarda": "11-05",
+    "raccoltaPiuTarda": "07-19",
     "campioniPerMese": [
       {
         "gen": 0
@@ -63,10 +47,10 @@
         "set": 0
       },
       {
-        "ott": 1
+        "ott": 0
       },
       {
-        "nov": 1
+        "nov": 0
       },
       {
         "dic": 0
@@ -74,8 +58,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 3,
-    "campioniRaccolti": 3,
+    "totaleCampioni": 1,
+    "campioniRaccolti": 1,
     "campioniExsiccata": 0
   }
 }

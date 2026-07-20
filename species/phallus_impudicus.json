@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-07-19",
+      "collector": "Fabio Locatelli",
+      "locality": "Loc. Ronchi, Schilpario",
+      "localityCoordinates": "46.01473, 10.13823",
+      "habitat": "Abete rosso",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2026-07-05",
       "collector": "Pietro Centenari",
       "locality": "Sentiero di Blum, Rovetta, Bergamo",
@@ -54,7 +62,7 @@
         "giu": 0
       },
       {
-        "lug": 1
+        "lug": 2
       },
       {
         "ago": 2
@@ -74,8 +82,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 3,
-    "campioniRaccolti": 3,
+    "totaleCampioni": 4,
+    "campioniRaccolti": 4,
     "campioniExsiccata": 0
   }
 }

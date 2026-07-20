@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-07-19",
+      "collector": "Fabio Locatelli",
+      "locality": "Loc. Ronchi, Schilpario",
+      "localityCoordinates": "46.01473, 10.13823",
+      "habitat": "Abete rosso",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2025-08-01",
       "collector": "Fabio Locatelli",
       "locality": "Ripa, Gromo",
@@ -46,7 +54,7 @@
         "giu": 1
       },
       {
-        "lug": 0
+        "lug": 1
       },
       {
         "ago": 1
@@ -66,8 +74,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 2,
-    "campioniRaccolti": 2,
+    "totaleCampioni": 3,
+    "campioniRaccolti": 3,
     "campioniExsiccata": 0
   }
 }

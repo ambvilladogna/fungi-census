@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-19T00:12:38.598Z",
-  "totalSpecies": 464,
-  "totalSamples": 1130,
+  "generatedAt": "2026-07-20T00:12:17.693Z",
+  "totalSpecies": 465,
+  "totalSamples": 1139,
   "species": [
     {
       "genus": "Abortiporus",
@@ -3031,6 +3031,13 @@
       "fullName": "Russula solaris",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
       "authority": "Ferd. & Winge 1924"
+    },
+    {
+      "genus": "Russula",
+      "species": "subfoetens",
+      "fullName": "Russula subfoetens",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
+      "authority": "W.G. Sm. 1873"
     },
     {
       "genus": "Russula",

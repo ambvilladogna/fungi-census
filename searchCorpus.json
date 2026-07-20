@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T00:12:38.886Z",
+  "generatedAt": "2026-07-20T00:12:17.943Z",
   "corpus": [
     {
       "type": "genus",
@@ -1726,6 +1726,7 @@
         "Russula rosea",
         "Russula rubroalba",
         "Russula solaris",
+        "Russula subfoetens",
         "Russula vesca",
         "Russula violeipes",
         "Russula xerampelina"
@@ -5682,6 +5683,13 @@
     },
     {
       "type": "species",
+      "value": "Russula subfoetens",
+      "matchSpecies": [
+        "Russula subfoetens"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Russula vesca",
       "matchSpecies": [
         "Russula vesca"
@@ -7129,6 +7137,7 @@
         "Russula rosea",
         "Russula rubroalba",
         "Russula solaris",
+        "Russula subfoetens",
         "Russula vesca",
         "Russula violeipes",
         "Russula xerampelina"
@@ -7986,6 +7995,7 @@
         "Russula rosea",
         "Russula rubroalba",
         "Russula solaris",
+        "Russula subfoetens",
         "Russula vesca",
         "Russula violeipes",
         "Russula xerampelina",
@@ -8493,6 +8503,7 @@
         "Russula rosea",
         "Russula rubroalba",
         "Russula solaris",
+        "Russula subfoetens",
         "Russula vesca",
         "Russula violeipes",
         "Russula xerampelina",
@@ -9180,6 +9191,7 @@
         "Russula rosea",
         "Russula rubroalba",
         "Russula solaris",
+        "Russula subfoetens",
         "Russula vesca",
         "Russula violeipes",
         "Russula xerampelina",
@@ -9739,6 +9751,7 @@
         "Russula rosea",
         "Russula rubroalba",
         "Russula solaris",
+        "Russula subfoetens",
         "Russula vesca",
         "Russula violeipes",
         "Russula xerampelina",
