@@ -1,7 +1,7 @@
 {
-  "nomeCompleto": "Ramaria edwinii",
-  "autore": "Franchi & M. Marchetti 2019",
-  "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Gomphales > famiglia: Gomphaceae",
+  "nomeCompleto": "Amanita vaginata var. alba",
+  "autore": "(De Seynes) Gillet 1874",
+  "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
   "nomeCorrente": null,
   "autoreCorrente": null,
   "campioniRaccolti": [
@@ -12,20 +12,12 @@
       "localityCoordinates": "45.882296, 10.000041",
       "habitat": "Bosco misto",
       "determiner": "Renato Depressi"
-    },
-    {
-      "collectionDate": "2025-08-25",
-      "collector": "Fabio Rossi",
-      "locality": "Spiazzi, Gromo",
-      "localityCoordinates": "45.970802, 9.963785",
-      "habitat": "Bosco misto abete bianco e abete rosso",
-      "determiner": "Angelo Ballabeni"
     }
   ],
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "07-20",
-    "raccoltaPiuTarda": "08-25",
+    "raccoltaPiuTarda": "07-20",
     "campioniPerMese": [
       {
         "gen": 0
@@ -49,7 +41,7 @@
         "lug": 1
       },
       {
-        "ago": 1
+        "ago": 0
       },
       {
         "set": 0
@@ -66,8 +58,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 2,
-    "campioniRaccolti": 2,
+    "totaleCampioni": 1,
+    "campioniRaccolti": 1,
     "campioniExsiccata": 0
   }
 }

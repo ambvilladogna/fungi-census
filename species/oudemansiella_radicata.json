@@ -6,6 +6,14 @@
   "autoreCorrente": "(Relhan) R.H. Petersen 2010",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-07-20",
+      "collector": "Renato Depressi",
+      "locality": "Falecchio, Songavazzo",
+      "localityCoordinates": "45.882296, 10.000041",
+      "habitat": "Bosco misto",
+      "determiner": "Renato Depressi"
+    },
+    {
       "collectionDate": "2026-06-28",
       "collector": "Pietro Centenari",
       "locality": "Strada Falecchio - Camasone - San Fermo, Songavazzo, Bergamo",
@@ -33,7 +41,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "06-28",
-    "raccoltaPiuTarda": "07-17",
+    "raccoltaPiuTarda": "07-20",
     "campioniPerMese": [
       {
         "gen": 0
@@ -54,7 +62,7 @@
         "giu": 1
       },
       {
-        "lug": 2
+        "lug": 3
       },
       {
         "ago": 0
@@ -74,8 +82,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 3,
-    "campioniRaccolti": 3,
+    "totaleCampioni": 4,
+    "campioniRaccolti": 4,
     "campioniExsiccata": 0
   }
 }

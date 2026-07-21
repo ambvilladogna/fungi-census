@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T00:12:17.943Z",
+  "generatedAt": "2026-07-21T00:12:22.963Z",
   "corpus": [
     {
       "type": "genus",
@@ -70,7 +70,8 @@
         "Amanita rubescens f. annulosulphurea",
         "Amanita simulans",
         "Amanita spissa",
-        "Amanita vaginata"
+        "Amanita vaginata",
+        "Amanita vaginata var. alba"
       ]
     },
     {
@@ -1705,6 +1706,7 @@
         "Russula foetens",
         "Russula grata",
         "Russula grisea",
+        "Russula heterophylla",
         "Russula integra",
         "Russula laurocerasi",
         "Russula lepida",
@@ -2289,6 +2291,13 @@
       "matchSpecies": [
         "Amanita romagnesiana",
         "Amanita vaginata"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Amanita vaginata var. alba",
+      "matchSpecies": [
+        "Amanita vaginata var. alba"
       ]
     },
     {
@@ -5527,6 +5536,13 @@
     },
     {
       "type": "species",
+      "value": "Russula heterophylla",
+      "matchSpecies": [
+        "Russula heterophylla"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Russula integra",
       "matchSpecies": [
         "Russula integra"
@@ -6240,6 +6256,7 @@
         "Agaricus praeclaresquamosus",
         "Agaricus sylvaticus",
         "Agaricus sylvicola",
+        "Amanita vaginata var. alba",
         "Chamaemyces fracidus",
         "Chlorophyllum brunneum",
         "Chlorophyllum rhacodes",
@@ -7116,6 +7133,7 @@
         "Russula foetens",
         "Russula grata",
         "Russula grisea",
+        "Russula heterophylla",
         "Russula integra",
         "Russula laurocerasi",
         "Russula lepida",
@@ -7346,6 +7364,7 @@
         "Amanita simulans",
         "Amanita spissa",
         "Amanita vaginata",
+        "Amanita vaginata var. alba",
         "Ampulloclitocybe clavipes",
         "Apioperdon pyriforme",
         "Armillaria mellea",
@@ -7974,6 +7993,7 @@
         "Russula foetens",
         "Russula grata",
         "Russula grisea",
+        "Russula heterophylla",
         "Russula integra",
         "Russula laurocerasi",
         "Russula lepida",
@@ -8080,6 +8100,7 @@
         "Amanita simulans",
         "Amanita spissa",
         "Amanita vaginata",
+        "Amanita vaginata var. alba",
         "Ampulloclitocybe clavipes",
         "Apioperdon pyriforme",
         "Armillaria mellea",
@@ -8482,6 +8503,7 @@
         "Russula foetens",
         "Russula grata",
         "Russula grisea",
+        "Russula heterophylla",
         "Russula integra",
         "Russula laurocerasi",
         "Russula lepida",
@@ -8764,6 +8786,7 @@
         "Amanita simulans",
         "Amanita spissa",
         "Amanita vaginata",
+        "Amanita vaginata var. alba",
         "Ampulloclitocybe clavipes",
         "Apioperdon pyriforme",
         "Armillaria mellea",
@@ -9170,6 +9193,7 @@
         "Russula foetens",
         "Russula grata",
         "Russula grisea",
+        "Russula heterophylla",
         "Russula integra",
         "Russula laurocerasi",
         "Russula lepida",
@@ -9302,6 +9326,7 @@
         "Amanita simulans",
         "Amanita spissa",
         "Amanita vaginata",
+        "Amanita vaginata var. alba",
         "Ampulloclitocybe clavipes",
         "Apioperdon pyriforme",
         "Armillaria mellea",
@@ -9730,6 +9755,7 @@
         "Russula foetens",
         "Russula grata",
         "Russula grisea",
+        "Russula heterophylla",
         "Russula integra",
         "Russula laurocerasi",
         "Russula lepida",
