@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-21T00:12:22.857Z",
+  "generatedAt": "2026-07-22T00:12:32.183Z",
   "totalSpecies": 467,
-  "totalSamples": 1242,
+  "totalSamples": 1243,
   "species": [
     {
       "genus": "Flammulina",
@@ -6331,7 +6331,7 @@
       "authority": "(Fr.) Fr. 1838",
       "currentName": "Lactifluus volemus",
       "currentAuthority": "(Fr.) Kuntze 1891",
-      "totalSamples": 3,
+      "totalSamples": 4,
       "monthlyCount": [
         0,
         0,
@@ -6339,7 +6339,7 @@
         0,
         0,
         0,
-        1,
+        2,
         2,
         0,
         0,
