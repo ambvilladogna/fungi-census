@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T00:12:22.963Z",
+  "generatedAt": "2026-07-24T00:12:27.431Z",
   "corpus": [
     {
       "type": "genus",
@@ -1708,6 +1708,7 @@
         "Russula grisea",
         "Russula heterophylla",
         "Russula integra",
+        "Russula integra f. purpurella",
         "Russula laurocerasi",
         "Russula lepida",
         "Russula lutea",
@@ -5550,6 +5551,13 @@
     },
     {
       "type": "species",
+      "value": "Russula integra f. purpurella",
+      "matchSpecies": [
+        "Russula integra f. purpurella"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Russula laurocerasi",
       "matchSpecies": [
         "Russula grata",
@@ -7135,6 +7143,7 @@
         "Russula grisea",
         "Russula heterophylla",
         "Russula integra",
+        "Russula integra f. purpurella",
         "Russula laurocerasi",
         "Russula lepida",
         "Russula lutea",
@@ -7995,6 +8004,7 @@
         "Russula grisea",
         "Russula heterophylla",
         "Russula integra",
+        "Russula integra f. purpurella",
         "Russula laurocerasi",
         "Russula lepida",
         "Russula lutea",
@@ -8505,6 +8515,7 @@
         "Russula grisea",
         "Russula heterophylla",
         "Russula integra",
+        "Russula integra f. purpurella",
         "Russula laurocerasi",
         "Russula lepida",
         "Russula lutea",
@@ -9195,6 +9206,7 @@
         "Russula grisea",
         "Russula heterophylla",
         "Russula integra",
+        "Russula integra f. purpurella",
         "Russula laurocerasi",
         "Russula lepida",
         "Russula lutea",
@@ -9757,6 +9769,7 @@
         "Russula grisea",
         "Russula heterophylla",
         "Russula integra",
+        "Russula integra f. purpurella",
         "Russula laurocerasi",
         "Russula lepida",
         "Russula lutea",

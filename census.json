@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-22T00:12:32.088Z",
-  "totalSpecies": 467,
-  "totalSamples": 1148,
+  "generatedAt": "2026-07-24T00:12:27.198Z",
+  "totalSpecies": 468,
+  "totalSamples": 1151,
   "species": [
     {
       "genus": "Abortiporus",
@@ -2916,6 +2916,13 @@
       "fullName": "Russula integra",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
       "authority": "(L.) Fr. 1838"
+    },
+    {
+      "genus": "Russula",
+      "species": "integra f. purpurella",
+      "fullName": "Russula integra f. purpurella",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
+      "authority": "(Singer) Romagn. ex Bon 1986"
     },
     {
       "genus": "Russula",
