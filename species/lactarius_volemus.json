@@ -6,6 +6,14 @@
   "autoreCorrente": "(Fr.) Kuntze 1891",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-07-24",
+      "collector": "Sergio Lonati",
+      "locality": "Spiazzi, Gromo",
+      "localityCoordinates": "45.970802, 9.963785",
+      "habitat": "Bosco misto abete bianco e abete rosso",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-07-20",
       "collector": "Angelo Fantini",
       "locality": "Bossico",
@@ -62,7 +70,7 @@
         "giu": 0
       },
       {
-        "lug": 2
+        "lug": 3
       },
       {
         "ago": 2
@@ -82,8 +90,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 4,
-    "campioniRaccolti": 4,
+    "totaleCampioni": 5,
+    "campioniRaccolti": 5,
     "campioniExsiccata": 0
   }
 }

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-24T00:12:27.283Z",
+  "generatedAt": "2026-07-25T00:12:23.345Z",
   "totalSpecies": 468,
-  "totalSamples": 1247,
+  "totalSamples": 1251,
   "species": [
     {
       "genus": "Flammulina",
@@ -3391,7 +3391,7 @@
       "authority": "(Bull.) Jaap 1918",
       "currentName": "Bovistella utriformis",
       "currentAuthority": "(Bull.) Demoulin & Rebriev 2017",
-      "totalSamples": 1,
+      "totalSamples": 2,
       "monthlyCount": [
         0,
         0,
@@ -3399,7 +3399,7 @@
         0,
         0,
         1,
-        0,
+        1,
         0,
         0,
         0,
@@ -3417,14 +3417,14 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "06-09",
-      "latestDayOfYear": 160,
+      "latestDate": "07-24",
+      "latestDayOfYear": 205,
       "latestSample": {
-        "collectionDate": "2025-06-09",
-        "collector": "Pietro Centenari",
-        "locality": "Monte Guglielmo",
-        "localityCoordinates": "45.755847, 10.168357",
-        "habitat": "Prato",
+        "collectionDate": "2026-07-24",
+        "collector": "Sergio Lonati",
+        "locality": "Spiazzi, Gromo",
+        "localityCoordinates": "45.970802, 9.963785",
+        "habitat": "Pascolo",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
@@ -4193,7 +4193,7 @@
       "authority": "Pers. 1801",
       "currentName": "Caloboletus calopus",
       "currentAuthority": "(Pers.) Vizzini 2014",
-      "totalSamples": 5,
+      "totalSamples": 6,
       "monthlyCount": [
         0,
         0,
@@ -4201,7 +4201,7 @@
         0,
         0,
         2,
-        1,
+        2,
         1,
         1,
         0,
@@ -4237,7 +4237,7 @@
       "fullName": "Caloboletus calopus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
       "authority": "(Pers.) Vizzini 2014",
-      "totalSamples": 5,
+      "totalSamples": 6,
       "monthlyCount": [
         0,
         0,
@@ -4245,7 +4245,7 @@
         0,
         0,
         2,
-        1,
+        2,
         1,
         1,
         0,
@@ -6331,7 +6331,7 @@
       "authority": "(Fr.) Fr. 1838",
       "currentName": "Lactifluus volemus",
       "currentAuthority": "(Fr.) Kuntze 1891",
-      "totalSamples": 4,
+      "totalSamples": 5,
       "monthlyCount": [
         0,
         0,
@@ -6339,7 +6339,7 @@
         0,
         0,
         0,
-        2,
+        3,
         2,
         0,
         0,
