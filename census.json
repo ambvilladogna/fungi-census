@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-25T00:12:23.256Z",
-  "totalSpecies": 468,
-  "totalSamples": 1154,
+  "generatedAt": "2026-07-26T00:13:14.989Z",
+  "totalSpecies": 470,
+  "totalSamples": 1162,
   "species": [
     {
       "genus": "Abortiporus",
@@ -9,6 +9,13 @@
       "fullName": "Abortiporus biennis",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Polyporales > famiglia: Podoscyphaceae",
       "authority": "(Bull.) Singer 1944"
+    },
+    {
+      "genus": "Agaricus",
+      "species": "augustus",
+      "fullName": "Agaricus augustus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
+      "authority": "Fr. 1838"
     },
     {
       "genus": "Agaricus",
@@ -3275,6 +3282,13 @@
       "fullName": "Thelephora palmata",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Thelephorales > famiglia: Thelephoraceae",
       "authority": "(Scop.) Fr. 1821"
+    },
+    {
+      "genus": "Thelephora",
+      "species": "terrestris",
+      "fullName": "Thelephora terrestris",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Thelephorales > famiglia: Thelephoraceae",
+      "authority": "Ehrh. ex Fr. 1821"
     },
     {
       "genus": "Trametes",

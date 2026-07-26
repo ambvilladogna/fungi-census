@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-07-25",
+      "collector": "Pietro Centenari",
+      "locality": "Sent. Alto Serio (Verso i monti Parè e Blum - strada), Rovetta, Bergamo",
+      "localityCoordinates": "45.906838, 9.965556",
+      "habitat": "Bosco misto abete e latifoglie",
+      "determiner": "Pietro Centenari"
+    },
+    {
       "collectionDate": "2025-09-15",
       "collector": "Pierino Bigoni",
       "locality": "Zenier, Rovetta",
@@ -24,7 +32,7 @@
   ],
   "campioniExsiccata": [],
   "fenologia": {
-    "raccoltaPiuPrecoce": "09-04",
+    "raccoltaPiuPrecoce": "07-25",
     "raccoltaPiuTarda": "09-15",
     "campioniPerMese": [
       {
@@ -46,7 +54,7 @@
         "giu": 0
       },
       {
-        "lug": 0
+        "lug": 1
       },
       {
         "ago": 0
@@ -66,8 +74,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 2,
-    "campioniRaccolti": 2,
+    "totaleCampioni": 3,
+    "campioniRaccolti": 3,
     "campioniExsiccata": 0
   }
 }

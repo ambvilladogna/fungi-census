@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-07-25",
+      "collector": "Pietro Centenari",
+      "locality": "Sent. Alto Serio (Verso i monti Parè e Blum - strada), Rovetta, Bergamo",
+      "localityCoordinates": "45.906513, 9.979603",
+      "habitat": "Bosco misto abete e latifoglie",
+      "determiner": "Pietro Centenari"
+    },
+    {
       "collectionDate": "2026-07-01",
       "collector": "Fabio Locatelli",
       "locality": "Valbondione",
@@ -182,7 +190,7 @@
         "giu": 0
       },
       {
-        "lug": 3
+        "lug": 4
       },
       {
         "ago": 2
@@ -202,8 +210,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 19,
-    "campioniRaccolti": 19,
+    "totaleCampioni": 20,
+    "campioniRaccolti": 20,
     "campioniExsiccata": 0
   }
 }

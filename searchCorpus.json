@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T00:12:27.431Z",
+  "generatedAt": "2026-07-26T00:13:15.194Z",
   "corpus": [
     {
       "type": "genus",
@@ -12,6 +12,7 @@
       "type": "genus",
       "value": "Agaricus",
       "matchSpecies": [
+        "Agaricus augustus",
         "Agaricus bitorquis",
         "Agaricus essettei",
         "Agaricus moelleri",
@@ -1882,7 +1883,8 @@
       "type": "genus",
       "value": "Thelephora",
       "matchSpecies": [
-        "Thelephora palmata"
+        "Thelephora palmata",
+        "Thelephora terrestris"
       ]
     },
     {
@@ -2053,6 +2055,13 @@
       "value": "Abortiporus biennis",
       "matchSpecies": [
         "Abortiporus biennis"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Agaricus augustus",
+      "matchSpecies": [
+        "Agaricus augustus"
       ]
     },
     {
@@ -5945,6 +5954,13 @@
     },
     {
       "type": "species",
+      "value": "Thelephora terrestris",
+      "matchSpecies": [
+        "Thelephora terrestris"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Tolypocladium capitatum",
       "matchSpecies": [
         "Cordyceps capitata",
@@ -6258,6 +6274,7 @@
       "type": "famiglia",
       "value": "Agaricaceae",
       "matchSpecies": [
+        "Agaricus augustus",
         "Agaricus bitorquis",
         "Agaricus essettei",
         "Agaricus moelleri",
@@ -7270,7 +7287,8 @@
       "type": "famiglia",
       "value": "Thelephoraceae",
       "matchSpecies": [
-        "Thelephora palmata"
+        "Thelephora palmata",
+        "Thelephora terrestris"
       ]
     },
     {
@@ -7344,6 +7362,7 @@
       "type": "ordine",
       "value": "Agaricales",
       "matchSpecies": [
+        "Agaricus augustus",
         "Agaricus bitorquis",
         "Agaricus essettei",
         "Agaricus moelleri",
@@ -8039,7 +8058,8 @@
         "Hydnellum peckii",
         "Hydnellum scrobiculatum",
         "Sarcodon imbricatus",
-        "Thelephora palmata"
+        "Thelephora palmata",
+        "Thelephora terrestris"
       ]
     },
     {
@@ -8078,6 +8098,7 @@
       "value": "Agaricomycetes",
       "matchSpecies": [
         "Abortiporus biennis",
+        "Agaricus augustus",
         "Agaricus bitorquis",
         "Agaricus essettei",
         "Agaricus moelleri",
@@ -8563,6 +8584,7 @@
         "Tapinella atrotomentosa",
         "Tephrocybe rancida",
         "Thelephora palmata",
+        "Thelephora terrestris",
         "Trametes cinnabarina",
         "Trametes versicolor",
         "Tremiscus helvelloides",
@@ -8765,6 +8787,7 @@
       "value": "Basidiomycota",
       "matchSpecies": [
         "Abortiporus biennis",
+        "Agaricus augustus",
         "Agaricus bitorquis",
         "Agaricus essettei",
         "Agaricus moelleri",
@@ -9254,6 +9277,7 @@
         "Tapinella atrotomentosa",
         "Tephrocybe rancida",
         "Thelephora palmata",
+        "Thelephora terrestris",
         "Trametes cinnabarina",
         "Trametes versicolor",
         "Tremella mesenterica",
@@ -9306,6 +9330,7 @@
       "value": "Fungi",
       "matchSpecies": [
         "Abortiporus biennis",
+        "Agaricus augustus",
         "Agaricus bitorquis",
         "Agaricus essettei",
         "Agaricus moelleri",
@@ -9823,6 +9848,7 @@
         "Tarzetta cupularis",
         "Tephrocybe rancida",
         "Thelephora palmata",
+        "Thelephora terrestris",
         "Tolypocladium capitatum",
         "Trametes cinnabarina",
         "Trametes versicolor",

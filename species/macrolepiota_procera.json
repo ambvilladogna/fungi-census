@@ -6,6 +6,22 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-07-25",
+      "collector": "Pietro Centenari",
+      "locality": "Sent. Alto Serio (Verso i monti Parè e Blum - strada), Rovetta, Bergamo",
+      "localityCoordinates": "45.906838, 9.965556",
+      "habitat": "Bosco misto abete e latifoglie",
+      "determiner": "Pietro Centenari"
+    },
+    {
+      "collectionDate": "2026-07-25",
+      "collector": "Pietro Centenari",
+      "locality": "Sentiero \"del Bot\", Rovetta, Bergamo",
+      "localityCoordinates": "45.903716, 9.981451",
+      "habitat": "Bosco misto",
+      "determiner": "Pietro Centenari"
+    },
+    {
       "collectionDate": "2026-06-28",
       "collector": "Pietro Centenari",
       "locality": "Strada Falecchio - Camasone - San Fermo, Songavazzo, Bergamo",
@@ -118,7 +134,7 @@
         "giu": 2
       },
       {
-        "lug": 3
+        "lug": 5
       },
       {
         "ago": 0
@@ -138,8 +154,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 11,
-    "campioniRaccolti": 11,
+    "totaleCampioni": 13,
+    "campioniRaccolti": 13,
     "campioniExsiccata": 0
   }
 }
