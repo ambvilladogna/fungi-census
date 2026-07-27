@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-26T00:13:15.084Z",
-  "totalSpecies": 470,
-  "totalSamples": 1260,
+  "generatedAt": "2026-07-27T00:12:34.062Z",
+  "totalSpecies": 469,
+  "totalSamples": 1261,
   "species": [
     {
       "genus": "Flammulina",
@@ -7529,11 +7529,11 @@
     },
     {
       "genus": "Agaricus",
-      "species": "augustus",
-      "fullName": "Agaricus augustus",
+      "species": "sylvaticus",
+      "fullName": "Agaricus sylvaticus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
-      "authority": "Fr. 1838",
-      "totalSamples": 1,
+      "authority": "Schaeff. 1774",
+      "totalSamples": 3,
       "monthlyCount": [
         0,
         0,
@@ -7541,8 +7541,8 @@
         0,
         0,
         0,
+        2,
         1,
-        0,
         0,
         0,
         0,
@@ -7555,19 +7555,19 @@
         "collector": "Pietro Centenari",
         "locality": "Verso Monte Blum - Sentiero \"del Bot\", Rovetta, Bergamo",
         "localityCoordinates": "45.899752, 9.985085",
-        "habitat": "Abete rosso e castagno",
+        "habitat": "Bosco misto conifere",
         "determiner": "Pietro Centenari",
         "_tipo": "raccolto"
       },
-      "latestDate": "07-25",
-      "latestDayOfYear": 206,
+      "latestDate": "08-01",
+      "latestDayOfYear": 213,
       "latestSample": {
-        "collectionDate": "2026-07-25",
-        "collector": "Pietro Centenari",
-        "locality": "Verso Monte Blum - Sentiero \"del Bot\", Rovetta, Bergamo",
-        "localityCoordinates": "45.899752, 9.985085",
-        "habitat": "Abete rosso e castagno",
-        "determiner": "Pietro Centenari",
+        "collectionDate": "2025-08-01",
+        "collector": "Fabio Locatelli",
+        "locality": "Ripa, Gromo",
+        "localityCoordinates": "45.976347, 9.928513",
+        "habitat": "Abete rosso",
+        "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
     },
@@ -7656,6 +7656,52 @@
         "localityCoordinates": "45.902048, 9.983434",
         "habitat": "Abete rosso e castagno",
         "determiner": "Pietro Centenari",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Xerocomus",
+      "species": "chrysenteron",
+      "fullName": "Xerocomus chrysenteron",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
+      "authority": "(Bull.) Quél. 1888",
+      "currentName": "Xerocomellus chrysenteron",
+      "currentAuthority": "(Bull.) Šutara 2008",
+      "totalSamples": 3,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      "earliestDate": "07-26",
+      "earliestDayOfYear": 207,
+      "earliestSample": {
+        "collectionDate": "2026-07-26",
+        "collector": "Angelo Ballabeni",
+        "locality": "piazza Ferrari, Rovetta",
+        "localityCoordinates": "45.891306, 9.987359",
+        "habitat": "Tiglio",
+        "determiner": "Angelo Ballabeni",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "10-06",
+      "latestDayOfYear": 279,
+      "latestSample": {
+        "collectionDate": "2025-10-06",
+        "collector": "Fabio Tresoldi",
+        "locality": "Monte Pora, Castione della Presolana",
+        "localityCoordinates": "45.890641, 10.103017",
+        "habitat": "Bosco misto",
+        "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
     },
@@ -7922,50 +7968,6 @@
         "localityCoordinates": "45.945285, 9.963584",
         "habitat": "Bosco misto abete e latifoglie",
         "determiner": "Pierino Bigoni",
-        "_tipo": "raccolto"
-      }
-    },
-    {
-      "genus": "Agaricus",
-      "species": "sylvaticus",
-      "fullName": "Agaricus sylvaticus",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
-      "authority": "Schaeff. 1774",
-      "totalSamples": 2,
-      "monthlyCount": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        1,
-        0,
-        0,
-        0,
-        0
-      ],
-      "earliestDate": "07-31",
-      "earliestDayOfYear": 212,
-      "earliestSample": {
-        "collectionDate": "2025-07-31",
-        "collector": "Pierino Bigoni",
-        "locality": "Colle Palazzo, Oltressenda Alta",
-        "localityCoordinates": "45.938839, 9.973808",
-        "habitat": "Bosco misto abete e latifoglie",
-        "determiner": "Pierino Bigoni",
-        "_tipo": "raccolto"
-      },
-      "latestDate": "08-01",
-      "latestDayOfYear": 213,
-      "latestSample": {
-        "collectionDate": "2025-08-01",
-        "collector": "Fabio Locatelli",
-        "locality": "Ripa, Gromo",
-        "localityCoordinates": "45.976347, 9.928513",
-        "habitat": "Abete rosso",
-        "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
     },
@@ -17146,52 +17148,6 @@
         "collector": "Pierino Bigoni",
         "locality": "Pineta della Selva, Clusone",
         "localityCoordinates": "45.88196, 9.91806",
-        "habitat": "Bosco misto",
-        "determiner": "Pierino Bigoni",
-        "_tipo": "raccolto"
-      }
-    },
-    {
-      "genus": "Xerocomus",
-      "species": "chrysenteron",
-      "fullName": "Xerocomus chrysenteron",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
-      "authority": "(Bull.) Quél. 1888",
-      "currentName": "Xerocomellus chrysenteron",
-      "currentAuthority": "(Bull.) Šutara 2008",
-      "totalSamples": 2,
-      "monthlyCount": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        1,
-        0,
-        0
-      ],
-      "earliestDate": "09-22",
-      "earliestDayOfYear": 265,
-      "earliestSample": {
-        "collectionDate": "2025-09-22",
-        "collector": "Fabio Tresoldi",
-        "locality": "Monte Pora, Castione della Presolana",
-        "localityCoordinates": "45.890641, 10.103017",
-        "habitat": "Bosco misto",
-        "determiner": "Pierino Bigoni",
-        "_tipo": "raccolto"
-      },
-      "latestDate": "10-06",
-      "latestDayOfYear": 279,
-      "latestSample": {
-        "collectionDate": "2025-10-06",
-        "collector": "Fabio Tresoldi",
-        "locality": "Monte Pora, Castione della Presolana",
-        "localityCoordinates": "45.890641, 10.103017",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"

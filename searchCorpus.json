@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T00:13:15.194Z",
+  "generatedAt": "2026-07-27T00:12:34.214Z",
   "corpus": [
     {
       "type": "genus",
@@ -12,7 +12,6 @@
       "type": "genus",
       "value": "Agaricus",
       "matchSpecies": [
-        "Agaricus augustus",
         "Agaricus bitorquis",
         "Agaricus essettei",
         "Agaricus moelleri",
@@ -2055,13 +2054,6 @@
       "value": "Abortiporus biennis",
       "matchSpecies": [
         "Abortiporus biennis"
-      ]
-    },
-    {
-      "type": "species",
-      "value": "Agaricus augustus",
-      "matchSpecies": [
-        "Agaricus augustus"
       ]
     },
     {
@@ -6274,7 +6266,6 @@
       "type": "famiglia",
       "value": "Agaricaceae",
       "matchSpecies": [
-        "Agaricus augustus",
         "Agaricus bitorquis",
         "Agaricus essettei",
         "Agaricus moelleri",
@@ -7362,7 +7353,6 @@
       "type": "ordine",
       "value": "Agaricales",
       "matchSpecies": [
-        "Agaricus augustus",
         "Agaricus bitorquis",
         "Agaricus essettei",
         "Agaricus moelleri",
@@ -8098,7 +8088,6 @@
       "value": "Agaricomycetes",
       "matchSpecies": [
         "Abortiporus biennis",
-        "Agaricus augustus",
         "Agaricus bitorquis",
         "Agaricus essettei",
         "Agaricus moelleri",
@@ -8787,7 +8776,6 @@
       "value": "Basidiomycota",
       "matchSpecies": [
         "Abortiporus biennis",
-        "Agaricus augustus",
         "Agaricus bitorquis",
         "Agaricus essettei",
         "Agaricus moelleri",
@@ -9330,7 +9318,6 @@
       "value": "Fungi",
       "matchSpecies": [
         "Abortiporus biennis",
-        "Agaricus augustus",
         "Agaricus bitorquis",
         "Agaricus essettei",
         "Agaricus moelleri",

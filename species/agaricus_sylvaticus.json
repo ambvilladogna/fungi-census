@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-07-25",
+      "collector": "Pietro Centenari",
+      "locality": "Verso Monte Blum - Sentiero \"del Bot\", Rovetta, Bergamo",
+      "localityCoordinates": "45.899752, 9.985085",
+      "habitat": "Bosco misto conifere",
+      "determiner": "Pietro Centenari"
+    },
+    {
       "collectionDate": "2025-08-01",
       "collector": "Fabio Locatelli",
       "locality": "Ripa, Gromo",
@@ -24,7 +32,7 @@
   ],
   "campioniExsiccata": [],
   "fenologia": {
-    "raccoltaPiuPrecoce": "07-31",
+    "raccoltaPiuPrecoce": "07-25",
     "raccoltaPiuTarda": "08-01",
     "campioniPerMese": [
       {
@@ -46,7 +54,7 @@
         "giu": 0
       },
       {
-        "lug": 1
+        "lug": 2
       },
       {
         "ago": 1
@@ -66,8 +74,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 2,
-    "campioniRaccolti": 2,
+    "totaleCampioni": 3,
+    "campioniRaccolti": 3,
     "campioniExsiccata": 0
   }
 }

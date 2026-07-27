@@ -6,6 +6,14 @@
   "autoreCorrente": "(Bull.) Šutara 2008",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-07-26",
+      "collector": "Angelo Ballabeni",
+      "locality": "piazza Ferrari, Rovetta",
+      "localityCoordinates": "45.891306, 9.987359",
+      "habitat": "Tiglio",
+      "determiner": "Angelo Ballabeni"
+    },
+    {
       "collectionDate": "2025-10-06",
       "collector": "Fabio Tresoldi",
       "locality": "Monte Pora, Castione della Presolana",
@@ -24,7 +32,7 @@
   ],
   "campioniExsiccata": [],
   "fenologia": {
-    "raccoltaPiuPrecoce": "09-22",
+    "raccoltaPiuPrecoce": "07-26",
     "raccoltaPiuTarda": "10-06",
     "campioniPerMese": [
       {
@@ -46,7 +54,7 @@
         "giu": 0
       },
       {
-        "lug": 0
+        "lug": 1
       },
       {
         "ago": 0
@@ -66,8 +74,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 2,
-    "campioniRaccolti": 2,
+    "totaleCampioni": 3,
+    "campioniRaccolti": 3,
     "campioniExsiccata": 0
   }
 }
