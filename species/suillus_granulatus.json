@@ -6,6 +6,22 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-07-27",
+      "collector": "Natale Battevi",
+      "locality": "Cerete",
+      "localityCoordinates": "45.854349, 10.011019",
+      "habitat": "Bosco misto",
+      "determiner": "Pierino Bigoni"
+    },
+    {
+      "collectionDate": "2026-07-25",
+      "collector": "Pietro Centenari",
+      "locality": "Sent. Alto Serio (Verso i monti Parè e Blum - strada), Rovetta, Bergamo",
+      "localityCoordinates": "45.906513, 9.979603",
+      "habitat": "Bosco misto abete e latifoglie",
+      "determiner": "Pietro Centenari"
+    },
+    {
       "collectionDate": "2026-05-09",
       "collector": "Pietro Centenari",
       "locality": "Brugai, Onore, Bergamo",
@@ -70,7 +86,7 @@
         "giu": 0
       },
       {
-        "lug": 1
+        "lug": 3
       },
       {
         "ago": 0
@@ -90,8 +106,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 5,
-    "campioniRaccolti": 5,
+    "totaleCampioni": 7,
+    "campioniRaccolti": 7,
     "campioniExsiccata": 0
   }
 }
