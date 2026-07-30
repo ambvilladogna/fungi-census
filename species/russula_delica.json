@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-07-29",
+      "collector": "Pierino Bigoni",
+      "locality": "Spiazzi, Gromo",
+      "localityCoordinates": "45.970802, 9.963785",
+      "habitat": "Bosco misto abete bianco e abete rosso",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2025-07-21",
       "collector": "Antonio Guana",
       "locality": "Ave, Ardesio",
@@ -33,7 +41,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "07-01",
-    "raccoltaPiuTarda": "07-21",
+    "raccoltaPiuTarda": "07-29",
     "campioniPerMese": [
       {
         "gen": 0
@@ -54,7 +62,7 @@
         "giu": 0
       },
       {
-        "lug": 3
+        "lug": 4
       },
       {
         "ago": 0
@@ -74,8 +82,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 3,
-    "campioniRaccolti": 3,
+    "totaleCampioni": 4,
+    "campioniRaccolti": 4,
     "campioniExsiccata": 0
   }
 }
