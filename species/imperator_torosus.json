@@ -1,6 +1,6 @@
 {
-  "nomeCompleto": "Rubroboletus satanas",
-  "autore": "(Lenz) Kuan Zhao & Zhu L. Yang 2014",
+  "nomeCompleto": "Imperator torosus",
+  "autore": "(Fr.) Assyov, Bellanger, Bertéa, Courtec., Koller, Loizides, G. Marques, J.A. Muñoz, Oppicelli, D. Puddu, F. Rich. & P.-A. Moreau 2015",
   "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
   "nomeCorrente": null,
   "autoreCorrente": null,
@@ -8,23 +8,15 @@
     {
       "collectionDate": "2026-08-01",
       "collector": "Fabio Locatelli",
-      "locality": "mulattiera Fontanile di Sales, La Spessa, Clusone, Bergamo",
-      "localityCoordinates": "45.868506, 9.933190",
-      "habitat": "Castagno",
-      "determiner": "Fabio Locatelli"
-    },
-    {
-      "collectionDate": "2025-07-03",
-      "collector": "Fabio Locatelli",
-      "locality": "Prat del sul, Clusone",
-      "localityCoordinates": "45.867941, 9.932321",
+      "locality": "Castigo",
+      "localityCoordinates": "43.714625, 10.402929",
       "habitat": "Castagno",
       "determiner": "Fabio Locatelli"
     }
   ],
   "campioniExsiccata": [],
   "fenologia": {
-    "raccoltaPiuPrecoce": "07-03",
+    "raccoltaPiuPrecoce": "08-01",
     "raccoltaPiuTarda": "08-01",
     "campioniPerMese": [
       {
@@ -46,7 +38,7 @@
         "giu": 0
       },
       {
-        "lug": 1
+        "lug": 0
       },
       {
         "ago": 1
@@ -66,8 +58,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 2,
-    "campioniRaccolti": 2,
+    "totaleCampioni": 1,
+    "campioniRaccolti": 1,
     "campioniExsiccata": 0
   }
 }

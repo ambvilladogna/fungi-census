@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-07-31",
+      "collector": "Fabio Locatelli",
+      "locality": "Schilpario",
+      "localityCoordinates": "46.009394, 10.154059",
+      "habitat": "Abetaia",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2026-06-03",
       "collector": "Pietro Centenari",
       "locality": "Sentiero della Val Sanguigno, Novazza, Valgoglio, Bergamo",
@@ -54,7 +62,7 @@
         "giu": 2
       },
       {
-        "lug": 0
+        "lug": 1
       },
       {
         "ago": 1
@@ -74,8 +82,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 3,
-    "campioniRaccolti": 3,
+    "totaleCampioni": 4,
+    "campioniRaccolti": 4,
     "campioniExsiccata": 0
   }
 }

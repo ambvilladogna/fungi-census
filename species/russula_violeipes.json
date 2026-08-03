@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-07-31",
+      "collector": "Pietro Centenari",
+      "locality": "SCALE DI VALL'ACQUA, Bratte, Premolo, Bergamo",
+      "localityCoordinates": "45.888950, 9.847202",
+      "habitat": "Abete rosso",
+      "determiner": "Pietro Centenari"
+    },
+    {
       "collectionDate": "2026-07-29",
       "collector": "Pierino Bigoni",
       "locality": "Spiazzi, Gromo",
@@ -86,7 +94,7 @@
         "giu": 1
       },
       {
-        "lug": 2
+        "lug": 3
       },
       {
         "ago": 1
@@ -106,8 +114,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 7,
-    "campioniRaccolti": 7,
+    "totaleCampioni": 8,
+    "campioniRaccolti": 8,
     "campioniExsiccata": 0
   }
 }

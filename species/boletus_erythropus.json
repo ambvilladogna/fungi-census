@@ -6,6 +6,14 @@
   "autoreCorrente": "(Pers.) Bertolini & Papetti 2026",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-07-31",
+      "collector": "Pietro Centenari",
+      "locality": "Bratte, Premolo, Bergamo",
+      "localityCoordinates": "45.879056, 9.860653",
+      "habitat": "Abete rosso",
+      "determiner": "Pietro Centenari"
+    },
+    {
       "collectionDate": "2025-11-01",
       "collector": "Pierino Bigoni",
       "locality": "Parco avventura in Pineta, Clusone",
@@ -94,7 +102,7 @@
         "giu": 2
       },
       {
-        "lug": 0
+        "lug": 1
       },
       {
         "ago": 1
@@ -114,8 +122,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 8,
-    "campioniRaccolti": 8,
+    "totaleCampioni": 9,
+    "campioniRaccolti": 9,
     "campioniExsiccata": 0
   }
 }

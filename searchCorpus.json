@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T00:12:27.351Z",
+  "generatedAt": "2026-08-03T11:17:19.094Z",
   "corpus": [
     {
       "type": "genus",
@@ -182,10 +182,12 @@
         "Boletus radicans",
         "Boletus reticulatus",
         "Boletus rubrosanguineus",
+        "Boletus satanas",
         "Caloboletus calopus",
         "Caloboletus radicans",
         "Cyanoboletus pulverulentus",
         "Neoboletus erythropus",
+        "Rubroboletus satanas",
         "Suillellus luridus",
         "Suillellus rubrosanguineus"
       ]
@@ -862,6 +864,13 @@
     },
     {
       "type": "genus",
+      "value": "Hemileccinum",
+      "matchSpecies": [
+        "Hemileccinum depilatum"
+      ]
+    },
+    {
+      "type": "genus",
       "value": "Hemitrichia",
       "matchSpecies": [
         "Hemitrichia clavata",
@@ -978,6 +987,13 @@
       "matchSpecies": [
         "Imleria badia",
         "Xerocomus badius"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Imperator",
+      "matchSpecies": [
+        "Imperator torosus"
       ]
     },
     {
@@ -1342,6 +1358,13 @@
     },
     {
       "type": "genus",
+      "value": "Neolentinus",
+      "matchSpecies": [
+        "Neolentinus lepideus"
+      ]
+    },
+    {
+      "type": "genus",
       "value": "Omphalina",
       "matchSpecies": [
         "Omphalina pyxidata"
@@ -1677,6 +1700,7 @@
       "type": "genus",
       "value": "Rubroboletus",
       "matchSpecies": [
+        "Boletus satanas",
         "Rubroboletus satanas"
       ]
     },
@@ -2498,6 +2522,14 @@
       "matchSpecies": [
         "Boletus rubrosanguineus",
         "Suillellus rubrosanguineus"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Boletus satanas",
+      "matchSpecies": [
+        "Boletus satanas",
+        "Rubroboletus satanas"
       ]
     },
     {
@@ -3803,6 +3835,13 @@
     },
     {
       "type": "species",
+      "value": "Hemileccinum depilatum",
+      "matchSpecies": [
+        "Hemileccinum depilatum"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Hemitrichia clavata",
       "matchSpecies": [
         "Hemitrichia clavata"
@@ -4023,6 +4062,13 @@
       "matchSpecies": [
         "Imleria badia",
         "Xerocomus badius"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Imperator torosus",
+      "matchSpecies": [
+        "Imperator torosus"
       ]
     },
     {
@@ -4851,6 +4897,13 @@
     },
     {
       "type": "species",
+      "value": "Neolentinus lepideus",
+      "matchSpecies": [
+        "Neolentinus lepideus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Omphalina pyxidata",
       "matchSpecies": [
         "Omphalina pyxidata"
@@ -5374,6 +5427,7 @@
       "type": "species",
       "value": "Rubroboletus satanas",
       "matchSpecies": [
+        "Boletus satanas",
         "Rubroboletus satanas"
       ]
     },
@@ -6402,11 +6456,14 @@
         "Boletus radicans",
         "Boletus reticulatus",
         "Boletus rubrosanguineus",
+        "Boletus satanas",
         "Caloboletus calopus",
         "Caloboletus radicans",
         "Chalciporus piperatus",
         "Cyanoboletus pulverulentus",
+        "Hemileccinum depilatum",
         "Imleria badia",
+        "Imperator torosus",
         "Leccinellum pseudoscabrum",
         "Leccinum aurantiacum",
         "Leccinum carpini",
@@ -6629,7 +6686,8 @@
       "value": "Gloeophyllaceae",
       "matchSpecies": [
         "Gloeophyllum odoratum",
-        "Gloeophyllum sepiarium"
+        "Gloeophyllum sepiarium",
+        "Neolentinus lepideus"
       ]
     },
     {
@@ -7694,13 +7752,16 @@
         "Boletus radicans",
         "Boletus reticulatus",
         "Boletus rubrosanguineus",
+        "Boletus satanas",
         "Caloboletus calopus",
         "Caloboletus radicans",
         "Chalciporus piperatus",
         "Chroogomphus rutilus",
         "Cyanoboletus pulverulentus",
         "Gomphidius glutinosus",
+        "Hemileccinum depilatum",
         "Imleria badia",
+        "Imperator torosus",
         "Leccinellum pseudoscabrum",
         "Leccinum aurantiacum",
         "Leccinum carpini",
@@ -7795,7 +7856,8 @@
       "value": "Gloeophyllales",
       "matchSpecies": [
         "Gloeophyllum odoratum",
-        "Gloeophyllum sepiarium"
+        "Gloeophyllum sepiarium",
+        "Neolentinus lepideus"
       ]
     },
     {
@@ -8145,6 +8207,7 @@
         "Boletus radicans",
         "Boletus reticulatus",
         "Boletus rubrosanguineus",
+        "Boletus satanas",
         "Bovista plumbea",
         "Bovistella utriformis",
         "Caloboletus calopus",
@@ -8298,6 +8361,7 @@
         "Gymnopus ocior",
         "Hebeloma crustuliniforme",
         "Hebeloma sinapizans",
+        "Hemileccinum depilatum",
         "Heterobasidion parviporum",
         "Hirneola auricula-judae",
         "Hydnellum peckii",
@@ -8325,6 +8389,7 @@
         "Hypholoma lateritium",
         "Hypholoma sublateritium",
         "Imleria badia",
+        "Imperator torosus",
         "Infundibulicybe costata",
         "Infundibulicybe geotropa",
         "Infundibulicybe gibba",
@@ -8430,6 +8495,7 @@
         "Mycetinis scorodonius",
         "Neoboletus erythropus",
         "Neofavolus alveolaris",
+        "Neolentinus lepideus",
         "Omphalina pyxidata",
         "Oudemansiella radicata",
         "Panaeolus papilionaceus",
@@ -8833,6 +8899,7 @@
         "Boletus radicans",
         "Boletus reticulatus",
         "Boletus rubrosanguineus",
+        "Boletus satanas",
         "Bovista plumbea",
         "Bovistella utriformis",
         "Caloboletus calopus",
@@ -8990,6 +9057,7 @@
         "Gymnopus ocior",
         "Hebeloma crustuliniforme",
         "Hebeloma sinapizans",
+        "Hemileccinum depilatum",
         "Heterobasidion parviporum",
         "Hirneola auricula-judae",
         "Hydnellum peckii",
@@ -9017,6 +9085,7 @@
         "Hypholoma lateritium",
         "Hypholoma sublateritium",
         "Imleria badia",
+        "Imperator torosus",
         "Infundibulicybe costata",
         "Infundibulicybe geotropa",
         "Infundibulicybe gibba",
@@ -9122,6 +9191,7 @@
         "Mycetinis scorodonius",
         "Neoboletus erythropus",
         "Neofavolus alveolaris",
+        "Neolentinus lepideus",
         "Omphalina pyxidata",
         "Oudemansiella radicata",
         "Panaeolus papilionaceus",
@@ -9376,6 +9446,7 @@
         "Boletus radicans",
         "Boletus reticulatus",
         "Boletus rubrosanguineus",
+        "Boletus satanas",
         "Bovista plumbea",
         "Bovistella utriformis",
         "Caloboletus calopus",
@@ -9548,6 +9619,7 @@
         "Helvella elastica",
         "Helvella monachella",
         "Helvella silvicola",
+        "Hemileccinum depilatum",
         "Heterobasidion parviporum",
         "Hirneola auricula-judae",
         "Hydnellum peckii",
@@ -9577,6 +9649,7 @@
         "Hypholoma sublateritium",
         "Hypoxylon fragiforme",
         "Imleria badia",
+        "Imperator torosus",
         "Infundibulicybe costata",
         "Infundibulicybe geotropa",
         "Infundibulicybe gibba",
@@ -9686,6 +9759,7 @@
         "Mycetinis scorodonius",
         "Neoboletus erythropus",
         "Neofavolus alveolaris",
+        "Neolentinus lepideus",
         "Omphalina pyxidata",
         "Oudemansiella radicata",
         "Panaeolus papilionaceus",

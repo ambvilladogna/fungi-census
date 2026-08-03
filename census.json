@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-30T00:12:31.986Z",
-  "totalSpecies": 469,
-  "totalSamples": 1172,
+  "generatedAt": "2026-08-03T11:17:18.810Z",
+  "totalSpecies": 473,
+  "totalSamples": 1189,
   "species": [
     {
       "genus": "Abortiporus",
@@ -372,6 +372,15 @@
       "authority": "Cheype 1983",
       "currentName": "Suillellus rubrosanguineus",
       "currentAuthority": "(Cheype) Blanco-Dios 2015"
+    },
+    {
+      "genus": "Boletus",
+      "species": "satanas",
+      "fullName": "Boletus satanas",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
+      "authority": "Lenz 1831",
+      "currentName": "Rubroboletus satanas",
+      "currentAuthority": "(Lenz) Kuan Zhao & Zhu L. Yang 2014"
     },
     {
       "genus": "Bovista",
@@ -1436,6 +1445,13 @@
       "currentAuthority": "Nannf. 1966"
     },
     {
+      "genus": "Hemileccinum",
+      "species": "depilatum",
+      "fullName": "Hemileccinum depilatum",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
+      "authority": "(Redeuilh) Šutara 2008"
+    },
+    {
       "genus": "Hemitrichia",
       "species": "clavata",
       "fullName": "Hemitrichia clavata",
@@ -1636,6 +1652,13 @@
       "fullName": "Hypoxylon fragiforme",
       "lineage": "regno: Fungi > phylum: Ascomycota > classe: Sordariomycetes > ordine: Xylariales > famiglia: Hypoxylaceae",
       "authority": "(Pers.) J. Kickx f. 1835"
+    },
+    {
+      "genus": "Imperator",
+      "species": "torosus",
+      "fullName": "Imperator torosus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
+      "authority": "(Fr.) Assyov, Bellanger, Bertéa, Courtec., Koller, Loizides, G. Marques, J.A. Muñoz, Oppicelli, D. Puddu, F. Rich. & P.-A. Moreau 2015"
     },
     {
       "genus": "Inocybe",
@@ -2349,6 +2372,13 @@
       "fullName": "Neofavolus alveolaris",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Polyporales > famiglia: Polyporaceae",
       "authority": "(DC.) Sotome & T. Hatt. 2012"
+    },
+    {
+      "genus": "Neolentinus",
+      "species": "lepideus",
+      "fullName": "Neolentinus lepideus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Gloeophyllales > famiglia: Gloeophyllaceae",
+      "authority": "(Fr.) Redhead & Ginns 1985"
     },
     {
       "genus": "Omphalina",
