@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T11:17:18.913Z",
+  "generatedAt": "2026-08-04T00:12:30.298Z",
   "totalSpecies": 473,
   "totalSamples": 1291,
   "species": [
@@ -8577,8 +8577,8 @@
       "earliestSample": {
         "collectionDate": "2026-08-01",
         "collector": "Fabio Locatelli",
-        "locality": "Castigo",
-        "localityCoordinates": "43.714625, 10.402929",
+        "locality": "Casnigo",
+        "localityCoordinates": "45.815912, 9.868141",
         "habitat": "Castagno",
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
@@ -8588,8 +8588,8 @@
       "latestSample": {
         "collectionDate": "2026-08-01",
         "collector": "Fabio Locatelli",
-        "locality": "Castigo",
-        "localityCoordinates": "43.714625, 10.402929",
+        "locality": "Casnigo",
+        "localityCoordinates": "45.815912, 9.868141",
         "habitat": "Castagno",
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
@@ -15326,7 +15326,7 @@
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
       "authority": "(Fr.) Donk 1962",
       "currentName": "Lepiota fracida",
-      "currentAuthority": "(Fr.) R.L. Zhao & J.X. Li 2025",
+      "currentAuthority": "(Fr.) R.L. Zhao & J.Xin Li 2025",
       "totalSamples": 1,
       "monthlyCount": [
         0,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T11:17:18.810Z",
+  "generatedAt": "2026-08-04T00:12:30.204Z",
   "totalSpecies": 473,
   "totalSamples": 1189,
   "species": [
@@ -507,7 +507,7 @@
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
       "authority": "(Fr.) Donk 1962",
       "currentName": "Lepiota fracida",
-      "currentAuthority": "(Fr.) R.L. Zhao & J.X. Li 2025"
+      "currentAuthority": "(Fr.) R.L. Zhao & J.Xin Li 2025"
     },
     {
       "genus": "Chlorociboria",
