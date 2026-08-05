@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-04T00:12:30.298Z",
+  "generatedAt": "2026-08-05T00:12:34.930Z",
   "totalSpecies": 473,
-  "totalSamples": 1291,
+  "totalSamples": 1289,
   "species": [
     {
       "genus": "Flammulina",
@@ -3927,7 +3927,7 @@
       "authority": "(Paulet) Fr. 1838",
       "currentName": "Boletus reticulatus",
       "currentAuthority": "Schaeff. 1774",
-      "totalSamples": 14,
+      "totalSamples": 13,
       "monthlyCount": [
         0,
         0,
@@ -3935,7 +3935,7 @@
         0,
         0,
         4,
-        7,
+        6,
         1,
         2,
         0,
@@ -3971,7 +3971,7 @@
       "fullName": "Boletus reticulatus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
       "authority": "Schaeff. 1774",
-      "totalSamples": 14,
+      "totalSamples": 13,
       "monthlyCount": [
         0,
         0,
@@ -3979,7 +3979,7 @@
         0,
         0,
         4,
-        7,
+        6,
         1,
         2,
         0,
