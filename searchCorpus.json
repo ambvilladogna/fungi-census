@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T00:12:38.856Z",
+  "generatedAt": "2026-08-06T18:32:33.433Z",
   "corpus": [
     {
       "type": "genus",
@@ -1736,6 +1736,7 @@
         "Russula farinipes",
         "Russula firmula",
         "Russula foetens",
+        "Russula fragrantissima",
         "Russula grata",
         "Russula grisea",
         "Russula heterophylla",
@@ -5596,6 +5597,13 @@
     },
     {
       "type": "species",
+      "value": "Russula fragrantissima",
+      "matchSpecies": [
+        "Russula fragrantissima"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Russula grata",
       "matchSpecies": [
         "Russula grata",
@@ -7219,6 +7227,7 @@
         "Russula farinipes",
         "Russula firmula",
         "Russula foetens",
+        "Russula fragrantissima",
         "Russula grata",
         "Russula grisea",
         "Russula heterophylla",
@@ -8086,6 +8095,7 @@
         "Russula farinipes",
         "Russula firmula",
         "Russula foetens",
+        "Russula fragrantissima",
         "Russula grata",
         "Russula grisea",
         "Russula heterophylla",
@@ -8603,6 +8613,7 @@
         "Russula farinipes",
         "Russula firmula",
         "Russula foetens",
+        "Russula fragrantissima",
         "Russula grata",
         "Russula grisea",
         "Russula heterophylla",
@@ -9300,6 +9311,7 @@
         "Russula farinipes",
         "Russula firmula",
         "Russula foetens",
+        "Russula fragrantissima",
         "Russula grata",
         "Russula grisea",
         "Russula heterophylla",
@@ -9869,6 +9881,7 @@
         "Russula farinipes",
         "Russula firmula",
         "Russula foetens",
+        "Russula fragrantissima",
         "Russula grata",
         "Russula grisea",
         "Russula heterophylla",

@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-08-06",
+      "collector": "Pietro Centenari",
+      "locality": "Vilmaggiore, Vilminore di Scalve",
+      "localityCoordinates": "46.004013, 10.109599",
+      "habitat": "Abete rosso",
+      "determiner": "Pietro Centenari"
+    },
+    {
       "collectionDate": "2026-07-05",
       "collector": "Pierino Bigoni",
       "locality": "Via Monsignor Luigi Speranza, Groppino, Piario, Bergamo",
@@ -73,7 +81,7 @@
         "lug": 1
       },
       {
-        "ago": 3
+        "ago": 4
       },
       {
         "set": 1
@@ -90,8 +98,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 5,
-    "campioniRaccolti": 5,
+    "totaleCampioni": 6,
+    "campioniRaccolti": 6,
     "campioniExsiccata": 0
   }
 }

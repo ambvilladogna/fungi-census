@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-08-05",
+      "collector": "Fabio Locatelli",
+      "locality": "Ripa, Gromo",
+      "localityCoordinates": "45.976347, 9.928513",
+      "habitat": "Faggio",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2026-07-31",
       "collector": "Pietro Centenari",
       "locality": "SCALE DI VALL'ACQUA, Bratte, Premolo, Bergamo",
@@ -161,7 +169,7 @@
         "lug": 8
       },
       {
-        "ago": 3
+        "ago": 4
       },
       {
         "set": 0
@@ -178,8 +186,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 16,
-    "campioniRaccolti": 16,
+    "totaleCampioni": 17,
+    "campioniRaccolti": 17,
     "campioniExsiccata": 0
   }
 }

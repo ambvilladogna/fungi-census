@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-06T00:12:38.647Z",
-  "totalSpecies": 474,
-  "totalSamples": 1190,
+  "generatedAt": "2026-08-06T18:32:33.132Z",
+  "totalSpecies": 475,
+  "totalSamples": 1202,
   "species": [
     {
       "genus": "Abortiporus",
@@ -2937,6 +2937,13 @@
       "fullName": "Russula foetens",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
       "authority": "Pers. 1796"
+    },
+    {
+      "genus": "Russula",
+      "species": "fragrantissima",
+      "fullName": "Russula fragrantissima",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
+      "authority": "Romagn. 1967"
     },
     {
       "genus": "Russula",
