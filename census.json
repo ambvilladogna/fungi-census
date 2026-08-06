@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-05T00:12:34.842Z",
-  "totalSpecies": 473,
-  "totalSamples": 1188,
+  "generatedAt": "2026-08-06T00:12:38.647Z",
+  "totalSpecies": 474,
+  "totalSamples": 1190,
   "species": [
     {
       "genus": "Abortiporus",
@@ -388,6 +388,13 @@
       "fullName": "Bovista plumbea",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Lycoperdaceae",
       "authority": "Pers. 1795"
+    },
+    {
+      "genus": "Butyriboletus",
+      "species": "fechtneri",
+      "fullName": "Butyriboletus fechtneri",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
+      "authority": "(Velen.) D. Arora & J.L. Frank 2014"
     },
     {
       "genus": "Caloboletus",
@@ -1803,9 +1810,7 @@
       "species": "intermedius",
       "fullName": "Lactarius intermedius",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
-      "authority": "Krombh. ex Berk. & Broome 1881",
-      "currentName": "Lactarius torminosus",
-      "currentAuthority": "(Schaeff.) Pers. 1797"
+      "authority": "Krombh. ex Berk. & Broome 1881"
     },
     {
       "genus": "Lactarius",

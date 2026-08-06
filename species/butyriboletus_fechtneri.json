@@ -1,23 +1,23 @@
 {
-  "nomeCompleto": "Lactarius intermedius",
-  "autore": "Krombh. ex Berk. & Broome 1881",
-  "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
+  "nomeCompleto": "Butyriboletus fechtneri",
+  "autore": "(Velen.) D. Arora & J.L. Frank 2014",
+  "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
   "nomeCorrente": null,
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
-      "collectionDate": "2025-08-26",
-      "collector": "Renato Depressi",
-      "locality": "Strada per le baite del Moschel, Oltressenda Alta",
-      "localityCoordinates": "45.93408, 10.00331",
-      "habitat": "Bosco misto",
-      "determiner": "Renato Depressi"
+      "collectionDate": "2026-08-02",
+      "collector": "Fabio Locatelli",
+      "locality": "Casnigo",
+      "localityCoordinates": "45.815912, 9.868141",
+      "habitat": "Abete rosso",
+      "determiner": "Fabio Locatelli"
     }
   ],
   "campioniExsiccata": [],
   "fenologia": {
-    "raccoltaPiuPrecoce": "08-26",
-    "raccoltaPiuTarda": "08-26",
+    "raccoltaPiuPrecoce": "08-02",
+    "raccoltaPiuTarda": "08-02",
     "campioniPerMese": [
       {
         "gen": 0

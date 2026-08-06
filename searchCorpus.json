@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T11:17:19.094Z",
+  "generatedAt": "2026-08-06T00:12:38.856Z",
   "corpus": [
     {
       "type": "genus",
@@ -205,6 +205,13 @@
       "matchSpecies": [
         "Bovistella utriformis",
         "Calvatia utriformis"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Butyriboletus",
+      "matchSpecies": [
+        "Butyriboletus fechtneri"
       ]
     },
     {
@@ -2549,6 +2556,13 @@
     },
     {
       "type": "species",
+      "value": "Butyriboletus fechtneri",
+      "matchSpecies": [
+        "Butyriboletus fechtneri"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Caloboletus calopus",
       "matchSpecies": [
         "Boletus calopus",
@@ -4249,8 +4263,7 @@
       "type": "species",
       "value": "Lactarius intermedius",
       "matchSpecies": [
-        "Lactarius intermedius",
-        "Lactarius torminosus"
+        "Lactarius intermedius"
       ]
     },
     {
@@ -4328,7 +4341,6 @@
       "type": "species",
       "value": "Lactarius torminosus",
       "matchSpecies": [
-        "Lactarius intermedius",
         "Lactarius torminosus"
       ]
     },
@@ -6457,6 +6469,7 @@
         "Boletus reticulatus",
         "Boletus rubrosanguineus",
         "Boletus satanas",
+        "Butyriboletus fechtneri",
         "Caloboletus calopus",
         "Caloboletus radicans",
         "Chalciporus piperatus",
@@ -7753,6 +7766,7 @@
         "Boletus reticulatus",
         "Boletus rubrosanguineus",
         "Boletus satanas",
+        "Butyriboletus fechtneri",
         "Caloboletus calopus",
         "Caloboletus radicans",
         "Chalciporus piperatus",
@@ -8210,6 +8224,7 @@
         "Boletus satanas",
         "Bovista plumbea",
         "Bovistella utriformis",
+        "Butyriboletus fechtneri",
         "Caloboletus calopus",
         "Caloboletus radicans",
         "Calocybe gambosa",
@@ -8902,6 +8917,7 @@
         "Boletus satanas",
         "Bovista plumbea",
         "Bovistella utriformis",
+        "Butyriboletus fechtneri",
         "Caloboletus calopus",
         "Caloboletus radicans",
         "Calocera viscosa",
@@ -9449,6 +9465,7 @@
         "Boletus satanas",
         "Bovista plumbea",
         "Bovistella utriformis",
+        "Butyriboletus fechtneri",
         "Caloboletus calopus",
         "Caloboletus radicans",
         "Calocera viscosa",
