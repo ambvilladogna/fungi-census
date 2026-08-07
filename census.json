@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T18:32:33.132Z",
+  "generatedAt": "2026-08-07T00:12:32.289Z",
   "totalSpecies": 475,
   "totalSamples": 1202,
   "species": [
@@ -3521,8 +3521,8 @@
       "fullName": "Xerocomus armeniacus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
       "authority": "(Quél.) Quél. 1888",
-      "currentName": "Rheubarbariboletus armeniacus",
-      "currentAuthority": "(Quél.) Vizzini, Simonini & Gelardi 2015"
+      "currentName": "Xerocomellus armeniacus",
+      "currentAuthority": "(Quél.) M. Ullah, Saba, Asif & Karun. 2026"
     },
     {
       "genus": "Xerocomus",

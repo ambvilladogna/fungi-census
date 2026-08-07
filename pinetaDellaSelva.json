@@ -1,6 +1,6 @@
 {
   "title": "Pineta della Selva",
-  "generatedAt": "2026-07-06T18:08:56.470Z",
+  "generatedAt": "2026-08-07T00:12:32.533Z",
   "totalSpecies": 120,
   "totalSamples": 171,
   "species": [
@@ -887,8 +887,8 @@
       "fullName": "Xerocomus armeniacus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
       "authority": "(Quél.) Quél. 1888",
-      "currentName": "Rheubarbariboletus armeniacus",
-      "currentAuthority": "(Quél.) Vizzini, Simonini & Gelardi 2015"
+      "currentName": "Xerocomellus armeniacus",
+      "currentAuthority": "(Quél.) M. Ullah, Saba, Asif & Karun. 2026"
     },
     {
       "genus": "Xerocomus",

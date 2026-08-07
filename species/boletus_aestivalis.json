@@ -6,14 +6,6 @@
   "autoreCorrente": "Schaeff. 1774",
   "campioniRaccolti": [
     {
-      "collectionDate": "2026-07-31",
-      "collector": "Pietro Centenari",
-      "locality": "SCALE DI VALL'ACQUA, Bratte, Premolo, Bergamo",
-      "localityCoordinates": "45.887883, 9.847658",
-      "habitat": "Faggio",
-      "determiner": "Pietro Centenari"
-    },
-    {
       "collectionDate": "2026-07-10",
       "collector": "Fabio Locatelli",
       "locality": "Valbondione",
@@ -134,7 +126,7 @@
         "giu": 4
       },
       {
-        "lug": 6
+        "lug": 5
       },
       {
         "ago": 1
@@ -154,8 +146,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 13,
-    "campioniRaccolti": 13,
+    "totaleCampioni": 12,
+    "campioniRaccolti": 12,
     "campioniExsiccata": 0
   }
 }

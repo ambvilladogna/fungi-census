@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T18:32:33.433Z",
+  "generatedAt": "2026-08-07T00:12:32.552Z",
   "corpus": [
     {
       "type": "genus",
@@ -1663,14 +1663,6 @@
     },
     {
       "type": "genus",
-      "value": "Rheubarbariboletus",
-      "matchSpecies": [
-        "Rheubarbariboletus armeniacus",
-        "Xerocomus armeniacus"
-      ]
-    },
-    {
-      "type": "genus",
       "value": "Rhizocybe",
       "matchSpecies": [
         "Clitocybe pruinosa",
@@ -2052,8 +2044,10 @@
       "type": "genus",
       "value": "Xerocomellus",
       "matchSpecies": [
+        "Xerocomellus armeniacus",
         "Xerocomellus chrysenteron",
         "Xerocomellus pruinatus",
+        "Xerocomus armeniacus",
         "Xerocomus chrysenteron",
         "Xerocomus pruinatus"
       ]
@@ -2063,7 +2057,7 @@
       "value": "Xerocomus",
       "matchSpecies": [
         "Imleria badia",
-        "Rheubarbariboletus armeniacus",
+        "Xerocomellus armeniacus",
         "Xerocomellus chrysenteron",
         "Xerocomellus pruinatus",
         "Xerocomus armeniacus",
@@ -5384,14 +5378,6 @@
     },
     {
       "type": "species",
-      "value": "Rheubarbariboletus armeniacus",
-      "matchSpecies": [
-        "Rheubarbariboletus armeniacus",
-        "Xerocomus armeniacus"
-      ]
-    },
-    {
-      "type": "species",
       "value": "Rhizocybe pruinosa",
       "matchSpecies": [
         "Clitocybe pruinosa",
@@ -6269,6 +6255,14 @@
     },
     {
       "type": "species",
+      "value": "Xerocomellus armeniacus",
+      "matchSpecies": [
+        "Xerocomellus armeniacus",
+        "Xerocomus armeniacus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Xerocomellus chrysenteron",
       "matchSpecies": [
         "Xerocomellus chrysenteron",
@@ -6287,7 +6281,7 @@
       "type": "species",
       "value": "Xerocomus armeniacus",
       "matchSpecies": [
-        "Rheubarbariboletus armeniacus",
+        "Xerocomellus armeniacus",
         "Xerocomus armeniacus"
       ]
     },
@@ -6492,12 +6486,12 @@
         "Neoboletus erythropus",
         "Phylloporus rhodoxanthus",
         "Porphyrellus porphyrosporus",
-        "Rheubarbariboletus armeniacus",
         "Rubroboletus satanas",
         "Strobilomyces strobilaceus",
         "Suillellus luridus",
         "Suillellus rubrosanguineus",
         "Tylopilus felleus",
+        "Xerocomellus armeniacus",
         "Xerocomellus chrysenteron",
         "Xerocomellus pruinatus",
         "Xerocomus armeniacus",
@@ -7794,7 +7788,6 @@
         "Paxillus rubicundulus",
         "Phylloporus rhodoxanthus",
         "Porphyrellus porphyrosporus",
-        "Rheubarbariboletus armeniacus",
         "Rhizopogon roseolus",
         "Rubroboletus satanas",
         "Scleroderma citrinum",
@@ -7810,6 +7803,7 @@
         "Suillus variegatus",
         "Tapinella atrotomentosa",
         "Tylopilus felleus",
+        "Xerocomellus armeniacus",
         "Xerocomellus chrysenteron",
         "Xerocomellus pruinatus",
         "Xerocomus armeniacus",
@@ -8584,7 +8578,6 @@
         "Ramaria rufescens",
         "Ramaria sanguinea",
         "Ramaria stricta",
-        "Rheubarbariboletus armeniacus",
         "Rhizocybe pruinosa",
         "Rhizopogon roseolus",
         "Rhodocollybia butyracea",
@@ -8694,6 +8687,7 @@
         "Vanderbylia fraxinea",
         "Vascellum pratense",
         "Volvariella murinella",
+        "Xerocomellus armeniacus",
         "Xerocomellus chrysenteron",
         "Xerocomellus pruinatus",
         "Xerocomus armeniacus",
@@ -9282,7 +9276,6 @@
         "Ramaria rufescens",
         "Ramaria sanguinea",
         "Ramaria stricta",
-        "Rheubarbariboletus armeniacus",
         "Rhizocybe pruinosa",
         "Rhizopogon roseolus",
         "Rhodocollybia butyracea",
@@ -9394,6 +9387,7 @@
         "Vanderbylia fraxinea",
         "Vascellum pratense",
         "Volvariella murinella",
+        "Xerocomellus armeniacus",
         "Xerocomellus chrysenteron",
         "Xerocomellus pruinatus",
         "Xerocomus armeniacus",
@@ -9852,7 +9846,6 @@
         "Ramaria rufescens",
         "Ramaria sanguinea",
         "Ramaria stricta",
-        "Rheubarbariboletus armeniacus",
         "Rhizocybe pruinosa",
         "Rhizopogon roseolus",
         "Rhodocollybia butyracea",
@@ -9972,6 +9965,7 @@
         "Vascellum pratense",
         "Volvariella murinella",
         "Wynnella silvicola",
+        "Xerocomellus armeniacus",
         "Xerocomellus chrysenteron",
         "Xerocomellus pruinatus",
         "Xerocomus armeniacus",

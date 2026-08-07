@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T14:30:10.806Z",
+  "generatedAt": "2026-08-07T00:12:32.569Z",
   "corpus": [
     {
       "type": "genus",
@@ -533,14 +533,6 @@
     },
     {
       "type": "genus",
-      "value": "Rheubarbariboletus",
-      "matchSpecies": [
-        "Rheubarbariboletus armeniacus",
-        "Xerocomus armeniacus"
-      ]
-    },
-    {
-      "type": "genus",
       "value": "Rhodocollybia",
       "matchSpecies": [
         "Collybia distorta",
@@ -638,10 +630,18 @@
     },
     {
       "type": "genus",
+      "value": "Xerocomellus",
+      "matchSpecies": [
+        "Xerocomellus armeniacus",
+        "Xerocomus armeniacus"
+      ]
+    },
+    {
+      "type": "genus",
       "value": "Xerocomus",
       "matchSpecies": [
         "Imleria badia",
-        "Rheubarbariboletus armeniacus",
+        "Xerocomellus armeniacus",
         "Xerocomus armeniacus",
         "Xerocomus badius",
         "Xerocomus ferrugineus"
@@ -1497,14 +1497,6 @@
     },
     {
       "type": "species",
-      "value": "Rheubarbariboletus armeniacus",
-      "matchSpecies": [
-        "Rheubarbariboletus armeniacus",
-        "Xerocomus armeniacus"
-      ]
-    },
-    {
-      "type": "species",
       "value": "Rhodocollybia prolixa",
       "matchSpecies": [
         "Collybia distorta",
@@ -1696,9 +1688,17 @@
     },
     {
       "type": "species",
+      "value": "Xerocomellus armeniacus",
+      "matchSpecies": [
+        "Xerocomellus armeniacus",
+        "Xerocomus armeniacus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Xerocomus armeniacus",
       "matchSpecies": [
-        "Rheubarbariboletus armeniacus",
+        "Xerocomellus armeniacus",
         "Xerocomus armeniacus"
       ]
     },
@@ -1768,8 +1768,8 @@
         "Imleria badia",
         "Neoboletus erythropus",
         "Porphyrellus porphyrosporus",
-        "Rheubarbariboletus armeniacus",
         "Suillellus luridus",
+        "Xerocomellus armeniacus",
         "Xerocomus armeniacus",
         "Xerocomus badius",
         "Xerocomus ferrugineus"
@@ -2175,9 +2175,9 @@
         "Imleria badia",
         "Neoboletus erythropus",
         "Porphyrellus porphyrosporus",
-        "Rheubarbariboletus armeniacus",
         "Scleroderma verrucosum",
         "Suillellus luridus",
+        "Xerocomellus armeniacus",
         "Xerocomus armeniacus",
         "Xerocomus badius",
         "Xerocomus ferrugineus"
@@ -2399,7 +2399,6 @@
         "Pseudosperma rimosum",
         "Pycnoporus cinnabarinus",
         "Ramaria sanguinea",
-        "Rheubarbariboletus armeniacus",
         "Rhodocollybia prolixa",
         "Russula amara",
         "Russula caerulea",
@@ -2425,6 +2424,7 @@
         "Tricholomopsis decora",
         "Tricholomopsis rutilans",
         "Vanderbylia fraxinea",
+        "Xerocomellus armeniacus",
         "Xerocomus armeniacus",
         "Xerocomus badius",
         "Xerocomus ferrugineus"
@@ -2591,7 +2591,6 @@
         "Pseudosperma rimosum",
         "Pycnoporus cinnabarinus",
         "Ramaria sanguinea",
-        "Rheubarbariboletus armeniacus",
         "Rhodocollybia prolixa",
         "Russula amara",
         "Russula caerulea",
@@ -2617,6 +2616,7 @@
         "Tricholomopsis decora",
         "Tricholomopsis rutilans",
         "Vanderbylia fraxinea",
+        "Xerocomellus armeniacus",
         "Xerocomus armeniacus",
         "Xerocomus badius",
         "Xerocomus ferrugineus"
@@ -2745,7 +2745,6 @@
         "Pseudosperma rimosum",
         "Pycnoporus cinnabarinus",
         "Ramaria sanguinea",
-        "Rheubarbariboletus armeniacus",
         "Rhodocollybia prolixa",
         "Russula amara",
         "Russula caerulea",
@@ -2772,6 +2771,7 @@
         "Tricholomopsis decora",
         "Tricholomopsis rutilans",
         "Vanderbylia fraxinea",
+        "Xerocomellus armeniacus",
         "Xerocomus armeniacus",
         "Xerocomus badius",
         "Xerocomus ferrugineus"
