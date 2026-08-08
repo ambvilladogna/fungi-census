@@ -6,12 +6,12 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
-      "collectionDate": "2025-12-07",
-      "collector": "Pietro Centenari",
-      "locality": "Cascina Bianca, Rovetta",
-      "localityCoordinates": "45.906793, 9.982849",
-      "habitat": "Bosco misto abete e latifoglie",
-      "determiner": "Pietro Centenari"
+      "collectionDate": "2026-08-07",
+      "collector": "Fabio Locatelli",
+      "locality": "Schilpario",
+      "localityCoordinates": "46.009394, 10.154059",
+      "habitat": "Abete rosso",
+      "determiner": "Fabio Locatelli"
     },
     {
       "collectionDate": "2025-09-17",
@@ -64,8 +64,8 @@
   ],
   "campioniExsiccata": [],
   "fenologia": {
-    "raccoltaPiuPrecoce": "23/06",
-    "raccoltaPiuTarda": "07/12",
+    "raccoltaPiuPrecoce": "06-23",
+    "raccoltaPiuTarda": "09-17",
     "campioniPerMese": [
       {
         "gen": 0
@@ -89,7 +89,7 @@
         "lug": 1
       },
       {
-        "ago": 2
+        "ago": 3
       },
       {
         "set": 2
@@ -101,7 +101,7 @@
         "nov": 0
       },
       {
-        "dic": 1
+        "dic": 0
       }
     ]
   },

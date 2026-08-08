@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-08-07",
+      "collector": "Fabio Locatelli",
+      "locality": "Schilpario",
+      "localityCoordinates": "46.009394, 10.154059",
+      "habitat": "Abete rosso",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2026-07-31",
       "collector": "Fabio Locatelli",
       "locality": "Schilpario",
@@ -193,7 +201,7 @@
         "lug": 4
       },
       {
-        "ago": 2
+        "ago": 3
       },
       {
         "set": 7
@@ -210,8 +218,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 20,
-    "campioniRaccolti": 20,
+    "totaleCampioni": 21,
+    "campioniRaccolti": 21,
     "campioniExsiccata": 0
   }
 }

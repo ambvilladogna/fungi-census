@@ -6,6 +6,14 @@
   "autoreCorrente": "(Alb. & Schwein.) Singer 1939",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-08-07",
+      "collector": "Fabio Locatelli",
+      "locality": "Schilpario",
+      "localityCoordinates": "46.009394, 10.154059",
+      "habitat": "Abete rosso",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2026-08-06",
       "collector": "Pietro Centenari",
       "locality": "Vilmaggiore, Vilminore di Scalve",
@@ -49,7 +57,7 @@
         "lug": 0
       },
       {
-        "ago": 1
+        "ago": 2
       },
       {
         "set": 1
@@ -66,8 +74,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 2,
-    "campioniRaccolti": 2,
+    "totaleCampioni": 3,
+    "campioniRaccolti": 3,
     "campioniExsiccata": 0
   }
 }
