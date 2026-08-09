@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-08-07",
+      "collector": "Fabio Locatelli",
+      "locality": "Schilpario",
+      "localityCoordinates": "46.009394, 10.154059",
+      "habitat": "Abete rosso",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2026-08-06",
       "collector": "Pietro Centenari",
       "locality": "Bonden, Vilmaggiore, Vilminore di Scalve, Comunità Montana di Scalve, Bergamo",
@@ -89,7 +97,7 @@
         "lug": 0
       },
       {
-        "ago": 3
+        "ago": 4
       },
       {
         "set": 1
@@ -106,8 +114,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 7,
-    "campioniRaccolti": 7,
+    "totaleCampioni": 8,
+    "campioniRaccolti": 8,
     "campioniExsiccata": 0
   }
 }

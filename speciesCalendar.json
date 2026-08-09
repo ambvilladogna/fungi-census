@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-08T00:12:32.332Z",
+  "generatedAt": "2026-08-09T00:12:35.056Z",
   "totalSpecies": 475,
-  "totalSamples": 1312,
+  "totalSamples": 1315,
   "species": [
     {
       "genus": "Flammulina",
@@ -9355,7 +9355,7 @@
       "authority": "Consiglio, D. Antonini & M. Antonini 2003",
       "currentName": "Cortinarius rubellus",
       "currentAuthority": "Cooke 1887",
-      "totalSamples": 7,
+      "totalSamples": 8,
       "monthlyCount": [
         0,
         0,
@@ -9364,7 +9364,7 @@
         0,
         0,
         0,
-        3,
+        4,
         1,
         2,
         1,
@@ -9399,7 +9399,7 @@
       "fullName": "Cortinarius rubellus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
       "authority": "Cooke 1887",
-      "totalSamples": 7,
+      "totalSamples": 8,
       "monthlyCount": [
         0,
         0,
@@ -9408,7 +9408,7 @@
         0,
         0,
         0,
-        3,
+        4,
         1,
         2,
         1,
@@ -9523,6 +9523,50 @@
         "locality": "Zenier, Rovetta",
         "localityCoordinates": "45.898619, 9.984853",
         "habitat": "Bosco misto",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Tricholoma",
+      "species": "saponaceum",
+      "fullName": "Tricholoma saponaceum",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Tricholomataceae",
+      "authority": "(Fr.) P. Kumm. 1871",
+      "totalSamples": 3,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0
+      ],
+      "earliestDate": "08-07",
+      "earliestDayOfYear": 219,
+      "earliestSample": {
+        "collectionDate": "2026-08-07",
+        "collector": "Fabio Locatelli",
+        "locality": "Schilpario",
+        "localityCoordinates": "46.009394, 10.154059",
+        "habitat": "Faggio",
+        "determiner": "Fabio Locatelli",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "11-05",
+      "latestDayOfYear": 310,
+      "latestSample": {
+        "collectionDate": "2025-11-05",
+        "collector": "Pierino Bigoni",
+        "locality": "Pineta della Selva, Clusone",
+        "localityCoordinates": "45.88196, 9.91806",
+        "habitat": "Bosco misto abete e pino silvestre",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
@@ -13667,50 +13711,6 @@
         "locality": "Strada per le baite del Moschel, Oltressenda Alta",
         "localityCoordinates": "45.93408, 10.00331",
         "habitat": "Faggio",
-        "determiner": "Pierino Bigoni",
-        "_tipo": "raccolto"
-      }
-    },
-    {
-      "genus": "Tricholoma",
-      "species": "saponaceum",
-      "fullName": "Tricholoma saponaceum",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Tricholomataceae",
-      "authority": "(Fr.) P. Kumm. 1871",
-      "totalSamples": 2,
-      "monthlyCount": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        1,
-        0
-      ],
-      "earliestDate": "09-08",
-      "earliestDayOfYear": 251,
-      "earliestSample": {
-        "collectionDate": "2025-09-08",
-        "collector": "Fabio Locatelli",
-        "locality": "Ripa, Gromo",
-        "localityCoordinates": "45.976347, 9.928513",
-        "habitat": "Faggio",
-        "determiner": "Pierino Bigoni",
-        "_tipo": "raccolto"
-      },
-      "latestDate": "11-05",
-      "latestDayOfYear": 310,
-      "latestSample": {
-        "collectionDate": "2025-11-05",
-        "collector": "Pierino Bigoni",
-        "locality": "Pineta della Selva, Clusone",
-        "localityCoordinates": "45.88196, 9.91806",
-        "habitat": "Bosco misto abete e pino silvestre",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
