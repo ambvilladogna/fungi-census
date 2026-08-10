@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-08-09",
+      "collector": "Fabio Locatelli",
+      "locality": "Spiazzi, Gromo",
+      "localityCoordinates": "45.9733227, 9.9654765",
+      "habitat": "Abete rosso",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2026-07-19",
       "collector": "Fabio Locatelli",
       "locality": "Loc. Ronchi, Schilpario",
@@ -33,7 +41,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "06-28",
-    "raccoltaPiuTarda": "08-01",
+    "raccoltaPiuTarda": "08-09",
     "campioniPerMese": [
       {
         "gen": 0
@@ -57,7 +65,7 @@
         "lug": 1
       },
       {
-        "ago": 1
+        "ago": 2
       },
       {
         "set": 0
@@ -74,8 +82,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 3,
-    "campioniRaccolti": 3,
+    "totaleCampioni": 4,
+    "campioniRaccolti": 4,
     "campioniExsiccata": 0
   }
 }

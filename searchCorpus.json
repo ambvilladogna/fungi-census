@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T00:12:32.485Z",
+  "generatedAt": "2026-08-10T00:12:40.718Z",
   "corpus": [
     {
       "type": "genus",
@@ -72,7 +72,8 @@
         "Amanita simulans",
         "Amanita spissa",
         "Amanita vaginata",
-        "Amanita vaginata var. alba"
+        "Amanita vaginata var. alba",
+        "Amanita virosa"
       ]
     },
     {
@@ -2332,6 +2333,13 @@
       "value": "Amanita vaginata var. alba",
       "matchSpecies": [
         "Amanita vaginata var. alba"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Amanita virosa",
+      "matchSpecies": [
+        "Amanita virosa"
       ]
     },
     {
@@ -6397,6 +6405,7 @@
         "Amanita simulans",
         "Amanita spissa",
         "Amanita vaginata",
+        "Amanita virosa",
         "Limacella delicata",
         "Limacella glioderma"
       ]
@@ -7449,6 +7458,7 @@
         "Amanita spissa",
         "Amanita vaginata",
         "Amanita vaginata var. alba",
+        "Amanita virosa",
         "Ampulloclitocybe clavipes",
         "Apioperdon pyriforme",
         "Armillaria mellea",
@@ -8192,6 +8202,7 @@
         "Amanita spissa",
         "Amanita vaginata",
         "Amanita vaginata var. alba",
+        "Amanita virosa",
         "Ampulloclitocybe clavipes",
         "Apioperdon pyriforme",
         "Armillaria mellea",
@@ -8885,6 +8896,7 @@
         "Amanita spissa",
         "Amanita vaginata",
         "Amanita vaginata var. alba",
+        "Amanita virosa",
         "Ampulloclitocybe clavipes",
         "Apioperdon pyriforme",
         "Armillaria mellea",
@@ -9432,6 +9444,7 @@
         "Amanita spissa",
         "Amanita vaginata",
         "Amanita vaginata var. alba",
+        "Amanita virosa",
         "Ampulloclitocybe clavipes",
         "Apioperdon pyriforme",
         "Armillaria mellea",

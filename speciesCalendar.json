@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-09T00:12:35.056Z",
-  "totalSpecies": 475,
-  "totalSamples": 1315,
+  "generatedAt": "2026-08-10T00:12:40.573Z",
+  "totalSpecies": 476,
+  "totalSamples": 1316,
   "species": [
     {
       "genus": "Flammulina",
@@ -4953,7 +4953,7 @@
       "fullName": "Tylopilus felleus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
       "authority": "(Bull.) P. Karst. 1881",
-      "totalSamples": 3,
+      "totalSamples": 4,
       "monthlyCount": [
         0,
         0,
@@ -4962,7 +4962,7 @@
         0,
         1,
         1,
-        1,
+        2,
         0,
         0,
         0,
@@ -4979,14 +4979,14 @@
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       },
-      "latestDate": "08-01",
-      "latestDayOfYear": 213,
+      "latestDate": "08-09",
+      "latestDayOfYear": 221,
       "latestSample": {
-        "collectionDate": "2025-08-01",
+        "collectionDate": "2026-08-09",
         "collector": "Fabio Locatelli",
-        "locality": "Ripa, Gromo",
-        "localityCoordinates": "45.976347, 9.928513",
-        "habitat": "Faggio",
+        "locality": "Spiazzi, Gromo",
+        "localityCoordinates": "45.9733227, 9.9654765",
+        "habitat": "Abete rosso",
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
@@ -9438,50 +9438,6 @@
       }
     },
     {
-      "genus": "Russula",
-      "species": "xerampelina",
-      "fullName": "Russula xerampelina",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
-      "authority": "(Schaeff.) Fr. 1838",
-      "totalSamples": 5,
-      "monthlyCount": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        2,
-        2,
-        1,
-        0,
-        0
-      ],
-      "earliestDate": "08-06",
-      "earliestDayOfYear": 218,
-      "earliestSample": {
-        "collectionDate": "2026-08-06",
-        "collector": "Fabio Locatelli",
-        "locality": "Valbondione",
-        "localityCoordinates": "46.034193, 10.005855",
-        "habitat": "Faggio",
-        "determiner": "Fabio Locatelli",
-        "_tipo": "raccolto"
-      },
-      "latestDate": "10-06",
-      "latestDayOfYear": 279,
-      "latestSample": {
-        "collectionDate": "2025-10-06",
-        "collector": "Pietro Centenari",
-        "locality": "Blum, Rovetta",
-        "localityCoordinates": "45.909548, 9.973256",
-        "habitat": "Bosco misto",
-        "determiner": "Pierino Bigoni",
-        "_tipo": "raccolto"
-      }
-    },
-    {
       "genus": "Clitocybe",
       "species": "maxima",
       "fullName": "Clitocybe maxima",
@@ -9568,6 +9524,50 @@
         "localityCoordinates": "45.88196, 9.91806",
         "habitat": "Bosco misto abete e pino silvestre",
         "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Amanita",
+      "species": "virosa",
+      "fullName": "Amanita virosa",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
+      "authority": "Bertill. 1866",
+      "totalSamples": 1,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "earliestDate": "08-09",
+      "earliestDayOfYear": 221,
+      "earliestSample": {
+        "collectionDate": "2026-08-09",
+        "collector": "Fabio Locatelli",
+        "locality": "Spiazzi, Gromo",
+        "localityCoordinates": "45.9733227, 9.9654765",
+        "habitat": "Abete rosso",
+        "determiner": "Fabio Locatelli",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "08-09",
+      "latestDayOfYear": 221,
+      "latestSample": {
+        "collectionDate": "2026-08-09",
+        "collector": "Fabio Locatelli",
+        "locality": "Spiazzi, Gromo",
+        "localityCoordinates": "45.9733227, 9.9654765",
+        "habitat": "Abete rosso",
+        "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
     },
@@ -11036,6 +11036,50 @@
         "collector": "Pierino Bigoni",
         "locality": "Strada per le baite del Moschel, Oltressenda Alta",
         "localityCoordinates": "45.93408, 10.00331",
+        "habitat": "Bosco misto",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Russula",
+      "species": "xerampelina",
+      "fullName": "Russula xerampelina",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
+      "authority": "(Schaeff.) Fr. 1838",
+      "totalSamples": 4,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        2,
+        1,
+        0,
+        0
+      ],
+      "earliestDate": "08-26",
+      "earliestDayOfYear": 238,
+      "earliestSample": {
+        "collectionDate": "2025-08-26",
+        "collector": "Pierino Bigoni",
+        "locality": "Strada per le baite del Moschel, Oltressenda Alta",
+        "localityCoordinates": "45.93408, 10.00331",
+        "habitat": "Bosco misto",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "10-06",
+      "latestDayOfYear": 279,
+      "latestSample": {
+        "collectionDate": "2025-10-06",
+        "collector": "Pietro Centenari",
+        "locality": "Blum, Rovetta",
+        "localityCoordinates": "45.909548, 9.973256",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"

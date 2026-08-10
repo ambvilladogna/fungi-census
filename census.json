@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-09T00:12:34.966Z",
-  "totalSpecies": 475,
-  "totalSamples": 1207,
+  "generatedAt": "2026-08-10T00:12:40.449Z",
+  "totalSpecies": 476,
+  "totalSamples": 1209,
   "species": [
     {
       "genus": "Abortiporus",
@@ -214,6 +214,13 @@
       "fullName": "Amanita vaginata var. alba",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
       "authority": "(De Seynes) Gillet 1874"
+    },
+    {
+      "genus": "Amanita",
+      "species": "virosa",
+      "fullName": "Amanita virosa",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
+      "authority": "Bertill. 1866"
     },
     {
       "genus": "Armillaria",

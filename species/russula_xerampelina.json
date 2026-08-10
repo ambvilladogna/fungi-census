@@ -6,14 +6,6 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
-      "collectionDate": "2026-08-06",
-      "collector": "Fabio Locatelli",
-      "locality": "Valbondione",
-      "localityCoordinates": "46.034193, 10.005855",
-      "habitat": "Faggio",
-      "determiner": "Fabio Locatelli"
-    },
-    {
       "collectionDate": "2025-10-06",
       "collector": "Pietro Centenari",
       "locality": "Blum, Rovetta",
@@ -48,7 +40,7 @@
   ],
   "campioniExsiccata": [],
   "fenologia": {
-    "raccoltaPiuPrecoce": "08-06",
+    "raccoltaPiuPrecoce": "08-26",
     "raccoltaPiuTarda": "10-06",
     "campioniPerMese": [
       {
@@ -73,7 +65,7 @@
         "lug": 0
       },
       {
-        "ago": 2
+        "ago": 1
       },
       {
         "set": 2
@@ -90,8 +82,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 5,
-    "campioniRaccolti": 5,
+    "totaleCampioni": 4,
+    "campioniRaccolti": 4,
     "campioniExsiccata": 0
   }
 }
