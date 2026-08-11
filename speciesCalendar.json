@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-10T00:12:40.573Z",
+  "generatedAt": "2026-08-11T00:12:51.771Z",
   "totalSpecies": 476,
-  "totalSamples": 1316,
+  "totalSamples": 1317,
   "species": [
     {
       "genus": "Flammulina",
@@ -9484,6 +9484,50 @@
       }
     },
     {
+      "genus": "Cyathus",
+      "species": "striatus",
+      "fullName": "Cyathus striatus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales",
+      "authority": "Willd. 1787",
+      "totalSamples": 2,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      "earliestDate": "08-07",
+      "earliestDayOfYear": 219,
+      "earliestSample": {
+        "collectionDate": "2026-08-07",
+        "collector": "Fabio Locatelli",
+        "locality": "Schilpario",
+        "localityCoordinates": "46.009394, 10.154059",
+        "habitat": "Abete rosso",
+        "determiner": "Fabio Locatelli",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "08-26",
+      "latestDayOfYear": 238,
+      "latestSample": {
+        "collectionDate": "2025-08-26",
+        "collector": "Pierino Bigoni",
+        "locality": "Strada per le baite del Moschel, Oltressenda Alta",
+        "localityCoordinates": "45.93408, 10.00331",
+        "habitat": "Bosco misto",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
       "genus": "Tricholoma",
       "species": "saponaceum",
       "fullName": "Tricholoma saponaceum",
@@ -10550,50 +10594,6 @@
         "localityCoordinates": "46.009394, 10.154059",
         "habitat": "Bosco misto",
         "determiner": "Fabio Locatelli",
-        "_tipo": "raccolto"
-      }
-    },
-    {
-      "genus": "Cyathus",
-      "species": "striatus",
-      "fullName": "Cyathus striatus",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales",
-      "authority": "Willd. 1787",
-      "totalSamples": 1,
-      "monthlyCount": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0,
-        0
-      ],
-      "earliestDate": "08-26",
-      "earliestDayOfYear": 238,
-      "earliestSample": {
-        "collectionDate": "2025-08-26",
-        "collector": "Pierino Bigoni",
-        "locality": "Strada per le baite del Moschel, Oltressenda Alta",
-        "localityCoordinates": "45.93408, 10.00331",
-        "habitat": "Bosco misto",
-        "determiner": "Pierino Bigoni",
-        "_tipo": "raccolto"
-      },
-      "latestDate": "08-26",
-      "latestDayOfYear": 238,
-      "latestSample": {
-        "collectionDate": "2025-08-26",
-        "collector": "Pierino Bigoni",
-        "locality": "Strada per le baite del Moschel, Oltressenda Alta",
-        "localityCoordinates": "45.93408, 10.00331",
-        "habitat": "Bosco misto",
-        "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
     },

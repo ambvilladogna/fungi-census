@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-08-07",
+      "collector": "Fabio Locatelli",
+      "locality": "Schilpario",
+      "localityCoordinates": "46.009394, 10.154059",
+      "habitat": "Abete rosso",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2025-08-26",
       "collector": "Pierino Bigoni",
       "locality": "Strada per le baite del Moschel, Oltressenda Alta",
@@ -16,7 +24,7 @@
   ],
   "campioniExsiccata": [],
   "fenologia": {
-    "raccoltaPiuPrecoce": "08-26",
+    "raccoltaPiuPrecoce": "08-07",
     "raccoltaPiuTarda": "08-26",
     "campioniPerMese": [
       {
@@ -41,7 +49,7 @@
         "lug": 0
       },
       {
-        "ago": 1
+        "ago": 2
       },
       {
         "set": 0
@@ -58,8 +66,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 1,
-    "campioniRaccolti": 1,
+    "totaleCampioni": 2,
+    "campioniRaccolti": 2,
     "campioniExsiccata": 0
   }
 }
