@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-11T00:12:51.674Z",
-  "totalSpecies": 476,
-  "totalSamples": 1209,
+  "generatedAt": "2026-08-12T00:12:40.247Z",
+  "totalSpecies": 479,
+  "totalSamples": 1217,
   "species": [
     {
       "genus": "Abortiporus",
@@ -134,6 +134,13 @@
     },
     {
       "genus": "Amanita",
+      "species": "lividopallescens",
+      "fullName": "Amanita lividopallescens",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
+      "authority": "(Gillet) Bigeard & H. Guill. 1913"
+    },
+    {
+      "genus": "Amanita",
       "species": "magnivolvata",
       "fullName": "Amanita magnivolvata",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
@@ -198,6 +205,15 @@
       "authority": "(Fr.) Opiz 1852",
       "currentName": "Amanita excelsa",
       "currentAuthority": "(Fr.) Bertill. 1866"
+    },
+    {
+      "genus": "Amanita",
+      "species": "umbrinolutea",
+      "fullName": "Amanita umbrinolutea",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
+      "authority": "(Secr. ex Gillet) Bataille 1910",
+      "currentName": "Amanita battarrae",
+      "currentAuthority": "(Boud.) Bon 1985"
     },
     {
       "genus": "Amanita",
@@ -915,6 +931,15 @@
       "fullName": "Cortinarius collinitus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
       "authority": "(Sowerby) Gray 1821"
+    },
+    {
+      "genus": "Cortinarius",
+      "species": "crassus",
+      "fullName": "Cortinarius crassus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
+      "authority": "Fr. 1838",
+      "currentName": "Cystinarius crassus",
+      "currentAuthority": "(Fr.) Niskanen & Liimat. 2022"
     },
     {
       "genus": "Cortinarius",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T00:12:40.718Z",
+  "generatedAt": "2026-08-12T00:12:40.463Z",
   "corpus": [
     {
       "type": "genus",
@@ -52,6 +52,7 @@
       "value": "Amanita",
       "matchSpecies": [
         "Amanita argentea",
+        "Amanita battarrae",
         "Amanita brunneofuliginea",
         "Amanita citrina",
         "Amanita excelsa",
@@ -61,6 +62,7 @@
         "Amanita fulva",
         "Amanita gemmata",
         "Amanita junquillea",
+        "Amanita lividopallescens",
         "Amanita magnivolvata",
         "Amanita muscaria",
         "Amanita ochraceomaculata",
@@ -71,6 +73,7 @@
         "Amanita rubescens f. annulosulphurea",
         "Amanita simulans",
         "Amanita spissa",
+        "Amanita umbrinolutea",
         "Amanita vaginata",
         "Amanita vaginata var. alba",
         "Amanita virosa"
@@ -561,6 +564,7 @@
         "Cortinarius callisteus",
         "Cortinarius caperatus",
         "Cortinarius collinitus",
+        "Cortinarius crassus",
         "Cortinarius cumatilis",
         "Cortinarius elegantior",
         "Cortinarius infractus",
@@ -584,6 +588,7 @@
         "Cortinarius variecolor",
         "Cortinarius venetus",
         "Cortinarius violaceus",
+        "Cystinarius crassus",
         "Hygronarius renidens",
         "Phlegmacium percome"
       ]
@@ -637,6 +642,14 @@
       "matchSpecies": [
         "Agrocybe aegerita",
         "Cyclocybe cylindracea"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Cystinarius",
+      "matchSpecies": [
+        "Cortinarius crassus",
+        "Cystinarius crassus"
       ]
     },
     {
@@ -2182,6 +2195,14 @@
     },
     {
       "type": "species",
+      "value": "Amanita battarrae",
+      "matchSpecies": [
+        "Amanita battarrae",
+        "Amanita umbrinolutea"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Amanita brunneofuliginea",
       "matchSpecies": [
         "Amanita brunneofuliginea",
@@ -2245,6 +2266,13 @@
       "matchSpecies": [
         "Amanita gemmata",
         "Amanita junquillea"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Amanita lividopallescens",
+      "matchSpecies": [
+        "Amanita lividopallescens"
       ]
     },
     {
@@ -2318,6 +2346,14 @@
       "matchSpecies": [
         "Amanita excelsa",
         "Amanita spissa"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Amanita umbrinolutea",
+      "matchSpecies": [
+        "Amanita battarrae",
+        "Amanita umbrinolutea"
       ]
     },
     {
@@ -3243,6 +3279,14 @@
     },
     {
       "type": "species",
+      "value": "Cortinarius crassus",
+      "matchSpecies": [
+        "Cortinarius crassus",
+        "Cystinarius crassus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Cortinarius cumatilis",
       "matchSpecies": [
         "Cortinarius cumatilis"
@@ -3484,6 +3528,14 @@
       "matchSpecies": [
         "Agrocybe aegerita",
         "Cyclocybe cylindracea"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Cystinarius crassus",
+      "matchSpecies": [
+        "Cortinarius crassus",
+        "Cystinarius crassus"
       ]
     },
     {
@@ -6385,6 +6437,7 @@
       "value": "Amanitaceae",
       "matchSpecies": [
         "Amanita argentea",
+        "Amanita battarrae",
         "Amanita brunneofuliginea",
         "Amanita citrina",
         "Amanita excelsa",
@@ -6394,6 +6447,7 @@
         "Amanita fulva",
         "Amanita gemmata",
         "Amanita junquillea",
+        "Amanita lividopallescens",
         "Amanita magnivolvata",
         "Amanita muscaria",
         "Amanita ochraceomaculata",
@@ -6404,6 +6458,7 @@
         "Amanita rubescens f. annulosulphurea",
         "Amanita simulans",
         "Amanita spissa",
+        "Amanita umbrinolutea",
         "Amanita vaginata",
         "Amanita virosa",
         "Limacella delicata",
@@ -6588,6 +6643,7 @@
         "Cortinarius callisteus",
         "Cortinarius caperatus",
         "Cortinarius collinitus",
+        "Cortinarius crassus",
         "Cortinarius cumatilis",
         "Cortinarius elegantior",
         "Cortinarius infractus",
@@ -6611,6 +6667,7 @@
         "Cortinarius variecolor",
         "Cortinarius venetus",
         "Cortinarius violaceus",
+        "Cystinarius crassus",
         "Hygronarius renidens",
         "Phlegmacium percome"
       ]
@@ -7437,6 +7494,7 @@
         "Agrocybe aegerita",
         "Agrocybe praecox",
         "Amanita argentea",
+        "Amanita battarrae",
         "Amanita brunneofuliginea",
         "Amanita citrina",
         "Amanita excelsa",
@@ -7446,6 +7504,7 @@
         "Amanita fulva",
         "Amanita gemmata",
         "Amanita junquillea",
+        "Amanita lividopallescens",
         "Amanita magnivolvata",
         "Amanita muscaria",
         "Amanita ochraceomaculata",
@@ -7456,6 +7515,7 @@
         "Amanita rubescens f. annulosulphurea",
         "Amanita simulans",
         "Amanita spissa",
+        "Amanita umbrinolutea",
         "Amanita vaginata",
         "Amanita vaginata var. alba",
         "Amanita virosa",
@@ -7532,6 +7592,7 @@
         "Cortinarius callisteus",
         "Cortinarius caperatus",
         "Cortinarius collinitus",
+        "Cortinarius crassus",
         "Cortinarius cumatilis",
         "Cortinarius elegantior",
         "Cortinarius infractus",
@@ -7558,6 +7619,7 @@
         "Crucibulum laeve",
         "Cyathus striatus",
         "Cyclocybe cylindracea",
+        "Cystinarius crassus",
         "Cystoderma amianthinum",
         "Delicatula integrella",
         "Echinoderma asperum",
@@ -8181,6 +8243,7 @@
         "Albatrellus confluens",
         "Albatrellus ovinus",
         "Amanita argentea",
+        "Amanita battarrae",
         "Amanita brunneofuliginea",
         "Amanita citrina",
         "Amanita excelsa",
@@ -8190,6 +8253,7 @@
         "Amanita fulva",
         "Amanita gemmata",
         "Amanita junquillea",
+        "Amanita lividopallescens",
         "Amanita magnivolvata",
         "Amanita muscaria",
         "Amanita ochraceomaculata",
@@ -8200,6 +8264,7 @@
         "Amanita rubescens f. annulosulphurea",
         "Amanita simulans",
         "Amanita spissa",
+        "Amanita umbrinolutea",
         "Amanita vaginata",
         "Amanita vaginata var. alba",
         "Amanita virosa",
@@ -8312,6 +8377,7 @@
         "Cortinarius callisteus",
         "Cortinarius caperatus",
         "Cortinarius collinitus",
+        "Cortinarius crassus",
         "Cortinarius cumatilis",
         "Cortinarius elegantior",
         "Cortinarius infractus",
@@ -8345,6 +8411,7 @@
         "Cyanosporus caesius",
         "Cyathus striatus",
         "Cyclocybe cylindracea",
+        "Cystinarius crassus",
         "Cystoderma amianthinum",
         "Daedaleopsis confragosa",
         "Daedaleopsis tricolor",
@@ -8875,6 +8942,7 @@
         "Albatrellus confluens",
         "Albatrellus ovinus",
         "Amanita argentea",
+        "Amanita battarrae",
         "Amanita brunneofuliginea",
         "Amanita citrina",
         "Amanita excelsa",
@@ -8884,6 +8952,7 @@
         "Amanita fulva",
         "Amanita gemmata",
         "Amanita junquillea",
+        "Amanita lividopallescens",
         "Amanita magnivolvata",
         "Amanita muscaria",
         "Amanita ochraceomaculata",
@@ -8894,6 +8963,7 @@
         "Amanita rubescens f. annulosulphurea",
         "Amanita simulans",
         "Amanita spissa",
+        "Amanita umbrinolutea",
         "Amanita vaginata",
         "Amanita vaginata var. alba",
         "Amanita virosa",
@@ -9008,6 +9078,7 @@
         "Cortinarius callisteus",
         "Cortinarius caperatus",
         "Cortinarius collinitus",
+        "Cortinarius crassus",
         "Cortinarius cumatilis",
         "Cortinarius elegantior",
         "Cortinarius infractus",
@@ -9041,6 +9112,7 @@
         "Cyanosporus caesius",
         "Cyathus striatus",
         "Cyclocybe cylindracea",
+        "Cystinarius crassus",
         "Cystoderma amianthinum",
         "Dacrymyces chrysospermus",
         "Daedaleopsis confragosa",
@@ -9423,6 +9495,7 @@
         "Albatrellus confluens",
         "Albatrellus ovinus",
         "Amanita argentea",
+        "Amanita battarrae",
         "Amanita brunneofuliginea",
         "Amanita citrina",
         "Amanita excelsa",
@@ -9432,6 +9505,7 @@
         "Amanita fulva",
         "Amanita gemmata",
         "Amanita junquillea",
+        "Amanita lividopallescens",
         "Amanita magnivolvata",
         "Amanita muscaria",
         "Amanita ochraceomaculata",
@@ -9442,6 +9516,7 @@
         "Amanita rubescens f. annulosulphurea",
         "Amanita simulans",
         "Amanita spissa",
+        "Amanita umbrinolutea",
         "Amanita vaginata",
         "Amanita vaginata var. alba",
         "Amanita virosa",
@@ -9562,6 +9637,7 @@
         "Cortinarius callisteus",
         "Cortinarius caperatus",
         "Cortinarius collinitus",
+        "Cortinarius crassus",
         "Cortinarius cumatilis",
         "Cortinarius elegantior",
         "Cortinarius infractus",
@@ -9595,6 +9671,7 @@
         "Cyanosporus caesius",
         "Cyathus striatus",
         "Cyclocybe cylindracea",
+        "Cystinarius crassus",
         "Cystoderma amianthinum",
         "Dacrymyces chrysospermus",
         "Daedaleopsis confragosa",
