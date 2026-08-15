@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-12T00:12:40.342Z",
-  "totalSpecies": 479,
-  "totalSamples": 1326,
+  "generatedAt": "2026-08-15T00:12:52.795Z",
+  "totalSpecies": 480,
+  "totalSamples": 1328,
   "species": [
     {
       "genus": "Flammulina",
@@ -9840,6 +9840,94 @@
       }
     },
     {
+      "genus": "Entoloma",
+      "species": "bloxamii",
+      "fullName": "Entoloma bloxamii",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Entolomataceae",
+      "authority": "(Berk. & Broome) Sacc. 1887",
+      "totalSamples": 1,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "earliestDate": "08-13",
+      "earliestDayOfYear": 225,
+      "earliestSample": {
+        "collectionDate": "2026-08-13",
+        "collector": "Fabio Locatelli",
+        "locality": "Spiazzi, Gromo",
+        "localityCoordinates": "45.970802, 9.963785",
+        "habitat": "Abetaia",
+        "determiner": "Fabio Locatelli",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "08-13",
+      "latestDayOfYear": 225,
+      "latestSample": {
+        "collectionDate": "2026-08-13",
+        "collector": "Fabio Locatelli",
+        "locality": "Spiazzi, Gromo",
+        "localityCoordinates": "45.970802, 9.963785",
+        "habitat": "Abetaia",
+        "determiner": "Fabio Locatelli",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Hydnellum",
+      "species": "peckii",
+      "fullName": "Hydnellum peckii",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Thelephorales > famiglia: Bankeraceae",
+      "authority": "Banker 1912",
+      "totalSamples": 2,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "earliestDate": "08-13",
+      "earliestDayOfYear": 225,
+      "earliestSample": {
+        "collectionDate": "2026-08-13",
+        "collector": "Fabio Locatelli",
+        "locality": "Spiazzi, Gromo",
+        "localityCoordinates": "45.970802, 9.963785",
+        "habitat": "Abetaia",
+        "determiner": "Fabio Locatelli",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "09-14",
+      "latestDayOfYear": 257,
+      "latestSample": {
+        "collectionDate": "2025-09-14",
+        "collector": "Fabio Rossi",
+        "locality": "Piazza di Golla, Premolo",
+        "localityCoordinates": "45.885467, 9.846477",
+        "habitat": "Bosco misto",
+        "determiner": "Renato Depressi",
+        "_tipo": "raccolto"
+      }
+    },
+    {
       "genus": "Cantharellus",
       "species": "amethysteus",
       "fullName": "Cantharellus amethysteus",
@@ -14784,50 +14872,6 @@
         "localityCoordinates": "45.885467, 9.846477",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
-        "_tipo": "raccolto"
-      }
-    },
-    {
-      "genus": "Hydnellum",
-      "species": "peckii",
-      "fullName": "Hydnellum peckii",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Thelephorales > famiglia: Bankeraceae",
-      "authority": "Banker 1912",
-      "totalSamples": 1,
-      "monthlyCount": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0
-      ],
-      "earliestDate": "09-14",
-      "earliestDayOfYear": 257,
-      "earliestSample": {
-        "collectionDate": "2025-09-14",
-        "collector": "Fabio Rossi",
-        "locality": "Piazza di Golla, Premolo",
-        "localityCoordinates": "45.885467, 9.846477",
-        "habitat": "Bosco misto",
-        "determiner": "Renato Depressi",
-        "_tipo": "raccolto"
-      },
-      "latestDate": "09-14",
-      "latestDayOfYear": 257,
-      "latestSample": {
-        "collectionDate": "2025-09-14",
-        "collector": "Fabio Rossi",
-        "locality": "Piazza di Golla, Premolo",
-        "localityCoordinates": "45.885467, 9.846477",
-        "habitat": "Bosco misto",
-        "determiner": "Renato Depressi",
         "_tipo": "raccolto"
       }
     },

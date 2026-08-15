@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-12T00:12:40.247Z",
-  "totalSpecies": 479,
-  "totalSamples": 1217,
+  "generatedAt": "2026-08-15T00:12:52.714Z",
+  "totalSpecies": 480,
+  "totalSamples": 1219,
   "species": [
     {
       "genus": "Abortiporus",
@@ -1245,6 +1245,13 @@
       "fullName": "Encoelia furfuracea",
       "lineage": "regno: Fungi > phylum: Ascomycota > classe: Leotiomycetes > ordine: Helotiales > famiglia: Cenangiaceae",
       "authority": "(Roth) P. Karst. 1871"
+    },
+    {
+      "genus": "Entoloma",
+      "species": "bloxamii",
+      "fullName": "Entoloma bloxamii",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Entolomataceae",
+      "authority": "(Berk. & Broome) Sacc. 1887"
     },
     {
       "genus": "Entoloma",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T00:12:40.463Z",
+  "generatedAt": "2026-08-15T00:12:52.908Z",
   "corpus": [
     {
       "type": "genus",
@@ -722,6 +722,7 @@
       "type": "genus",
       "value": "Entoloma",
       "matchSpecies": [
+        "Entoloma bloxamii",
         "Entoloma hirtipes",
         "Entoloma incanum",
         "Entoloma nidorosum",
@@ -3616,6 +3617,13 @@
       "value": "Encoelia furfuracea",
       "matchSpecies": [
         "Encoelia furfuracea"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Entoloma bloxamii",
+      "matchSpecies": [
+        "Entoloma bloxamii"
       ]
     },
     {
@@ -6707,6 +6715,7 @@
       "value": "Entolomataceae",
       "matchSpecies": [
         "Clitopilus prunulus",
+        "Entoloma bloxamii",
         "Entoloma hirtipes",
         "Entoloma incanum",
         "Entoloma nidorosum",
@@ -7623,6 +7632,7 @@
         "Cystoderma amianthinum",
         "Delicatula integrella",
         "Echinoderma asperum",
+        "Entoloma bloxamii",
         "Entoloma hirtipes",
         "Entoloma incanum",
         "Entoloma nidorosum",
@@ -8417,6 +8427,7 @@
         "Daedaleopsis tricolor",
         "Delicatula integrella",
         "Echinoderma asperum",
+        "Entoloma bloxamii",
         "Entoloma hirtipes",
         "Entoloma incanum",
         "Entoloma nidorosum",
@@ -9119,6 +9130,7 @@
         "Daedaleopsis tricolor",
         "Delicatula integrella",
         "Echinoderma asperum",
+        "Entoloma bloxamii",
         "Entoloma hirtipes",
         "Entoloma incanum",
         "Entoloma nidorosum",
@@ -9683,6 +9695,7 @@
         "Echinoderma asperum",
         "Elaphomyces granulatus",
         "Encoelia furfuracea",
+        "Entoloma bloxamii",
         "Entoloma hirtipes",
         "Entoloma incanum",
         "Entoloma nidorosum",
