@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-08-18",
+      "collector": "Fabio Locatelli",
+      "locality": "Schilpario, pista di fondo",
+      "localityCoordinates": "46.008466, 10.164438",
+      "habitat": "Abetaia",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2025-10-06",
       "collector": "Fabio Locatelli",
       "locality": "Schilpario",
@@ -57,7 +65,7 @@
         "lug": 0
       },
       {
-        "ago": 2
+        "ago": 3
       },
       {
         "set": 0
@@ -74,8 +82,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 3,
-    "campioniRaccolti": 3,
+    "totaleCampioni": 4,
+    "campioniRaccolti": 4,
     "campioniExsiccata": 0
   }
 }

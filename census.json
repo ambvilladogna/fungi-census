@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-15T00:12:52.714Z",
-  "totalSpecies": 480,
-  "totalSamples": 1219,
+  "generatedAt": "2026-08-20T00:12:52.131Z",
+  "totalSpecies": 481,
+  "totalSamples": 1225,
   "species": [
     {
       "genus": "Abortiporus",
@@ -3047,6 +3047,13 @@
       "authority": "Singer 1929",
       "currentName": "Russula nobilis",
       "currentAuthority": "Velen. 1920"
+    },
+    {
+      "genus": "Russula",
+      "species": "mustelina",
+      "fullName": "Russula mustelina",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
+      "authority": "Fr. 1838"
     },
     {
       "genus": "Russula",

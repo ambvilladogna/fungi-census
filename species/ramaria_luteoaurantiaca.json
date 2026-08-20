@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-08-18",
+      "collector": "Fabio Locatelli",
+      "locality": "Schilpario, val di voglia",
+      "localityCoordinates": "46.006179, 10.157977",
+      "habitat": "Abetaia",
+      "determiner": "Angelo Ballabeni"
+    },
+    {
       "collectionDate": "2025-08-25",
       "collector": "Fabio Rossi",
       "locality": "Spiazzi, Gromo",
@@ -16,7 +24,7 @@
   ],
   "campioniExsiccata": [],
   "fenologia": {
-    "raccoltaPiuPrecoce": "08-25",
+    "raccoltaPiuPrecoce": "08-18",
     "raccoltaPiuTarda": "08-25",
     "campioniPerMese": [
       {
@@ -41,7 +49,7 @@
         "lug": 0
       },
       {
-        "ago": 1
+        "ago": 2
       },
       {
         "set": 0
@@ -58,8 +66,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 1,
-    "campioniRaccolti": 1,
+    "totaleCampioni": 2,
+    "campioniRaccolti": 2,
     "campioniExsiccata": 0
   }
 }
