@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-20T00:12:52.216Z",
+  "generatedAt": "2026-08-21T00:12:39.255Z",
   "totalSpecies": 481,
-  "totalSamples": 1334,
+  "totalSamples": 1337,
   "species": [
     {
       "genus": "Flammulina",
@@ -5173,7 +5173,7 @@
       "fullName": "Cantharellus cibarius",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Cantharellales > famiglia: Hydnaceae",
       "authority": "Fr. 1821",
-      "totalSamples": 10,
+      "totalSamples": 11,
       "monthlyCount": [
         0,
         0,
@@ -5182,7 +5182,7 @@
         0,
         0,
         4,
-        3,
+        4,
         2,
         0,
         1,
@@ -9667,7 +9667,7 @@
       "fullName": "Amanita virosa",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
       "authority": "Bertill. 1866",
-      "totalSamples": 1,
+      "totalSamples": 2,
       "monthlyCount": [
         0,
         0,
@@ -9676,7 +9676,7 @@
         0,
         0,
         0,
-        1,
+        2,
         0,
         0,
         0,
@@ -9693,14 +9693,14 @@
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       },
-      "latestDate": "08-09",
-      "latestDayOfYear": 221,
+      "latestDate": "08-18",
+      "latestDayOfYear": 230,
       "latestSample": {
-        "collectionDate": "2026-08-09",
+        "collectionDate": "2026-08-18",
         "collector": "Fabio Locatelli",
-        "locality": "Spiazzi, Gromo",
-        "localityCoordinates": "45.9733227, 9.9654765",
-        "habitat": "Abete rosso",
+        "locality": "Schilpario, pista di fondo",
+        "localityCoordinates": "46.008466, 10.164438",
+        "habitat": "Abetaia",
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
@@ -10014,6 +10014,50 @@
         "localityCoordinates": "46.009394, 10.154059",
         "habitat": "Bosco misto",
         "determiner": "Fabio Locatelli",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Entoloma",
+      "species": "nitidum",
+      "fullName": "Entoloma nitidum",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Entolomataceae",
+      "authority": "Quél. 1883",
+      "totalSamples": 2,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "earliestDate": "08-18",
+      "earliestDayOfYear": 230,
+      "earliestSample": {
+        "collectionDate": "2026-08-18",
+        "collector": "Fabio Locatelli",
+        "locality": "Schilpario, pista di fondo",
+        "localityCoordinates": "46.008466, 10.164438",
+        "habitat": "Abetaia",
+        "determiner": "Fabio Locatelli",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "09-08",
+      "latestDayOfYear": 251,
+      "latestSample": {
+        "collectionDate": "2025-09-08",
+        "collector": "Fabio Locatelli",
+        "locality": "Ripa, Gromo",
+        "localityCoordinates": "45.976347, 9.928513",
+        "habitat": "Faggio",
+        "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
     },
@@ -13714,50 +13758,6 @@
         "localityCoordinates": "46.009394, 10.154059",
         "habitat": "Bosco misto",
         "determiner": "Fabio Locatelli",
-        "_tipo": "raccolto"
-      }
-    },
-    {
-      "genus": "Entoloma",
-      "species": "nitidum",
-      "fullName": "Entoloma nitidum",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Entolomataceae",
-      "authority": "Quél. 1883",
-      "totalSamples": 1,
-      "monthlyCount": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0
-      ],
-      "earliestDate": "09-08",
-      "earliestDayOfYear": 251,
-      "earliestSample": {
-        "collectionDate": "2025-09-08",
-        "collector": "Fabio Locatelli",
-        "locality": "Ripa, Gromo",
-        "localityCoordinates": "45.976347, 9.928513",
-        "habitat": "Faggio",
-        "determiner": "Pierino Bigoni",
-        "_tipo": "raccolto"
-      },
-      "latestDate": "09-08",
-      "latestDayOfYear": 251,
-      "latestSample": {
-        "collectionDate": "2025-09-08",
-        "collector": "Fabio Locatelli",
-        "locality": "Ripa, Gromo",
-        "localityCoordinates": "45.976347, 9.928513",
-        "habitat": "Faggio",
-        "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
     },

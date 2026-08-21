@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-08-18",
+      "collector": "Fabio Locatelli",
+      "locality": "Schilpario, pista di fondo",
+      "localityCoordinates": "46.008466, 10.164438",
+      "habitat": "Abetaia",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2026-08-06",
       "collector": "Pietro Centenari",
       "locality": "Bonden, Vilmaggiore, Vilminore di Scalve, Comunità Montana di Scalve, Bergamo",
@@ -113,7 +121,7 @@
         "lug": 4
       },
       {
-        "ago": 3
+        "ago": 4
       },
       {
         "set": 2
@@ -130,8 +138,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 10,
-    "campioniRaccolti": 10,
+    "totaleCampioni": 11,
+    "campioniRaccolti": 11,
     "campioniExsiccata": 0
   }
 }
