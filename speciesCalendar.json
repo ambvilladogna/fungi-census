@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T07:36:08.085Z",
+  "generatedAt": "2026-08-25T07:43:17.916Z",
   "totalSpecies": 485,
   "totalSamples": 1368,
   "species": [
@@ -3063,7 +3063,7 @@
         "collectionDate": "2026-08-24",
         "collector": "Fabio Locatelli",
         "locality": "Costa Magrera, Gandellino",
-        "localityCoordinates": "",
+        "localityCoordinates": "45.973978, 9.960222",
         "habitat": "Abete rosso",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -7299,7 +7299,7 @@
         "collectionDate": "2026-08-24",
         "collector": "Fabio Locatelli",
         "locality": "Costa Magrera, Gandellino",
-        "localityCoordinates": "",
+        "localityCoordinates": "45.973978, 9.960222",
         "habitat": "Abete rosso",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -10176,7 +10176,7 @@
         "collectionDate": "2026-08-24",
         "collector": "Fabio Locatelli",
         "locality": "Costa Magrera, Gandellino",
-        "localityCoordinates": "",
+        "localityCoordinates": "45.973978, 9.960222",
         "habitat": "Abete rosso",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -10220,7 +10220,7 @@
         "collectionDate": "2026-08-24",
         "collector": "Fabio Locatelli",
         "locality": "Costa Magrera, Gandellino",
-        "localityCoordinates": "",
+        "localityCoordinates": "45.973978, 9.960222",
         "habitat": "Abete rosso",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -10266,7 +10266,7 @@
         "collectionDate": "2026-08-24",
         "collector": "Fabio Locatelli",
         "locality": "Costa Magrera, Gandellino",
-        "localityCoordinates": "",
+        "localityCoordinates": "45.973978, 9.960222",
         "habitat": "Abete rosso",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -10277,7 +10277,7 @@
         "collectionDate": "2026-08-24",
         "collector": "Fabio Locatelli",
         "locality": "Costa Magrera, Gandellino",
-        "localityCoordinates": "",
+        "localityCoordinates": "45.973978, 9.960222",
         "habitat": "Abete rosso",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -10356,7 +10356,7 @@
         "collectionDate": "2026-08-24",
         "collector": "Fabio Locatelli",
         "locality": "Costa Magrera, Gandellino",
-        "localityCoordinates": "",
+        "localityCoordinates": "45.973978, 9.960222",
         "habitat": "Abete rosso",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -10444,7 +10444,7 @@
         "collectionDate": "2026-08-24",
         "collector": "Fabio Locatelli",
         "locality": "Costa Magrera, Gandellino",
-        "localityCoordinates": "",
+        "localityCoordinates": "45.973978, 9.960222",
         "habitat": "Abete rosso",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -10534,7 +10534,7 @@
         "collectionDate": "2026-08-24",
         "collector": "Fabio Locatelli",
         "locality": "Costa Magrera, Gandellino",
-        "localityCoordinates": "",
+        "localityCoordinates": "45.973978, 9.960222",
         "habitat": "Abete rosso",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -10545,7 +10545,7 @@
         "collectionDate": "2026-08-24",
         "collector": "Fabio Locatelli",
         "locality": "Costa Magrera, Gandellino",
-        "localityCoordinates": "",
+        "localityCoordinates": "45.973978, 9.960222",
         "habitat": "Abete rosso",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
