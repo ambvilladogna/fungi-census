@@ -6,6 +6,22 @@
   "autoreCorrente": "(Pers.) Harmaja 2003",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-08-24",
+      "collector": "Fabio Locatelli",
+      "locality": "Costa Madrera, Gandellino",
+      "localityCoordinates": "",
+      "habitat": "Abete rosso",
+      "determiner": "Pierino Bigoni"
+    },
+    {
+      "collectionDate": "2026-08-24",
+      "collector": "Pierino Bigoni",
+      "locality": "Prato del Lo', Ardesio",
+      "localityCoordinates": "45.928468, 9.947982",
+      "habitat": "Bosco misto",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-08-07",
       "collector": "Fabio Locatelli",
       "locality": "Schilpario",
@@ -81,7 +97,7 @@
         "lug": 1
       },
       {
-        "ago": 3
+        "ago": 5
       },
       {
         "set": 1
@@ -98,8 +114,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 6,
-    "campioniRaccolti": 6,
+    "totaleCampioni": 8,
+    "campioniRaccolti": 8,
     "campioniExsiccata": 0
   }
 }

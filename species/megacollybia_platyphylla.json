@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-08-24",
+      "collector": "Fabio Locatelli",
+      "locality": "Costa Madrera, Gandellino",
+      "localityCoordinates": "",
+      "habitat": "Abete rosso",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-07-31",
       "collector": "Fabio Locatelli",
       "locality": "Schilpario",
@@ -41,7 +49,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "06-03",
-    "raccoltaPiuTarda": "08-04",
+    "raccoltaPiuTarda": "08-24",
     "campioniPerMese": [
       {
         "gen": 0
@@ -65,7 +73,7 @@
         "lug": 1
       },
       {
-        "ago": 1
+        "ago": 2
       },
       {
         "set": 0
@@ -82,8 +90,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 4,
-    "campioniRaccolti": 4,
+    "totaleCampioni": 5,
+    "campioniRaccolti": 5,
     "campioniExsiccata": 0
   }
 }

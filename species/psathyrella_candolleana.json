@@ -6,6 +6,14 @@
   "autoreCorrente": "(Fr.) D. Wächt. & A. Melzer 2020",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-08-24",
+      "collector": "Pietro Centenari",
+      "locality": "Zenier, Rovetta",
+      "localityCoordinates": "45.898619, 9.984853",
+      "habitat": "Bosco misto",
+      "determiner": "Angelo Ballabeni"
+    },
+    {
       "collectionDate": "2026-07-01",
       "collector": "Fabio Locatelli",
       "locality": "Valbondione",
@@ -41,7 +49,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "05-11",
-    "raccoltaPiuTarda": "07-14",
+    "raccoltaPiuTarda": "08-24",
     "campioniPerMese": [
       {
         "gen": 0
@@ -65,7 +73,7 @@
         "lug": 2
       },
       {
-        "ago": 0
+        "ago": 1
       },
       {
         "set": 0
@@ -82,8 +90,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 4,
-    "campioniRaccolti": 4,
+    "totaleCampioni": 5,
+    "campioniRaccolti": 5,
     "campioniExsiccata": 0
   }
 }

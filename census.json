@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-21T00:12:39.157Z",
-  "totalSpecies": 481,
-  "totalSamples": 1228,
+  "generatedAt": "2026-08-25T00:13:05.787Z",
+  "totalSpecies": 484,
+  "totalSamples": 1255,
   "species": [
     {
       "genus": "Abortiporus",
@@ -1180,6 +1180,15 @@
       "fullName": "Cystoderma amianthinum",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Squamanitaceae",
       "authority": "(Scop.) Fayod 1889"
+    },
+    {
+      "genus": "Cystoderma",
+      "species": "terryi",
+      "fullName": "Cystoderma terryi",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales",
+      "authority": "(Berk. & Broome) Harmaja 1978",
+      "currentName": "Cystodermella terryi",
+      "currentAuthority": "(Berk. & Broome) Bellù 2014"
     },
     {
       "genus": "Dacrymyces",
@@ -2645,6 +2654,13 @@
     },
     {
       "genus": "Pluteus",
+      "species": "pellitus",
+      "fullName": "Pluteus pellitus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Pluteaceae",
+      "authority": "(Pers.) P. Kumm. 1871"
+    },
+    {
+      "genus": "Pluteus",
       "species": "petasatus",
       "fullName": "Pluteus petasatus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Pluteaceae",
@@ -3610,6 +3626,13 @@
       "fullName": "Xerocomus subtomentosus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
       "authority": "(L.) Quél. 1887"
+    },
+    {
+      "genus": "Xeromphalina",
+      "species": "campanella",
+      "fullName": "Xeromphalina campanella",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Xeromphalinaceae",
+      "authority": "(Batsch) Kühner & Maire 1934"
     },
     {
       "genus": "Xylaria",

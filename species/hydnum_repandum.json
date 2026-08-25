@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-08-24",
+      "collector": "Fabio Locatelli",
+      "locality": "Costa Madrera, Gandellino",
+      "localityCoordinates": "",
+      "habitat": "Abete rosso",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2025-10-24",
       "collector": "Pietro Centenari",
       "locality": "Blum, Rovetta",
@@ -121,7 +129,7 @@
         "lug": 1
       },
       {
-        "ago": 3
+        "ago": 4
       },
       {
         "set": 4
@@ -138,8 +146,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 11,
-    "campioniRaccolti": 11,
+    "totaleCampioni": 12,
+    "campioniRaccolti": 12,
     "campioniExsiccata": 0
   }
 }

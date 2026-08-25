@@ -6,6 +6,14 @@
   "autoreCorrente": "(Bull.) Šutara 2008",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-08-24",
+      "collector": "Fabio Locatelli",
+      "locality": "Costa Madrera, Gandellino",
+      "localityCoordinates": "",
+      "habitat": "Abete rosso",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-07-26",
       "collector": "Angelo Ballabeni",
       "locality": "piazza Ferrari, Rovetta",
@@ -57,7 +65,7 @@
         "lug": 1
       },
       {
-        "ago": 0
+        "ago": 1
       },
       {
         "set": 1
@@ -74,8 +82,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 3,
-    "campioniRaccolti": 3,
+    "totaleCampioni": 4,
+    "campioniRaccolti": 4,
     "campioniExsiccata": 0
   }
 }

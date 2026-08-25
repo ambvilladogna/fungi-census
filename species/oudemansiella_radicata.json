@@ -6,6 +6,14 @@
   "autoreCorrente": "(Relhan) R.H. Petersen 2010",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-08-24",
+      "collector": "Antonio Guana",
+      "locality": "Ardesio",
+      "localityCoordinates": "45.937512, 9.931158",
+      "habitat": "Abete rosso",
+      "determiner": "Antonio Guana"
+    },
+    {
       "collectionDate": "2026-07-24",
       "collector": "Fabio Locatelli",
       "locality": "Sentiero per il rifugio Coca, Valbondione",
@@ -49,7 +57,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "06-28",
-    "raccoltaPiuTarda": "07-24",
+    "raccoltaPiuTarda": "08-24",
     "campioniPerMese": [
       {
         "gen": 0
@@ -73,7 +81,7 @@
         "lug": 4
       },
       {
-        "ago": 0
+        "ago": 1
       },
       {
         "set": 0
@@ -90,8 +98,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 5,
-    "campioniRaccolti": 5,
+    "totaleCampioni": 6,
+    "campioniRaccolti": 6,
     "campioniExsiccata": 0
   }
 }

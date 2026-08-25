@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-08-24",
+      "collector": "Antonio Guana",
+      "locality": "Ardesio",
+      "localityCoordinates": "45.937512, 9.931158",
+      "habitat": "Abete rosso",
+      "determiner": "Antonio Guana"
+    },
+    {
       "collectionDate": "2026-07-31",
       "collector": "Pietro Centenari",
       "locality": "SCALE DI VALL'ACQUA, Bratte, Premolo, Bergamo",
@@ -137,7 +145,7 @@
         "lug": 3
       },
       {
-        "ago": 4
+        "ago": 5
       },
       {
         "set": 4
@@ -154,8 +162,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 13,
-    "campioniRaccolti": 13,
+    "totaleCampioni": 14,
+    "campioniRaccolti": 14,
     "campioniExsiccata": 0
   }
 }

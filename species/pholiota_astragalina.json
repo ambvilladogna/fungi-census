@@ -6,6 +6,14 @@
   "autoreCorrente": "(Fr.) E.J. Tian & Matheny 2020",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-08-24",
+      "collector": "Fabio Locatelli",
+      "locality": "Costa Madrera, Gandellino",
+      "localityCoordinates": "",
+      "habitat": "Abete rosso",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2025-10-06",
       "collector": "Fabio Locatelli",
       "locality": "Schilpario",
@@ -32,7 +40,7 @@
   ],
   "campioniExsiccata": [],
   "fenologia": {
-    "raccoltaPiuPrecoce": "08-31",
+    "raccoltaPiuPrecoce": "08-24",
     "raccoltaPiuTarda": "10-06",
     "campioniPerMese": [
       {
@@ -57,7 +65,7 @@
         "lug": 0
       },
       {
-        "ago": 1
+        "ago": 2
       },
       {
         "set": 1
@@ -74,8 +82,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 3,
-    "campioniRaccolti": 3,
+    "totaleCampioni": 4,
+    "campioniRaccolti": 4,
     "campioniExsiccata": 0
   }
 }

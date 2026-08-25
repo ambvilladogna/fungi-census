@@ -1,31 +1,23 @@
 {
-  "nomeCompleto": "Cortinarius integerrimus",
-  "autore": "Kühner 1989",
-  "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
+  "nomeCompleto": "Pluteus pellitus",
+  "autore": "(Pers.) P. Kumm. 1871",
+  "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Pluteaceae",
   "nomeCorrente": null,
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
       "collectionDate": "2026-08-24",
-      "collector": "Fabio Locatelli",
-      "locality": "Costa Madrera, Gandellino",
-      "localityCoordinates": "",
-      "habitat": "Abete rosso",
+      "collector": "Pierino Bigoni",
+      "locality": "Prato del Lo', Ardesio",
+      "localityCoordinates": "45.928468, 9.947982",
+      "habitat": "Ceppaia di faggio",
       "determiner": "Pierino Bigoni"
-    },
-    {
-      "collectionDate": "2025-10-06",
-      "collector": "Fabio Locatelli",
-      "locality": "Schilpario",
-      "localityCoordinates": "46.009394, 10.154059",
-      "habitat": "Bosco misto",
-      "determiner": "Fabio Locatelli"
     }
   ],
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "08-24",
-    "raccoltaPiuTarda": "10-06",
+    "raccoltaPiuTarda": "08-24",
     "campioniPerMese": [
       {
         "gen": 0
@@ -55,7 +47,7 @@
         "set": 0
       },
       {
-        "ott": 1
+        "ott": 0
       },
       {
         "nov": 0
@@ -66,8 +58,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 2,
-    "campioniRaccolti": 2,
+    "totaleCampioni": 1,
+    "campioniRaccolti": 1,
     "campioniExsiccata": 0
   }
 }

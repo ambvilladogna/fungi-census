@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T00:12:52.326Z",
+  "generatedAt": "2026-08-25T00:13:06.015Z",
   "corpus": [
     {
       "type": "genus",
@@ -656,7 +656,17 @@
       "type": "genus",
       "value": "Cystoderma",
       "matchSpecies": [
-        "Cystoderma amianthinum"
+        "Cystoderma amianthinum",
+        "Cystoderma terryi",
+        "Cystodermella terryi"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Cystodermella",
+      "matchSpecies": [
+        "Cystoderma terryi",
+        "Cystodermella terryi"
       ]
     },
     {
@@ -1559,6 +1569,7 @@
         "Pluteus atromarginatus",
         "Pluteus cervinus",
         "Pluteus exiguus",
+        "Pluteus pellitus",
         "Pluteus petasatus",
         "Pluteus pouzarianus",
         "Pluteus romellii",
@@ -2081,6 +2092,13 @@
         "Xerocomus ferrugineus",
         "Xerocomus pruinatus",
         "Xerocomus subtomentosus"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Xeromphalina",
+      "matchSpecies": [
+        "Xeromphalina campanella"
       ]
     },
     {
@@ -3545,6 +3563,22 @@
       "value": "Cystoderma amianthinum",
       "matchSpecies": [
         "Cystoderma amianthinum"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Cystoderma terryi",
+      "matchSpecies": [
+        "Cystoderma terryi",
+        "Cystodermella terryi"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Cystodermella terryi",
+      "matchSpecies": [
+        "Cystoderma terryi",
+        "Cystodermella terryi"
       ]
     },
     {
@@ -5217,6 +5251,13 @@
     },
     {
       "type": "species",
+      "value": "Pluteus pellitus",
+      "matchSpecies": [
+        "Pluteus pellitus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Pluteus petasatus",
       "matchSpecies": [
         "Pluteus petasatus"
@@ -6393,6 +6434,13 @@
     },
     {
       "type": "species",
+      "value": "Xeromphalina campanella",
+      "matchSpecies": [
+        "Xeromphalina campanella"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Xylaria polymorpha",
       "matchSpecies": [
         "Xylaria polymorpha"
@@ -7155,6 +7203,7 @@
         "Pluteus atromarginatus",
         "Pluteus cervinus",
         "Pluteus exiguus",
+        "Pluteus pellitus",
         "Pluteus petasatus",
         "Pluteus pouzarianus",
         "Pluteus romellii",
@@ -7493,6 +7542,13 @@
     },
     {
       "type": "famiglia",
+      "value": "Xeromphalinaceae",
+      "matchSpecies": [
+        "Xeromphalina campanella"
+      ]
+    },
+    {
+      "type": "famiglia",
       "value": "Xylariaceae",
       "matchSpecies": [
         "Xylaria polymorpha"
@@ -7639,6 +7695,8 @@
         "Cyclocybe cylindracea",
         "Cystinarius crassus",
         "Cystoderma amianthinum",
+        "Cystoderma terryi",
+        "Cystodermella terryi",
         "Delicatula integrella",
         "Echinoderma asperum",
         "Entoloma bloxamii",
@@ -7771,6 +7829,7 @@
         "Pluteus atromarginatus",
         "Pluteus cervinus",
         "Pluteus exiguus",
+        "Pluteus pellitus",
         "Pluteus petasatus",
         "Pluteus pouzarianus",
         "Pluteus romellii",
@@ -7819,7 +7878,8 @@
         "Tubaria hiemalis",
         "Utraria umbrina",
         "Vascellum pratense",
-        "Volvariella murinella"
+        "Volvariella murinella",
+        "Xeromphalina campanella"
       ]
     },
     {
@@ -8433,6 +8493,8 @@
         "Cyclocybe cylindracea",
         "Cystinarius crassus",
         "Cystoderma amianthinum",
+        "Cystoderma terryi",
+        "Cystodermella terryi",
         "Daedaleopsis confragosa",
         "Daedaleopsis tricolor",
         "Delicatula integrella",
@@ -8636,6 +8698,7 @@
         "Pluteus atromarginatus",
         "Pluteus cervinus",
         "Pluteus exiguus",
+        "Pluteus pellitus",
         "Pluteus petasatus",
         "Pluteus pouzarianus",
         "Pluteus romellii",
@@ -8784,7 +8847,8 @@
         "Xerocomus chrysenteron",
         "Xerocomus ferrugineus",
         "Xerocomus pruinatus",
-        "Xerocomus subtomentosus"
+        "Xerocomus subtomentosus",
+        "Xeromphalina campanella"
       ]
     },
     {
@@ -9136,6 +9200,8 @@
         "Cyclocybe cylindracea",
         "Cystinarius crassus",
         "Cystoderma amianthinum",
+        "Cystoderma terryi",
+        "Cystodermella terryi",
         "Dacrymyces chrysospermus",
         "Daedaleopsis confragosa",
         "Daedaleopsis tricolor",
@@ -9341,6 +9407,7 @@
         "Pluteus atromarginatus",
         "Pluteus cervinus",
         "Pluteus exiguus",
+        "Pluteus pellitus",
         "Pluteus petasatus",
         "Pluteus pouzarianus",
         "Pluteus romellii",
@@ -9491,7 +9558,8 @@
         "Xerocomus chrysenteron",
         "Xerocomus ferrugineus",
         "Xerocomus pruinatus",
-        "Xerocomus subtomentosus"
+        "Xerocomus subtomentosus",
+        "Xeromphalina campanella"
       ]
     },
     {
@@ -9697,6 +9765,8 @@
         "Cyclocybe cylindracea",
         "Cystinarius crassus",
         "Cystoderma amianthinum",
+        "Cystoderma terryi",
+        "Cystodermella terryi",
         "Dacrymyces chrysospermus",
         "Daedaleopsis confragosa",
         "Daedaleopsis tricolor",
@@ -9918,6 +9988,7 @@
         "Pluteus atromarginatus",
         "Pluteus cervinus",
         "Pluteus exiguus",
+        "Pluteus pellitus",
         "Pluteus petasatus",
         "Pluteus pouzarianus",
         "Pluteus romellii",
@@ -10077,6 +10148,7 @@
         "Xerocomus ferrugineus",
         "Xerocomus pruinatus",
         "Xerocomus subtomentosus",
+        "Xeromphalina campanella",
         "Xylaria polymorpha"
       ]
     },
