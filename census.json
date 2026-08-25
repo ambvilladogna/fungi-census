@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-25T00:13:05.787Z",
-  "totalSpecies": 484,
+  "generatedAt": "2026-08-25T07:36:07.983Z",
+  "totalSpecies": 485,
   "totalSamples": 1255,
   "species": [
     {
@@ -2261,6 +2261,13 @@
       "authority": "(Wichanský) Bellù & Lanzoni 1987",
       "currentName": "Chlorophyllum brunneum",
       "currentAuthority": "(Farl. & Burt) Vellinga 2002"
+    },
+    {
+      "genus": "Marasmius",
+      "species": "bulliardii",
+      "fullName": "Marasmius bulliardii",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Marasmiaceae",
+      "authority": "Quél. 1878"
     },
     {
       "genus": "Marasmius",

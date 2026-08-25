@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-25T00:13:05.887Z",
-  "totalSpecies": 484,
-  "totalSamples": 1367,
+  "generatedAt": "2026-08-25T07:36:08.085Z",
+  "totalSpecies": 485,
+  "totalSamples": 1368,
   "species": [
     {
       "genus": "Flammulina",
@@ -3062,7 +3062,7 @@
       "latestSample": {
         "collectionDate": "2026-08-24",
         "collector": "Fabio Locatelli",
-        "locality": "Costa Madrera, Gandellino",
+        "locality": "Costa Magrera, Gandellino",
         "localityCoordinates": "",
         "habitat": "Abete rosso",
         "determiner": "Pierino Bigoni",
@@ -7298,7 +7298,7 @@
       "latestSample": {
         "collectionDate": "2026-08-24",
         "collector": "Fabio Locatelli",
-        "locality": "Costa Madrera, Gandellino",
+        "locality": "Costa Magrera, Gandellino",
         "localityCoordinates": "",
         "habitat": "Abete rosso",
         "determiner": "Pierino Bigoni",
@@ -10175,7 +10175,7 @@
       "earliestSample": {
         "collectionDate": "2026-08-24",
         "collector": "Fabio Locatelli",
-        "locality": "Costa Madrera, Gandellino",
+        "locality": "Costa Magrera, Gandellino",
         "localityCoordinates": "",
         "habitat": "Abete rosso",
         "determiner": "Pierino Bigoni",
@@ -10219,7 +10219,7 @@
       "earliestSample": {
         "collectionDate": "2026-08-24",
         "collector": "Fabio Locatelli",
-        "locality": "Costa Madrera, Gandellino",
+        "locality": "Costa Magrera, Gandellino",
         "localityCoordinates": "",
         "habitat": "Abete rosso",
         "determiner": "Pierino Bigoni",
@@ -10265,7 +10265,7 @@
       "earliestSample": {
         "collectionDate": "2026-08-24",
         "collector": "Fabio Locatelli",
-        "locality": "Costa Madrera, Gandellino",
+        "locality": "Costa Magrera, Gandellino",
         "localityCoordinates": "",
         "habitat": "Abete rosso",
         "determiner": "Pierino Bigoni",
@@ -10276,10 +10276,54 @@
       "latestSample": {
         "collectionDate": "2026-08-24",
         "collector": "Fabio Locatelli",
-        "locality": "Costa Madrera, Gandellino",
+        "locality": "Costa Magrera, Gandellino",
         "localityCoordinates": "",
         "habitat": "Abete rosso",
         "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Marasmius",
+      "species": "bulliardii",
+      "fullName": "Marasmius bulliardii",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Marasmiaceae",
+      "authority": "Quél. 1878",
+      "totalSamples": 1,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "earliestDate": "08-24",
+      "earliestDayOfYear": 236,
+      "earliestSample": {
+        "collectionDate": "2026-08-24",
+        "collector": "Pietro Centenari",
+        "locality": "Zenier, Rovetta",
+        "localityCoordinates": "45.898619, 9.984853",
+        "habitat": "Bosco misto",
+        "determiner": "Angelo Ballabeni",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "08-24",
+      "latestDayOfYear": 236,
+      "latestSample": {
+        "collectionDate": "2026-08-24",
+        "collector": "Pietro Centenari",
+        "locality": "Zenier, Rovetta",
+        "localityCoordinates": "45.898619, 9.984853",
+        "habitat": "Bosco misto",
+        "determiner": "Angelo Ballabeni",
         "_tipo": "raccolto"
       }
     },
@@ -10311,7 +10355,7 @@
       "earliestSample": {
         "collectionDate": "2026-08-24",
         "collector": "Fabio Locatelli",
-        "locality": "Costa Madrera, Gandellino",
+        "locality": "Costa Magrera, Gandellino",
         "localityCoordinates": "",
         "habitat": "Abete rosso",
         "determiner": "Pierino Bigoni",
@@ -10399,7 +10443,7 @@
       "earliestSample": {
         "collectionDate": "2026-08-24",
         "collector": "Fabio Locatelli",
-        "locality": "Costa Madrera, Gandellino",
+        "locality": "Costa Magrera, Gandellino",
         "localityCoordinates": "",
         "habitat": "Abete rosso",
         "determiner": "Pierino Bigoni",
@@ -10489,7 +10533,7 @@
       "earliestSample": {
         "collectionDate": "2026-08-24",
         "collector": "Fabio Locatelli",
-        "locality": "Costa Madrera, Gandellino",
+        "locality": "Costa Magrera, Gandellino",
         "localityCoordinates": "",
         "habitat": "Abete rosso",
         "determiner": "Pierino Bigoni",
@@ -10500,7 +10544,7 @@
       "latestSample": {
         "collectionDate": "2026-08-24",
         "collector": "Fabio Locatelli",
-        "locality": "Costa Madrera, Gandellino",
+        "locality": "Costa Magrera, Gandellino",
         "localityCoordinates": "",
         "habitat": "Abete rosso",
         "determiner": "Pierino Bigoni",

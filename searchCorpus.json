@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T00:13:06.015Z",
+  "generatedAt": "2026-08-25T07:36:08.285Z",
   "corpus": [
     {
       "type": "genus",
@@ -1300,6 +1300,7 @@
       "type": "genus",
       "value": "Marasmius",
       "matchSpecies": [
+        "Marasmius bulliardii",
         "Marasmius oreades",
         "Marasmius scorodonius",
         "Marasmius wynneae",
@@ -4824,6 +4825,13 @@
     },
     {
       "type": "species",
+      "value": "Marasmius bulliardii",
+      "matchSpecies": [
+        "Marasmius bulliardii"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Marasmius oreades",
       "matchSpecies": [
         "Marasmius oreades"
@@ -7035,6 +7043,7 @@
       "type": "famiglia",
       "value": "Marasmiaceae",
       "matchSpecies": [
+        "Marasmius bulliardii",
         "Marasmius oreades",
         "Marasmius wynneae"
       ]
@@ -7788,6 +7797,7 @@
         "Macrolepiota procera var. fuliginosa",
         "Macrolepiota rhacodes",
         "Macrolepiota rhacodes var. bohemica",
+        "Marasmius bulliardii",
         "Marasmius oreades",
         "Marasmius scorodonius",
         "Marasmius wynneae",
@@ -8642,6 +8652,7 @@
         "Macrolepiota procera var. fuliginosa",
         "Macrolepiota rhacodes",
         "Macrolepiota rhacodes var. bohemica",
+        "Marasmius bulliardii",
         "Marasmius oreades",
         "Marasmius scorodonius",
         "Marasmius wynneae",
@@ -9351,6 +9362,7 @@
         "Macrolepiota procera var. fuliginosa",
         "Macrolepiota rhacodes",
         "Macrolepiota rhacodes var. bohemica",
+        "Marasmius bulliardii",
         "Marasmius oreades",
         "Marasmius scorodonius",
         "Marasmius wynneae",
@@ -9930,6 +9942,7 @@
         "Macrolepiota procera var. fuliginosa",
         "Macrolepiota rhacodes",
         "Macrolepiota rhacodes var. bohemica",
+        "Marasmius bulliardii",
         "Marasmius oreades",
         "Marasmius scorodonius",
         "Marasmius wynneae",

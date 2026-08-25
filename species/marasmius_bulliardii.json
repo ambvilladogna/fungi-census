@@ -1,17 +1,17 @@
 {
-  "nomeCompleto": "Xeromphalina campanella",
-  "autore": "(Batsch) Kühner & Maire 1934",
-  "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Xeromphalinaceae",
+  "nomeCompleto": "Marasmius bulliardii",
+  "autore": "Quél. 1878",
+  "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Marasmiaceae",
   "nomeCorrente": null,
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
       "collectionDate": "2026-08-24",
-      "collector": "Fabio Locatelli",
-      "locality": "Costa Magrera, Gandellino",
-      "localityCoordinates": "",
-      "habitat": "Abete rosso",
-      "determiner": "Pierino Bigoni"
+      "collector": "Pietro Centenari",
+      "locality": "Zenier, Rovetta",
+      "localityCoordinates": "45.898619, 9.984853",
+      "habitat": "Bosco misto",
+      "determiner": "Angelo Ballabeni"
     }
   ],
   "campioniExsiccata": [],
