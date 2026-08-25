@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-25T07:43:17.814Z",
-  "totalSpecies": 485,
-  "totalSamples": 1255,
+  "generatedAt": "2026-08-25T08:02:11.671Z",
+  "totalSpecies": 489,
+  "totalSamples": 1260,
   "species": [
     {
       "genus": "Abortiporus",
@@ -1301,6 +1301,13 @@
     },
     {
       "genus": "Exobasidium",
+      "species": "juelianum",
+      "fullName": "Exobasidium juelianum",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Exobasidiomycetes > ordine: Exobasidiales > famiglia: Exobasidiaceae",
+      "authority": "Nannf. 1981"
+    },
+    {
+      "genus": "Exobasidium",
       "species": "rhododendri",
       "fullName": "Exobasidium rhododendri",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Exobasidiomycetes > ordine: Exobasidiales > famiglia: Exobasidiaceae",
@@ -2278,6 +2285,15 @@
     },
     {
       "genus": "Marasmius",
+      "species": "quercophilus",
+      "fullName": "Marasmius quercophilus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Omphalotaceae",
+      "authority": "Pouzar 1982",
+      "currentName": "Collybiopsis quercophila",
+      "currentAuthority": "(Pouzar) R.H. Petersen 2021"
+    },
+    {
+      "genus": "Marasmius",
       "species": "scorodonius",
       "fullName": "Marasmius scorodonius",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Omphalotaceae",
@@ -2661,6 +2677,13 @@
     },
     {
       "genus": "Pluteus",
+      "species": "luctuosus",
+      "fullName": "Pluteus luctuosus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Pluteaceae",
+      "authority": "Boud. 1905"
+    },
+    {
+      "genus": "Pluteus",
       "species": "pellitus",
       "fullName": "Pluteus pellitus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Pluteaceae",
@@ -2771,6 +2794,13 @@
       "fullName": "Ramaria botrytis",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Gomphales > famiglia: Gomphaceae",
       "authority": "(Pers.) Bourdot 1894"
+    },
+    {
+      "genus": "Ramaria",
+      "species": "botrytis f. musicolor",
+      "fullName": "Ramaria botrytis f. musicolor",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Gomphales > famiglia: Gomphaceae",
+      "authority": "Schild 1982"
     },
     {
       "genus": "Ramaria",

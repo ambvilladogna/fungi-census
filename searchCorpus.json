@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T07:36:08.285Z",
+  "generatedAt": "2026-08-25T08:02:12.082Z",
   "corpus": [
     {
       "type": "genus",
@@ -488,7 +488,9 @@
         "Collybia confluens",
         "Collybia peronata",
         "Collybiopsis confluens",
-        "Collybiopsis peronata"
+        "Collybiopsis peronata",
+        "Collybiopsis quercophila",
+        "Marasmius quercophilus"
       ]
     },
     {
@@ -751,6 +753,7 @@
       "type": "genus",
       "value": "Exobasidium",
       "matchSpecies": [
+        "Exobasidium juelianum",
         "Exobasidium rhododendri"
       ]
     },
@@ -1300,8 +1303,10 @@
       "type": "genus",
       "value": "Marasmius",
       "matchSpecies": [
+        "Collybiopsis quercophila",
         "Marasmius bulliardii",
         "Marasmius oreades",
+        "Marasmius quercophilus",
         "Marasmius scorodonius",
         "Marasmius wynneae",
         "Mycetinis scorodonius"
@@ -1570,6 +1575,7 @@
         "Pluteus atromarginatus",
         "Pluteus cervinus",
         "Pluteus exiguus",
+        "Pluteus luctuosus",
         "Pluteus pellitus",
         "Pluteus petasatus",
         "Pluteus pouzarianus",
@@ -1676,6 +1682,7 @@
       "value": "Ramaria",
       "matchSpecies": [
         "Ramaria botrytis",
+        "Ramaria botrytis f. musicolor",
         "Ramaria edwinii",
         "Ramaria flava",
         "Ramaria flavescens",
@@ -3132,6 +3139,14 @@
     },
     {
       "type": "species",
+      "value": "Collybiopsis quercophila",
+      "matchSpecies": [
+        "Collybiopsis quercophila",
+        "Marasmius quercophilus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Conocybe aporos",
       "matchSpecies": [
         "Conocybe aporos",
@@ -3704,6 +3719,13 @@
       "value": "Exidia glandulosa",
       "matchSpecies": [
         "Exidia glandulosa"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Exobasidium juelianum",
+      "matchSpecies": [
+        "Exobasidium juelianum"
       ]
     },
     {
@@ -4839,6 +4861,14 @@
     },
     {
       "type": "species",
+      "value": "Marasmius quercophilus",
+      "matchSpecies": [
+        "Collybiopsis quercophila",
+        "Marasmius quercophilus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Marasmius scorodonius",
       "matchSpecies": [
         "Marasmius scorodonius",
@@ -5259,6 +5289,13 @@
     },
     {
       "type": "species",
+      "value": "Pluteus luctuosus",
+      "matchSpecies": [
+        "Pluteus luctuosus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Pluteus pellitus",
       "matchSpecies": [
         "Pluteus pellitus"
@@ -5421,6 +5458,13 @@
       "value": "Ramaria botrytis",
       "matchSpecies": [
         "Ramaria botrytis"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Ramaria botrytis f. musicolor",
+      "matchSpecies": [
+        "Ramaria botrytis f. musicolor"
       ]
     },
     {
@@ -6791,6 +6835,7 @@
       "type": "famiglia",
       "value": "Exobasidiaceae",
       "matchSpecies": [
+        "Exobasidium juelianum",
         "Exobasidium rhododendri"
       ]
     },
@@ -6844,6 +6889,7 @@
         "Phaeoclavulina abietina",
         "Phaeoclavulina myceliosa",
         "Ramaria botrytis",
+        "Ramaria botrytis f. musicolor",
         "Ramaria edwinii",
         "Ramaria flava",
         "Ramaria flavescens",
@@ -7099,10 +7145,12 @@
         "Collybia peronata",
         "Collybiopsis confluens",
         "Collybiopsis peronata",
+        "Collybiopsis quercophila",
         "Gymnopus aquosus",
         "Gymnopus erythropus",
         "Gymnopus hariolorum",
         "Gymnopus ocior",
+        "Marasmius quercophilus",
         "Marasmius scorodonius",
         "Micromphale perforans",
         "Mycetinis scorodonius",
@@ -7212,6 +7260,7 @@
         "Pluteus atromarginatus",
         "Pluteus cervinus",
         "Pluteus exiguus",
+        "Pluteus luctuosus",
         "Pluteus pellitus",
         "Pluteus petasatus",
         "Pluteus pouzarianus",
@@ -7654,6 +7703,7 @@
         "Collybia sordida",
         "Collybiopsis confluens",
         "Collybiopsis peronata",
+        "Collybiopsis quercophila",
         "Conocybe aporos",
         "Conocybe juniana",
         "Conocybe magnicapitata",
@@ -7799,6 +7849,7 @@
         "Macrolepiota rhacodes var. bohemica",
         "Marasmius bulliardii",
         "Marasmius oreades",
+        "Marasmius quercophilus",
         "Marasmius scorodonius",
         "Marasmius wynneae",
         "Megacollybia platyphylla",
@@ -7839,6 +7890,7 @@
         "Pluteus atromarginatus",
         "Pluteus cervinus",
         "Pluteus exiguus",
+        "Pluteus luctuosus",
         "Pluteus pellitus",
         "Pluteus petasatus",
         "Pluteus pouzarianus",
@@ -8009,6 +8061,7 @@
       "type": "ordine",
       "value": "Exobasidiales",
       "matchSpecies": [
+        "Exobasidium juelianum",
         "Exobasidium rhododendri"
       ]
     },
@@ -8039,6 +8092,7 @@
         "Phaeoclavulina abietina",
         "Phaeoclavulina myceliosa",
         "Ramaria botrytis",
+        "Ramaria botrytis f. musicolor",
         "Ramaria edwinii",
         "Ramaria flava",
         "Ramaria flavescens",
@@ -8446,6 +8500,7 @@
         "Collybia sordida",
         "Collybiopsis confluens",
         "Collybiopsis peronata",
+        "Collybiopsis quercophila",
         "Conocybe aporos",
         "Conocybe juniana",
         "Conocybe magnicapitata",
@@ -8654,6 +8709,7 @@
         "Macrolepiota rhacodes var. bohemica",
         "Marasmius bulliardii",
         "Marasmius oreades",
+        "Marasmius quercophilus",
         "Marasmius scorodonius",
         "Marasmius wynneae",
         "Megacollybia platyphylla",
@@ -8709,6 +8765,7 @@
         "Pluteus atromarginatus",
         "Pluteus cervinus",
         "Pluteus exiguus",
+        "Pluteus luctuosus",
         "Pluteus pellitus",
         "Pluteus petasatus",
         "Pluteus pouzarianus",
@@ -8731,6 +8788,7 @@
         "Pycnoporus cinnabarinus",
         "Pyrrhulomyces astragalinus",
         "Ramaria botrytis",
+        "Ramaria botrytis f. musicolor",
         "Ramaria edwinii",
         "Ramaria flava",
         "Ramaria flavescens",
@@ -8881,6 +8939,7 @@
       "type": "classe",
       "value": "Exobasidiomycetes",
       "matchSpecies": [
+        "Exobasidium juelianum",
         "Exobasidium rhododendri"
       ]
     },
@@ -9154,6 +9213,7 @@
         "Collybia sordida",
         "Collybiopsis confluens",
         "Collybiopsis peronata",
+        "Collybiopsis quercophila",
         "Conocybe aporos",
         "Conocybe juniana",
         "Conocybe magnicapitata",
@@ -9225,6 +9285,7 @@
         "Entoloma nitidum",
         "Entoloma rhodopolium",
         "Exidia glandulosa",
+        "Exobasidium juelianum",
         "Exobasidium rhododendri",
         "Fistulina hepatica",
         "Flammulina fennae",
@@ -9364,6 +9425,7 @@
         "Macrolepiota rhacodes var. bohemica",
         "Marasmius bulliardii",
         "Marasmius oreades",
+        "Marasmius quercophilus",
         "Marasmius scorodonius",
         "Marasmius wynneae",
         "Megacollybia platyphylla",
@@ -9419,6 +9481,7 @@
         "Pluteus atromarginatus",
         "Pluteus cervinus",
         "Pluteus exiguus",
+        "Pluteus luctuosus",
         "Pluteus pellitus",
         "Pluteus petasatus",
         "Pluteus pouzarianus",
@@ -9441,6 +9504,7 @@
         "Pycnoporus cinnabarinus",
         "Pyrrhulomyces astragalinus",
         "Ramaria botrytis",
+        "Ramaria botrytis f. musicolor",
         "Ramaria edwinii",
         "Ramaria flava",
         "Ramaria flavescens",
@@ -9719,6 +9783,7 @@
         "Collybia sordida",
         "Collybiopsis confluens",
         "Collybiopsis peronata",
+        "Collybiopsis quercophila",
         "Conocybe aporos",
         "Conocybe juniana",
         "Conocybe magnicapitata",
@@ -9796,6 +9861,7 @@
         "Entoloma nitidum",
         "Entoloma rhodopolium",
         "Exidia glandulosa",
+        "Exobasidium juelianum",
         "Exobasidium rhododendri",
         "Fistulina hepatica",
         "Flammulina fennae",
@@ -9944,6 +10010,7 @@
         "Macrolepiota rhacodes var. bohemica",
         "Marasmius bulliardii",
         "Marasmius oreades",
+        "Marasmius quercophilus",
         "Marasmius scorodonius",
         "Marasmius wynneae",
         "Megacollybia platyphylla",
@@ -10001,6 +10068,7 @@
         "Pluteus atromarginatus",
         "Pluteus cervinus",
         "Pluteus exiguus",
+        "Pluteus luctuosus",
         "Pluteus pellitus",
         "Pluteus petasatus",
         "Pluteus pouzarianus",
@@ -10023,6 +10091,7 @@
         "Pycnoporus cinnabarinus",
         "Pyrrhulomyces astragalinus",
         "Ramaria botrytis",
+        "Ramaria botrytis f. musicolor",
         "Ramaria edwinii",
         "Ramaria flava",
         "Ramaria flavescens",

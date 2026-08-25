@@ -1,0 +1,56 @@
+{
+  "nomeCompleto": "Marasmius quercophilus",
+  "autore": "Pouzar 1982",
+  "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Omphalotaceae",
+  "nomeCorrente": "Collybiopsis quercophila",
+  "autoreCorrente": "(Pouzar) R.H. Petersen 2021",
+  "campioniRaccolti": [],
+  "campioniExsiccata": [],
+  "fenologia": {
+    "raccoltaPiuPrecoce": null,
+    "raccoltaPiuTarda": null,
+    "campioniPerMese": [
+      {
+        "gen": 0
+      },
+      {
+        "feb": 0
+      },
+      {
+        "mar": 0
+      },
+      {
+        "apr": 0
+      },
+      {
+        "mag": 0
+      },
+      {
+        "giu": 0
+      },
+      {
+        "lug": 0
+      },
+      {
+        "ago": 0
+      },
+      {
+        "set": 0
+      },
+      {
+        "ott": 0
+      },
+      {
+        "nov": 0
+      },
+      {
+        "dic": 0
+      }
+    ]
+  },
+  "statistiche": {
+    "totaleCampioni": 0,
+    "campioniRaccolti": 0,
+    "campioniExsiccata": 0
+  }
+}

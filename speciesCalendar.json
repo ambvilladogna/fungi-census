@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-25T07:43:17.916Z",
-  "totalSpecies": 485,
-  "totalSamples": 1368,
+  "generatedAt": "2026-08-25T08:02:11.803Z",
+  "totalSpecies": 486,
+  "totalSamples": 1370,
   "species": [
     {
       "genus": "Flammulina",
@@ -2987,7 +2987,7 @@
       "fullName": "Bovista plumbea",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Lycoperdaceae",
       "authority": "Pers. 1795",
-      "totalSamples": 3,
+      "totalSamples": 4,
       "monthlyCount": [
         0,
         0,
@@ -2996,7 +2996,7 @@
         1,
         0,
         0,
-        1,
+        2,
         1,
         0,
         0,
@@ -10280,6 +10280,50 @@
         "localityCoordinates": "45.973978, 9.960222",
         "habitat": "Abete rosso",
         "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Exobasidium",
+      "species": "juelianum",
+      "fullName": "Exobasidium juelianum",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Exobasidiomycetes > ordine: Exobasidiales > famiglia: Exobasidiaceae",
+      "authority": "Nannf. 1981",
+      "totalSamples": 1,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "earliestDate": "08-24",
+      "earliestDayOfYear": 236,
+      "earliestSample": {
+        "collectionDate": "2026-08-24",
+        "collector": "Pietro Centenari",
+        "locality": "Rovetta",
+        "localityCoordinates": "45.892989, 9.983457",
+        "habitat": "50a mostra",
+        "determiner": "Pietro Centenari",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "08-24",
+      "latestDayOfYear": 236,
+      "latestSample": {
+        "collectionDate": "2026-08-24",
+        "collector": "Pietro Centenari",
+        "locality": "Rovetta",
+        "localityCoordinates": "45.892989, 9.983457",
+        "habitat": "50a mostra",
+        "determiner": "Pietro Centenari",
         "_tipo": "raccolto"
       }
     },
