@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-08-25",
+      "collector": "Fabio Locatelli",
+      "locality": "Schilpario, Monte Gardena",
+      "localityCoordinates": "46.036411, 10.230379",
+      "habitat": "Abete rosso",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2025-11-17",
       "collector": "Antonio Guana",
       "locality": "Ave, Ardesio",
@@ -32,7 +40,7 @@
   ],
   "campioniExsiccata": [],
   "fenologia": {
-    "raccoltaPiuPrecoce": "10-06",
+    "raccoltaPiuPrecoce": "08-25",
     "raccoltaPiuTarda": "11-17",
     "campioniPerMese": [
       {
@@ -57,7 +65,7 @@
         "lug": 0
       },
       {
-        "ago": 0
+        "ago": 1
       },
       {
         "set": 0
@@ -74,8 +82,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 3,
-    "campioniRaccolti": 3,
+    "totaleCampioni": 4,
+    "campioniRaccolti": 4,
     "campioniExsiccata": 0
   }
 }

@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-08-25",
+      "collector": "Fabio Locatelli",
+      "locality": "Schilpario, Monte Gardena",
+      "localityCoordinates": "46.036411, 10.230379",
+      "habitat": "Abetaia",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2026-08-07",
       "collector": "Fabio Locatelli",
       "locality": "Schilpario",
@@ -201,7 +209,7 @@
         "lug": 4
       },
       {
-        "ago": 3
+        "ago": 4
       },
       {
         "set": 7
@@ -218,8 +226,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 21,
-    "campioniRaccolti": 21,
+    "totaleCampioni": 22,
+    "campioniRaccolti": 22,
     "campioniExsiccata": 0
   }
 }

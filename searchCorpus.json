@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T08:07:06.293Z",
+  "generatedAt": "2026-08-26T00:12:58.937Z",
   "corpus": [
     {
       "type": "genus",
@@ -945,6 +945,7 @@
       "value": "Hygrocybe",
       "matchSpecies": [
         "Hygrocybe calyptriformis",
+        "Hygrocybe citrina",
         "Hygrocybe coccineocrenata",
         "Hygrocybe conica",
         "Hygrocybe punicea",
@@ -1713,6 +1714,13 @@
         "Rhodocollybia butyracea",
         "Rhodocollybia maculata",
         "Rhodocollybia prolixa"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Rhodocybe",
+      "matchSpecies": [
+        "Rhodocybe gemina"
       ]
     },
     {
@@ -4019,6 +4027,13 @@
     },
     {
       "type": "species",
+      "value": "Hygrocybe citrina",
+      "matchSpecies": [
+        "Hygrocybe citrina"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Hygrocybe coccineocrenata",
       "matchSpecies": [
         "Hygrocybe coccineocrenata"
@@ -5534,6 +5549,13 @@
     },
     {
       "type": "species",
+      "value": "Rhodocybe gemina",
+      "matchSpecies": [
+        "Rhodocybe gemina"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Rickenella fibula",
       "matchSpecies": [
         "Rickenella fibula"
@@ -6784,7 +6806,8 @@
         "Entoloma incanum",
         "Entoloma nidorosum",
         "Entoloma nitidum",
-        "Entoloma rhodopolium"
+        "Entoloma rhodopolium",
+        "Rhodocybe gemina"
       ]
     },
     {
@@ -6928,6 +6951,7 @@
       "type": "famiglia",
       "value": "Hygrocybaceae",
       "matchSpecies": [
+        "Hygrocybe citrina",
         "Hygrocybe coccineocrenata",
         "Hygrocybe conica",
         "Hygrocybe punicea"
@@ -7727,6 +7751,7 @@
         "Hebeloma crustuliniforme",
         "Hebeloma sinapizans",
         "Hygrocybe calyptriformis",
+        "Hygrocybe citrina",
         "Hygrocybe coccineocrenata",
         "Hygrocybe conica",
         "Hygrocybe punicea",
@@ -7858,6 +7883,7 @@
         "Rhodocollybia butyracea",
         "Rhodocollybia maculata",
         "Rhodocollybia prolixa",
+        "Rhodocybe gemina",
         "Schizophyllum commune",
         "Singerocybe phaeophthalma",
         "Strobilurus esculentus",
@@ -8549,6 +8575,7 @@
         "Hydnum repandum",
         "Hydnum rufescens",
         "Hygrocybe calyptriformis",
+        "Hygrocybe citrina",
         "Hygrocybe coccineocrenata",
         "Hygrocybe conica",
         "Hygrocybe punicea",
@@ -8746,6 +8773,7 @@
         "Rhodocollybia butyracea",
         "Rhodocollybia maculata",
         "Rhodocollybia prolixa",
+        "Rhodocybe gemina",
         "Rickenella fibula",
         "Rubroboletus satanas",
         "Russula adusta",
@@ -9259,6 +9287,7 @@
         "Hydnum repandum",
         "Hydnum rufescens",
         "Hygrocybe calyptriformis",
+        "Hygrocybe citrina",
         "Hygrocybe coccineocrenata",
         "Hygrocybe conica",
         "Hygrocybe punicea",
@@ -9456,6 +9485,7 @@
         "Rhodocollybia butyracea",
         "Rhodocollybia maculata",
         "Rhodocollybia prolixa",
+        "Rhodocybe gemina",
         "Rickenella fibula",
         "Rubroboletus satanas",
         "Russula adusta",
@@ -9835,6 +9865,7 @@
         "Hydnum repandum",
         "Hydnum rufescens",
         "Hygrocybe calyptriformis",
+        "Hygrocybe citrina",
         "Hygrocybe coccineocrenata",
         "Hygrocybe conica",
         "Hygrocybe punicea",
@@ -10038,6 +10069,7 @@
         "Rhodocollybia butyracea",
         "Rhodocollybia maculata",
         "Rhodocollybia prolixa",
+        "Rhodocybe gemina",
         "Rickenella fibula",
         "Rubroboletus satanas",
         "Russula adusta",

@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-08-25",
+      "collector": "Fabio Locatelli",
+      "locality": "Schilpario, Monte Gardena",
+      "localityCoordinates": "46.036411, 10.230379",
+      "habitat": "Margine di un prato",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2026-07-31",
       "collector": "Pietro Centenari",
       "locality": "SCALE DI VALL'ACQUA, Bratte, Premolo, Bergamo",
@@ -153,7 +161,7 @@
         "lug": 7
       },
       {
-        "ago": 0
+        "ago": 1
       },
       {
         "set": 2
@@ -170,8 +178,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 15,
-    "campioniRaccolti": 15,
+    "totaleCampioni": 16,
+    "campioniRaccolti": 16,
     "campioniExsiccata": 0
   }
 }

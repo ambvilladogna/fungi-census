@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-25T08:03:57.312Z",
-  "totalSpecies": 485,
-  "totalSamples": 1256,
+  "generatedAt": "2026-08-26T00:12:58.676Z",
+  "totalSpecies": 487,
+  "totalSamples": 1265,
   "species": [
     {
       "genus": "Abortiporus",
@@ -1575,6 +1575,13 @@
     },
     {
       "genus": "Hygrocybe",
+      "species": "citrina",
+      "fullName": "Hygrocybe citrina",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Hygrocybaceae",
+      "authority": "(Rea) J.E. Lange 1940"
+    },
+    {
+      "genus": "Hygrocybe",
       "species": "coccineocrenata",
       "fullName": "Hygrocybe coccineocrenata",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Hygrocybaceae",
@@ -2848,6 +2855,13 @@
       "fullName": "Rhizopogon roseolus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Rhizopogonaceae",
       "authority": "(Corda) Th. Fr. 1909"
+    },
+    {
+      "genus": "Rhodocybe",
+      "species": "gemina",
+      "fullName": "Rhodocybe gemina",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Entolomataceae",
+      "authority": "(Paulet) Kuyper & Noordel. 1987"
     },
     {
       "genus": "Rickenella",
