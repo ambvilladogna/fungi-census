@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-26T00:12:58.767Z",
+  "generatedAt": "2026-08-27T00:12:49.333Z",
   "totalSpecies": 487,
-  "totalSamples": 1378,
+  "totalSamples": 1382,
   "species": [
     {
       "genus": "Flammulina",
@@ -4015,7 +4015,7 @@
       "fullName": "Amanita phalloides",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
       "authority": "(Vaill. ex Fr.) Link 1833",
-      "totalSamples": 12,
+      "totalSamples": 13,
       "monthlyCount": [
         0,
         0,
@@ -4024,7 +4024,7 @@
         0,
         1,
         1,
-        3,
+        4,
         4,
         3,
         0,
@@ -6375,7 +6375,7 @@
       "fullName": "Hydnum repandum",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Cantharellales > famiglia: Hydnaceae",
       "authority": "L. 1753",
-      "totalSamples": 12,
+      "totalSamples": 13,
       "monthlyCount": [
         0,
         0,
@@ -6384,7 +6384,7 @@
         0,
         0,
         1,
-        4,
+        5,
         4,
         3,
         0,
@@ -8335,7 +8335,7 @@
       "fullName": "Amanita citrina",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
       "authority": "Pers. 1797",
-      "totalSamples": 12,
+      "totalSamples": 13,
       "monthlyCount": [
         0,
         0,
@@ -8344,7 +8344,7 @@
         0,
         0,
         0,
-        2,
+        3,
         7,
         3,
         0,
@@ -10199,7 +10199,7 @@
       "fullName": "Cortinarius integerrimus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
       "authority": "Kühner 1989",
-      "totalSamples": 2,
+      "totalSamples": 3,
       "monthlyCount": [
         0,
         0,
@@ -10208,7 +10208,7 @@
         0,
         0,
         0,
-        1,
+        2,
         0,
         1,
         0,

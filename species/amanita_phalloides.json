@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-08-26",
+      "collector": "Fabio Locatelli",
+      "locality": "Schilpario, Cima Bassa",
+      "localityCoordinates": "",
+      "habitat": "Abete rosso",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2026-08-06",
       "collector": "Fabio Locatelli",
       "locality": "Valbondione",
@@ -129,7 +137,7 @@
         "lug": 1
       },
       {
-        "ago": 3
+        "ago": 4
       },
       {
         "set": 4
@@ -146,8 +154,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 12,
-    "campioniRaccolti": 12,
+    "totaleCampioni": 13,
+    "campioniRaccolti": 13,
     "campioniExsiccata": 0
   }
 }
