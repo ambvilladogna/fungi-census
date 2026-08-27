@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-27T00:12:49.333Z",
-  "totalSpecies": 487,
-  "totalSamples": 1382,
+  "generatedAt": "2026-08-27T16:34:42.150Z",
+  "totalSpecies": 488,
+  "totalSamples": 1385,
   "species": [
     {
       "genus": "Flammulina",
@@ -4953,7 +4953,7 @@
       "fullName": "Tylopilus felleus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
       "authority": "(Bull.) P. Karst. 1881",
-      "totalSamples": 4,
+      "totalSamples": 5,
       "monthlyCount": [
         0,
         0,
@@ -4962,7 +4962,7 @@
         0,
         1,
         1,
-        2,
+        3,
         0,
         0,
         0,
@@ -4973,19 +4973,19 @@
       "earliestSample": {
         "collectionDate": "2025-06-28",
         "collector": "Fabio Locatelli",
-        "locality": "Cima bassa, Schilpario",
+        "locality": "Cima Bassa, Schilpario",
         "localityCoordinates": "45.99711, 10.14712",
         "habitat": "Abete rosso",
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       },
-      "latestDate": "08-09",
-      "latestDayOfYear": 221,
+      "latestDate": "08-26",
+      "latestDayOfYear": 238,
       "latestSample": {
-        "collectionDate": "2026-08-09",
+        "collectionDate": "2026-08-26",
         "collector": "Fabio Locatelli",
-        "locality": "Spiazzi, Gromo",
-        "localityCoordinates": "45.9733227, 9.9654765",
+        "locality": "Cima Bassa, Schilpario",
+        "localityCoordinates": "45.99711, 10.14712",
         "habitat": "Abete rosso",
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
@@ -11354,6 +11354,50 @@
       }
     },
     {
+      "genus": "Amanita",
+      "species": "porphyria",
+      "fullName": "Amanita porphyria",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
+      "authority": "Alb. & Schwein. 1805",
+      "totalSamples": 1,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "earliestDate": "08-26",
+      "earliestDayOfYear": 238,
+      "earliestSample": {
+        "collectionDate": "2026-08-26",
+        "collector": "Fabio Locatelli",
+        "locality": "Cima Bassa, Schilpario",
+        "localityCoordinates": "45.99711, 10.14712",
+        "habitat": "Abete rosso",
+        "determiner": "Fabio Locatelli",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "08-26",
+      "latestDayOfYear": 238,
+      "latestSample": {
+        "collectionDate": "2026-08-26",
+        "collector": "Fabio Locatelli",
+        "locality": "Cima Bassa, Schilpario",
+        "localityCoordinates": "45.99711, 10.14712",
+        "habitat": "Abete rosso",
+        "determiner": "Fabio Locatelli",
+        "_tipo": "raccolto"
+      }
+    },
+    {
       "genus": "Bisporella",
       "species": "citrina",
       "fullName": "Bisporella citrina",
@@ -11484,6 +11528,50 @@
         "localityCoordinates": "45.93408, 10.00331",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Cortinarius",
+      "species": "traganus",
+      "fullName": "Cortinarius traganus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
+      "authority": "(Fr.) Fr. 1838",
+      "totalSamples": 4,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        2,
+        1,
+        0,
+        0
+      ],
+      "earliestDate": "08-26",
+      "earliestDayOfYear": 238,
+      "earliestSample": {
+        "collectionDate": "2026-08-26",
+        "collector": "Fabio Locatelli",
+        "locality": "Cima Bassa, Schilpario",
+        "localityCoordinates": "45.99711, 10.14712",
+        "habitat": "Abete rosso",
+        "determiner": "Fabio Locatelli",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "10-06",
+      "latestDayOfYear": 279,
+      "latestSample": {
+        "collectionDate": "2025-10-06",
+        "collector": "Fabio Locatelli",
+        "locality": "Schilpario",
+        "localityCoordinates": "46.009394, 10.154059",
+        "habitat": "Bosco misto",
+        "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
     },
@@ -14100,50 +14188,6 @@
         "locality": "Ripa, Gromo",
         "localityCoordinates": "45.976347, 9.928513",
         "habitat": "Faggio",
-        "determiner": "Pierino Bigoni",
-        "_tipo": "raccolto"
-      },
-      "latestDate": "10-06",
-      "latestDayOfYear": 279,
-      "latestSample": {
-        "collectionDate": "2025-10-06",
-        "collector": "Fabio Locatelli",
-        "locality": "Schilpario",
-        "localityCoordinates": "46.009394, 10.154059",
-        "habitat": "Bosco misto",
-        "determiner": "Fabio Locatelli",
-        "_tipo": "raccolto"
-      }
-    },
-    {
-      "genus": "Cortinarius",
-      "species": "traganus",
-      "fullName": "Cortinarius traganus",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
-      "authority": "(Fr.) Fr. 1838",
-      "totalSamples": 3,
-      "monthlyCount": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        2,
-        1,
-        0,
-        0
-      ],
-      "earliestDate": "09-08",
-      "earliestDayOfYear": 251,
-      "earliestSample": {
-        "collectionDate": "2025-09-08",
-        "collector": "Fabio Locatelli",
-        "locality": "Ripa, Gromo",
-        "localityCoordinates": "45.976347, 9.928513",
-        "habitat": "Abete rosso",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },

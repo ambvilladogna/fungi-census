@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-27T00:12:49.256Z",
-  "totalSpecies": 487,
-  "totalSamples": 1269,
+  "generatedAt": "2026-08-27T16:34:42.042Z",
+  "totalSpecies": 488,
+  "totalSamples": 1272,
   "species": [
     {
       "genus": "Abortiporus",
@@ -175,6 +175,13 @@
       "fullName": "Amanita phalloides",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
       "authority": "(Vaill. ex Fr.) Link 1833"
+    },
+    {
+      "genus": "Amanita",
+      "species": "porphyria",
+      "fullName": "Amanita porphyria",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
+      "authority": "Alb. & Schwein. 1805"
     },
     {
       "genus": "Amanita",

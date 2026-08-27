@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T00:12:58.937Z",
+  "generatedAt": "2026-08-27T16:34:42.279Z",
   "corpus": [
     {
       "type": "genus",
@@ -68,6 +68,7 @@
         "Amanita ochraceomaculata",
         "Amanita pantherina",
         "Amanita phalloides",
+        "Amanita porphyria",
         "Amanita romagnesiana",
         "Amanita rubescens",
         "Amanita rubescens f. annulosulphurea",
@@ -2338,6 +2339,13 @@
       "value": "Amanita phalloides",
       "matchSpecies": [
         "Amanita phalloides"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Amanita porphyria",
+      "matchSpecies": [
+        "Amanita porphyria"
       ]
     },
     {
@@ -6547,6 +6555,7 @@
         "Amanita ochraceomaculata",
         "Amanita pantherina",
         "Amanita phalloides",
+        "Amanita porphyria",
         "Amanita romagnesiana",
         "Amanita rubescens",
         "Amanita rubescens f. annulosulphurea",
@@ -7617,6 +7626,7 @@
         "Amanita ochraceomaculata",
         "Amanita pantherina",
         "Amanita phalloides",
+        "Amanita porphyria",
         "Amanita romagnesiana",
         "Amanita rubescens",
         "Amanita rubescens f. annulosulphurea",
@@ -8375,6 +8385,7 @@
         "Amanita ochraceomaculata",
         "Amanita pantherina",
         "Amanita phalloides",
+        "Amanita porphyria",
         "Amanita romagnesiana",
         "Amanita rubescens",
         "Amanita rubescens f. annulosulphurea",
@@ -9083,6 +9094,7 @@
         "Amanita ochraceomaculata",
         "Amanita pantherina",
         "Amanita phalloides",
+        "Amanita porphyria",
         "Amanita romagnesiana",
         "Amanita rubescens",
         "Amanita rubescens f. annulosulphurea",
@@ -9645,6 +9657,7 @@
         "Amanita ochraceomaculata",
         "Amanita pantherina",
         "Amanita phalloides",
+        "Amanita porphyria",
         "Amanita romagnesiana",
         "Amanita rubescens",
         "Amanita rubescens f. annulosulphurea",
