@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-08-27",
+      "collector": "Pietro Centenari",
+      "locality": "SCALE DI VALL'ACQUA, Bratte, Premolo, Bergamo",
+      "localityCoordinates": "45.888500, 9.848679",
+      "habitat": "Abete rosso",
+      "determiner": "Pietro Centenari"
+    },
+    {
       "collectionDate": "2026-08-26",
       "collector": "Fabio Locatelli",
       "locality": "Cima Bassa, Schilpario",
@@ -65,7 +73,7 @@
         "lug": 0
       },
       {
-        "ago": 1
+        "ago": 2
       },
       {
         "set": 2
@@ -82,8 +90,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 4,
-    "campioniRaccolti": 4,
+    "totaleCampioni": 5,
+    "campioniRaccolti": 5,
     "campioniExsiccata": 0
   }
 }

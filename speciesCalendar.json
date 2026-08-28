@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-27T16:34:42.150Z",
+  "generatedAt": "2026-08-28T00:13:06.990Z",
   "totalSpecies": 488,
-  "totalSamples": 1385,
+  "totalSamples": 1386,
   "species": [
     {
       "genus": "Flammulina",
@@ -11537,7 +11537,7 @@
       "fullName": "Cortinarius traganus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
       "authority": "(Fr.) Fr. 1838",
-      "totalSamples": 4,
+      "totalSamples": 5,
       "monthlyCount": [
         0,
         0,
@@ -11546,7 +11546,7 @@
         0,
         0,
         0,
-        1,
+        2,
         2,
         1,
         0,
