@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-28T00:13:06.909Z",
-  "totalSpecies": 488,
-  "totalSamples": 1273,
+  "generatedAt": "2026-08-29T00:13:29.030Z",
+  "totalSpecies": 497,
+  "totalSamples": 1315,
   "species": [
     {
       "genus": "Abortiporus",
@@ -343,6 +343,15 @@
       "authority": "Pers. 1801",
       "currentName": "Caloboletus calopus",
       "currentAuthority": "(Pers.) Vizzini 2014"
+    },
+    {
+      "genus": "Boletus",
+      "species": "depilatus",
+      "fullName": "Boletus depilatus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
+      "authority": "Redeuilh 1986",
+      "currentName": "Hemileccinum depilatum",
+      "currentAuthority": "(Redeuilh) Šutara 2008"
     },
     {
       "genus": "Boletus",
@@ -1271,6 +1280,13 @@
     },
     {
       "genus": "Entoloma",
+      "species": "corvinum",
+      "fullName": "Entoloma corvinum",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Entolomataceae",
+      "authority": "(Kühner) Noordel. 1982"
+    },
+    {
+      "genus": "Entoloma",
       "species": "hirtipes",
       "fullName": "Entoloma hirtipes",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Entolomataceae",
@@ -1756,6 +1772,13 @@
     },
     {
       "genus": "Inocybe",
+      "species": "corydalina",
+      "fullName": "Inocybe corydalina",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Inocybaceae",
+      "authority": "Quél. 1875"
+    },
+    {
+      "genus": "Inocybe",
       "species": "fastigiata",
       "fullName": "Inocybe fastigiata",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Inocybaceae",
@@ -1991,6 +2014,15 @@
       "authority": "(L.) Roussel 1806"
     },
     {
+      "genus": "Laricifomes",
+      "species": "officinalis",
+      "fullName": "Laricifomes officinalis",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Polyporales > famiglia: Fomitopsidaceae",
+      "authority": "(Vill.) Kotl. & Pouzar 1957",
+      "currentName": "Fomitopsis officinalis",
+      "currentAuthority": "(Vill.) Bondartsev & Singer 1941"
+    },
+    {
       "genus": "Leccinum",
       "species": "aurantiacum",
       "fullName": "Leccinum aurantiacum",
@@ -2042,6 +2074,13 @@
       "authority": "(Pers.) Quél. 1886",
       "currentName": "Echinoderma asperum",
       "currentAuthority": "(Pers.) Bon 1991"
+    },
+    {
+      "genus": "Lepiota",
+      "species": "clypeolaria",
+      "fullName": "Lepiota clypeolaria",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
+      "authority": "(Bull.) P. Kumm. 1871"
     },
     {
       "genus": "Lepiota",
@@ -2282,6 +2321,13 @@
       "fullName": "Marasmius bulliardii",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Marasmiaceae",
       "authority": "Quél. 1878"
+    },
+    {
+      "genus": "Marasmius",
+      "species": "cohaerens",
+      "fullName": "Marasmius cohaerens",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Marasmiaceae",
+      "authority": "(Pers.) Cooke & Quél. 1878"
     },
     {
       "genus": "Marasmius",
@@ -2710,6 +2756,15 @@
     },
     {
       "genus": "Polyporus",
+      "species": "mori",
+      "fullName": "Polyporus mori",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Polyporales > famiglia: Fomitopsidaceae",
+      "authority": "(Pollini) Fr. 1821",
+      "currentName": "Fomitopsis moritziana",
+      "currentAuthority": "(Lév.) Spirin & Miettinen 2024"
+    },
+    {
+      "genus": "Polyporus",
       "species": "squamosus",
       "fullName": "Polyporus squamosus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Polyporales > famiglia: Polyporaceae",
@@ -3034,6 +3089,15 @@
       "fullName": "Russula grisea",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
       "authority": "Fr. 1838"
+    },
+    {
+      "genus": "Russula",
+      "species": "griseascens",
+      "fullName": "Russula griseascens",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
+      "authority": "(Bon & Gaugué) Marti 1984",
+      "currentName": "Russula hydrophila",
+      "currentAuthority": "Horniček 1958"
     },
     {
       "genus": "Russula",
@@ -3386,6 +3450,13 @@
       "fullName": "Suillus variegatus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Suillaceae",
       "authority": "(Sw.) Richon & Roze 1888"
+    },
+    {
+      "genus": "Suillus",
+      "species": "viscidus",
+      "fullName": "Suillus viscidus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Suillaceae",
+      "authority": "(L.) Roussel 1796"
     },
     {
       "genus": "Tapinella",

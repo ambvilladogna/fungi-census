@@ -1,9 +1,9 @@
 {
-  "nomeCompleto": "Calocera viscosa",
-  "autore": "(Pers.) Bory 1823",
-  "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Dacrymycetes > ordine: Dacrymycetales > famiglia: Dacrymycetaceae",
-  "nomeCorrente": null,
-  "autoreCorrente": null,
+  "nomeCompleto": "Russula griseascens",
+  "autore": "(Bon & Gaugué) Marti 1984",
+  "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
+  "nomeCorrente": "Russula hydrophila",
+  "autoreCorrente": "Horniček 1958",
   "campioniRaccolti": [
     {
       "collectionDate": "2026-08-27",
@@ -12,19 +12,11 @@
       "localityCoordinates": "45.970802, 9.963785",
       "habitat": "Bosco misto abete bianco e abete rosso",
       "determiner": "Pierino Bigoni"
-    },
-    {
-      "collectionDate": "2025-08-26",
-      "collector": "Pierino Bigoni",
-      "locality": "Strada per le baite del Moschel, Oltressenda Alta",
-      "localityCoordinates": "45.93408, 10.00331",
-      "habitat": "Bosco misto",
-      "determiner": "Pierino Bigoni"
     }
   ],
   "campioniExsiccata": [],
   "fenologia": {
-    "raccoltaPiuPrecoce": "08-26",
+    "raccoltaPiuPrecoce": "08-27",
     "raccoltaPiuTarda": "08-27",
     "campioniPerMese": [
       {
@@ -49,7 +41,7 @@
         "lug": 0
       },
       {
-        "ago": 2
+        "ago": 1
       },
       {
         "set": 0
@@ -66,8 +58,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 2,
-    "campioniRaccolti": 2,
+    "totaleCampioni": 1,
+    "campioniRaccolti": 1,
     "campioniExsiccata": 0
   }
 }

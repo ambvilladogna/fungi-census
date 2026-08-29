@@ -6,6 +6,22 @@
   "autoreCorrente": "(Schaeff.) Murrill 1909",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-08-27",
+      "collector": "Pietro Centenari",
+      "locality": "SCALE DI VALL'ACQUA, Bratte, Premolo",
+      "localityCoordinates": "45.888500, 9.848679",
+      "habitat": "Abete rosso",
+      "determiner": "Pietro Centenari"
+    },
+    {
+      "collectionDate": "2026-08-27",
+      "collector": "Pierino Bigoni",
+      "locality": "Spiazzi, Gromo",
+      "localityCoordinates": "45.970802, 9.963785",
+      "habitat": "Bosco misto abete bianco e abete rosso",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-07-31",
       "collector": "Pietro Centenari",
       "locality": "Via Sonfaet, Ol Paìs, Premolo, Bergamo",
@@ -145,7 +161,7 @@
         "lug": 5
       },
       {
-        "ago": 1
+        "ago": 3
       },
       {
         "set": 1
@@ -162,8 +178,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 14,
-    "campioniRaccolti": 14,
+    "totaleCampioni": 16,
+    "campioniRaccolti": 16,
     "campioniExsiccata": 0
   }
 }

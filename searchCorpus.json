@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T16:34:42.279Z",
+  "generatedAt": "2026-08-29T00:13:29.318Z",
   "corpus": [
     {
       "type": "genus",
@@ -180,6 +180,7 @@
       "matchSpecies": [
         "Boletus aestivalis",
         "Boletus calopus",
+        "Boletus depilatus",
         "Boletus edulis",
         "Boletus erythropus",
         "Boletus luridus",
@@ -191,6 +192,7 @@
         "Caloboletus calopus",
         "Caloboletus radicans",
         "Cyanoboletus pulverulentus",
+        "Hemileccinum depilatum",
         "Neoboletus erythropus",
         "Rubroboletus satanas",
         "Suillellus luridus",
@@ -734,6 +736,7 @@
       "value": "Entoloma",
       "matchSpecies": [
         "Entoloma bloxamii",
+        "Entoloma corvinum",
         "Entoloma hirtipes",
         "Entoloma incanum",
         "Entoloma nidorosum",
@@ -783,8 +786,12 @@
       "value": "Fomitopsis",
       "matchSpecies": [
         "Fomitopsis betulina",
+        "Fomitopsis moritziana",
+        "Fomitopsis officinalis",
         "Fomitopsis pinicola",
-        "Piptoporus betulinus"
+        "Laricifomes officinalis",
+        "Piptoporus betulinus",
+        "Polyporus mori"
       ]
     },
     {
@@ -899,6 +906,7 @@
       "type": "genus",
       "value": "Hemileccinum",
       "matchSpecies": [
+        "Boletus depilatus",
         "Hemileccinum depilatum"
       ]
     },
@@ -1049,6 +1057,7 @@
       "matchSpecies": [
         "Inocybe calamistrata",
         "Inocybe cervicolor",
+        "Inocybe corydalina",
         "Inocybe fastigiata",
         "Inocybe fibrosa",
         "Inocybe geophylla",
@@ -1144,6 +1153,14 @@
     },
     {
       "type": "genus",
+      "value": "Laricifomes",
+      "matchSpecies": [
+        "Fomitopsis officinalis",
+        "Laricifomes officinalis"
+      ]
+    },
+    {
+      "type": "genus",
       "value": "Leccinellum",
       "matchSpecies": [
         "Leccinellum pseudoscabrum",
@@ -1188,6 +1205,7 @@
         "Chamaemyces fracidus",
         "Echinoderma asperum",
         "Lepiota aspera",
+        "Lepiota clypeolaria",
         "Lepiota cristata",
         "Lepiota fracida",
         "Lepiota ignivolvata",
@@ -1303,6 +1321,7 @@
       "value": "Marasmius",
       "matchSpecies": [
         "Marasmius bulliardii",
+        "Marasmius cohaerens",
         "Marasmius oreades",
         "Marasmius scorodonius",
         "Marasmius wynneae",
@@ -1584,6 +1603,8 @@
       "value": "Polyporus",
       "matchSpecies": [
         "Cerioporus squamosus",
+        "Fomitopsis moritziana",
+        "Polyporus mori",
         "Polyporus squamosus"
       ]
     },
@@ -1766,7 +1787,9 @@
         "Russula foetens",
         "Russula grata",
         "Russula grisea",
+        "Russula griseascens",
         "Russula heterophylla",
+        "Russula hydrophila",
         "Russula integra",
         "Russula integra f. purpurella",
         "Russula laurocerasi",
@@ -1914,7 +1937,8 @@
         "Suillus luteus",
         "Suillus placidus",
         "Suillus plorans",
-        "Suillus variegatus"
+        "Suillus variegatus",
+        "Suillus viscidus"
       ]
     },
     {
@@ -2549,6 +2573,14 @@
       "matchSpecies": [
         "Boletus calopus",
         "Caloboletus calopus"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Boletus depilatus",
+      "matchSpecies": [
+        "Boletus depilatus",
+        "Hemileccinum depilatum"
       ]
     },
     {
@@ -3680,6 +3712,13 @@
     },
     {
       "type": "species",
+      "value": "Entoloma corvinum",
+      "matchSpecies": [
+        "Entoloma corvinum"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Entoloma hirtipes",
       "matchSpecies": [
         "Entoloma hirtipes"
@@ -3770,6 +3809,22 @@
       "matchSpecies": [
         "Fomitopsis betulina",
         "Piptoporus betulinus"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Fomitopsis moritziana",
+      "matchSpecies": [
+        "Fomitopsis moritziana",
+        "Polyporus mori"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Fomitopsis officinalis",
+      "matchSpecies": [
+        "Fomitopsis officinalis",
+        "Laricifomes officinalis"
       ]
     },
     {
@@ -3965,6 +4020,7 @@
       "type": "species",
       "value": "Hemileccinum depilatum",
       "matchSpecies": [
+        "Boletus depilatus",
         "Hemileccinum depilatum"
       ]
     },
@@ -4249,6 +4305,13 @@
     },
     {
       "type": "species",
+      "value": "Inocybe corydalina",
+      "matchSpecies": [
+        "Inocybe corydalina"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Inocybe fastigiata",
       "matchSpecies": [
         "Inocybe fastigiata",
@@ -4521,6 +4584,14 @@
     },
     {
       "type": "species",
+      "value": "Laricifomes officinalis",
+      "matchSpecies": [
+        "Fomitopsis officinalis",
+        "Laricifomes officinalis"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Leccinellum pseudoscabrum",
       "matchSpecies": [
         "Leccinellum pseudoscabrum",
@@ -4576,6 +4647,13 @@
       "matchSpecies": [
         "Echinoderma asperum",
         "Lepiota aspera"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Lepiota clypeolaria",
+      "matchSpecies": [
+        "Lepiota clypeolaria"
       ]
     },
     {
@@ -4851,6 +4929,13 @@
       "value": "Marasmius bulliardii",
       "matchSpecies": [
         "Marasmius bulliardii"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Marasmius cohaerens",
+      "matchSpecies": [
+        "Marasmius cohaerens"
       ]
     },
     {
@@ -5317,6 +5402,14 @@
     },
     {
       "type": "species",
+      "value": "Polyporus mori",
+      "matchSpecies": [
+        "Fomitopsis moritziana",
+        "Polyporus mori"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Polyporus squamosus",
       "matchSpecies": [
         "Cerioporus squamosus",
@@ -5745,9 +5838,25 @@
     },
     {
       "type": "species",
+      "value": "Russula griseascens",
+      "matchSpecies": [
+        "Russula griseascens",
+        "Russula hydrophila"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Russula heterophylla",
       "matchSpecies": [
         "Russula heterophylla"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Russula hydrophila",
+      "matchSpecies": [
+        "Russula griseascens",
+        "Russula hydrophila"
       ]
     },
     {
@@ -6131,6 +6240,13 @@
     },
     {
       "type": "species",
+      "value": "Suillus viscidus",
+      "matchSpecies": [
+        "Suillus viscidus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Tapinella atrotomentosa",
       "matchSpecies": [
         "Paxillus atrotomentosus",
@@ -6502,6 +6618,7 @@
         "Coprinus comatus",
         "Echinoderma asperum",
         "Lepiota aspera",
+        "Lepiota clypeolaria",
         "Lepiota cristata",
         "Lepiota fracida",
         "Lepiota ignivolvata",
@@ -6622,6 +6739,7 @@
       "matchSpecies": [
         "Boletus aestivalis",
         "Boletus calopus",
+        "Boletus depilatus",
         "Boletus edulis",
         "Boletus erythropus",
         "Boletus luridus",
@@ -6811,6 +6929,7 @@
       "matchSpecies": [
         "Clitopilus prunulus",
         "Entoloma bloxamii",
+        "Entoloma corvinum",
         "Entoloma hirtipes",
         "Entoloma incanum",
         "Entoloma nidorosum",
@@ -6831,8 +6950,12 @@
       "value": "Fomitopsidaceae",
       "matchSpecies": [
         "Fomitopsis betulina",
+        "Fomitopsis moritziana",
+        "Fomitopsis officinalis",
         "Fomitopsis pinicola",
-        "Piptoporus betulinus"
+        "Laricifomes officinalis",
+        "Piptoporus betulinus",
+        "Polyporus mori"
       ]
     },
     {
@@ -7007,6 +7130,7 @@
       "matchSpecies": [
         "Inocybe calamistrata",
         "Inocybe cervicolor",
+        "Inocybe corydalina",
         "Inocybe fastigiata",
         "Inocybe fibrosa",
         "Inocybe geophylla",
@@ -7077,6 +7201,7 @@
       "value": "Marasmiaceae",
       "matchSpecies": [
         "Marasmius bulliardii",
+        "Marasmius cohaerens",
         "Marasmius oreades",
         "Marasmius wynneae"
       ]
@@ -7389,7 +7514,9 @@
         "Russula foetens",
         "Russula grata",
         "Russula grisea",
+        "Russula griseascens",
         "Russula heterophylla",
+        "Russula hydrophila",
         "Russula integra",
         "Russula integra f. purpurella",
         "Russula laurocerasi",
@@ -7497,7 +7624,8 @@
         "Suillus luteus",
         "Suillus placidus",
         "Suillus plorans",
-        "Suillus variegatus"
+        "Suillus variegatus",
+        "Suillus viscidus"
       ]
     },
     {
@@ -7743,6 +7871,7 @@
         "Delicatula integrella",
         "Echinoderma asperum",
         "Entoloma bloxamii",
+        "Entoloma corvinum",
         "Entoloma hirtipes",
         "Entoloma incanum",
         "Entoloma nidorosum",
@@ -7785,6 +7914,7 @@
         "Infundibulicybe gibba",
         "Inocybe calamistrata",
         "Inocybe cervicolor",
+        "Inocybe corydalina",
         "Inocybe fastigiata",
         "Inocybe fibrosa",
         "Inocybe geophylla",
@@ -7798,6 +7928,7 @@
         "Laccaria bicolor",
         "Laccaria laccata",
         "Lepiota aspera",
+        "Lepiota clypeolaria",
         "Lepiota cristata",
         "Lepiota fracida",
         "Lepiota ignivolvata",
@@ -7833,6 +7964,7 @@
         "Macrolepiota rhacodes",
         "Macrolepiota rhacodes var. bohemica",
         "Marasmius bulliardii",
+        "Marasmius cohaerens",
         "Marasmius oreades",
         "Marasmius scorodonius",
         "Marasmius wynneae",
@@ -7949,6 +8081,7 @@
         "Boletinus cavipes",
         "Boletus aestivalis",
         "Boletus calopus",
+        "Boletus depilatus",
         "Boletus edulis",
         "Boletus erythropus",
         "Boletus luridus",
@@ -7989,6 +8122,7 @@
         "Suillus placidus",
         "Suillus plorans",
         "Suillus variegatus",
+        "Suillus viscidus",
         "Tapinella atrotomentosa",
         "Tylopilus felleus",
         "Xerocomellus armeniacus",
@@ -8190,17 +8324,21 @@
         "Daedaleopsis tricolor",
         "Fomes fomentarius",
         "Fomitopsis betulina",
+        "Fomitopsis moritziana",
+        "Fomitopsis officinalis",
         "Fomitopsis pinicola",
         "Ganoderma adspersum",
         "Ganoderma lucidum",
         "Ganoderma resinaceum",
         "Ischnoderma benzoinum",
+        "Laricifomes officinalis",
         "Lentinus tigrinus",
         "Neofavolus alveolaris",
         "Panus conchatus",
         "Perenniporia fraxinea",
         "Phaeolus schweinitzii",
         "Piptoporus betulinus",
+        "Polyporus mori",
         "Polyporus squamosus",
         "Postia caesia",
         "Pycnoporus cinnabarinus",
@@ -8279,7 +8417,9 @@
         "Russula foetens",
         "Russula grata",
         "Russula grisea",
+        "Russula griseascens",
         "Russula heterophylla",
+        "Russula hydrophila",
         "Russula integra",
         "Russula integra f. purpurella",
         "Russula laurocerasi",
@@ -8411,6 +8551,7 @@
         "Boletinus cavipes",
         "Boletus aestivalis",
         "Boletus calopus",
+        "Boletus depilatus",
         "Boletus edulis",
         "Boletus erythropus",
         "Boletus luridus",
@@ -8547,6 +8688,7 @@
         "Delicatula integrella",
         "Echinoderma asperum",
         "Entoloma bloxamii",
+        "Entoloma corvinum",
         "Entoloma hirtipes",
         "Entoloma incanum",
         "Entoloma nidorosum",
@@ -8559,6 +8701,8 @@
         "Flammulina velutipes var. lactea",
         "Fomes fomentarius",
         "Fomitopsis betulina",
+        "Fomitopsis moritziana",
+        "Fomitopsis officinalis",
         "Fomitopsis pinicola",
         "Galerina stylifera",
         "Ganoderma adspersum",
@@ -8613,6 +8757,7 @@
         "Infundibulicybe gibba",
         "Inocybe calamistrata",
         "Inocybe cervicolor",
+        "Inocybe corydalina",
         "Inocybe fastigiata",
         "Inocybe fibrosa",
         "Inocybe geophylla",
@@ -8649,6 +8794,7 @@
         "Lactifluus glaucescens",
         "Lactifluus piperatus",
         "Lactifluus volemus",
+        "Laricifomes officinalis",
         "Leccinellum pseudoscabrum",
         "Leccinum aurantiacum",
         "Leccinum carpini",
@@ -8656,6 +8802,7 @@
         "Lentinellus cochleatus",
         "Lentinus tigrinus",
         "Lepiota aspera",
+        "Lepiota clypeolaria",
         "Lepiota cristata",
         "Lepiota fracida",
         "Lepiota ignivolvata",
@@ -8691,6 +8838,7 @@
         "Macrolepiota rhacodes",
         "Macrolepiota rhacodes var. bohemica",
         "Marasmius bulliardii",
+        "Marasmius cohaerens",
         "Marasmius oreades",
         "Marasmius scorodonius",
         "Marasmius wynneae",
@@ -8752,6 +8900,7 @@
         "Pluteus pouzarianus",
         "Pluteus romellii",
         "Pluteus roseipes",
+        "Polyporus mori",
         "Polyporus squamosus",
         "Porphyrellus porphyrosporus",
         "Porpolomopsis calyptriformis",
@@ -8810,7 +8959,9 @@
         "Russula foetens",
         "Russula grata",
         "Russula grisea",
+        "Russula griseascens",
         "Russula heterophylla",
+        "Russula hydrophila",
         "Russula integra",
         "Russula integra f. purpurella",
         "Russula laurocerasi",
@@ -8858,6 +9009,7 @@
         "Suillus placidus",
         "Suillus plorans",
         "Suillus variegatus",
+        "Suillus viscidus",
         "Tapinella atrotomentosa",
         "Tephrocybe rancida",
         "Thelephora palmata",
@@ -9120,6 +9272,7 @@
         "Boletinus cavipes",
         "Boletus aestivalis",
         "Boletus calopus",
+        "Boletus depilatus",
         "Boletus edulis",
         "Boletus erythropus",
         "Boletus luridus",
@@ -9259,6 +9412,7 @@
         "Delicatula integrella",
         "Echinoderma asperum",
         "Entoloma bloxamii",
+        "Entoloma corvinum",
         "Entoloma hirtipes",
         "Entoloma incanum",
         "Entoloma nidorosum",
@@ -9272,6 +9426,8 @@
         "Flammulina velutipes var. lactea",
         "Fomes fomentarius",
         "Fomitopsis betulina",
+        "Fomitopsis moritziana",
+        "Fomitopsis officinalis",
         "Fomitopsis pinicola",
         "Galerina stylifera",
         "Ganoderma adspersum",
@@ -9326,6 +9482,7 @@
         "Infundibulicybe gibba",
         "Inocybe calamistrata",
         "Inocybe cervicolor",
+        "Inocybe corydalina",
         "Inocybe fastigiata",
         "Inocybe fibrosa",
         "Inocybe geophylla",
@@ -9362,6 +9519,7 @@
         "Lactifluus glaucescens",
         "Lactifluus piperatus",
         "Lactifluus volemus",
+        "Laricifomes officinalis",
         "Leccinellum pseudoscabrum",
         "Leccinum aurantiacum",
         "Leccinum carpini",
@@ -9369,6 +9527,7 @@
         "Lentinellus cochleatus",
         "Lentinus tigrinus",
         "Lepiota aspera",
+        "Lepiota clypeolaria",
         "Lepiota cristata",
         "Lepiota fracida",
         "Lepiota ignivolvata",
@@ -9404,6 +9563,7 @@
         "Macrolepiota rhacodes",
         "Macrolepiota rhacodes var. bohemica",
         "Marasmius bulliardii",
+        "Marasmius cohaerens",
         "Marasmius oreades",
         "Marasmius scorodonius",
         "Marasmius wynneae",
@@ -9465,6 +9625,7 @@
         "Pluteus pouzarianus",
         "Pluteus romellii",
         "Pluteus roseipes",
+        "Polyporus mori",
         "Polyporus squamosus",
         "Porphyrellus porphyrosporus",
         "Porpolomopsis calyptriformis",
@@ -9523,7 +9684,9 @@
         "Russula foetens",
         "Russula grata",
         "Russula grisea",
+        "Russula griseascens",
         "Russula heterophylla",
+        "Russula hydrophila",
         "Russula integra",
         "Russula integra f. purpurella",
         "Russula laurocerasi",
@@ -9571,6 +9734,7 @@
         "Suillus placidus",
         "Suillus plorans",
         "Suillus variegatus",
+        "Suillus viscidus",
         "Tapinella atrotomentosa",
         "Tephrocybe rancida",
         "Thelephora palmata",
@@ -9684,6 +9848,7 @@
         "Boletinus cavipes",
         "Boletus aestivalis",
         "Boletus calopus",
+        "Boletus depilatus",
         "Boletus edulis",
         "Boletus erythropus",
         "Boletus luridus",
@@ -9833,6 +9998,7 @@
         "Elaphomyces granulatus",
         "Encoelia furfuracea",
         "Entoloma bloxamii",
+        "Entoloma corvinum",
         "Entoloma hirtipes",
         "Entoloma incanum",
         "Entoloma nidorosum",
@@ -9846,6 +10012,8 @@
         "Flammulina velutipes var. lactea",
         "Fomes fomentarius",
         "Fomitopsis betulina",
+        "Fomitopsis moritziana",
+        "Fomitopsis officinalis",
         "Fomitopsis pinicola",
         "Galerina stylifera",
         "Ganoderma adspersum",
@@ -9907,6 +10075,7 @@
         "Infundibulicybe gibba",
         "Inocybe calamistrata",
         "Inocybe cervicolor",
+        "Inocybe corydalina",
         "Inocybe fastigiata",
         "Inocybe fibrosa",
         "Inocybe geophylla",
@@ -9944,6 +10113,7 @@
         "Lactifluus piperatus",
         "Lactifluus volemus",
         "Lanzia echinophila",
+        "Laricifomes officinalis",
         "Leccinellum pseudoscabrum",
         "Leccinum aurantiacum",
         "Leccinum carpini",
@@ -9952,6 +10122,7 @@
         "Lentinus tigrinus",
         "Leotia lubrica",
         "Lepiota aspera",
+        "Lepiota clypeolaria",
         "Lepiota cristata",
         "Lepiota fracida",
         "Lepiota ignivolvata",
@@ -9987,6 +10158,7 @@
         "Macrolepiota rhacodes",
         "Macrolepiota rhacodes var. bohemica",
         "Marasmius bulliardii",
+        "Marasmius cohaerens",
         "Marasmius oreades",
         "Marasmius scorodonius",
         "Marasmius wynneae",
@@ -10050,6 +10222,7 @@
         "Pluteus pouzarianus",
         "Pluteus romellii",
         "Pluteus roseipes",
+        "Polyporus mori",
         "Polyporus squamosus",
         "Porphyrellus porphyrosporus",
         "Porpolomopsis calyptriformis",
@@ -10108,7 +10281,9 @@
         "Russula foetens",
         "Russula grata",
         "Russula grisea",
+        "Russula griseascens",
         "Russula heterophylla",
+        "Russula hydrophila",
         "Russula integra",
         "Russula integra f. purpurella",
         "Russula laurocerasi",
@@ -10161,6 +10336,7 @@
         "Suillus placidus",
         "Suillus plorans",
         "Suillus variegatus",
+        "Suillus viscidus",
         "Tapinella atrotomentosa",
         "Tarzetta cupularis",
         "Tephrocybe rancida",
