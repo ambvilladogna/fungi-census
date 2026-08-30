@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-29T00:13:29.129Z",
-  "totalSpecies": 497,
-  "totalSamples": 1432,
+  "generatedAt": "2026-08-30T00:12:54.908Z",
+  "totalSpecies": 498,
+  "totalSamples": 1433,
   "species": [
     {
       "genus": "Flammulina",
@@ -8456,7 +8456,7 @@
       "latestSample": {
         "collectionDate": "2026-08-27",
         "collector": "Angelo Ballabeni",
-        "locality": "via Masù e Pret, Aprico, Fino del Monte, Bergamo",
+        "locality": "Pospe, Aprico, Fino del Monte, Bergamo",
         "localityCoordinates": "45.90515, 9.99764",
         "habitat": "Bosco misto",
         "determiner": "Angelo Ballabeni",
@@ -8634,7 +8634,7 @@
       "latestSample": {
         "collectionDate": "2026-08-27",
         "collector": "Angelo Ballabeni",
-        "locality": "via Masù e Pret, Aprico, Fino del Monte, Bergamo",
+        "locality": "Pospe, Aprico, Fino del Monte, Bergamo",
         "localityCoordinates": "45.90515, 9.99764",
         "habitat": "Bosco misto",
         "determiner": "Angelo Ballabeni",
@@ -12357,7 +12357,7 @@
       "earliestSample": {
         "collectionDate": "2026-08-27",
         "collector": "Angelo Ballabeni",
-        "locality": "via Masù e Pret, Aprico, Fino del Monte, Bergamo",
+        "locality": "Pospe, Aprico, Fino del Monte, Bergamo",
         "localityCoordinates": "45.90515, 9.99764",
         "habitat": "Bosco misto",
         "determiner": "Angelo Ballabeni",
@@ -12415,6 +12415,52 @@
         "locality": "Selva d'Agnone, Valgoglio",
         "localityCoordinates": "45.982797, 9.891481",
         "habitat": "Bosco misto",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Conocybe",
+      "species": "coprophila",
+      "fullName": "Conocybe coprophila",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Bolbitiaceae",
+      "authority": "(Kühner) Kühner 1935",
+      "currentName": "Conocybula coprophila",
+      "currentAuthority": "(Kühner) T. Bau & H.B. Song 2024",
+      "totalSamples": 1,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "earliestDate": "08-27",
+      "earliestDayOfYear": 239,
+      "earliestSample": {
+        "collectionDate": "2026-08-27",
+        "collector": "Pierino Bigoni",
+        "locality": "Spiazzi, Gromo",
+        "localityCoordinates": "45.970802, 9.963785",
+        "habitat": "Bosco misto abete bianco e abete rosso",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "08-27",
+      "latestDayOfYear": 239,
+      "latestSample": {
+        "collectionDate": "2026-08-27",
+        "collector": "Pierino Bigoni",
+        "locality": "Spiazzi, Gromo",
+        "localityCoordinates": "45.970802, 9.963785",
+        "habitat": "Bosco misto abete bianco e abete rosso",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }

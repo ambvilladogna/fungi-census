@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-29T00:13:29.030Z",
-  "totalSpecies": 497,
-  "totalSamples": 1315,
+  "generatedAt": "2026-08-30T00:12:54.817Z",
+  "totalSpecies": 498,
+  "totalSamples": 1316,
   "species": [
     {
       "genus": "Abortiporus",
@@ -819,6 +819,15 @@
       "authority": "(Bolton) P. Kumm. 1871",
       "currentName": "Collybiopsis peronata",
       "currentAuthority": "(Bolton) R.H. Petersen 2021"
+    },
+    {
+      "genus": "Conocybe",
+      "species": "coprophila",
+      "fullName": "Conocybe coprophila",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Bolbitiaceae",
+      "authority": "(Kühner) Kühner 1935",
+      "currentName": "Conocybula coprophila",
+      "currentAuthority": "(Kühner) T. Bau & H.B. Song 2024"
     },
     {
       "genus": "Conocybe",

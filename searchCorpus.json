@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T00:13:29.318Z",
+  "generatedAt": "2026-08-30T00:12:55.024Z",
   "corpus": [
     {
       "type": "genus",
@@ -499,10 +499,20 @@
       "value": "Conocybe",
       "matchSpecies": [
         "Conocybe aporos",
+        "Conocybe coprophila",
         "Conocybe juniana",
         "Conocybe magnicapitata",
         "Conocybe tenera",
+        "Conocybula coprophila",
         "Pholiotina aporos"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Conocybula",
+      "matchSpecies": [
+        "Conocybe coprophila",
+        "Conocybula coprophila"
       ]
     },
     {
@@ -3188,6 +3198,14 @@
     },
     {
       "type": "species",
+      "value": "Conocybe coprophila",
+      "matchSpecies": [
+        "Conocybe coprophila",
+        "Conocybula coprophila"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Conocybe juniana",
       "matchSpecies": [
         "Conocybe juniana",
@@ -3207,6 +3225,14 @@
       "value": "Conocybe tenera",
       "matchSpecies": [
         "Conocybe tenera"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Conocybula coprophila",
+      "matchSpecies": [
+        "Conocybe coprophila",
+        "Conocybula coprophila"
       ]
     },
     {
@@ -6726,9 +6752,11 @@
         "Bolbitius titubans",
         "Bolbitius vitellinus",
         "Conocybe aporos",
+        "Conocybe coprophila",
         "Conocybe juniana",
         "Conocybe magnicapitata",
         "Conocybe tenera",
+        "Conocybula coprophila",
         "Pholiotina aporos",
         "Pholiotina teneroides"
       ]
@@ -7817,9 +7845,11 @@
         "Collybiopsis confluens",
         "Collybiopsis peronata",
         "Conocybe aporos",
+        "Conocybe coprophila",
         "Conocybe juniana",
         "Conocybe magnicapitata",
         "Conocybe tenera",
+        "Conocybula coprophila",
         "Coprinellus disseminatus",
         "Coprinellus domesticus",
         "Coprinellus micaceus",
@@ -8625,9 +8655,11 @@
         "Collybiopsis confluens",
         "Collybiopsis peronata",
         "Conocybe aporos",
+        "Conocybe coprophila",
         "Conocybe juniana",
         "Conocybe magnicapitata",
         "Conocybe tenera",
+        "Conocybula coprophila",
         "Coprinellus disseminatus",
         "Coprinellus domesticus",
         "Coprinellus micaceus",
@@ -9348,9 +9380,11 @@
         "Collybiopsis confluens",
         "Collybiopsis peronata",
         "Conocybe aporos",
+        "Conocybe coprophila",
         "Conocybe juniana",
         "Conocybe magnicapitata",
         "Conocybe tenera",
+        "Conocybula coprophila",
         "Coprinellus disseminatus",
         "Coprinellus domesticus",
         "Coprinellus micaceus",
@@ -9928,9 +9962,11 @@
         "Collybiopsis confluens",
         "Collybiopsis peronata",
         "Conocybe aporos",
+        "Conocybe coprophila",
         "Conocybe juniana",
         "Conocybe magnicapitata",
         "Conocybe tenera",
+        "Conocybula coprophila",
         "Coprinellus disseminatus",
         "Coprinellus domesticus",
         "Coprinellus micaceus",
