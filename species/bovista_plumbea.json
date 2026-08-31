@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-08-30",
+      "collector": "Pierino Bigoni",
+      "locality": "Cà dè Spì  Gazzanga",
+      "localityCoordinates": "",
+      "habitat": "Pascolo",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-08-24",
       "collector": "Pietro Centenari",
       "locality": "Zenier, Rovetta",
@@ -65,7 +73,7 @@
         "lug": 0
       },
       {
-        "ago": 2
+        "ago": 3
       },
       {
         "set": 1
@@ -82,8 +90,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 4,
-    "campioniRaccolti": 4,
+    "totaleCampioni": 5,
+    "campioniRaccolti": 5,
     "campioniExsiccata": 0
   }
 }

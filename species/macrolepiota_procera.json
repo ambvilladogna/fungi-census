@@ -6,6 +6,22 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-08-30",
+      "collector": "Pietro Centenari",
+      "locality": "Cascina Bianca, Rovetta",
+      "localityCoordinates": "45.906748, 9.980383",
+      "habitat": "A bordo di pascolo",
+      "determiner": "Pietro Centenari"
+    },
+    {
+      "collectionDate": "2026-08-30",
+      "collector": "Pierino Bigoni",
+      "locality": "Cà dè Spì  Gazzanga",
+      "localityCoordinates": "",
+      "habitat": "Bosco rado di Betulla e Faggio",
+      "determiner": "da determinare"
+    },
+    {
       "collectionDate": "2026-08-27",
       "collector": "Pierino Bigoni",
       "locality": "Spiazzi, Gromo",
@@ -169,7 +185,7 @@
         "lug": 7
       },
       {
-        "ago": 2
+        "ago": 4
       },
       {
         "set": 2
@@ -186,8 +202,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 17,
-    "campioniRaccolti": 17,
+    "totaleCampioni": 19,
+    "campioniRaccolti": 19,
     "campioniExsiccata": 0
   }
 }

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-30T00:12:54.908Z",
+  "generatedAt": "2026-08-31T00:13:08.122Z",
   "totalSpecies": 498,
-  "totalSamples": 1433,
+  "totalSamples": 1437,
   "species": [
     {
       "genus": "Flammulina",
@@ -2899,7 +2899,7 @@
       "fullName": "Macrolepiota procera",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
       "authority": "(Scop.) Singer 1948",
-      "totalSamples": 17,
+      "totalSamples": 19,
       "monthlyCount": [
         0,
         0,
@@ -2908,7 +2908,7 @@
         2,
         2,
         7,
-        2,
+        4,
         2,
         2,
         0,
@@ -2987,7 +2987,7 @@
       "fullName": "Bovista plumbea",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Lycoperdaceae",
       "authority": "Pers. 1795",
-      "totalSamples": 4,
+      "totalSamples": 5,
       "monthlyCount": [
         0,
         0,
@@ -2996,7 +2996,7 @@
         1,
         0,
         0,
-        2,
+        3,
         1,
         0,
         0,
@@ -6911,7 +6911,7 @@
       "fullName": "Lycoperdon perlatum",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Lycoperdaceae",
       "authority": "Pers. 1796",
-      "totalSamples": 8,
+      "totalSamples": 9,
       "monthlyCount": [
         0,
         0,
@@ -6920,7 +6920,7 @@
         0,
         0,
         1,
-        1,
+        2,
         5,
         1,
         0,
