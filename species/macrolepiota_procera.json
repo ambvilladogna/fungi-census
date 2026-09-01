@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-08-31",
+      "collector": "Pierino Bigoni",
+      "locality": "Spiazzi, Gromo",
+      "localityCoordinates": "45.970802, 9.963785",
+      "habitat": "Bosco misto abete bianco e abete rosso",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-08-30",
       "collector": "Pietro Centenari",
       "locality": "Cascina Bianca, Rovetta",
@@ -185,7 +193,7 @@
         "lug": 7
       },
       {
-        "ago": 4
+        "ago": 5
       },
       {
         "set": 2
@@ -202,8 +210,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 19,
-    "campioniRaccolti": 19,
+    "totaleCampioni": 20,
+    "campioniRaccolti": 20,
     "campioniExsiccata": 0
   }
 }

@@ -6,6 +6,14 @@
   "autoreCorrente": "(Opat.) Gelardi, Vizzini & Simonini 2014",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-08-30",
+      "collector": "Fabio Locatelli",
+      "locality": "Schilpario",
+      "localityCoordinates": "46.009394, 10.154059",
+      "habitat": "Abete rosso",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2026-08-18",
       "collector": "Fabio Locatelli",
       "locality": "Schilpario, pista di fondo",
@@ -25,7 +33,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "08-18",
-    "raccoltaPiuTarda": "08-26",
+    "raccoltaPiuTarda": "08-30",
     "campioniPerMese": [
       {
         "gen": 0
@@ -49,7 +57,7 @@
         "lug": 0
       },
       {
-        "ago": 2
+        "ago": 3
       },
       {
         "set": 0
@@ -66,8 +74,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 2,
-    "campioniRaccolti": 2,
+    "totaleCampioni": 3,
+    "campioniRaccolti": 3,
     "campioniExsiccata": 0
   }
 }

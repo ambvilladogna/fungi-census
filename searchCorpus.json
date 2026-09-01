@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T00:12:55.024Z",
+  "generatedAt": "2026-09-01T00:13:08.098Z",
   "corpus": [
     {
       "type": "genus",
@@ -102,6 +102,13 @@
       "matchSpecies": [
         "Armillaria mellea",
         "Armillaria ostoyae"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Asterophora",
+      "matchSpecies": [
+        "Asterophora lycoperdoides"
       ]
     },
     {
@@ -428,10 +435,12 @@
         "Clitocybe gibba",
         "Clitocybe maxima",
         "Clitocybe nebularis",
+        "Clitocybe odora",
         "Clitocybe phaeophthalma",
         "Clitocybe pruinosa",
         "Clitocybe subspadicea",
         "Clitopaxillus alexandri",
+        "Collybia odora",
         "Collybia phyllophila",
         "Infundibulicybe costata",
         "Infundibulicybe geotropa",
@@ -460,6 +469,7 @@
       "value": "Collybia",
       "matchSpecies": [
         "Clitocybe cerussata",
+        "Clitocybe odora",
         "Collybia aquosa",
         "Collybia butyracea",
         "Collybia cirrhata",
@@ -469,6 +479,7 @@
         "Collybia kuehneriana",
         "Collybia maculata",
         "Collybia nuda",
+        "Collybia odora",
         "Collybia peronata",
         "Collybia phyllophila",
         "Collybia sordida",
@@ -746,9 +757,9 @@
       "value": "Entoloma",
       "matchSpecies": [
         "Entoloma bloxamii",
-        "Entoloma corvinum",
         "Entoloma hirtipes",
         "Entoloma incanum",
+        "Entoloma mougeotii",
         "Entoloma nidorosum",
         "Entoloma nitidum",
         "Entoloma rhodopolium"
@@ -1307,6 +1318,7 @@
       "value": "Lyophyllum",
       "matchSpecies": [
         "Leucocybe connata",
+        "Lyophyllum amariusculum",
         "Lyophyllum connatum",
         "Lyophyllum decastes"
       ]
@@ -1352,6 +1364,7 @@
         "Melanoleuca brevipes",
         "Melanoleuca cognata",
         "Melanoleuca graminicola",
+        "Melanoleuca grammopodia",
         "Melanoleuca melaleuca",
         "Melanoleuca subalpina"
       ]
@@ -1383,6 +1396,8 @@
       "type": "genus",
       "value": "Mycena",
       "matchSpecies": [
+        "Mycena alcalina",
+        "Mycena eburnea",
         "Mycena epipterygia",
         "Mycena galericulata",
         "Mycena pearsoniana",
@@ -1610,6 +1625,14 @@
     },
     {
       "type": "genus",
+      "value": "Podostroma",
+      "matchSpecies": [
+        "Podostroma alutaceum",
+        "Trichoderma alutaceum"
+      ]
+    },
+    {
+      "type": "genus",
       "value": "Polyporus",
       "matchSpecies": [
         "Cerioporus squamosus",
@@ -1816,6 +1839,7 @@
         "Russula paludosa",
         "Russula parazurea",
         "Russula postiana",
+        "Russula puellaris",
         "Russula queletii",
         "Russula recondita",
         "Russula risigallina",
@@ -2021,6 +2045,14 @@
     },
     {
       "type": "genus",
+      "value": "Trichoderma",
+      "matchSpecies": [
+        "Podostroma alutaceum",
+        "Trichoderma alutaceum"
+      ]
+    },
+    {
+      "type": "genus",
       "value": "Tricholoma",
       "matchSpecies": [
         "Tricholoma aurantium",
@@ -2055,6 +2087,13 @@
       "matchSpecies": [
         "Tubaria furfuracea",
         "Tubaria hiemalis"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Tubifera",
+      "matchSpecies": [
+        "Tubifera ferruginosa"
       ]
     },
     {
@@ -2477,6 +2516,13 @@
       "value": "Armillaria ostoyae",
       "matchSpecies": [
         "Armillaria ostoyae"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Asterophora lycoperdoides",
+      "matchSpecies": [
+        "Asterophora lycoperdoides"
       ]
     },
     {
@@ -3041,6 +3087,14 @@
     },
     {
       "type": "species",
+      "value": "Clitocybe odora",
+      "matchSpecies": [
+        "Clitocybe odora",
+        "Collybia odora"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Clitocybe phaeophthalma",
       "matchSpecies": [
         "Clitocybe phaeophthalma",
@@ -3146,6 +3200,14 @@
       "matchSpecies": [
         "Collybia nuda",
         "Lepista nuda"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Collybia odora",
+      "matchSpecies": [
+        "Clitocybe odora",
+        "Collybia odora"
       ]
     },
     {
@@ -3738,13 +3800,6 @@
     },
     {
       "type": "species",
-      "value": "Entoloma corvinum",
-      "matchSpecies": [
-        "Entoloma corvinum"
-      ]
-    },
-    {
-      "type": "species",
       "value": "Entoloma hirtipes",
       "matchSpecies": [
         "Entoloma hirtipes"
@@ -3755,6 +3810,13 @@
       "value": "Entoloma incanum",
       "matchSpecies": [
         "Entoloma incanum"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Entoloma mougeotii",
+      "matchSpecies": [
+        "Entoloma mougeotii"
       ]
     },
     {
@@ -4882,6 +4944,13 @@
     },
     {
       "type": "species",
+      "value": "Lyophyllum amariusculum",
+      "matchSpecies": [
+        "Lyophyllum amariusculum"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Lyophyllum connatum",
       "matchSpecies": [
         "Leucocybe connata",
@@ -5016,6 +5085,13 @@
     },
     {
       "type": "species",
+      "value": "Melanoleuca grammopodia",
+      "matchSpecies": [
+        "Melanoleuca grammopodia"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Melanoleuca melaleuca",
       "matchSpecies": [
         "Melanoleuca melaleuca"
@@ -5055,6 +5131,22 @@
       "value": "Mucidula mucida",
       "matchSpecies": [
         "Mucidula mucida"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Mycena alcalina",
+      "matchSpecies": [
+        "Mycena alcalina",
+        "Mycena eburnea"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Mycena eburnea",
+      "matchSpecies": [
+        "Mycena alcalina",
+        "Mycena eburnea"
       ]
     },
     {
@@ -5424,6 +5516,14 @@
       "value": "Pluteus roseipes",
       "matchSpecies": [
         "Pluteus roseipes"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Podostroma alutaceum",
+      "matchSpecies": [
+        "Podostroma alutaceum",
+        "Trichoderma alutaceum"
       ]
     },
     {
@@ -6006,6 +6106,13 @@
     },
     {
       "type": "species",
+      "value": "Russula puellaris",
+      "matchSpecies": [
+        "Russula puellaris"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Russula queletii",
       "matchSpecies": [
         "Russula queletii"
@@ -6347,6 +6454,14 @@
     },
     {
       "type": "species",
+      "value": "Trichoderma alutaceum",
+      "matchSpecies": [
+        "Podostroma alutaceum",
+        "Trichoderma alutaceum"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Tricholoma aurantium",
       "matchSpecies": [
         "Tricholoma aurantium"
@@ -6487,6 +6602,13 @@
       "matchSpecies": [
         "Tubaria furfuracea",
         "Tubaria hiemalis"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Tubifera ferruginosa",
+      "matchSpecies": [
+        "Tubifera ferruginosa"
       ]
     },
     {
@@ -6856,10 +6978,12 @@
       "matchSpecies": [
         "Clitocybe cerussata",
         "Clitocybe nebularis",
+        "Clitocybe odora",
         "Clitocybe subspadicea",
         "Collybia cirrhata",
         "Collybia irina",
         "Collybia nuda",
+        "Collybia odora",
         "Collybia phyllophila",
         "Collybia sordida",
         "Lepista irina",
@@ -6957,9 +7081,9 @@
       "matchSpecies": [
         "Clitopilus prunulus",
         "Entoloma bloxamii",
-        "Entoloma corvinum",
         "Entoloma hirtipes",
         "Entoloma incanum",
+        "Entoloma mougeotii",
         "Entoloma nidorosum",
         "Entoloma nitidum",
         "Entoloma rhodopolium",
@@ -7147,6 +7271,14 @@
     },
     {
       "type": "famiglia",
+      "value": "Hypocreaceae",
+      "matchSpecies": [
+        "Podostroma alutaceum",
+        "Trichoderma alutaceum"
+      ]
+    },
+    {
+      "type": "famiglia",
       "value": "Hypoxylaceae",
       "matchSpecies": [
         "Hypoxylon fragiforme"
@@ -7219,7 +7351,9 @@
       "type": "famiglia",
       "value": "Lyophyllaceae",
       "matchSpecies": [
+        "Asterophora lycoperdoides",
         "Calocybe gambosa",
+        "Lyophyllum amariusculum",
         "Lyophyllum decastes",
         "Tephrocybe rancida"
       ]
@@ -7241,6 +7375,7 @@
         "Melanoleuca brevipes",
         "Melanoleuca cognata",
         "Melanoleuca graminicola",
+        "Melanoleuca grammopodia",
         "Melanoleuca melaleuca",
         "Melanoleuca subalpina"
       ]
@@ -7257,6 +7392,8 @@
       "type": "famiglia",
       "value": "Mycenaceae",
       "matchSpecies": [
+        "Mycena alcalina",
+        "Mycena eburnea",
         "Mycena epipterygia",
         "Mycena galericulata",
         "Mycena pearsoniana",
@@ -7475,7 +7612,8 @@
       "type": "famiglia",
       "value": "Reticulariidae",
       "matchSpecies": [
-        "Lycogala epidendrum"
+        "Lycogala epidendrum",
+        "Tubifera ferruginosa"
       ]
     },
     {
@@ -7561,6 +7699,7 @@
         "Russula paludosa",
         "Russula parazurea",
         "Russula postiana",
+        "Russula puellaris",
         "Russula queletii",
         "Russula recondita",
         "Russula risigallina",
@@ -7796,6 +7935,7 @@
         "Apioperdon pyriforme",
         "Armillaria mellea",
         "Armillaria ostoyae",
+        "Asterophora lycoperdoides",
         "Aureonarius callisteus",
         "Aureonarius limonius",
         "Baeospora myosura",
@@ -7825,6 +7965,7 @@
         "Clitocybe gibba",
         "Clitocybe maxima",
         "Clitocybe nebularis",
+        "Clitocybe odora",
         "Clitocybe phaeophthalma",
         "Clitocybe pruinosa",
         "Clitocybe subspadicea",
@@ -7839,6 +7980,7 @@
         "Collybia kuehneriana",
         "Collybia maculata",
         "Collybia nuda",
+        "Collybia odora",
         "Collybia peronata",
         "Collybia phyllophila",
         "Collybia sordida",
@@ -7901,9 +8043,9 @@
         "Delicatula integrella",
         "Echinoderma asperum",
         "Entoloma bloxamii",
-        "Entoloma corvinum",
         "Entoloma hirtipes",
         "Entoloma incanum",
+        "Entoloma mougeotii",
         "Entoloma nidorosum",
         "Entoloma nitidum",
         "Entoloma rhodopolium",
@@ -7984,6 +8126,7 @@
         "Lycoperdon pratense",
         "Lycoperdon pyriforme",
         "Lycoperdon umbrinum",
+        "Lyophyllum amariusculum",
         "Lyophyllum connatum",
         "Lyophyllum decastes",
         "Macrolepiota fuliginosa",
@@ -8002,10 +8145,13 @@
         "Melanoleuca brevipes",
         "Melanoleuca cognata",
         "Melanoleuca graminicola",
+        "Melanoleuca grammopodia",
         "Melanoleuca melaleuca",
         "Melanoleuca subalpina",
         "Micromphale perforans",
         "Mucidula mucida",
+        "Mycena alcalina",
+        "Mycena eburnea",
         "Mycena epipterygia",
         "Mycena galericulata",
         "Mycena pearsoniana",
@@ -8281,7 +8427,9 @@
       "value": "Hypocreales",
       "matchSpecies": [
         "Cordyceps capitata",
-        "Tolypocladium capitatum"
+        "Podostroma alutaceum",
+        "Tolypocladium capitatum",
+        "Trichoderma alutaceum"
       ]
     },
     {
@@ -8295,7 +8443,8 @@
       "type": "ordine",
       "value": "Liceida",
       "matchSpecies": [
-        "Lycogala epidendrum"
+        "Lycogala epidendrum",
+        "Tubifera ferruginosa"
       ]
     },
     {
@@ -8466,6 +8615,7 @@
         "Russula paludosa",
         "Russula parazurea",
         "Russula postiana",
+        "Russula puellaris",
         "Russula queletii",
         "Russula recondita",
         "Russula risigallina",
@@ -8569,6 +8719,7 @@
         "Apioperdon pyriforme",
         "Armillaria mellea",
         "Armillaria ostoyae",
+        "Asterophora lycoperdoides",
         "Aureonarius callisteus",
         "Aureonarius limonius",
         "Auricularia auricula-judae",
@@ -8635,6 +8786,7 @@
         "Clitocybe gibba",
         "Clitocybe maxima",
         "Clitocybe nebularis",
+        "Clitocybe odora",
         "Clitocybe phaeophthalma",
         "Clitocybe pruinosa",
         "Clitocybe subspadicea",
@@ -8649,6 +8801,7 @@
         "Collybia kuehneriana",
         "Collybia maculata",
         "Collybia nuda",
+        "Collybia odora",
         "Collybia peronata",
         "Collybia phyllophila",
         "Collybia sordida",
@@ -8720,9 +8873,9 @@
         "Delicatula integrella",
         "Echinoderma asperum",
         "Entoloma bloxamii",
-        "Entoloma corvinum",
         "Entoloma hirtipes",
         "Entoloma incanum",
+        "Entoloma mougeotii",
         "Entoloma nidorosum",
         "Entoloma nitidum",
         "Entoloma rhodopolium",
@@ -8860,6 +9013,7 @@
         "Lycoperdon pratense",
         "Lycoperdon pyriforme",
         "Lycoperdon umbrinum",
+        "Lyophyllum amariusculum",
         "Lyophyllum connatum",
         "Lyophyllum decastes",
         "Macrolepiota fuliginosa",
@@ -8878,10 +9032,13 @@
         "Melanoleuca brevipes",
         "Melanoleuca cognata",
         "Melanoleuca graminicola",
+        "Melanoleuca grammopodia",
         "Melanoleuca melaleuca",
         "Melanoleuca subalpina",
         "Micromphale perforans",
         "Mucidula mucida",
+        "Mycena alcalina",
+        "Mycena eburnea",
         "Mycena epipterygia",
         "Mycena galericulata",
         "Mycena pearsoniana",
@@ -9010,6 +9167,7 @@
         "Russula paludosa",
         "Russula parazurea",
         "Russula postiana",
+        "Russula puellaris",
         "Russula queletii",
         "Russula recondita",
         "Russula risigallina",
@@ -9141,7 +9299,8 @@
         "Hemitrichia clavata",
         "Hemitrichia serpula",
         "Lycogala epidendrum",
-        "Trichia scabra"
+        "Trichia scabra",
+        "Tubifera ferruginosa"
       ]
     },
     {
@@ -9177,7 +9336,9 @@
       "matchSpecies": [
         "Cordyceps capitata",
         "Hypoxylon fragiforme",
+        "Podostroma alutaceum",
         "Tolypocladium capitatum",
+        "Trichoderma alutaceum",
         "Xylaria polymorpha"
       ]
     },
@@ -9205,7 +9366,8 @@
         "Hemitrichia clavata",
         "Hemitrichia serpula",
         "Lycogala epidendrum",
-        "Trichia scabra"
+        "Trichia scabra",
+        "Tubifera ferruginosa"
       ]
     },
     {
@@ -9234,12 +9396,14 @@
         "Leotia lubrica",
         "Morchella elata",
         "Morchella esculenta",
+        "Podostroma alutaceum",
         "Rutstroemia echinophila",
         "Scutellinia superba",
         "Sepultaria sumneriana",
         "Spathularia flavida",
         "Tarzetta cupularis",
         "Tolypocladium capitatum",
+        "Trichoderma alutaceum",
         "Wynnella silvicola",
         "Xylaria polymorpha"
       ]
@@ -9292,6 +9456,7 @@
         "Apioperdon pyriforme",
         "Armillaria mellea",
         "Armillaria ostoyae",
+        "Asterophora lycoperdoides",
         "Aureonarius callisteus",
         "Aureonarius limonius",
         "Auricularia auricula-judae",
@@ -9360,6 +9525,7 @@
         "Clitocybe gibba",
         "Clitocybe maxima",
         "Clitocybe nebularis",
+        "Clitocybe odora",
         "Clitocybe phaeophthalma",
         "Clitocybe pruinosa",
         "Clitocybe subspadicea",
@@ -9374,6 +9540,7 @@
         "Collybia kuehneriana",
         "Collybia maculata",
         "Collybia nuda",
+        "Collybia odora",
         "Collybia peronata",
         "Collybia phyllophila",
         "Collybia sordida",
@@ -9446,9 +9613,9 @@
         "Delicatula integrella",
         "Echinoderma asperum",
         "Entoloma bloxamii",
-        "Entoloma corvinum",
         "Entoloma hirtipes",
         "Entoloma incanum",
+        "Entoloma mougeotii",
         "Entoloma nidorosum",
         "Entoloma nitidum",
         "Entoloma rhodopolium",
@@ -9587,6 +9754,7 @@
         "Lycoperdon pratense",
         "Lycoperdon pyriforme",
         "Lycoperdon umbrinum",
+        "Lyophyllum amariusculum",
         "Lyophyllum connatum",
         "Lyophyllum decastes",
         "Macrolepiota fuliginosa",
@@ -9605,10 +9773,13 @@
         "Melanoleuca brevipes",
         "Melanoleuca cognata",
         "Melanoleuca graminicola",
+        "Melanoleuca grammopodia",
         "Melanoleuca melaleuca",
         "Melanoleuca subalpina",
         "Micromphale perforans",
         "Mucidula mucida",
+        "Mycena alcalina",
+        "Mycena eburnea",
         "Mycena epipterygia",
         "Mycena galericulata",
         "Mycena pearsoniana",
@@ -9737,6 +9908,7 @@
         "Russula paludosa",
         "Russula parazurea",
         "Russula postiana",
+        "Russula puellaris",
         "Russula queletii",
         "Russula recondita",
         "Russula risigallina",
@@ -9869,6 +10041,7 @@
         "Apioperdon pyriforme",
         "Armillaria mellea",
         "Armillaria ostoyae",
+        "Asterophora lycoperdoides",
         "Aureonarius callisteus",
         "Aureonarius limonius",
         "Auricularia auricula-judae",
@@ -9942,6 +10115,7 @@
         "Clitocybe gibba",
         "Clitocybe maxima",
         "Clitocybe nebularis",
+        "Clitocybe odora",
         "Clitocybe phaeophthalma",
         "Clitocybe pruinosa",
         "Clitocybe subspadicea",
@@ -9956,6 +10130,7 @@
         "Collybia kuehneriana",
         "Collybia maculata",
         "Collybia nuda",
+        "Collybia odora",
         "Collybia peronata",
         "Collybia phyllophila",
         "Collybia sordida",
@@ -10034,9 +10209,9 @@
         "Elaphomyces granulatus",
         "Encoelia furfuracea",
         "Entoloma bloxamii",
-        "Entoloma corvinum",
         "Entoloma hirtipes",
         "Entoloma incanum",
+        "Entoloma mougeotii",
         "Entoloma nidorosum",
         "Entoloma nitidum",
         "Entoloma rhodopolium",
@@ -10184,6 +10359,7 @@
         "Lycoperdon pratense",
         "Lycoperdon pyriforme",
         "Lycoperdon umbrinum",
+        "Lyophyllum amariusculum",
         "Lyophyllum connatum",
         "Lyophyllum decastes",
         "Macrolepiota fuliginosa",
@@ -10202,12 +10378,15 @@
         "Melanoleuca brevipes",
         "Melanoleuca cognata",
         "Melanoleuca graminicola",
+        "Melanoleuca grammopodia",
         "Melanoleuca melaleuca",
         "Melanoleuca subalpina",
         "Micromphale perforans",
         "Morchella elata",
         "Morchella esculenta",
         "Mucidula mucida",
+        "Mycena alcalina",
+        "Mycena eburnea",
         "Mycena epipterygia",
         "Mycena galericulata",
         "Mycena pearsoniana",
@@ -10258,6 +10437,7 @@
         "Pluteus pouzarianus",
         "Pluteus romellii",
         "Pluteus roseipes",
+        "Podostroma alutaceum",
         "Polyporus mori",
         "Polyporus squamosus",
         "Porphyrellus porphyrosporus",
@@ -10336,6 +10516,7 @@
         "Russula paludosa",
         "Russula parazurea",
         "Russula postiana",
+        "Russula puellaris",
         "Russula queletii",
         "Russula recondita",
         "Russula risigallina",
@@ -10382,6 +10563,7 @@
         "Trametes versicolor",
         "Tremella mesenterica",
         "Tremiscus helvelloides",
+        "Trichoderma alutaceum",
         "Tricholoma aurantium",
         "Tricholoma bufonium",
         "Tricholoma inamoenum",
@@ -10432,7 +10614,8 @@
         "Hemitrichia clavata",
         "Hemitrichia serpula",
         "Lycogala epidendrum",
-        "Trichia scabra"
+        "Trichia scabra",
+        "Tubifera ferruginosa"
       ]
     }
   ]

@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-08-30",
+      "collector": "Pietro Centenari",
+      "locality": "Campos, Rovetta",
+      "localityCoordinates": "45.903515, 9.983604",
+      "habitat": "A terra su pacciame",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2025-11-01",
       "collector": "Pierino Bigoni",
       "locality": "Parco avventura in Pineta, Clusone",
@@ -32,7 +40,7 @@
   ],
   "campioniExsiccata": [],
   "fenologia": {
-    "raccoltaPiuPrecoce": "09-14",
+    "raccoltaPiuPrecoce": "08-30",
     "raccoltaPiuTarda": "11-01",
     "campioniPerMese": [
       {
@@ -57,7 +65,7 @@
         "lug": 0
       },
       {
-        "ago": 0
+        "ago": 1
       },
       {
         "set": 1
@@ -74,8 +82,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 3,
-    "campioniRaccolti": 3,
+    "totaleCampioni": 4,
+    "campioniRaccolti": 4,
     "campioniExsiccata": 0
   }
 }

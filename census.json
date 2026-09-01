@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-31T07:45:37.113Z",
-  "totalSpecies": 498,
-  "totalSamples": 1320,
+  "generatedAt": "2026-09-01T00:13:07.818Z",
+  "totalSpecies": 506,
+  "totalSamples": 1383,
   "species": [
     {
       "genus": "Abortiporus",
@@ -258,6 +258,13 @@
       "fullName": "Armillaria ostoyae",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Physalacriaceae",
       "authority": "(Romagn.) Herink 1973"
+    },
+    {
+      "genus": "Asterophora",
+      "species": "lycoperdoides",
+      "fullName": "Asterophora lycoperdoides",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Lyophyllaceae",
+      "authority": "(Bull.) Ditmar 1809"
     },
     {
       "genus": "Auricularia",
@@ -717,6 +724,15 @@
       "fullName": "Clitocybe nebularis",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Clitocybaceae",
       "authority": "(Batsch) P. Kumm. 1871"
+    },
+    {
+      "genus": "Clitocybe",
+      "species": "odora",
+      "fullName": "Clitocybe odora",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Clitocybaceae",
+      "authority": "(Bull.) P. Kumm. 1871",
+      "currentName": "Collybia odora",
+      "currentAuthority": "(Bull.) Z.M. He & Zhu L. Yang 2023"
     },
     {
       "genus": "Clitocybe",
@@ -1289,13 +1305,6 @@
     },
     {
       "genus": "Entoloma",
-      "species": "corvinum",
-      "fullName": "Entoloma corvinum",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Entolomataceae",
-      "authority": "(Kühner) Noordel. 1982"
-    },
-    {
-      "genus": "Entoloma",
       "species": "hirtipes",
       "fullName": "Entoloma hirtipes",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Entolomataceae",
@@ -1305,6 +1314,13 @@
       "genus": "Entoloma",
       "species": "incanum",
       "fullName": "Entoloma incanum",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Entolomataceae",
+      "authority": "(Fr.) Hesler 1967"
+    },
+    {
+      "genus": "Entoloma",
+      "species": "mougeotii",
+      "fullName": "Entoloma mougeotii",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Entolomataceae",
       "authority": "(Fr.) Hesler 1967"
     },
@@ -2260,6 +2276,13 @@
     },
     {
       "genus": "Lyophyllum",
+      "species": "amariusculum",
+      "fullName": "Lyophyllum amariusculum",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Lyophyllaceae",
+      "authority": "Clémençon 1982"
+    },
+    {
+      "genus": "Lyophyllum",
       "species": "connatum",
       "fullName": "Lyophyllum connatum",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales",
@@ -2391,6 +2414,13 @@
     },
     {
       "genus": "Melanoleuca",
+      "species": "grammopodia",
+      "fullName": "Melanoleuca grammopodia",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Melanoleucaceae",
+      "authority": "(Bull.) Murrill 1914"
+    },
+    {
+      "genus": "Melanoleuca",
       "species": "melaleuca",
       "fullName": "Melanoleuca melaleuca",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Melanoleucaceae",
@@ -2432,6 +2462,15 @@
       "fullName": "Mucidula mucida",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Physalacriaceae",
       "authority": "(Schrad.) Pat. 1887"
+    },
+    {
+      "genus": "Mycena",
+      "species": "alcalina",
+      "fullName": "Mycena alcalina",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Mycenaceae",
+      "authority": "(Fr.) P. Kumm. 1871",
+      "currentName": "Mycena eburnea",
+      "currentAuthority": "Maas Geest. 1988"
     },
     {
       "genus": "Mycena",
@@ -2762,6 +2801,15 @@
       "fullName": "Pluteus roseipes",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Pluteaceae",
       "authority": "Höhn. 1902"
+    },
+    {
+      "genus": "Podostroma",
+      "species": "alutaceum",
+      "fullName": "Podostroma alutaceum",
+      "lineage": "regno: Fungi > phylum: Ascomycota > classe: Sordariomycetes > ordine: Hypocreales > famiglia: Hypocreaceae",
+      "authority": "(Pers.) G.F. Atk. 1905",
+      "currentName": "Trichoderma alutaceum",
+      "currentAuthority": "Jaklitsch 2011"
     },
     {
       "genus": "Polyporus",
@@ -3232,6 +3280,13 @@
     },
     {
       "genus": "Russula",
+      "species": "puellaris",
+      "fullName": "Russula puellaris",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
+      "authority": "Fr. 1838"
+    },
+    {
+      "genus": "Russula",
       "species": "queletii",
       "fullName": "Russula queletii",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
@@ -3654,6 +3709,13 @@
       "authority": "Romagn. ex Bon 1973",
       "currentName": "Tubaria furfuracea",
       "currentAuthority": "(Pers.) Gillet 1876"
+    },
+    {
+      "genus": "Tubifera",
+      "species": "ferruginosa",
+      "fullName": "Tubifera ferruginosa",
+      "lineage": "regno: Protozoa > phylum: Amoebozoa > classe: Myxogastrea > ordine: Liceida > famiglia: Reticulariidae",
+      "authority": "(Batsch) J.F. Gmel. 1792"
     },
     {
       "genus": "Tylopilus",

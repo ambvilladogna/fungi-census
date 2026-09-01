@@ -6,6 +6,30 @@
   "autoreCorrente": "(Pers.) Harmaja 2003",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-08-31",
+      "collector": "Pierino Bigoni",
+      "locality": "Spiazzi, Gromo",
+      "localityCoordinates": "45.970802, 9.963785",
+      "habitat": "Bosco misto abete bianco e abete rosso",
+      "determiner": "Pierino Bigoni"
+    },
+    {
+      "collectionDate": "2026-08-30",
+      "collector": "Fabio Locatelli",
+      "locality": "Schilpario",
+      "localityCoordinates": "46.009394, 10.154059",
+      "habitat": "Abete rosso",
+      "determiner": "Fabio Locatelli"
+    },
+    {
+      "collectionDate": "2026-08-30",
+      "collector": "Pietro Centenari",
+      "locality": "Campos, Rovetta",
+      "localityCoordinates": "45.903515, 9.983604",
+      "habitat": "A terra su pacciame",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-08-27",
       "collector": "Pierino Bigoni",
       "locality": "Spiazzi, Gromo",
@@ -105,7 +129,7 @@
         "lug": 1
       },
       {
-        "ago": 6
+        "ago": 9
       },
       {
         "set": 1
@@ -122,8 +146,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 9,
-    "campioniRaccolti": 9,
+    "totaleCampioni": 12,
+    "campioniRaccolti": 12,
     "campioniExsiccata": 0
   }
 }

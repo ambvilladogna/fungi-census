@@ -6,6 +6,14 @@
   "autoreCorrente": "(Fr.) A.W. Wilson & Desjardin 2005",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-08-31",
+      "collector": "Pierino Bigoni",
+      "locality": "Spiazzi, Gromo",
+      "localityCoordinates": "45.970802, 9.963785",
+      "habitat": "Bosco misto abete bianco e abete rosso",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-07-20",
       "collector": "Renato Depressi",
       "locality": "Falecchio, Songavazzo",
@@ -25,7 +33,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "07-14",
-    "raccoltaPiuTarda": "07-20",
+    "raccoltaPiuTarda": "08-31",
     "campioniPerMese": [
       {
         "gen": 0
@@ -49,7 +57,7 @@
         "lug": 2
       },
       {
-        "ago": 0
+        "ago": 1
       },
       {
         "set": 0
@@ -66,8 +74,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 2,
-    "campioniRaccolti": 2,
+    "totaleCampioni": 3,
+    "campioniRaccolti": 3,
     "campioniExsiccata": 0
   }
 }

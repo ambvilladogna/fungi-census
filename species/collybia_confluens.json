@@ -6,6 +6,14 @@
   "autoreCorrente": "(Pers.) R.H. Petersen 2021",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-08-31",
+      "collector": "Pierino Bigoni",
+      "locality": "Spiazzi, Gromo",
+      "localityCoordinates": "45.970802, 9.963785",
+      "habitat": "Bosco misto abete bianco e abete rosso",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-07-20",
       "collector": "Renato Depressi",
       "locality": "Falecchio, Songavazzo",
@@ -73,7 +81,7 @@
         "lug": 1
       },
       {
-        "ago": 3
+        "ago": 4
       },
       {
         "set": 1
@@ -90,8 +98,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 5,
-    "campioniRaccolti": 5,
+    "totaleCampioni": 6,
+    "campioniRaccolti": 6,
     "campioniExsiccata": 0
   }
 }

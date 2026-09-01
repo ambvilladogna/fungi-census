@@ -6,6 +6,14 @@
   "autoreCorrente": "(Alb. & Schwein.) Singer 1939",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-08-31",
+      "collector": "Luigi Rossi",
+      "locality": "Fogarolo, Rovetta",
+      "localityCoordinates": "45.845982, 9.960523",
+      "habitat": "Su legno marcescente",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-08-07",
       "collector": "Fabio Locatelli",
       "locality": "Schilpario",
@@ -57,7 +65,7 @@
         "lug": 0
       },
       {
-        "ago": 2
+        "ago": 3
       },
       {
         "set": 1
@@ -74,8 +82,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 3,
-    "campioniRaccolti": 3,
+    "totaleCampioni": 4,
+    "campioniRaccolti": 4,
     "campioniExsiccata": 0
   }
 }

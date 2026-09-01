@@ -1,0 +1,65 @@
+{
+  "nomeCompleto": "Podostroma alutaceum",
+  "autore": "(Pers.) G.F. Atk. 1905",
+  "filogenesi": "regno: Fungi > phylum: Ascomycota > classe: Sordariomycetes > ordine: Hypocreales > famiglia: Hypocreaceae",
+  "nomeCorrente": "Trichoderma alutaceum",
+  "autoreCorrente": "Jaklitsch 2011",
+  "campioniRaccolti": [
+    {
+      "collectionDate": "2026-08-26",
+      "collector": "Fabio Locatelli",
+      "locality": "Schilpario, Monte Gardena",
+      "localityCoordinates": "46.036411, 10.230379",
+      "habitat": "Al suolo in bosco di abete rosso",
+      "determiner": "Fabio Locatelli"
+    }
+  ],
+  "campioniExsiccata": [],
+  "fenologia": {
+    "raccoltaPiuPrecoce": "08-26",
+    "raccoltaPiuTarda": "08-26",
+    "campioniPerMese": [
+      {
+        "gen": 0
+      },
+      {
+        "feb": 0
+      },
+      {
+        "mar": 0
+      },
+      {
+        "apr": 0
+      },
+      {
+        "mag": 0
+      },
+      {
+        "giu": 0
+      },
+      {
+        "lug": 0
+      },
+      {
+        "ago": 1
+      },
+      {
+        "set": 0
+      },
+      {
+        "ott": 0
+      },
+      {
+        "nov": 0
+      },
+      {
+        "dic": 0
+      }
+    ]
+  },
+  "statistiche": {
+    "totaleCampioni": 1,
+    "campioniRaccolti": 1,
+    "campioniExsiccata": 0
+  }
+}

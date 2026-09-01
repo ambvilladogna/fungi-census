@@ -1,0 +1,65 @@
+{
+  "nomeCompleto": "Tubifera ferruginosa",
+  "autore": "(Batsch) J.F. Gmel. 1792",
+  "filogenesi": "regno: Protozoa > phylum: Amoebozoa > classe: Myxogastrea > ordine: Liceida > famiglia: Reticulariidae",
+  "nomeCorrente": null,
+  "autoreCorrente": null,
+  "campioniRaccolti": [
+    {
+      "collectionDate": "2026-08-30",
+      "collector": "Fabio Locatelli",
+      "locality": "Schilpario",
+      "localityCoordinates": "46.009394, 10.154059",
+      "habitat": "Ceppaia abete",
+      "determiner": "Fabio Locatelli"
+    }
+  ],
+  "campioniExsiccata": [],
+  "fenologia": {
+    "raccoltaPiuPrecoce": "08-30",
+    "raccoltaPiuTarda": "08-30",
+    "campioniPerMese": [
+      {
+        "gen": 0
+      },
+      {
+        "feb": 0
+      },
+      {
+        "mar": 0
+      },
+      {
+        "apr": 0
+      },
+      {
+        "mag": 0
+      },
+      {
+        "giu": 0
+      },
+      {
+        "lug": 0
+      },
+      {
+        "ago": 1
+      },
+      {
+        "set": 0
+      },
+      {
+        "ott": 0
+      },
+      {
+        "nov": 0
+      },
+      {
+        "dic": 0
+      }
+    ]
+  },
+  "statistiche": {
+    "totaleCampioni": 1,
+    "campioniRaccolti": 1,
+    "campioniExsiccata": 0
+  }
+}

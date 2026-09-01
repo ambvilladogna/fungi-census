@@ -6,6 +6,22 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-08-31",
+      "collector": "Pierino Bigoni",
+      "locality": "Spiazzi, Gromo",
+      "localityCoordinates": "45.970802, 9.963785",
+      "habitat": "Bosco misto abete bianco e abete rosso",
+      "determiner": "Pierino Bigoni"
+    },
+    {
+      "collectionDate": "2026-08-30",
+      "collector": "Fabio Locatelli",
+      "locality": "Schilpario",
+      "localityCoordinates": "46.009394, 10.154059",
+      "habitat": "Abete rosso",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2026-08-27",
       "collector": "Pierino Bigoni",
       "locality": "Spiazzi, Gromo",
@@ -217,7 +233,7 @@
         "lug": 4
       },
       {
-        "ago": 5
+        "ago": 7
       },
       {
         "set": 7
@@ -234,8 +250,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 23,
-    "campioniRaccolti": 23,
+    "totaleCampioni": 25,
+    "campioniRaccolti": 25,
     "campioniExsiccata": 0
   }
 }
