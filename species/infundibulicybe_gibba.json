@@ -30,6 +30,14 @@
       "determiner": "Pierino Bigoni"
     },
     {
+      "collectionDate": "2026-08-29",
+      "collector": "Pierino Bigoni",
+      "locality": "Contrada Bricconi, Oltressenda Alta",
+      "localityCoordinates": "45.920360, 9.948130",
+      "habitat": "Bosco misto",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-08-27",
       "collector": "Pierino Bigoni",
       "locality": "Spiazzi, Gromo",
@@ -137,7 +145,7 @@
         "lug": 1
       },
       {
-        "ago": 9
+        "ago": 10
       },
       {
         "set": 2
@@ -154,8 +162,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 13,
-    "campioniRaccolti": 13,
+    "totaleCampioni": 14,
+    "campioniRaccolti": 14,
     "campioniExsiccata": 0
   }
 }

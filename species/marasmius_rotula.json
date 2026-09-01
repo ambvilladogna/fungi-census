@@ -1,18 +1,10 @@
 {
-  "nomeCompleto": "Marasmius cohaerens",
-  "autore": "(Pers.) Cooke & Quél. 1878",
+  "nomeCompleto": "Marasmius rotula",
+  "autore": "(Scop.) Fr. 1838",
   "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Marasmiaceae",
   "nomeCorrente": null,
   "autoreCorrente": null,
   "campioniRaccolti": [
-    {
-      "collectionDate": "2026-08-31",
-      "collector": "Pierino Bigoni",
-      "locality": "Spiazzi, Gromo",
-      "localityCoordinates": "45.970802, 9.963785",
-      "habitat": "Bosco misto abete bianco e abete rosso",
-      "determiner": "Pierino Bigoni"
-    },
     {
       "collectionDate": "2026-08-29",
       "collector": "Pierino Bigoni",
@@ -20,20 +12,12 @@
       "localityCoordinates": "45.920360, 9.948130",
       "habitat": "Bosco misto",
       "determiner": "Pierino Bigoni"
-    },
-    {
-      "collectionDate": "2026-08-27",
-      "collector": "Pierino Bigoni",
-      "locality": "Spiazzi, Gromo",
-      "localityCoordinates": "45.970802, 9.963785",
-      "habitat": "Bosco misto abete bianco e abete rosso",
-      "determiner": "Pierino Bigoni"
     }
   ],
   "campioniExsiccata": [],
   "fenologia": {
-    "raccoltaPiuPrecoce": "08-27",
-    "raccoltaPiuTarda": "08-31",
+    "raccoltaPiuPrecoce": "08-29",
+    "raccoltaPiuTarda": "08-29",
     "campioniPerMese": [
       {
         "gen": 0
@@ -57,7 +41,7 @@
         "lug": 0
       },
       {
-        "ago": 3
+        "ago": 1
       },
       {
         "set": 0
@@ -74,8 +58,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 3,
-    "campioniRaccolti": 3,
+    "totaleCampioni": 1,
+    "campioniRaccolti": 1,
     "campioniExsiccata": 0
   }
 }

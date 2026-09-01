@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-08-29",
+      "collector": "Pierino Bigoni",
+      "locality": "Contrada Bricconi, Oltressenda Alta",
+      "localityCoordinates": "45.920360, 9.948130",
+      "habitat": "Bosco misto",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-07-29",
       "collector": "Pierino Bigoni",
       "locality": "Spiazzi, Gromo",
@@ -41,7 +49,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "06-07",
-    "raccoltaPiuTarda": "07-29",
+    "raccoltaPiuTarda": "08-29",
     "campioniPerMese": [
       {
         "gen": 0
@@ -65,7 +73,7 @@
         "lug": 1
       },
       {
-        "ago": 0
+        "ago": 1
       },
       {
         "set": 0
@@ -82,8 +90,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 4,
-    "campioniRaccolti": 4,
+    "totaleCampioni": 5,
+    "campioniRaccolti": 5,
     "campioniExsiccata": 0
   }
 }

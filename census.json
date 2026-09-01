@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-01T00:13:07.818Z",
-  "totalSpecies": 506,
-  "totalSamples": 1383,
+  "generatedAt": "2026-09-01T07:42:01.696Z",
+  "totalSpecies": 518,
+  "totalSamples": 1424,
   "species": [
     {
       "genus": "Abortiporus",
@@ -23,6 +23,13 @@
       "fullName": "Agaricus bitorquis",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
       "authority": "(Quél.) Sacc. 1887"
+    },
+    {
+      "genus": "Agaricus",
+      "species": "campestris",
+      "fullName": "Agaricus campestris",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
+      "authority": "L. 1753"
     },
     {
       "genus": "Agaricus",
@@ -811,6 +818,15 @@
     },
     {
       "genus": "Collybia",
+      "species": "hariolorum",
+      "fullName": "Collybia hariolorum",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Omphalotaceae",
+      "authority": "(Bull.) Quél. 1872",
+      "currentName": "Gymnopus hariolorum",
+      "currentAuthority": "(Bull.) Antonín, Halling & Noordel. 1997"
+    },
+    {
+      "genus": "Collybia",
       "species": "kuehneriana",
       "fullName": "Collybia kuehneriana",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Omphalotaceae",
@@ -910,6 +926,15 @@
       "authority": "(Bull.) Fr. 1838",
       "currentName": "Coprinellus micaceus",
       "currentAuthority": "(Bull.) Vilgalys, Hopple & Jacq. Johnson 2001"
+    },
+    {
+      "genus": "Coprinus",
+      "species": "plicatilis",
+      "fullName": "Coprinus plicatilis",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Psathyrellaceae",
+      "authority": "(Curtis) Fr. 1838",
+      "currentName": "Parasola plicatilis",
+      "currentAuthority": "(Curtis) Redhead, Vilgalys & Hopple 2001"
     },
     {
       "genus": "Cordyceps",
@@ -1195,6 +1220,13 @@
       "authority": "(Fr.) Quél. 1888"
     },
     {
+      "genus": "Crepidotus",
+      "species": "mollis",
+      "fullName": "Crepidotus mollis",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Crepidotaceae",
+      "authority": "(Schaeff.) Staude 1857"
+    },
+    {
       "genus": "Crucibulum",
       "species": "laeve",
       "fullName": "Crucibulum laeve",
@@ -1251,6 +1283,13 @@
       "fullName": "Daedaleopsis tricolor",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Polyporales > famiglia: Polyporaceae",
       "authority": "(Bull.) Bondartsev & Singer 1941"
+    },
+    {
+      "genus": "Deconica",
+      "species": "coprophila",
+      "fullName": "Deconica coprophila",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Kuehneromycetaceae",
+      "authority": "(Bull.) P. Karst. 1879"
     },
     {
       "genus": "Delicatula",
@@ -1355,6 +1394,13 @@
       "authority": "(Fuckel) C.E. Cramer 1874"
     },
     {
+      "genus": "Favolaschia",
+      "species": "claudopus",
+      "fullName": "Favolaschia claudopus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Mycenaceae",
+      "authority": "(Singer) Q.Y. Zhang & Y.C. Dai 2021"
+    },
+    {
       "genus": "Fistulina",
       "species": "hepatica",
       "fullName": "Fistulina hepatica",
@@ -1426,6 +1472,13 @@
     },
     {
       "genus": "Ganoderma",
+      "species": "applanatum",
+      "fullName": "Ganoderma applanatum",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Polyporales > famiglia: Polyporaceae",
+      "authority": "(Pers.) Pat. 1887"
+    },
+    {
+      "genus": "Ganoderma",
       "species": "lucidum",
       "fullName": "Ganoderma lucidum",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Polyporales > famiglia: Polyporaceae",
@@ -1437,6 +1490,13 @@
       "fullName": "Ganoderma resinaceum",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Polyporales > famiglia: Polyporaceae",
       "authority": "Boud. 1889"
+    },
+    {
+      "genus": "Geastrum",
+      "species": "rufescens",
+      "fullName": "Geastrum rufescens",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Geastrales > famiglia: Geastraceae",
+      "authority": "Pers. 1794"
     },
     {
       "genus": "Geastrum",
@@ -1755,6 +1815,13 @@
       "authority": "(Fr.) Quél. 1872",
       "currentName": "Hypholoma lateritium",
       "currentAuthority": "(Schaeff.) P. Kumm. 1871"
+    },
+    {
+      "genus": "Hypomyces",
+      "species": "lateritius",
+      "fullName": "Hypomyces lateritius",
+      "lineage": "regno: Fungi > phylum: Ascomycota > classe: Sordariomycetes > ordine: Hypocreales > famiglia: Hypocreaceae",
+      "authority": "(Fr.) Tul. & C. Tul. 1860"
     },
     {
       "genus": "Hypoxylon",
@@ -2331,6 +2398,15 @@
     },
     {
       "genus": "Macrolepiota",
+      "species": "puellaris",
+      "fullName": "Macrolepiota puellaris",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
+      "authority": "(Fr.) M.M. Moser 1967",
+      "currentName": "Leucocoprinus nympharum",
+      "currentAuthority": "(Kalchbr.) M. Asif, Saba & Vellinga 2024"
+    },
+    {
+      "genus": "Macrolepiota",
       "species": "rhacodes",
       "fullName": "Macrolepiota rhacodes",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
@@ -2367,6 +2443,13 @@
       "fullName": "Marasmius oreades",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Marasmiaceae",
       "authority": "(Bolton) Fr. 1836"
+    },
+    {
+      "genus": "Marasmius",
+      "species": "rotula",
+      "fullName": "Marasmius rotula",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Marasmiaceae",
+      "authority": "(Scop.) Fr. 1838"
     },
     {
       "genus": "Marasmius",
@@ -3442,6 +3525,13 @@
       "fullName": "Stropharia aeruginosa",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Strophariaceae",
       "authority": "(Curtis) Quél. 1872"
+    },
+    {
+      "genus": "Stropharia",
+      "species": "coronilla",
+      "fullName": "Stropharia coronilla",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Strophariaceae",
+      "authority": "(Bull.) Quél. 1872"
     },
     {
       "genus": "Stropharia",
