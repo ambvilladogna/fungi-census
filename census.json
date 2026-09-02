@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-01T07:42:01.696Z",
+  "generatedAt": "2026-09-02T00:13:20.660Z",
   "totalSpecies": 518,
-  "totalSamples": 1424,
+  "totalSamples": 1426,
   "species": [
     {
       "genus": "Abortiporus",
@@ -268,10 +268,10 @@
     },
     {
       "genus": "Asterophora",
-      "species": "lycoperdoides",
-      "fullName": "Asterophora lycoperdoides",
+      "species": "parasitica",
+      "fullName": "Asterophora parasitica",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Lyophyllaceae",
-      "authority": "(Bull.) Ditmar 1809"
+      "authority": "(Bull.) Singer 1951"
     },
     {
       "genus": "Auricularia",

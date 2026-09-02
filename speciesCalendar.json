@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-01T07:42:01.803Z",
+  "generatedAt": "2026-09-02T00:13:20.750Z",
   "totalSpecies": 518,
-  "totalSamples": 1552,
+  "totalSamples": 1554,
   "species": [
     {
       "genus": "Flammulina",
@@ -11758,6 +11758,50 @@
       }
     },
     {
+      "genus": "Fistulina",
+      "species": "hepatica",
+      "fullName": "Fistulina hepatica",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales",
+      "authority": "(Schaeff.) With. 1801",
+      "totalSamples": 2,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "earliestDate": "08-26",
+      "earliestDayOfYear": 238,
+      "earliestSample": {
+        "collectionDate": "2026-08-26",
+        "collector": "Fabio Locatelli",
+        "locality": "Clusone, monte ost",
+        "localityCoordinates": "",
+        "habitat": "Castagno",
+        "determiner": "Fabio Locatelli",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "09-08",
+      "latestDayOfYear": 251,
+      "latestSample": {
+        "collectionDate": "2025-09-08",
+        "collector": "Fabio Locatelli",
+        "locality": "Ripa, Gromo",
+        "localityCoordinates": "45.976347, 9.928513",
+        "habitat": "Faggio",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
       "genus": "Hydnum",
       "species": "rufescens",
       "fullName": "Hydnum rufescens",
@@ -12429,7 +12473,7 @@
       "authority": "Pers. 1801",
       "currentName": "Caloboletus radicans",
       "currentAuthority": "(Pers.) Vizzini 2014",
-      "totalSamples": 2,
+      "totalSamples": 3,
       "monthlyCount": [
         0,
         0,
@@ -12439,7 +12483,7 @@
         0,
         0,
         1,
-        1,
+        2,
         0,
         0,
         0
@@ -14295,10 +14339,10 @@
     },
     {
       "genus": "Asterophora",
-      "species": "lycoperdoides",
-      "fullName": "Asterophora lycoperdoides",
+      "species": "parasitica",
+      "fullName": "Asterophora parasitica",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Lyophyllaceae",
-      "authority": "(Bull.) Ditmar 1809",
+      "authority": "(Bull.) Singer 1951",
       "totalSamples": 1,
       "monthlyCount": [
         0,
@@ -16296,50 +16340,6 @@
         "localityCoordinates": "46.009394, 10.154059",
         "habitat": "Bosco misto",
         "determiner": "Fabio Locatelli",
-        "_tipo": "raccolto"
-      }
-    },
-    {
-      "genus": "Fistulina",
-      "species": "hepatica",
-      "fullName": "Fistulina hepatica",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales",
-      "authority": "(Schaeff.) With. 1801",
-      "totalSamples": 1,
-      "monthlyCount": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0
-      ],
-      "earliestDate": "09-08",
-      "earliestDayOfYear": 251,
-      "earliestSample": {
-        "collectionDate": "2025-09-08",
-        "collector": "Fabio Locatelli",
-        "locality": "Ripa, Gromo",
-        "localityCoordinates": "45.976347, 9.928513",
-        "habitat": "Faggio",
-        "determiner": "Pierino Bigoni",
-        "_tipo": "raccolto"
-      },
-      "latestDate": "09-08",
-      "latestDayOfYear": 251,
-      "latestSample": {
-        "collectionDate": "2025-09-08",
-        "collector": "Fabio Locatelli",
-        "locality": "Ripa, Gromo",
-        "localityCoordinates": "45.976347, 9.928513",
-        "habitat": "Faggio",
-        "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
     },

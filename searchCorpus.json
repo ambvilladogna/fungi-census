@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T07:42:02.028Z",
+  "generatedAt": "2026-09-02T00:13:20.929Z",
   "corpus": [
     {
       "type": "genus",
@@ -109,7 +109,7 @@
       "type": "genus",
       "value": "Asterophora",
       "matchSpecies": [
-        "Asterophora lycoperdoides"
+        "Asterophora parasitica"
       ]
     },
     {
@@ -2577,9 +2577,9 @@
     },
     {
       "type": "species",
-      "value": "Asterophora lycoperdoides",
+      "value": "Asterophora parasitica",
       "matchSpecies": [
-        "Asterophora lycoperdoides"
+        "Asterophora parasitica"
       ]
     },
     {
@@ -7518,7 +7518,7 @@
       "type": "famiglia",
       "value": "Lyophyllaceae",
       "matchSpecies": [
-        "Asterophora lycoperdoides",
+        "Asterophora parasitica",
         "Calocybe gambosa",
         "Lyophyllum amariusculum",
         "Lyophyllum decastes",
@@ -8110,7 +8110,7 @@
         "Apioperdon pyriforme",
         "Armillaria mellea",
         "Armillaria ostoyae",
-        "Asterophora lycoperdoides",
+        "Asterophora parasitica",
         "Aureonarius callisteus",
         "Aureonarius limonius",
         "Baeospora myosura",
@@ -8908,7 +8908,7 @@
         "Apioperdon pyriforme",
         "Armillaria mellea",
         "Armillaria ostoyae",
-        "Asterophora lycoperdoides",
+        "Asterophora parasitica",
         "Aureonarius callisteus",
         "Aureonarius limonius",
         "Auricularia auricula-judae",
@@ -9660,7 +9660,7 @@
         "Apioperdon pyriforme",
         "Armillaria mellea",
         "Armillaria ostoyae",
-        "Asterophora lycoperdoides",
+        "Asterophora parasitica",
         "Aureonarius callisteus",
         "Aureonarius limonius",
         "Auricularia auricula-judae",
@@ -10258,7 +10258,7 @@
         "Apioperdon pyriforme",
         "Armillaria mellea",
         "Armillaria ostoyae",
-        "Asterophora lycoperdoides",
+        "Asterophora parasitica",
         "Aureonarius callisteus",
         "Aureonarius limonius",
         "Auricularia auricula-judae",
