@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T00:13:20.750Z",
+  "generatedAt": "2026-09-02T06:42:36.953Z",
   "totalSpecies": 518,
   "totalSamples": 1554,
   "species": [
@@ -11783,8 +11783,8 @@
       "earliestSample": {
         "collectionDate": "2026-08-26",
         "collector": "Fabio Locatelli",
-        "locality": "Clusone, monte ost",
-        "localityCoordinates": "",
+        "locality": "Monte Ost, Villa d'Ogna",
+        "localityCoordinates": "45.904143, 9.942472",
         "habitat": "Castagno",
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
