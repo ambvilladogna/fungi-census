@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-02T06:42:36.953Z",
+  "generatedAt": "2026-09-03T00:13:18.558Z",
   "totalSpecies": 518,
-  "totalSamples": 1554,
+  "totalSamples": 1557,
   "species": [
     {
       "genus": "Flammulina",
@@ -5533,7 +5533,7 @@
       "authority": "Lenz 1831",
       "currentName": "Rubroboletus satanas",
       "currentAuthority": "(Lenz) Kuan Zhao & Zhu L. Yang 2014",
-      "totalSamples": 2,
+      "totalSamples": 3,
       "monthlyCount": [
         0,
         0,
@@ -5543,7 +5543,7 @@
         0,
         1,
         1,
-        0,
+        1,
         0,
         0,
         0
@@ -5559,14 +5559,14 @@
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       },
-      "latestDate": "08-01",
-      "latestDayOfYear": 213,
+      "latestDate": "09-01",
+      "latestDayOfYear": 244,
       "latestSample": {
-        "collectionDate": "2026-08-01",
+        "collectionDate": "2026-09-01",
         "collector": "Fabio Locatelli",
-        "locality": "mulattiera Fontanile di Sales, La Spessa, Clusone, Bergamo",
-        "localityCoordinates": "45.868506, 9.933190",
-        "habitat": "Castagno",
+        "locality": "Monte Ost, Villa d'Ogna",
+        "localityCoordinates": "45.904143, 9.942472",
+        "habitat": "Carpino nero",
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
@@ -5577,7 +5577,7 @@
       "fullName": "Rubroboletus satanas",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
       "authority": "(Lenz) Kuan Zhao & Zhu L. Yang 2014",
-      "totalSamples": 2,
+      "totalSamples": 3,
       "monthlyCount": [
         0,
         0,
@@ -5587,7 +5587,7 @@
         0,
         1,
         1,
-        0,
+        1,
         0,
         0,
         0
@@ -5603,14 +5603,14 @@
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       },
-      "latestDate": "08-01",
-      "latestDayOfYear": 213,
+      "latestDate": "09-01",
+      "latestDayOfYear": 244,
       "latestSample": {
-        "collectionDate": "2026-08-01",
+        "collectionDate": "2026-09-01",
         "collector": "Fabio Locatelli",
-        "locality": "mulattiera Fontanile di Sales, La Spessa, Clusone, Bergamo",
-        "localityCoordinates": "45.868506, 9.933190",
-        "habitat": "Castagno",
+        "locality": "Monte Ost, Villa d'Ogna",
+        "localityCoordinates": "45.904143, 9.942472",
+        "habitat": "Carpino nero",
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
@@ -10159,7 +10159,7 @@
       "fullName": "Ramaria luteoaurantiaca",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Gomphales > famiglia: Gomphaceae",
       "authority": "Franchi & M. Marchetti 2020",
-      "totalSamples": 3,
+      "totalSamples": 4,
       "monthlyCount": [
         0,
         0,
@@ -10169,7 +10169,7 @@
         0,
         0,
         3,
-        0,
+        1,
         0,
         0,
         0
@@ -10185,14 +10185,14 @@
         "determiner": "Angelo Ballabeni",
         "_tipo": "raccolto"
       },
-      "latestDate": "08-30",
-      "latestDayOfYear": 242,
+      "latestDate": "09-02",
+      "latestDayOfYear": 245,
       "latestSample": {
-        "collectionDate": "2026-08-30",
+        "collectionDate": "2026-09-02",
         "collector": "Fabio Locatelli",
-        "locality": "Schilpario",
-        "localityCoordinates": "46.009394, 10.154059",
-        "habitat": "Bosco misto abete bianco e abete rosso",
+        "locality": "Valcanale, Zulino",
+        "localityCoordinates": "45.904143, 9.942472",
+        "habitat": "Abete rosso",
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
@@ -11753,50 +11753,6 @@
         "locality": "Colle Palazzo, Oltressenda Alta",
         "localityCoordinates": "45.938839, 9.973808",
         "habitat": "Bosco misto",
-        "determiner": "Pierino Bigoni",
-        "_tipo": "raccolto"
-      }
-    },
-    {
-      "genus": "Fistulina",
-      "species": "hepatica",
-      "fullName": "Fistulina hepatica",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales",
-      "authority": "(Schaeff.) With. 1801",
-      "totalSamples": 2,
-      "monthlyCount": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        1,
-        0,
-        0,
-        0
-      ],
-      "earliestDate": "08-26",
-      "earliestDayOfYear": 238,
-      "earliestSample": {
-        "collectionDate": "2026-08-26",
-        "collector": "Fabio Locatelli",
-        "locality": "Monte Ost, Villa d'Ogna",
-        "localityCoordinates": "45.904143, 9.942472",
-        "habitat": "Castagno",
-        "determiner": "Fabio Locatelli",
-        "_tipo": "raccolto"
-      },
-      "latestDate": "09-08",
-      "latestDayOfYear": 251,
-      "latestSample": {
-        "collectionDate": "2025-09-08",
-        "collector": "Fabio Locatelli",
-        "locality": "Ripa, Gromo",
-        "localityCoordinates": "45.976347, 9.928513",
-        "habitat": "Faggio",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
@@ -15451,6 +15407,50 @@
         "locality": "Spiazzi, Gromo",
         "localityCoordinates": "45.970802, 9.963785",
         "habitat": "Bosco misto abete bianco e abete rosso",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Fistulina",
+      "species": "hepatica",
+      "fullName": "Fistulina hepatica",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales",
+      "authority": "(Schaeff.) With. 1801",
+      "totalSamples": 2,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0
+      ],
+      "earliestDate": "09-01",
+      "earliestDayOfYear": 244,
+      "earliestSample": {
+        "collectionDate": "2026-09-01",
+        "collector": "Fabio Locatelli",
+        "locality": "Monte Ost, Villa d'Ogna",
+        "localityCoordinates": "45.904143, 9.942472",
+        "habitat": "Castagno",
+        "determiner": "Fabio Locatelli",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "09-08",
+      "latestDayOfYear": 251,
+      "latestSample": {
+        "collectionDate": "2025-09-08",
+        "collector": "Fabio Locatelli",
+        "locality": "Ripa, Gromo",
+        "localityCoordinates": "45.976347, 9.928513",
+        "habitat": "Faggio",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }

@@ -6,6 +6,14 @@
   "autoreCorrente": "(Lenz) Kuan Zhao & Zhu L. Yang 2014",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-01",
+      "collector": "Fabio Locatelli",
+      "locality": "Monte Ost, Villa d'Ogna",
+      "localityCoordinates": "45.904143, 9.942472",
+      "habitat": "Carpino nero",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2026-08-01",
       "collector": "Fabio Locatelli",
       "locality": "mulattiera Fontanile di Sales, La Spessa, Clusone, Bergamo",
@@ -25,7 +33,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "07-03",
-    "raccoltaPiuTarda": "08-01",
+    "raccoltaPiuTarda": "09-01",
     "campioniPerMese": [
       {
         "gen": 0
@@ -52,7 +60,7 @@
         "ago": 1
       },
       {
-        "set": 0
+        "set": 1
       },
       {
         "ott": 0
@@ -66,8 +74,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 2,
-    "campioniRaccolti": 2,
+    "totaleCampioni": 3,
+    "campioniRaccolti": 3,
     "campioniExsiccata": 0
   }
 }
