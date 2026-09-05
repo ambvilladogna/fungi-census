@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-03T00:13:18.463Z",
-  "totalSpecies": 518,
+  "generatedAt": "2026-09-05T00:13:26.452Z",
+  "totalSpecies": 519,
   "totalSamples": 1429,
   "species": [
     {
@@ -2315,6 +2315,15 @@
       "fullName": "Lycoperdon echinatum",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Lycoperdaceae",
       "authority": "Pers. 1794"
+    },
+    {
+      "genus": "Lycoperdon",
+      "species": "molle",
+      "fullName": "Lycoperdon molle",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Lycoperdaceae",
+      "authority": "Pers. 1800",
+      "currentName": "Utraria mollis",
+      "currentAuthority": "(Pers.) R.L. Zhao & J.Xin Li 2024"
     },
     {
       "genus": "Lycoperdon",

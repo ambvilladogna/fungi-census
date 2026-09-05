@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T00:13:20.929Z",
+  "generatedAt": "2026-09-05T00:13:26.716Z",
   "corpus": [
     {
       "type": "genus",
@@ -1343,10 +1343,12 @@
       "matchSpecies": [
         "Apioperdon pyriforme",
         "Lycoperdon echinatum",
+        "Lycoperdon molle",
         "Lycoperdon perlatum",
         "Lycoperdon pratense",
         "Lycoperdon pyriforme",
         "Lycoperdon umbrinum",
+        "Utraria mollis",
         "Utraria umbrina",
         "Vascellum pratense"
       ]
@@ -2164,7 +2166,9 @@
       "type": "genus",
       "value": "Utraria",
       "matchSpecies": [
+        "Lycoperdon molle",
         "Lycoperdon umbrinum",
+        "Utraria mollis",
         "Utraria umbrina"
       ]
     },
@@ -5037,6 +5041,14 @@
     },
     {
       "type": "species",
+      "value": "Lycoperdon molle",
+      "matchSpecies": [
+        "Lycoperdon molle",
+        "Utraria mollis"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Lycoperdon perlatum",
       "matchSpecies": [
         "Lycoperdon perlatum"
@@ -6781,6 +6793,14 @@
     },
     {
       "type": "species",
+      "value": "Utraria mollis",
+      "matchSpecies": [
+        "Lycoperdon molle",
+        "Utraria mollis"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Utraria umbrina",
       "matchSpecies": [
         "Lycoperdon umbrinum",
@@ -7506,10 +7526,12 @@
         "Calvatia gigantea",
         "Calvatia utriformis",
         "Lycoperdon echinatum",
+        "Lycoperdon molle",
         "Lycoperdon perlatum",
         "Lycoperdon pratense",
         "Lycoperdon pyriforme",
         "Lycoperdon umbrinum",
+        "Utraria mollis",
         "Utraria umbrina",
         "Vascellum pratense"
       ]
@@ -8303,6 +8325,7 @@
         "Limacella delicata",
         "Limacella glioderma",
         "Lycoperdon echinatum",
+        "Lycoperdon molle",
         "Lycoperdon perlatum",
         "Lycoperdon pratense",
         "Lycoperdon pyriforme",
@@ -8415,6 +8438,7 @@
         "Tricholomopsis rutilans",
         "Tubaria furfuracea",
         "Tubaria hiemalis",
+        "Utraria mollis",
         "Utraria umbrina",
         "Vascellum pratense",
         "Volvariella murinella",
@@ -9206,6 +9230,7 @@
         "Limacella delicata",
         "Limacella glioderma",
         "Lycoperdon echinatum",
+        "Lycoperdon molle",
         "Lycoperdon perlatum",
         "Lycoperdon pratense",
         "Lycoperdon pyriforme",
@@ -9428,6 +9453,7 @@
         "Tubaria furfuracea",
         "Tubaria hiemalis",
         "Tylopilus felleus",
+        "Utraria mollis",
         "Utraria umbrina",
         "Vanderbylia fraxinea",
         "Vascellum pratense",
@@ -9962,6 +9988,7 @@
         "Limacella delicata",
         "Limacella glioderma",
         "Lycoperdon echinatum",
+        "Lycoperdon molle",
         "Lycoperdon perlatum",
         "Lycoperdon pratense",
         "Lycoperdon pyriforme",
@@ -10186,6 +10213,7 @@
         "Tubaria hiemalis",
         "Tylopilus felleus",
         "Ustilago maydis",
+        "Utraria mollis",
         "Utraria umbrina",
         "Vanderbylia fraxinea",
         "Vascellum pratense",
@@ -10581,6 +10609,7 @@
         "Limacella delicata",
         "Limacella glioderma",
         "Lycoperdon echinatum",
+        "Lycoperdon molle",
         "Lycoperdon perlatum",
         "Lycoperdon pratense",
         "Lycoperdon pyriforme",
@@ -10816,6 +10845,7 @@
         "Tubaria hiemalis",
         "Tylopilus felleus",
         "Ustilago maydis",
+        "Utraria mollis",
         "Utraria umbrina",
         "Vanderbylia fraxinea",
         "Vascellum pratense",
