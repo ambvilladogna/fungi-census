@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-06",
+      "collector": "Fabio Locatelli",
+      "locality": "Busgarina, Clusone",
+      "localityCoordinates": "45.873024, 9.916009",
+      "habitat": "Nocciolo",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2026-08-02",
       "collector": "Fabio Locatelli",
       "locality": "Casnigo",
@@ -17,7 +25,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "08-02",
-    "raccoltaPiuTarda": "08-02",
+    "raccoltaPiuTarda": "09-06",
     "campioniPerMese": [
       {
         "gen": 0
@@ -44,7 +52,7 @@
         "ago": 1
       },
       {
-        "set": 0
+        "set": 1
       },
       {
         "ott": 0
@@ -58,8 +66,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 1,
-    "campioniRaccolti": 1,
+    "totaleCampioni": 2,
+    "campioniRaccolti": 2,
     "campioniExsiccata": 0
   }
 }

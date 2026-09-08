@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-05T00:13:26.452Z",
-  "totalSpecies": 519,
-  "totalSamples": 1429,
+  "generatedAt": "2026-09-08T00:13:30.613Z",
+  "totalSpecies": 524,
+  "totalSamples": 1443,
   "species": [
     {
       "genus": "Abortiporus",
@@ -101,6 +101,13 @@
       "fullName": "Amanita citrina",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
       "authority": "Pers. 1797"
+    },
+    {
+      "genus": "Amanita",
+      "species": "excelsa",
+      "fullName": "Amanita excelsa",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
+      "authority": "(Fr.) Bertill. 1866"
     },
     {
       "genus": "Amanita",
@@ -382,6 +389,15 @@
       "authority": "Pers. 1795",
       "currentName": "Neoboletus erythropus",
       "currentAuthority": "(Pers.) Bertolini & Papetti 2026"
+    },
+    {
+      "genus": "Boletus",
+      "species": "fechtneri",
+      "fullName": "Boletus fechtneri",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
+      "authority": "Velen. 1922",
+      "currentName": "Butyriboletus fechtneri",
+      "currentAuthority": "(Velen.) D. Arora & J.L. Frank 2014"
     },
     {
       "genus": "Boletus",
@@ -1564,6 +1580,13 @@
       "authority": "(Pers.) Antonín & Noordel. 1997"
     },
     {
+      "genus": "Gyroporus",
+      "species": "castaneus",
+      "fullName": "Gyroporus castaneus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Gyroporaceae",
+      "authority": "(Bull.) Quél. 1886"
+    },
+    {
       "genus": "Hebeloma",
       "species": "crustuliniforme",
       "fullName": "Hebeloma crustuliniforme",
@@ -1954,6 +1977,13 @@
     },
     {
       "genus": "Lactarius",
+      "species": "aurantiacus",
+      "fullName": "Lactarius aurantiacus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
+      "authority": "(Pers.) Gray 1821"
+    },
+    {
+      "genus": "Lactarius",
       "species": "badiosanguineus",
       "fullName": "Lactarius badiosanguineus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
@@ -2292,6 +2322,15 @@
       "authority": "(Vittad.) Wasser 1977",
       "currentName": "Leucocoprinus leucothites",
       "currentAuthority": "(Vittad.) Redhead 2023"
+    },
+    {
+      "genus": "Leucopaxillus",
+      "species": "candidus",
+      "fullName": "Leucopaxillus candidus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Tricholomataceae",
+      "authority": "(Bres.) Singer 1939",
+      "currentName": "Aspropaxillus candidus",
+      "currentAuthority": "(Bres.) M.M. Moser 1953"
     },
     {
       "genus": "Limacella",

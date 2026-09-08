@@ -6,6 +6,22 @@
   "autoreCorrente": "(Fr.) Bertill. 1866",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-06",
+      "collector": "Antonio Guana",
+      "locality": "Spiazzi, Gromo",
+      "localityCoordinates": "45.970802, 9.963785",
+      "habitat": "Bosco misto abete bianco e abete rosso",
+      "determiner": "Fabio Locatelli"
+    },
+    {
+      "collectionDate": "2026-09-06",
+      "collector": "Pietro Centenari",
+      "locality": "Blum, Rovetta",
+      "localityCoordinates": "45.909548, 9.973256",
+      "habitat": "Abete rosso",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2026-08-31",
       "collector": "Pierino Bigoni",
       "locality": "Spiazzi, Gromo",
@@ -92,7 +108,7 @@
         "ago": 1
       },
       {
-        "set": 3
+        "set": 5
       },
       {
         "ott": 0
@@ -106,8 +122,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 7,
-    "campioniRaccolti": 7,
+    "totaleCampioni": 9,
+    "campioniRaccolti": 9,
     "campioniExsiccata": 0
   }
 }

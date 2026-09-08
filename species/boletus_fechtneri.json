@@ -1,31 +1,31 @@
 {
-  "nomeCompleto": "Leccinum aurantiacum",
-  "autore": "(Bull.) Gray 1821",
+  "nomeCompleto": "Boletus fechtneri",
+  "autore": "Velen. 1922",
   "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
-  "nomeCorrente": null,
-  "autoreCorrente": null,
+  "nomeCorrente": "Butyriboletus fechtneri",
+  "autoreCorrente": "(Velen.) D. Arora & J.L. Frank 2014",
   "campioniRaccolti": [
     {
       "collectionDate": "2026-09-06",
       "collector": "Fabio Locatelli",
       "locality": "Busgarina, Clusone",
       "localityCoordinates": "45.873024, 9.916009",
-      "habitat": "Pioppo tremulo",
+      "habitat": "Nocciolo",
       "determiner": "Fabio Locatelli"
     },
     {
-      "collectionDate": "2025-09-17",
-      "collector": "Pierino Bigoni",
-      "locality": "Zenier, Rovetta",
-      "localityCoordinates": "45.898619, 9.984853",
-      "habitat": "Bosco misto",
-      "determiner": "Pierino Bigoni"
+      "collectionDate": "2026-08-02",
+      "collector": "Fabio Locatelli",
+      "locality": "Casnigo",
+      "localityCoordinates": "45.815912, 9.868141",
+      "habitat": "Abete rosso",
+      "determiner": "Fabio Locatelli"
     }
   ],
   "campioniExsiccata": [],
   "fenologia": {
-    "raccoltaPiuPrecoce": "09-06",
-    "raccoltaPiuTarda": "09-17",
+    "raccoltaPiuPrecoce": "08-02",
+    "raccoltaPiuTarda": "09-06",
     "campioniPerMese": [
       {
         "gen": 0
@@ -49,10 +49,10 @@
         "lug": 0
       },
       {
-        "ago": 0
+        "ago": 1
       },
       {
-        "set": 2
+        "set": 1
       },
       {
         "ott": 0

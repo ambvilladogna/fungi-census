@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T00:13:26.716Z",
+  "generatedAt": "2026-09-08T00:13:30.806Z",
   "corpus": [
     {
       "type": "genus",
@@ -107,6 +107,14 @@
     },
     {
       "type": "genus",
+      "value": "Aspropaxillus",
+      "matchSpecies": [
+        "Aspropaxillus candidus",
+        "Leucopaxillus candidus"
+      ]
+    },
+    {
+      "type": "genus",
       "value": "Asterophora",
       "matchSpecies": [
         "Asterophora parasitica"
@@ -191,12 +199,14 @@
         "Boletus depilatus",
         "Boletus edulis",
         "Boletus erythropus",
+        "Boletus fechtneri",
         "Boletus luridus",
         "Boletus pulverulentus",
         "Boletus radicans",
         "Boletus reticulatus",
         "Boletus rubrosanguineus",
         "Boletus satanas",
+        "Butyriboletus fechtneri",
         "Caloboletus calopus",
         "Caloboletus radicans",
         "Cyanoboletus pulverulentus",
@@ -226,6 +236,7 @@
       "type": "genus",
       "value": "Butyriboletus",
       "matchSpecies": [
+        "Boletus fechtneri",
         "Butyriboletus fechtneri"
       ]
     },
@@ -935,6 +946,13 @@
     },
     {
       "type": "genus",
+      "value": "Gyroporus",
+      "matchSpecies": [
+        "Gyroporus castaneus"
+      ]
+    },
+    {
+      "type": "genus",
       "value": "Hebeloma",
       "matchSpecies": [
         "Hebeloma crustuliniforme",
@@ -1163,6 +1181,7 @@
       "type": "genus",
       "value": "Lactarius",
       "matchSpecies": [
+        "Lactarius aurantiacus",
         "Lactarius badiosanguineus",
         "Lactarius blennius",
         "Lactarius deliciosus",
@@ -1320,6 +1339,14 @@
       "matchSpecies": [
         "Leucocybe connata",
         "Lyophyllum connatum"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Leucopaxillus",
+      "matchSpecies": [
+        "Aspropaxillus candidus",
+        "Leucopaxillus candidus"
       ]
     },
     {
@@ -2581,6 +2608,14 @@
     },
     {
       "type": "species",
+      "value": "Aspropaxillus candidus",
+      "matchSpecies": [
+        "Aspropaxillus candidus",
+        "Leucopaxillus candidus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Asterophora parasitica",
       "matchSpecies": [
         "Asterophora parasitica"
@@ -2717,6 +2752,14 @@
     },
     {
       "type": "species",
+      "value": "Boletus fechtneri",
+      "matchSpecies": [
+        "Boletus fechtneri",
+        "Butyriboletus fechtneri"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Boletus luridus",
       "matchSpecies": [
         "Boletus luridus",
@@ -2782,6 +2825,7 @@
       "type": "species",
       "value": "Butyriboletus fechtneri",
       "matchSpecies": [
+        "Boletus fechtneri",
         "Butyriboletus fechtneri"
       ]
     },
@@ -4176,6 +4220,13 @@
     },
     {
       "type": "species",
+      "value": "Gyroporus castaneus",
+      "matchSpecies": [
+        "Gyroporus castaneus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Hebeloma crustuliniforme",
       "matchSpecies": [
         "Hebeloma crustuliniforme"
@@ -4617,6 +4668,13 @@
     },
     {
       "type": "species",
+      "value": "Lactarius aurantiacus",
+      "matchSpecies": [
+        "Lactarius aurantiacus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Lactarius badiosanguineus",
       "matchSpecies": [
         "Lactarius badiosanguineus"
@@ -5007,6 +5065,14 @@
       "matchSpecies": [
         "Leucocybe connata",
         "Lyophyllum connatum"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Leucopaxillus candidus",
+      "matchSpecies": [
+        "Aspropaxillus candidus",
+        "Leucopaxillus candidus"
       ]
     },
     {
@@ -7069,6 +7135,7 @@
         "Boletus depilatus",
         "Boletus edulis",
         "Boletus erythropus",
+        "Boletus fechtneri",
         "Boletus luridus",
         "Boletus pulverulentus",
         "Boletus radicans",
@@ -7354,6 +7421,13 @@
       "matchSpecies": [
         "Chroogomphus rutilus",
         "Gomphidius glutinosus"
+      ]
+    },
+    {
+      "type": "famiglia",
+      "value": "Gyroporaceae",
+      "matchSpecies": [
+        "Gyroporus castaneus"
       ]
     },
     {
@@ -7829,6 +7903,7 @@
       "type": "famiglia",
       "value": "Russulaceae",
       "matchSpecies": [
+        "Lactarius aurantiacus",
         "Lactarius badiosanguineus",
         "Lactarius blennius",
         "Lactarius deliciosus",
@@ -8033,6 +8108,8 @@
       "type": "famiglia",
       "value": "Tricholomataceae",
       "matchSpecies": [
+        "Aspropaxillus candidus",
+        "Leucopaxillus candidus",
         "Tricholoma aurantium",
         "Tricholoma bufonium",
         "Tricholoma inamoenum",
@@ -8132,6 +8209,7 @@
         "Apioperdon pyriforme",
         "Armillaria mellea",
         "Armillaria ostoyae",
+        "Aspropaxillus candidus",
         "Asterophora parasitica",
         "Aureonarius callisteus",
         "Aureonarius limonius",
@@ -8322,6 +8400,7 @@
         "Leucocoprinus leucothites",
         "Leucocoprinus nympharum",
         "Leucocybe connata",
+        "Leucopaxillus candidus",
         "Limacella delicata",
         "Limacella glioderma",
         "Lycoperdon echinatum",
@@ -8469,6 +8548,7 @@
         "Boletus depilatus",
         "Boletus edulis",
         "Boletus erythropus",
+        "Boletus fechtneri",
         "Boletus luridus",
         "Boletus pulverulentus",
         "Boletus radicans",
@@ -8482,6 +8562,7 @@
         "Chroogomphus rutilus",
         "Cyanoboletus pulverulentus",
         "Gomphidius glutinosus",
+        "Gyroporus castaneus",
         "Hemileccinum depilatum",
         "Imleria badia",
         "Imperator torosus",
@@ -8761,6 +8842,7 @@
         "Albatrellus ovinus",
         "Auriscalpium vulgare",
         "Heterobasidion parviporum",
+        "Lactarius aurantiacus",
         "Lactarius badiosanguineus",
         "Lactarius blennius",
         "Lactarius deliciosus",
@@ -8932,6 +9014,7 @@
         "Apioperdon pyriforme",
         "Armillaria mellea",
         "Armillaria ostoyae",
+        "Aspropaxillus candidus",
         "Asterophora parasitica",
         "Aureonarius callisteus",
         "Aureonarius limonius",
@@ -8948,6 +9031,7 @@
         "Boletus depilatus",
         "Boletus edulis",
         "Boletus erythropus",
+        "Boletus fechtneri",
         "Boletus luridus",
         "Boletus pulverulentus",
         "Boletus radicans",
@@ -9125,6 +9209,7 @@
         "Gymnopus erythropus",
         "Gymnopus hariolorum",
         "Gymnopus ocior",
+        "Gyroporus castaneus",
         "Hebeloma crustuliniforme",
         "Hebeloma sinapizans",
         "Hemileccinum depilatum",
@@ -9176,6 +9261,7 @@
         "Laccaria amethystina",
         "Laccaria bicolor",
         "Laccaria laccata",
+        "Lactarius aurantiacus",
         "Lactarius badiosanguineus",
         "Lactarius blennius",
         "Lactarius deliciosus",
@@ -9227,6 +9313,7 @@
         "Leucocoprinus leucothites",
         "Leucocoprinus nympharum",
         "Leucocybe connata",
+        "Leucopaxillus candidus",
         "Limacella delicata",
         "Limacella glioderma",
         "Lycoperdon echinatum",
@@ -9686,6 +9773,7 @@
         "Apioperdon pyriforme",
         "Armillaria mellea",
         "Armillaria ostoyae",
+        "Aspropaxillus candidus",
         "Asterophora parasitica",
         "Aureonarius callisteus",
         "Aureonarius limonius",
@@ -9702,6 +9790,7 @@
         "Boletus depilatus",
         "Boletus edulis",
         "Boletus erythropus",
+        "Boletus fechtneri",
         "Boletus luridus",
         "Boletus pulverulentus",
         "Boletus radicans",
@@ -9883,6 +9972,7 @@
         "Gymnopus erythropus",
         "Gymnopus hariolorum",
         "Gymnopus ocior",
+        "Gyroporus castaneus",
         "Hebeloma crustuliniforme",
         "Hebeloma sinapizans",
         "Hemileccinum depilatum",
@@ -9934,6 +10024,7 @@
         "Laccaria amethystina",
         "Laccaria bicolor",
         "Laccaria laccata",
+        "Lactarius aurantiacus",
         "Lactarius badiosanguineus",
         "Lactarius blennius",
         "Lactarius deliciosus",
@@ -9985,6 +10076,7 @@
         "Leucocoprinus leucothites",
         "Leucocoprinus nympharum",
         "Leucocybe connata",
+        "Leucopaxillus candidus",
         "Limacella delicata",
         "Limacella glioderma",
         "Lycoperdon echinatum",
@@ -10286,6 +10378,7 @@
         "Apioperdon pyriforme",
         "Armillaria mellea",
         "Armillaria ostoyae",
+        "Aspropaxillus candidus",
         "Asterophora parasitica",
         "Aureonarius callisteus",
         "Aureonarius limonius",
@@ -10303,6 +10396,7 @@
         "Boletus depilatus",
         "Boletus edulis",
         "Boletus erythropus",
+        "Boletus fechtneri",
         "Boletus luridus",
         "Boletus pulverulentus",
         "Boletus radicans",
@@ -10495,6 +10589,7 @@
         "Gymnopus erythropus",
         "Gymnopus hariolorum",
         "Gymnopus ocior",
+        "Gyroporus castaneus",
         "Hebeloma crustuliniforme",
         "Hebeloma sinapizans",
         "Helvella crispa",
@@ -10553,6 +10648,7 @@
         "Laccaria amethystina",
         "Laccaria bicolor",
         "Laccaria laccata",
+        "Lactarius aurantiacus",
         "Lactarius badiosanguineus",
         "Lactarius blennius",
         "Lactarius deliciosus",
@@ -10606,6 +10702,7 @@
         "Leucocoprinus leucothites",
         "Leucocoprinus nympharum",
         "Leucocybe connata",
+        "Leucopaxillus candidus",
         "Limacella delicata",
         "Limacella glioderma",
         "Lycoperdon echinatum",
