@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-06",
+      "collector": "Pietro Centenari",
+      "locality": "Blum, Rovetta",
+      "localityCoordinates": "45.909548, 9.973256",
+      "habitat": "Abete rosso",
+      "determiner": "Pietro Centenari"
+    },
+    {
       "collectionDate": "2026-08-31",
       "collector": "Pierino Bigoni",
       "locality": "Spiazzi, Gromo",
@@ -180,7 +188,7 @@
         "ago": 7
       },
       {
-        "set": 2
+        "set": 3
       },
       {
         "ott": 2
@@ -194,8 +202,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 18,
-    "campioniRaccolti": 18,
+    "totaleCampioni": 19,
+    "campioniRaccolti": 19,
     "campioniExsiccata": 0
   }
 }

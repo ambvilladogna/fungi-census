@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-08T00:13:30.613Z",
-  "totalSpecies": 524,
-  "totalSamples": 1443,
+  "generatedAt": "2026-09-09T00:13:26.095Z",
+  "totalSpecies": 525,
+  "totalSamples": 1448,
   "species": [
     {
       "genus": "Abortiporus",
@@ -159,6 +159,13 @@
       "fullName": "Amanita magnivolvata",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
       "authority": "Aalto 1974"
+    },
+    {
+      "genus": "Amanita",
+      "species": "mairei",
+      "fullName": "Amanita mairei",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
+      "authority": "Foley 1949"
     },
     {
       "genus": "Amanita",

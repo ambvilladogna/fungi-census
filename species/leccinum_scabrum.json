@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-06",
+      "collector": "Pietro Centenari",
+      "locality": "Blum, Rovetta",
+      "localityCoordinates": "45.909548, 9.973256",
+      "habitat": "Betulla",
+      "determiner": "Pietro Centenari"
+    },
+    {
       "collectionDate": "2026-08-01",
       "collector": "Fabio Locatelli",
       "locality": "Prat del sul, Clusone",
@@ -92,7 +100,7 @@
         "ago": 2
       },
       {
-        "set": 3
+        "set": 4
       },
       {
         "ott": 1
@@ -106,8 +114,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 7,
-    "campioniRaccolti": 7,
+    "totaleCampioni": 8,
+    "campioniRaccolti": 8,
     "campioniExsiccata": 0
   }
 }

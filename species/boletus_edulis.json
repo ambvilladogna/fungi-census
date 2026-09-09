@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-06",
+      "collector": "Pietro Centenari",
+      "locality": "Blum, Rovetta",
+      "localityCoordinates": "45.909548, 9.973256",
+      "habitat": "Abete rosso",
+      "determiner": "Pietro Centenari"
+    },
+    {
       "collectionDate": "2026-09-02",
       "collector": "Fabio Locatelli",
       "locality": "Valcanale, Zulino",
@@ -174,14 +182,6 @@
       "determiner": "Pietro Centenari"
     },
     {
-      "collectionDate": "2025-08-04",
-      "collector": "Fabio Locatelli",
-      "locality": "Ripa, Gromo",
-      "localityCoordinates": "45.976347, 9.928513",
-      "habitat": "Abete rosso",
-      "determiner": "Fabio Locatelli"
-    },
-    {
       "collectionDate": "2025-08-01",
       "collector": "Fabio Locatelli",
       "locality": "Ripa, Gromo",
@@ -233,10 +233,10 @@
         "lug": 4
       },
       {
-        "ago": 7
+        "ago": 6
       },
       {
-        "set": 7
+        "set": 8
       },
       {
         "ott": 7

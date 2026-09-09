@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T00:13:30.806Z",
+  "generatedAt": "2026-09-09T00:13:26.386Z",
   "corpus": [
     {
       "type": "genus",
@@ -65,6 +65,7 @@
         "Amanita junquillea",
         "Amanita lividopallescens",
         "Amanita magnivolvata",
+        "Amanita mairei",
         "Amanita muscaria",
         "Amanita ochraceomaculata",
         "Amanita pantherina",
@@ -2471,6 +2472,13 @@
       "value": "Amanita magnivolvata",
       "matchSpecies": [
         "Amanita magnivolvata"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Amanita mairei",
+      "matchSpecies": [
+        "Amanita mairei"
       ]
     },
     {
@@ -7059,6 +7067,7 @@
         "Amanita junquillea",
         "Amanita lividopallescens",
         "Amanita magnivolvata",
+        "Amanita mairei",
         "Amanita muscaria",
         "Amanita ochraceomaculata",
         "Amanita pantherina",
@@ -8191,6 +8200,7 @@
         "Amanita junquillea",
         "Amanita lividopallescens",
         "Amanita magnivolvata",
+        "Amanita mairei",
         "Amanita muscaria",
         "Amanita ochraceomaculata",
         "Amanita pantherina",
@@ -8996,6 +9006,7 @@
         "Amanita junquillea",
         "Amanita lividopallescens",
         "Amanita magnivolvata",
+        "Amanita mairei",
         "Amanita muscaria",
         "Amanita ochraceomaculata",
         "Amanita pantherina",
@@ -9755,6 +9766,7 @@
         "Amanita junquillea",
         "Amanita lividopallescens",
         "Amanita magnivolvata",
+        "Amanita mairei",
         "Amanita muscaria",
         "Amanita ochraceomaculata",
         "Amanita pantherina",
@@ -10360,6 +10372,7 @@
         "Amanita junquillea",
         "Amanita lividopallescens",
         "Amanita magnivolvata",
+        "Amanita mairei",
         "Amanita muscaria",
         "Amanita ochraceomaculata",
         "Amanita pantherina",

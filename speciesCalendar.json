@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-08T00:13:30.695Z",
-  "totalSpecies": 524,
-  "totalSamples": 1582,
+  "generatedAt": "2026-09-09T00:13:26.201Z",
+  "totalSpecies": 525,
+  "totalSamples": 1586,
   "species": [
     {
       "genus": "Flammulina",
@@ -3255,7 +3255,7 @@
       "fullName": "Suillus grevillei",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Suillaceae",
       "authority": "(Klotzsch) Singer 1945",
-      "totalSamples": 9,
+      "totalSamples": 10,
       "monthlyCount": [
         0,
         0,
@@ -3265,7 +3265,7 @@
         1,
         0,
         4,
-        3,
+        4,
         0,
         0,
         1
@@ -3881,7 +3881,7 @@
       "fullName": "Russula integra",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
       "authority": "(L.) Fr. 1838",
-      "totalSamples": 18,
+      "totalSamples": 19,
       "monthlyCount": [
         0,
         0,
@@ -3891,7 +3891,7 @@
         2,
         5,
         7,
-        2,
+        3,
         2,
         0,
         0
@@ -4685,7 +4685,7 @@
       "fullName": "Leccinum scabrum",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
       "authority": "(Bull.) Gray 1821",
-      "totalSamples": 7,
+      "totalSamples": 8,
       "monthlyCount": [
         0,
         0,
@@ -4695,7 +4695,7 @@
         1,
         0,
         2,
-        3,
+        4,
         1,
         0,
         0
@@ -5228,8 +5228,8 @@
         0,
         0,
         4,
-        7,
-        7,
+        6,
+        8,
         7,
         0,
         0
@@ -16388,6 +16388,50 @@
         "localityCoordinates": "45.903515, 9.983604",
         "habitat": "Bosco misto",
         "determiner": "Renato Depressi",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Amanita",
+      "species": "mairei",
+      "fullName": "Amanita mairei",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
+      "authority": "Foley 1949",
+      "totalSamples": 1,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "earliestDate": "09-06",
+      "earliestDayOfYear": 249,
+      "earliestSample": {
+        "collectionDate": "2026-09-06",
+        "collector": "Fabio Locatelli",
+        "locality": "Busgarina, Clusone",
+        "localityCoordinates": "45.873024, 9.916009",
+        "habitat": "Bosco misto",
+        "determiner": "Fabio Locatelli",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "09-06",
+      "latestDayOfYear": 249,
+      "latestSample": {
+        "collectionDate": "2026-09-06",
+        "collector": "Fabio Locatelli",
+        "locality": "Busgarina, Clusone",
+        "localityCoordinates": "45.873024, 9.916009",
+        "habitat": "Bosco misto",
+        "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
     },
