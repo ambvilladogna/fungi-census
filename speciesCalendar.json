@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-09T00:13:26.201Z",
+  "generatedAt": "2026-09-10T00:13:29.593Z",
   "totalSpecies": 525,
-  "totalSamples": 1586,
+  "totalSamples": 1591,
   "species": [
     {
       "genus": "Flammulina",
@@ -4193,7 +4193,7 @@
       "authority": "Pers. 1801",
       "currentName": "Caloboletus calopus",
       "currentAuthority": "(Pers.) Vizzini 2014",
-      "totalSamples": 9,
+      "totalSamples": 10,
       "monthlyCount": [
         0,
         0,
@@ -4203,7 +4203,7 @@
         2,
         3,
         3,
-        1,
+        2,
         0,
         0,
         0
@@ -4237,7 +4237,7 @@
       "fullName": "Caloboletus calopus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
       "authority": "(Pers.) Vizzini 2014",
-      "totalSamples": 9,
+      "totalSamples": 10,
       "monthlyCount": [
         0,
         0,
@@ -4247,7 +4247,7 @@
         2,
         3,
         3,
-        1,
+        2,
         0,
         0,
         0
@@ -8515,7 +8515,7 @@
       "authority": "Redeuilh 1986",
       "currentName": "Hemileccinum depilatum",
       "currentAuthority": "(Redeuilh) Šutara 2008",
-      "totalSamples": 2,
+      "totalSamples": 3,
       "monthlyCount": [
         0,
         0,
@@ -8525,7 +8525,7 @@
         0,
         0,
         2,
-        0,
+        1,
         0,
         0,
         0
@@ -8541,15 +8541,15 @@
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       },
-      "latestDate": "08-27",
-      "latestDayOfYear": 239,
+      "latestDate": "09-08",
+      "latestDayOfYear": 251,
       "latestSample": {
-        "collectionDate": "2026-08-27",
-        "collector": "Angelo Ballabeni",
-        "locality": "Pospe, Aprico, Fino del Monte, Bergamo",
-        "localityCoordinates": "45.90515, 9.99764",
-        "habitat": "Bosco misto",
-        "determiner": "Angelo Ballabeni",
+        "collectionDate": "2026-09-08",
+        "collector": "Fabio Locatelli",
+        "locality": "Clusone, sapel né",
+        "localityCoordinates": "45.904143, 9.942472",
+        "habitat": "Carpino nero",
+        "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
     },
@@ -8693,7 +8693,7 @@
       "fullName": "Hemileccinum depilatum",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
       "authority": "(Redeuilh) Šutara 2008",
-      "totalSamples": 2,
+      "totalSamples": 3,
       "monthlyCount": [
         0,
         0,
@@ -8703,7 +8703,7 @@
         0,
         0,
         2,
-        0,
+        1,
         0,
         0,
         0
@@ -8719,15 +8719,15 @@
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       },
-      "latestDate": "08-27",
-      "latestDayOfYear": 239,
+      "latestDate": "09-08",
+      "latestDayOfYear": 251,
       "latestSample": {
-        "collectionDate": "2026-08-27",
-        "collector": "Angelo Ballabeni",
-        "locality": "Pospe, Aprico, Fino del Monte, Bergamo",
-        "localityCoordinates": "45.90515, 9.99764",
-        "habitat": "Bosco misto",
-        "determiner": "Angelo Ballabeni",
+        "collectionDate": "2026-09-08",
+        "collector": "Fabio Locatelli",
+        "locality": "Clusone, sapel né",
+        "localityCoordinates": "45.904143, 9.942472",
+        "habitat": "Carpino nero",
+        "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
     },
@@ -10117,7 +10117,7 @@
       "authority": "Opat. 1836",
       "currentName": "Cyanoboletus pulverulentus",
       "currentAuthority": "(Opat.) Gelardi, Vizzini & Simonini 2014",
-      "totalSamples": 3,
+      "totalSamples": 4,
       "monthlyCount": [
         0,
         0,
@@ -10127,7 +10127,7 @@
         0,
         0,
         3,
-        0,
+        1,
         0,
         0,
         0
@@ -10143,14 +10143,14 @@
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       },
-      "latestDate": "08-30",
-      "latestDayOfYear": 242,
+      "latestDate": "09-08",
+      "latestDayOfYear": 251,
       "latestSample": {
-        "collectionDate": "2026-08-30",
+        "collectionDate": "2026-09-08",
         "collector": "Fabio Locatelli",
-        "locality": "Schilpario",
-        "localityCoordinates": "46.009394, 10.154059",
-        "habitat": "Abete rosso",
+        "locality": "Clusone, sapel né",
+        "localityCoordinates": "45.904143, 9.942472",
+        "habitat": "Carpino nero",
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
@@ -16683,7 +16683,7 @@
       "earliestSample": {
         "collectionDate": "2026-09-06",
         "collector": "Fabio Locatelli",
-        "locality": "Busgarina, Clusone",
+        "locality": "Bosgarina, Clusone",
         "localityCoordinates": "45.873024, 9.916009",
         "habitat": "Abete rosso",
         "determiner": "Fabio Locatelli",
