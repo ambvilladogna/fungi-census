@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T00:13:29.593Z",
+  "generatedAt": "2026-09-10T07:56:36.685Z",
   "totalSpecies": 525,
   "totalSamples": 1591,
   "species": [
@@ -8546,8 +8546,8 @@
       "latestSample": {
         "collectionDate": "2026-09-08",
         "collector": "Fabio Locatelli",
-        "locality": "Clusone, sapel né",
-        "localityCoordinates": "45.904143, 9.942472",
+        "locality": "Sapel Né, Clusone",
+        "localityCoordinates": "45.891113, 9.930101",
         "habitat": "Carpino nero",
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
@@ -8724,8 +8724,8 @@
       "latestSample": {
         "collectionDate": "2026-09-08",
         "collector": "Fabio Locatelli",
-        "locality": "Clusone, sapel né",
-        "localityCoordinates": "45.904143, 9.942472",
+        "locality": "Sapel Né, Clusone",
+        "localityCoordinates": "45.891113, 9.930101",
         "habitat": "Carpino nero",
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
@@ -10148,8 +10148,8 @@
       "latestSample": {
         "collectionDate": "2026-09-08",
         "collector": "Fabio Locatelli",
-        "locality": "Clusone, sapel né",
-        "localityCoordinates": "45.904143, 9.942472",
+        "locality": "Sapel Né, Clusone",
+        "localityCoordinates": "45.891113, 9.930101",
         "habitat": "Carpino nero",
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
