@@ -20,12 +20,20 @@
       "localityCoordinates": "45.882296, 10.000041",
       "habitat": "Bosco misto",
       "determiner": "Renato Depressi"
+    },
+    {
+      "collectionDate": "2025-09-04",
+      "collector": "Pietro Centenari",
+      "locality": "Cima Trifone, Songavazzo",
+      "localityCoordinates": "45.863856, 10.029163",
+      "habitat": "Bosco misto",
+      "determiner": "Pietro Centenari"
     }
   ],
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "07-20",
-    "raccoltaPiuTarda": "08-24",
+    "raccoltaPiuTarda": "09-04",
     "campioniPerMese": [
       {
         "gen": 0
@@ -52,7 +60,7 @@
         "ago": 1
       },
       {
-        "set": 0
+        "set": 1
       },
       {
         "ott": 0
@@ -66,8 +74,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 2,
-    "campioniRaccolti": 2,
+    "totaleCampioni": 3,
+    "campioniRaccolti": 3,
     "campioniExsiccata": 0
   }
 }

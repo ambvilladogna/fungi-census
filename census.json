@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-10T07:56:36.579Z",
-  "totalSpecies": 525,
+  "generatedAt": "2026-09-12T00:13:21.639Z",
+  "totalSpecies": 524,
   "totalSamples": 1451,
   "species": [
     {
@@ -3226,13 +3226,6 @@
       "fullName": "Russula cyanoxantha",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
       "authority": "(Schaeff.) Fr. 1863"
-    },
-    {
-      "genus": "Russula",
-      "species": "cyanoxantha f. peltereaui",
-      "fullName": "Russula cyanoxantha f. peltereaui",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
-      "authority": "Singer 1926"
     },
     {
       "genus": "Russula",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T00:13:26.386Z",
+  "generatedAt": "2026-09-12T00:13:21.892Z",
   "corpus": [
     {
       "type": "genus",
@@ -1890,7 +1890,6 @@
         "Russula chloroides",
         "Russula claroflava",
         "Russula cyanoxantha",
-        "Russula cyanoxantha f. peltereaui",
         "Russula delica",
         "Russula emetica",
         "Russula fageticola",
@@ -6132,13 +6131,6 @@
     },
     {
       "type": "species",
-      "value": "Russula cyanoxantha f. peltereaui",
-      "matchSpecies": [
-        "Russula cyanoxantha f. peltereaui"
-      ]
-    },
-    {
-      "type": "species",
       "value": "Russula delica",
       "matchSpecies": [
         "Russula delica"
@@ -7950,7 +7942,6 @@
         "Russula chloroides",
         "Russula claroflava",
         "Russula cyanoxantha",
-        "Russula cyanoxantha f. peltereaui",
         "Russula delica",
         "Russula emetica",
         "Russula fageticola",
@@ -8891,7 +8882,6 @@
         "Russula chloroides",
         "Russula claroflava",
         "Russula cyanoxantha",
-        "Russula cyanoxantha f. peltereaui",
         "Russula delica",
         "Russula emetica",
         "Russula fageticola",
@@ -9462,7 +9452,6 @@
         "Russula chloroides",
         "Russula claroflava",
         "Russula cyanoxantha",
-        "Russula cyanoxantha f. peltereaui",
         "Russula delica",
         "Russula emetica",
         "Russula fageticola",
@@ -10226,7 +10215,6 @@
         "Russula chloroides",
         "Russula claroflava",
         "Russula cyanoxantha",
-        "Russula cyanoxantha f. peltereaui",
         "Russula delica",
         "Russula emetica",
         "Russula fageticola",
@@ -10856,7 +10844,6 @@
         "Russula chloroides",
         "Russula claroflava",
         "Russula cyanoxantha",
-        "Russula cyanoxantha f. peltereaui",
         "Russula delica",
         "Russula emetica",
         "Russula fageticola",
