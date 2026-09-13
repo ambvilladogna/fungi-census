@@ -1,31 +1,23 @@
 {
-  "nomeCompleto": "Cortinarius splendens",
-  "autore": "Rob. Henry 1936",
-  "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
-  "nomeCorrente": "Calonarius splendens",
-  "autoreCorrente": "(Rob. Henry) Niskanen & Liimat. 2022",
+  "nomeCompleto": "Lactarius fuliginosus",
+  "autore": "(Fr.) Fr. 1838",
+  "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
+  "nomeCorrente": null,
+  "autoreCorrente": null,
   "campioniRaccolti": [
     {
       "collectionDate": "2026-09-13",
-      "collector": "Renato Depressi",
+      "collector": "Pietro Centenari",
       "locality": "Piazza di Golla, Premolo",
       "localityCoordinates": "45.885467, 9.846477",
       "habitat": "Bosco misto",
-      "determiner": "Renato Depressi"
-    },
-    {
-      "collectionDate": "2025-09-14",
-      "collector": "Pierino Bigoni",
-      "locality": "Piazza di Golla, Premolo",
-      "localityCoordinates": "45.885467, 9.846477",
-      "habitat": "Bosco misto",
-      "determiner": "Pierino Bigoni"
+      "determiner": "Pietro Centenari"
     }
   ],
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "09-13",
-    "raccoltaPiuTarda": "09-14",
+    "raccoltaPiuTarda": "09-13",
     "campioniPerMese": [
       {
         "gen": 0
@@ -52,7 +44,7 @@
         "ago": 0
       },
       {
-        "set": 2
+        "set": 1
       },
       {
         "ott": 0
@@ -66,8 +58,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 2,
-    "campioniRaccolti": 2,
+    "totaleCampioni": 1,
+    "campioniRaccolti": 1,
     "campioniExsiccata": 0
   }
 }

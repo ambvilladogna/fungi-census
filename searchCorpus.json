@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T00:13:21.892Z",
+  "generatedAt": "2026-09-13T18:42:54.087Z",
   "corpus": [
     {
       "type": "genus",
@@ -45,7 +45,8 @@
       "matchSpecies": [
         "Albatrellopsis confluens",
         "Albatrellus confluens",
-        "Albatrellus ovinus"
+        "Albatrellus ovinus",
+        "Albatrellus subrubescens"
       ]
     },
     {
@@ -53,6 +54,7 @@
       "value": "Amanita",
       "matchSpecies": [
         "Amanita argentea",
+        "Amanita badia",
         "Amanita battarrae",
         "Amanita brunneofuliginea",
         "Amanita citrina",
@@ -76,6 +78,7 @@
         "Amanita rubescens f. annulosulphurea",
         "Amanita simulans",
         "Amanita spissa",
+        "Amanita submembranacea",
         "Amanita umbrinolutea",
         "Amanita vaginata",
         "Amanita vaginata var. alba",
@@ -293,8 +296,10 @@
       "value": "Calvatia",
       "matchSpecies": [
         "Bovistella utriformis",
+        "Calvatia excipuliformis",
         "Calvatia gigantea",
-        "Calvatia utriformis"
+        "Calvatia utriformis",
+        "Lycoperdon excipuliforme"
       ]
     },
     {
@@ -610,6 +615,7 @@
         "Cortinarius elegantior",
         "Cortinarius infractus",
         "Cortinarius integerrimus",
+        "Cortinarius largus",
         "Cortinarius limonius",
         "Cortinarius malicorius",
         "Cortinarius odorifer",
@@ -1045,6 +1051,7 @@
         "Hygrophorus agathosmus",
         "Hygrophorus atramentosus",
         "Hygrophorus capreolarius",
+        "Hygrophorus cossus",
         "Hygrophorus discoideus",
         "Hygrophorus eburneus",
         "Hygrophorus erubescens",
@@ -1156,6 +1163,13 @@
     },
     {
       "type": "genus",
+      "value": "Irpex",
+      "matchSpecies": [
+        "Irpex lacteus"
+      ]
+    },
+    {
+      "type": "genus",
       "value": "Ischnoderma",
       "matchSpecies": [
         "Ischnoderma benzoinum"
@@ -1183,10 +1197,12 @@
       "value": "Lactarius",
       "matchSpecies": [
         "Lactarius aurantiacus",
+        "Lactarius azonites",
         "Lactarius badiosanguineus",
         "Lactarius blennius",
         "Lactarius deliciosus",
         "Lactarius deterrimus",
+        "Lactarius fuliginosus",
         "Lactarius glaucescens",
         "Lactarius intermedius",
         "Lactarius lignyotus",
@@ -1355,7 +1371,17 @@
       "value": "Limacella",
       "matchSpecies": [
         "Limacella delicata",
-        "Limacella glioderma"
+        "Limacella glioderma",
+        "Limacella guttata",
+        "Limacellopsis guttata"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Limacellopsis",
+      "matchSpecies": [
+        "Limacella guttata",
+        "Limacellopsis guttata"
       ]
     },
     {
@@ -1370,7 +1396,9 @@
       "value": "Lycoperdon",
       "matchSpecies": [
         "Apioperdon pyriforme",
+        "Calvatia excipuliformis",
         "Lycoperdon echinatum",
+        "Lycoperdon excipuliforme",
         "Lycoperdon molle",
         "Lycoperdon perlatum",
         "Lycoperdon pratense",
@@ -1533,6 +1561,7 @@
       "value": "Panaeolus",
       "matchSpecies": [
         "Panaeolus papilionaceus",
+        "Panaeolus semiovatus",
         "Panaeolus sphinctrinus"
       ]
     },
@@ -2379,9 +2408,23 @@
     },
     {
       "type": "species",
+      "value": "Albatrellus subrubescens",
+      "matchSpecies": [
+        "Albatrellus subrubescens"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Amanita argentea",
       "matchSpecies": [
         "Amanita argentea"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Amanita badia",
+      "matchSpecies": [
+        "Amanita badia"
       ]
     },
     {
@@ -2551,6 +2594,13 @@
       "matchSpecies": [
         "Amanita excelsa",
         "Amanita spissa"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Amanita submembranacea",
+      "matchSpecies": [
+        "Amanita submembranacea"
       ]
     },
     {
@@ -2911,6 +2961,14 @@
       "value": "Caloscypha fulgens",
       "matchSpecies": [
         "Caloscypha fulgens"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Calvatia excipuliformis",
+      "matchSpecies": [
+        "Calvatia excipuliformis",
+        "Lycoperdon excipuliforme"
       ]
     },
     {
@@ -3597,6 +3655,13 @@
       "value": "Cortinarius integerrimus",
       "matchSpecies": [
         "Cortinarius integerrimus"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Cortinarius largus",
+      "matchSpecies": [
+        "Cortinarius largus"
       ]
     },
     {
@@ -4407,6 +4472,13 @@
     },
     {
       "type": "species",
+      "value": "Hygrophorus cossus",
+      "matchSpecies": [
+        "Hygrophorus cossus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Hygrophorus discoideus",
       "matchSpecies": [
         "Hygrophorus discoideus"
@@ -4631,6 +4703,13 @@
     },
     {
       "type": "species",
+      "value": "Irpex lacteus",
+      "matchSpecies": [
+        "Irpex lacteus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Ischnoderma benzoinum",
       "matchSpecies": [
         "Ischnoderma benzoinum"
@@ -4682,6 +4761,13 @@
     },
     {
       "type": "species",
+      "value": "Lactarius azonites",
+      "matchSpecies": [
+        "Lactarius azonites"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Lactarius badiosanguineus",
       "matchSpecies": [
         "Lactarius badiosanguineus"
@@ -4706,6 +4792,13 @@
       "value": "Lactarius deterrimus",
       "matchSpecies": [
         "Lactarius deterrimus"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Lactarius fuliginosus",
+      "matchSpecies": [
+        "Lactarius fuliginosus"
       ]
     },
     {
@@ -5100,6 +5193,22 @@
     },
     {
       "type": "species",
+      "value": "Limacella guttata",
+      "matchSpecies": [
+        "Limacella guttata",
+        "Limacellopsis guttata"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Limacellopsis guttata",
+      "matchSpecies": [
+        "Limacella guttata",
+        "Limacellopsis guttata"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Lycogala epidendrum",
       "matchSpecies": [
         "Lycogala epidendrum"
@@ -5110,6 +5219,14 @@
       "value": "Lycoperdon echinatum",
       "matchSpecies": [
         "Lycoperdon echinatum"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Lycoperdon excipuliforme",
+      "matchSpecies": [
+        "Calvatia excipuliformis",
+        "Lycoperdon excipuliforme"
       ]
     },
     {
@@ -5490,6 +5607,13 @@
       "matchSpecies": [
         "Panaeolus papilionaceus",
         "Panaeolus sphinctrinus"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Panaeolus semiovatus",
+      "matchSpecies": [
+        "Panaeolus semiovatus"
       ]
     },
     {
@@ -7039,7 +7163,8 @@
       "matchSpecies": [
         "Albatrellopsis confluens",
         "Albatrellus confluens",
-        "Albatrellus ovinus"
+        "Albatrellus ovinus",
+        "Albatrellus subrubescens"
       ]
     },
     {
@@ -7047,6 +7172,7 @@
       "value": "Amanitaceae",
       "matchSpecies": [
         "Amanita argentea",
+        "Amanita badia",
         "Amanita battarrae",
         "Amanita brunneofuliginea",
         "Amanita citrina",
@@ -7070,11 +7196,14 @@
         "Amanita rubescens f. annulosulphurea",
         "Amanita simulans",
         "Amanita spissa",
+        "Amanita submembranacea",
         "Amanita umbrinolutea",
         "Amanita vaginata",
         "Amanita virosa",
         "Limacella delicata",
-        "Limacella glioderma"
+        "Limacella glioderma",
+        "Limacella guttata",
+        "Limacellopsis guttata"
       ]
     },
     {
@@ -7266,6 +7395,7 @@
         "Cortinarius elegantior",
         "Cortinarius infractus",
         "Cortinarius integerrimus",
+        "Cortinarius largus",
         "Cortinarius limonius",
         "Cortinarius malicorius",
         "Cortinarius odorifer",
@@ -7375,6 +7505,7 @@
       "value": "Galeropsidaceae",
       "matchSpecies": [
         "Panaeolus papilionaceus",
+        "Panaeolus semiovatus",
         "Panaeolus sphinctrinus"
       ]
     },
@@ -7511,6 +7642,7 @@
         "Hygrophorus agathosmus",
         "Hygrophorus atramentosus",
         "Hygrophorus capreolarius",
+        "Hygrophorus cossus",
         "Hygrophorus discoideus",
         "Hygrophorus eburneus",
         "Hygrophorus erubescens",
@@ -7564,6 +7696,13 @@
     },
     {
       "type": "famiglia",
+      "value": "Irpicaceae",
+      "matchSpecies": [
+        "Irpex lacteus"
+      ]
+    },
+    {
+      "type": "famiglia",
       "value": "Ischnodermataceae",
       "matchSpecies": [
         "Ischnoderma benzoinum"
@@ -7598,9 +7737,11 @@
         "Apioperdon pyriforme",
         "Bovista plumbea",
         "Bovistella utriformis",
+        "Calvatia excipuliformis",
         "Calvatia gigantea",
         "Calvatia utriformis",
         "Lycoperdon echinatum",
+        "Lycoperdon excipuliforme",
         "Lycoperdon molle",
         "Lycoperdon perlatum",
         "Lycoperdon pratense",
@@ -7905,10 +8046,12 @@
       "value": "Russulaceae",
       "matchSpecies": [
         "Lactarius aurantiacus",
+        "Lactarius azonites",
         "Lactarius badiosanguineus",
         "Lactarius blennius",
         "Lactarius deliciosus",
         "Lactarius deterrimus",
+        "Lactarius fuliginosus",
         "Lactarius glaucescens",
         "Lactarius intermedius",
         "Lactarius lignyotus",
@@ -8179,6 +8322,7 @@
         "Agrocybe aegerita",
         "Agrocybe praecox",
         "Amanita argentea",
+        "Amanita badia",
         "Amanita battarrae",
         "Amanita brunneofuliginea",
         "Amanita citrina",
@@ -8202,6 +8346,7 @@
         "Amanita rubescens f. annulosulphurea",
         "Amanita simulans",
         "Amanita spissa",
+        "Amanita submembranacea",
         "Amanita umbrinolutea",
         "Amanita vaginata",
         "Amanita vaginata var. alba",
@@ -8225,6 +8370,7 @@
         "Calonarius meinhardii",
         "Calonarius odorifer",
         "Calonarius splendens",
+        "Calvatia excipuliformis",
         "Calvatia gigantea",
         "Calvatia utriformis",
         "Candolleomyces candolleanus",
@@ -8292,6 +8438,7 @@
         "Cortinarius elegantior",
         "Cortinarius infractus",
         "Cortinarius integerrimus",
+        "Cortinarius largus",
         "Cortinarius limonius",
         "Cortinarius malicorius",
         "Cortinarius odorifer",
@@ -8351,6 +8498,7 @@
         "Hygrophorus agathosmus",
         "Hygrophorus atramentosus",
         "Hygrophorus capreolarius",
+        "Hygrophorus cossus",
         "Hygrophorus discoideus",
         "Hygrophorus eburneus",
         "Hygrophorus erubescens",
@@ -8404,7 +8552,10 @@
         "Leucopaxillus candidus",
         "Limacella delicata",
         "Limacella glioderma",
+        "Limacella guttata",
+        "Limacellopsis guttata",
         "Lycoperdon echinatum",
+        "Lycoperdon excipuliforme",
         "Lycoperdon molle",
         "Lycoperdon perlatum",
         "Lycoperdon pratense",
@@ -8451,6 +8602,7 @@
         "Omphalina pyxidata",
         "Oudemansiella radicata",
         "Panaeolus papilionaceus",
+        "Panaeolus semiovatus",
         "Panaeolus sphinctrinus",
         "Panellus stipticus",
         "Paragymnopus perforans",
@@ -8803,6 +8955,7 @@
         "Ganoderma applanatum",
         "Ganoderma lucidum",
         "Ganoderma resinaceum",
+        "Irpex lacteus",
         "Ischnoderma benzoinum",
         "Laricifomes officinalis",
         "Lentinus tigrinus",
@@ -8841,13 +8994,16 @@
         "Albatrellopsis confluens",
         "Albatrellus confluens",
         "Albatrellus ovinus",
+        "Albatrellus subrubescens",
         "Auriscalpium vulgare",
         "Heterobasidion parviporum",
         "Lactarius aurantiacus",
+        "Lactarius azonites",
         "Lactarius badiosanguineus",
         "Lactarius blennius",
         "Lactarius deliciosus",
         "Lactarius deterrimus",
+        "Lactarius fuliginosus",
         "Lactarius glaucescens",
         "Lactarius intermedius",
         "Lactarius lignyotus",
@@ -8983,7 +9139,9 @@
         "Albatrellopsis confluens",
         "Albatrellus confluens",
         "Albatrellus ovinus",
+        "Albatrellus subrubescens",
         "Amanita argentea",
+        "Amanita badia",
         "Amanita battarrae",
         "Amanita brunneofuliginea",
         "Amanita citrina",
@@ -9007,6 +9165,7 @@
         "Amanita rubescens f. annulosulphurea",
         "Amanita simulans",
         "Amanita spissa",
+        "Amanita submembranacea",
         "Amanita umbrinolutea",
         "Amanita vaginata",
         "Amanita vaginata var. alba",
@@ -9050,6 +9209,7 @@
         "Calonarius meinhardii",
         "Calonarius odorifer",
         "Calonarius splendens",
+        "Calvatia excipuliformis",
         "Calvatia gigantea",
         "Calvatia utriformis",
         "Candolleomyces candolleanus",
@@ -9135,6 +9295,7 @@
         "Cortinarius elegantior",
         "Cortinarius infractus",
         "Cortinarius integerrimus",
+        "Cortinarius largus",
         "Cortinarius limonius",
         "Cortinarius malicorius",
         "Cortinarius odorifer",
@@ -9229,6 +9390,7 @@
         "Hygrophorus agathosmus",
         "Hygrophorus atramentosus",
         "Hygrophorus capreolarius",
+        "Hygrophorus cossus",
         "Hygrophorus discoideus",
         "Hygrophorus eburneus",
         "Hygrophorus erubescens",
@@ -9256,6 +9418,7 @@
         "Inocybe rimosa",
         "Inosperma calamistratum",
         "Inosperma cervicolor",
+        "Irpex lacteus",
         "Ischnoderma benzoinum",
         "Kuehneromyces mutabilis",
         "Laccaria affinis",
@@ -9263,10 +9426,12 @@
         "Laccaria bicolor",
         "Laccaria laccata",
         "Lactarius aurantiacus",
+        "Lactarius azonites",
         "Lactarius badiosanguineus",
         "Lactarius blennius",
         "Lactarius deliciosus",
         "Lactarius deterrimus",
+        "Lactarius fuliginosus",
         "Lactarius glaucescens",
         "Lactarius intermedius",
         "Lactarius lignyotus",
@@ -9317,7 +9482,10 @@
         "Leucopaxillus candidus",
         "Limacella delicata",
         "Limacella glioderma",
+        "Limacella guttata",
+        "Limacellopsis guttata",
         "Lycoperdon echinatum",
+        "Lycoperdon excipuliforme",
         "Lycoperdon molle",
         "Lycoperdon perlatum",
         "Lycoperdon pratense",
@@ -9367,6 +9535,7 @@
         "Omphalina pyxidata",
         "Oudemansiella radicata",
         "Panaeolus papilionaceus",
+        "Panaeolus semiovatus",
         "Panaeolus sphinctrinus",
         "Panellus stipticus",
         "Panus conchatus",
@@ -9742,7 +9911,9 @@
         "Albatrellopsis confluens",
         "Albatrellus confluens",
         "Albatrellus ovinus",
+        "Albatrellus subrubescens",
         "Amanita argentea",
+        "Amanita badia",
         "Amanita battarrae",
         "Amanita brunneofuliginea",
         "Amanita citrina",
@@ -9766,6 +9937,7 @@
         "Amanita rubescens f. annulosulphurea",
         "Amanita simulans",
         "Amanita spissa",
+        "Amanita submembranacea",
         "Amanita umbrinolutea",
         "Amanita vaginata",
         "Amanita vaginata var. alba",
@@ -9810,6 +9982,7 @@
         "Calonarius meinhardii",
         "Calonarius odorifer",
         "Calonarius splendens",
+        "Calvatia excipuliformis",
         "Calvatia gigantea",
         "Calvatia utriformis",
         "Candolleomyces candolleanus",
@@ -9896,6 +10069,7 @@
         "Cortinarius elegantior",
         "Cortinarius infractus",
         "Cortinarius integerrimus",
+        "Cortinarius largus",
         "Cortinarius limonius",
         "Cortinarius malicorius",
         "Cortinarius odorifer",
@@ -9992,6 +10166,7 @@
         "Hygrophorus agathosmus",
         "Hygrophorus atramentosus",
         "Hygrophorus capreolarius",
+        "Hygrophorus cossus",
         "Hygrophorus discoideus",
         "Hygrophorus eburneus",
         "Hygrophorus erubescens",
@@ -10019,6 +10194,7 @@
         "Inocybe rimosa",
         "Inosperma calamistratum",
         "Inosperma cervicolor",
+        "Irpex lacteus",
         "Ischnoderma benzoinum",
         "Kuehneromyces mutabilis",
         "Laccaria affinis",
@@ -10026,10 +10202,12 @@
         "Laccaria bicolor",
         "Laccaria laccata",
         "Lactarius aurantiacus",
+        "Lactarius azonites",
         "Lactarius badiosanguineus",
         "Lactarius blennius",
         "Lactarius deliciosus",
         "Lactarius deterrimus",
+        "Lactarius fuliginosus",
         "Lactarius glaucescens",
         "Lactarius intermedius",
         "Lactarius lignyotus",
@@ -10080,7 +10258,10 @@
         "Leucopaxillus candidus",
         "Limacella delicata",
         "Limacella glioderma",
+        "Limacella guttata",
+        "Limacellopsis guttata",
         "Lycoperdon echinatum",
+        "Lycoperdon excipuliforme",
         "Lycoperdon molle",
         "Lycoperdon perlatum",
         "Lycoperdon pratense",
@@ -10130,6 +10311,7 @@
         "Omphalina pyxidata",
         "Oudemansiella radicata",
         "Panaeolus papilionaceus",
+        "Panaeolus semiovatus",
         "Panaeolus sphinctrinus",
         "Panellus stipticus",
         "Panus conchatus",
@@ -10347,7 +10529,9 @@
         "Albatrellopsis confluens",
         "Albatrellus confluens",
         "Albatrellus ovinus",
+        "Albatrellus subrubescens",
         "Amanita argentea",
+        "Amanita badia",
         "Amanita battarrae",
         "Amanita brunneofuliginea",
         "Amanita citrina",
@@ -10371,6 +10555,7 @@
         "Amanita rubescens f. annulosulphurea",
         "Amanita simulans",
         "Amanita spissa",
+        "Amanita submembranacea",
         "Amanita umbrinolutea",
         "Amanita vaginata",
         "Amanita vaginata var. alba",
@@ -10417,6 +10602,7 @@
         "Calonarius odorifer",
         "Calonarius splendens",
         "Caloscypha fulgens",
+        "Calvatia excipuliformis",
         "Calvatia gigantea",
         "Calvatia utriformis",
         "Calycina citrina",
@@ -10507,6 +10693,7 @@
         "Cortinarius elegantior",
         "Cortinarius infractus",
         "Cortinarius integerrimus",
+        "Cortinarius largus",
         "Cortinarius limonius",
         "Cortinarius malicorius",
         "Cortinarius odorifer",
@@ -10613,6 +10800,7 @@
         "Hygrophorus agathosmus",
         "Hygrophorus atramentosus",
         "Hygrophorus capreolarius",
+        "Hygrophorus cossus",
         "Hygrophorus discoideus",
         "Hygrophorus eburneus",
         "Hygrophorus erubescens",
@@ -10643,6 +10831,7 @@
         "Inocybe rimosa",
         "Inosperma calamistratum",
         "Inosperma cervicolor",
+        "Irpex lacteus",
         "Ischnoderma benzoinum",
         "Kuehneromyces mutabilis",
         "Laccaria affinis",
@@ -10650,10 +10839,12 @@
         "Laccaria bicolor",
         "Laccaria laccata",
         "Lactarius aurantiacus",
+        "Lactarius azonites",
         "Lactarius badiosanguineus",
         "Lactarius blennius",
         "Lactarius deliciosus",
         "Lactarius deterrimus",
+        "Lactarius fuliginosus",
         "Lactarius glaucescens",
         "Lactarius intermedius",
         "Lactarius lignyotus",
@@ -10706,7 +10897,10 @@
         "Leucopaxillus candidus",
         "Limacella delicata",
         "Limacella glioderma",
+        "Limacella guttata",
+        "Limacellopsis guttata",
         "Lycoperdon echinatum",
+        "Lycoperdon excipuliforme",
         "Lycoperdon molle",
         "Lycoperdon perlatum",
         "Lycoperdon pratense",
@@ -10758,6 +10952,7 @@
         "Omphalina pyxidata",
         "Oudemansiella radicata",
         "Panaeolus papilionaceus",
+        "Panaeolus semiovatus",
         "Panaeolus sphinctrinus",
         "Panellus stipticus",
         "Panus conchatus",

@@ -6,6 +6,14 @@
   "autoreCorrente": "(Relhan) R.H. Petersen 2010",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-13",
+      "collector": "Pierino Bigoni",
+      "locality": "Piazza di Golla, Premolo",
+      "localityCoordinates": "45.885467, 9.846477",
+      "habitat": "Bosco misto",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2026-08-24",
       "collector": "Antonio Guana",
       "locality": "Ardesio",
@@ -57,7 +65,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "06-28",
-    "raccoltaPiuTarda": "08-24",
+    "raccoltaPiuTarda": "09-13",
     "campioniPerMese": [
       {
         "gen": 0
@@ -84,7 +92,7 @@
         "ago": 1
       },
       {
-        "set": 0
+        "set": 1
       },
       {
         "ott": 0
@@ -98,8 +106,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 6,
-    "campioniRaccolti": 6,
+    "totaleCampioni": 7,
+    "campioniRaccolti": 7,
     "campioniExsiccata": 0
   }
 }

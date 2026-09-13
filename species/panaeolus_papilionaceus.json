@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-13",
+      "collector": "Pierino Bigoni",
+      "locality": "Piazza di Golla, Premolo",
+      "localityCoordinates": "45.885467, 9.846477",
+      "habitat": "Bosco misto",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2026-05-13",
       "collector": "Pietro Centenari",
       "locality": "Via del Latte, Dorga, Castione della Presolana, Bergamo",
@@ -41,7 +49,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "05-08",
-    "raccoltaPiuTarda": "06-21",
+    "raccoltaPiuTarda": "09-13",
     "campioniPerMese": [
       {
         "gen": 0
@@ -68,7 +76,7 @@
         "ago": 0
       },
       {
-        "set": 0
+        "set": 1
       },
       {
         "ott": 0
@@ -82,8 +90,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 4,
-    "campioniRaccolti": 4,
+    "totaleCampioni": 5,
+    "campioniRaccolti": 5,
     "campioniExsiccata": 0
   }
 }

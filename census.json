@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-12T00:13:21.639Z",
-  "totalSpecies": 524,
-  "totalSamples": 1451,
+  "generatedAt": "2026-09-13T18:42:53.806Z",
+  "totalSpecies": 535,
+  "totalSamples": 1511,
   "species": [
     {
       "genus": "Abortiporus",
@@ -89,11 +89,25 @@
       "authority": "(Schaeff.) Kotl. & Pouzar 1957"
     },
     {
+      "genus": "Albatrellus",
+      "species": "subrubescens",
+      "fullName": "Albatrellus subrubescens",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Albatrellaceae",
+      "authority": "(Murrill) Pouzar 1972"
+    },
+    {
       "genus": "Amanita",
       "species": "argentea",
       "fullName": "Amanita argentea",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
       "authority": "Huijsman 1959"
+    },
+    {
+      "genus": "Amanita",
+      "species": "badia",
+      "fullName": "Amanita badia",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
+      "authority": "(Schaeff.) Bon & Contu 1985"
     },
     {
       "genus": "Amanita",
@@ -233,6 +247,13 @@
       "authority": "(Fr.) Opiz 1852",
       "currentName": "Amanita excelsa",
       "currentAuthority": "(Fr.) Bertill. 1866"
+    },
+    {
+      "genus": "Amanita",
+      "species": "submembranacea",
+      "fullName": "Amanita submembranacea",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
+      "authority": "(Bon) Gröger 1979"
     },
     {
       "genus": "Amanita",
@@ -499,6 +520,15 @@
       "fullName": "Caloscypha fulgens",
       "lineage": "regno: Fungi > phylum: Ascomycota > classe: Pezizomycetes > ordine: Pezizales > famiglia: Caloscyphaceae",
       "authority": "(Pers.) Boud. 1907"
+    },
+    {
+      "genus": "Calvatia",
+      "species": "excipuliformis",
+      "fullName": "Calvatia excipuliformis",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Lycoperdaceae",
+      "authority": "(Scop.) Perdeck 1950",
+      "currentName": "Lycoperdon excipuliforme",
+      "currentAuthority": "(Scop.) Pers. 1801"
     },
     {
       "genus": "Calvatia",
@@ -1059,6 +1089,13 @@
       "fullName": "Cortinarius integerrimus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
       "authority": "Kühner 1989"
+    },
+    {
+      "genus": "Cortinarius",
+      "species": "largus",
+      "fullName": "Cortinarius largus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
+      "authority": "Fr. 1838"
     },
     {
       "genus": "Cortinarius",
@@ -1762,6 +1799,13 @@
     },
     {
       "genus": "Hygrophorus",
+      "species": "cossus",
+      "fullName": "Hygrophorus cossus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Hygrophoraceae",
+      "authority": "(Sowerby) Fr. 1838"
+    },
+    {
+      "genus": "Hygrophorus",
       "species": "discoideus",
       "fullName": "Hygrophorus discoideus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Hygrophoraceae",
@@ -1939,6 +1983,13 @@
       "currentAuthority": "(Bull.) Matheny & Esteve-Rav. 2019"
     },
     {
+      "genus": "Irpex",
+      "species": "lacteus",
+      "fullName": "Irpex lacteus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Polyporales > famiglia: Irpicaceae",
+      "authority": "(Fr.) Fr. 1828"
+    },
+    {
       "genus": "Ischnoderma",
       "species": "benzoinum",
       "fullName": "Ischnoderma benzoinum",
@@ -1991,6 +2042,13 @@
     },
     {
       "genus": "Lactarius",
+      "species": "azonites",
+      "fullName": "Lactarius azonites",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
+      "authority": "(Bull.) Fr. 1838"
+    },
+    {
+      "genus": "Lactarius",
       "species": "badiosanguineus",
       "fullName": "Lactarius badiosanguineus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
@@ -2016,6 +2074,13 @@
       "fullName": "Lactarius deterrimus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
       "authority": "Gröger 1968"
+    },
+    {
+      "genus": "Lactarius",
+      "species": "fuliginosus",
+      "fullName": "Lactarius fuliginosus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
+      "authority": "(Fr.) Fr. 1838"
     },
     {
       "genus": "Lactarius",
@@ -2347,6 +2412,15 @@
       "authority": "(Fr.) Maire 1926",
       "currentName": "Limacella delicata",
       "currentAuthority": "(Fr.) Earle ex Konrad & Maubl. 1930"
+    },
+    {
+      "genus": "Limacella",
+      "species": "guttata",
+      "fullName": "Limacella guttata",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
+      "authority": "(Pers.) Konrad & Maubl. 1949",
+      "currentName": "Limacellopsis guttata",
+      "currentAuthority": "(Pers.) Zhu L. Yang, Q. Cai & Y.Y. Cui 2018"
     },
     {
       "genus": "Lycogala",
@@ -2715,6 +2789,13 @@
       "fullName": "Panaeolus papilionaceus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Galeropsidaceae",
       "authority": "(Bull.) Quél. 1872"
+    },
+    {
+      "genus": "Panaeolus",
+      "species": "semiovatus",
+      "fullName": "Panaeolus semiovatus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Galeropsidaceae",
+      "authority": "(Sowerby) S. Lundell & Nannf. 1938"
     },
     {
       "genus": "Panaeolus",

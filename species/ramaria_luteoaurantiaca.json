@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-13",
+      "collector": "Pierino Bigoni",
+      "locality": "Piazza di Golla, Premolo",
+      "localityCoordinates": "45.885467, 9.846477",
+      "habitat": "Bosco misto",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2026-09-02",
       "collector": "Fabio Locatelli",
       "locality": "Valcanale, Zulino",
@@ -41,7 +49,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "08-18",
-    "raccoltaPiuTarda": "09-02",
+    "raccoltaPiuTarda": "09-13",
     "campioniPerMese": [
       {
         "gen": 0
@@ -68,7 +76,7 @@
         "ago": 3
       },
       {
-        "set": 1
+        "set": 2
       },
       {
         "ott": 0
@@ -82,8 +90,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 4,
-    "campioniRaccolti": 4,
+    "totaleCampioni": 5,
+    "campioniRaccolti": 5,
     "campioniExsiccata": 0
   }
 }

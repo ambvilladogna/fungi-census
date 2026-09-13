@@ -6,6 +6,14 @@
   "autoreCorrente": "(Pers.) R.H. Petersen 2021",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-13",
+      "collector": "Pierino Bigoni",
+      "locality": "Piazza di Golla, Premolo",
+      "localityCoordinates": "45.885467, 9.846477",
+      "habitat": "Bosco misto",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2026-08-31",
       "collector": "Pierino Bigoni",
       "locality": "Spiazzi, Gromo",
@@ -65,7 +73,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "07-20",
-    "raccoltaPiuTarda": "09-04",
+    "raccoltaPiuTarda": "09-13",
     "campioniPerMese": [
       {
         "gen": 0
@@ -92,7 +100,7 @@
         "ago": 5
       },
       {
-        "set": 1
+        "set": 2
       },
       {
         "ott": 0
@@ -106,8 +114,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 7,
-    "campioniRaccolti": 7,
+    "totaleCampioni": 8,
+    "campioniRaccolti": 8,
     "campioniExsiccata": 0
   }
 }
