@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-13T18:42:53.901Z",
+  "generatedAt": "2026-09-14T00:13:31.339Z",
   "totalSpecies": 535,
-  "totalSamples": 1654,
+  "totalSamples": 1655,
   "species": [
     {
       "genus": "Flammulina",
@@ -12519,7 +12519,7 @@
       "authority": "Pers. 1801",
       "currentName": "Caloboletus radicans",
       "currentAuthority": "(Pers.) Vizzini 2014",
-      "totalSamples": 3,
+      "totalSamples": 4,
       "monthlyCount": [
         0,
         0,
@@ -12529,7 +12529,7 @@
         0,
         0,
         1,
-        2,
+        3,
         0,
         0,
         0
@@ -12545,14 +12545,14 @@
         "determiner": "Angelo Ballabeni",
         "_tipo": "raccolto"
       },
-      "latestDate": "09-08",
-      "latestDayOfYear": 251,
+      "latestDate": "09-13",
+      "latestDayOfYear": 256,
       "latestSample": {
-        "collectionDate": "2025-09-08",
-        "collector": "Luigi Rossi",
-        "locality": "Casnigo",
-        "localityCoordinates": "45.815912, 9.868141",
-        "habitat": "Betulla",
+        "collectionDate": "2026-09-13",
+        "collector": "Pierino Bigoni",
+        "locality": "M.Belloro",
+        "localityCoordinates": "45.881248, 9.854763",
+        "habitat": "Carpino nero",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
