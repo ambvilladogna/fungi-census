@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-14",
+      "collector": "Sergio Lonati",
+      "locality": "Spiazzi, Gromo",
+      "localityCoordinates": "45.970802, 9.963785",
+      "habitat": "Bosco misto abete bianco e abete rosso",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2025-10-06",
       "collector": "Fabio Locatelli",
       "locality": "Schilpario",
@@ -16,7 +24,7 @@
   ],
   "campioniExsiccata": [],
   "fenologia": {
-    "raccoltaPiuPrecoce": "10-06",
+    "raccoltaPiuPrecoce": "09-14",
     "raccoltaPiuTarda": "10-06",
     "campioniPerMese": [
       {
@@ -44,7 +52,7 @@
         "ago": 0
       },
       {
-        "set": 0
+        "set": 1
       },
       {
         "ott": 1
@@ -58,8 +66,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 1,
-    "campioniRaccolti": 1,
+    "totaleCampioni": 2,
+    "campioniRaccolti": 2,
     "campioniExsiccata": 0
   }
 }

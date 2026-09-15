@@ -1,9 +1,9 @@
 {
-  "nomeCompleto": "Cortinarius caperatus",
-  "autore": "(Pers.) Fr. 1838",
+  "nomeCompleto": "Rozites caperatus",
+  "autore": "(Pers.) P. Karst. 1879",
   "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
-  "nomeCorrente": null,
-  "autoreCorrente": null,
+  "nomeCorrente": "Cortinarius caperatus",
+  "autoreCorrente": "(Pers.) Fr. 1838",
   "campioniRaccolti": [
     {
       "collectionDate": "2026-09-14",

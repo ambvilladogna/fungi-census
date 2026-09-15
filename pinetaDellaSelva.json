@@ -1,8 +1,8 @@
 {
   "title": "Pineta della Selva",
-  "generatedAt": "2026-08-07T00:12:32.533Z",
-  "totalSpecies": 120,
-  "totalSamples": 171,
+  "generatedAt": "2026-09-15T00:13:43.266Z",
+  "totalSpecies": 121,
+  "totalSamples": 174,
   "species": [
     {
       "genus": "Amanita",
@@ -208,6 +208,15 @@
       "authority": "(Fr.) Quél. 1872",
       "currentName": "Rhodocollybia prolixa",
       "currentAuthority": "(Fr.) Antonín & Noordel. 1997"
+    },
+    {
+      "genus": "Collybia",
+      "species": "fusipes",
+      "fullName": "Collybia fusipes",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Omphalotaceae",
+      "authority": "(Bull.) Quél. 1872",
+      "currentName": "Gymnopus fusipes",
+      "currentAuthority": "(Bull.) Gray 1821"
     },
     {
       "genus": "Coprinus",

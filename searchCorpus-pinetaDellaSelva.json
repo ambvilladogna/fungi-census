@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T00:12:32.569Z",
+  "generatedAt": "2026-09-15T00:13:43.301Z",
   "corpus": [
     {
       "type": "genus",
@@ -127,6 +127,8 @@
       "value": "Collybia",
       "matchSpecies": [
         "Collybia distorta",
+        "Collybia fusipes",
+        "Gymnopus fusipes",
         "Rhodocollybia prolixa"
       ]
     },
@@ -222,6 +224,14 @@
       "value": "Gloeophyllum",
       "matchSpecies": [
         "Gloeophyllum odoratum"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Gymnopus",
+      "matchSpecies": [
+        "Collybia fusipes",
+        "Gymnopus fusipes"
       ]
     },
     {
@@ -872,6 +882,14 @@
     },
     {
       "type": "species",
+      "value": "Collybia fusipes",
+      "matchSpecies": [
+        "Collybia fusipes",
+        "Gymnopus fusipes"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Coprinellus disseminatus",
       "matchSpecies": [
         "Coprinellus disseminatus",
@@ -1012,6 +1030,14 @@
       "value": "Gloeophyllum odoratum",
       "matchSpecies": [
         "Gloeophyllum odoratum"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Gymnopus fusipes",
+      "matchSpecies": [
+        "Collybia fusipes",
+        "Gymnopus fusipes"
       ]
     },
     {
@@ -1939,6 +1965,8 @@
       "value": "Omphalotaceae",
       "matchSpecies": [
         "Collybia distorta",
+        "Collybia fusipes",
+        "Gymnopus fusipes",
         "Rhodocollybia prolixa"
       ]
     },
@@ -2085,6 +2113,7 @@
         "Clitocybe phaeophthalma",
         "Clitopilus prunulus",
         "Collybia distorta",
+        "Collybia fusipes",
         "Coprinellus disseminatus",
         "Coprinellus micaceus",
         "Coprinopsis lagopus",
@@ -2100,6 +2129,7 @@
         "Crucibulum laeve",
         "Echinoderma asperum",
         "Flammulina velutipes",
+        "Gymnopus fusipes",
         "Hygrocybe calyptriformis",
         "Hygrocybe conica",
         "Hygronarius renidens",
@@ -2321,6 +2351,7 @@
         "Clitocybe phaeophthalma",
         "Clitopilus prunulus",
         "Collybia distorta",
+        "Collybia fusipes",
         "Coprinellus disseminatus",
         "Coprinellus micaceus",
         "Coprinopsis lagopus",
@@ -2339,6 +2370,7 @@
         "Flammulina velutipes",
         "Ganoderma adspersum",
         "Gloeophyllum odoratum",
+        "Gymnopus fusipes",
         "Hirneola auricula-judae",
         "Hydnum repandum",
         "Hydnum rufescens",
@@ -2513,6 +2545,7 @@
         "Clitocybe phaeophthalma",
         "Clitopilus prunulus",
         "Collybia distorta",
+        "Collybia fusipes",
         "Coprinellus disseminatus",
         "Coprinellus micaceus",
         "Coprinopsis lagopus",
@@ -2531,6 +2564,7 @@
         "Flammulina velutipes",
         "Ganoderma adspersum",
         "Gloeophyllum odoratum",
+        "Gymnopus fusipes",
         "Hirneola auricula-judae",
         "Hydnum repandum",
         "Hydnum rufescens",
@@ -2663,6 +2697,7 @@
         "Clitocybe phaeophthalma",
         "Clitopilus prunulus",
         "Collybia distorta",
+        "Collybia fusipes",
         "Coprinellus disseminatus",
         "Coprinellus micaceus",
         "Coprinopsis lagopus",
@@ -2681,6 +2716,7 @@
         "Flammulina velutipes",
         "Ganoderma adspersum",
         "Gloeophyllum odoratum",
+        "Gymnopus fusipes",
         "Helvella crispa",
         "Helvella elastica",
         "Helvella monachella",

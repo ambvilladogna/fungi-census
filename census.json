@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-14T00:13:31.246Z",
-  "totalSpecies": 535,
-  "totalSamples": 1512,
+  "generatedAt": "2026-09-15T00:13:43.048Z",
+  "totalSpecies": 541,
+  "totalSamples": 1538,
   "species": [
     {
       "genus": "Abortiporus",
@@ -80,6 +80,15 @@
       "authority": "(Alb. & Schwein.) Kotl. & Pouzar 1957",
       "currentName": "Albatrellopsis confluens",
       "currentAuthority": "(Alb. & Schwein.) Teixeira 1993"
+    },
+    {
+      "genus": "Albatrellus",
+      "species": "cristatus",
+      "fullName": "Albatrellus cristatus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales",
+      "authority": "(Schaeff.) Kotl. & Pouzar 1957",
+      "currentName": "Laeticutis cristata",
+      "currentAuthority": "(Schaeff.) Audet 2010"
     },
     {
       "genus": "Albatrellus",
@@ -868,6 +877,15 @@
       "authority": "(Fr.) Quél. 1872",
       "currentName": "Rhodocollybia prolixa",
       "currentAuthority": "(Fr.) Antonín & Noordel. 1997"
+    },
+    {
+      "genus": "Collybia",
+      "species": "fusipes",
+      "fullName": "Collybia fusipes",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Omphalotaceae",
+      "authority": "(Bull.) Quél. 1872",
+      "currentName": "Gymnopus fusipes",
+      "currentAuthority": "(Bull.) Gray 1821"
     },
     {
       "genus": "Collybia",
@@ -2240,6 +2258,13 @@
       "authority": "(Bull.) Gray 1821"
     },
     {
+      "genus": "Leccinum",
+      "species": "vulpinum",
+      "fullName": "Leccinum vulpinum",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
+      "authority": "Watling 1961"
+    },
+    {
       "genus": "Lentinellus",
       "species": "cochleatus",
       "fullName": "Lentinellus cochleatus",
@@ -3209,6 +3234,15 @@
       "authority": "(Bull.) Raithelh. 1973"
     },
     {
+      "genus": "Rozites",
+      "species": "caperatus",
+      "fullName": "Rozites caperatus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
+      "authority": "(Pers.) P. Karst. 1879",
+      "currentName": "Cortinarius caperatus",
+      "currentAuthority": "(Pers.) Fr. 1838"
+    },
+    {
       "genus": "Rubroboletus",
       "species": "satanas",
       "fullName": "Rubroboletus satanas",
@@ -3592,6 +3626,13 @@
     },
     {
       "genus": "Scleroderma",
+      "species": "polyrhizum",
+      "fullName": "Scleroderma polyrhizum",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Sclerodermataceae",
+      "authority": "(J.F. Gmel.) Pers. 1801"
+    },
+    {
+      "genus": "Scleroderma",
       "species": "verrucosum",
       "fullName": "Scleroderma verrucosum",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Sclerodermataceae",
@@ -3828,6 +3869,15 @@
       "authority": "(Pers.) J.E. Lange 1933",
       "currentName": "Tricholoma terreum",
       "currentAuthority": "(Schaeff.) P. Kumm. 1871"
+    },
+    {
+      "genus": "Tricholoma",
+      "species": "nauseosum",
+      "fullName": "Tricholoma nauseosum",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Tricholomataceae",
+      "authority": "(A. Blytt) Kytöv. 1989",
+      "currentName": "Tricholoma matsutake",
+      "currentAuthority": "(S. Ito & S. Imai) Singer 1943"
     },
     {
       "genus": "Tricholoma",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T18:42:54.087Z",
+  "generatedAt": "2026-09-15T00:13:43.285Z",
   "corpus": [
     {
       "type": "genus",
@@ -45,8 +45,10 @@
       "matchSpecies": [
         "Albatrellopsis confluens",
         "Albatrellus confluens",
+        "Albatrellus cristatus",
         "Albatrellus ovinus",
-        "Albatrellus subrubescens"
+        "Albatrellus subrubescens",
+        "Laeticutis cristata"
       ]
     },
     {
@@ -493,6 +495,7 @@
         "Collybia cirrhata",
         "Collybia confluens",
         "Collybia distorta",
+        "Collybia fusipes",
         "Collybia hariolorum",
         "Collybia irina",
         "Collybia kuehneriana",
@@ -506,6 +509,7 @@
         "Collybiopsis peronata",
         "Gymnopus aquosus",
         "Gymnopus erythropus",
+        "Gymnopus fusipes",
         "Gymnopus hariolorum",
         "Lepista irina",
         "Lepista nuda",
@@ -637,7 +641,8 @@
         "Cortinarius violaceus",
         "Cystinarius crassus",
         "Hygronarius renidens",
-        "Phlegmacium percome"
+        "Phlegmacium percome",
+        "Rozites caperatus"
       ]
     },
     {
@@ -943,10 +948,12 @@
       "value": "Gymnopus",
       "matchSpecies": [
         "Collybia aquosa",
+        "Collybia fusipes",
         "Collybia hariolorum",
         "Collybia kuehneriana",
         "Gymnopus aquosus",
         "Gymnopus erythropus",
+        "Gymnopus fusipes",
         "Gymnopus hariolorum",
         "Gymnopus ocior"
       ]
@@ -1238,6 +1245,14 @@
     },
     {
       "type": "genus",
+      "value": "Laeticutis",
+      "matchSpecies": [
+        "Albatrellus cristatus",
+        "Laeticutis cristata"
+      ]
+    },
+    {
+      "type": "genus",
       "value": "Lanzia",
       "matchSpecies": [
         "Lanzia echinophila",
@@ -1267,7 +1282,8 @@
         "Leccinellum pseudoscabrum",
         "Leccinum aurantiacum",
         "Leccinum carpini",
-        "Leccinum scabrum"
+        "Leccinum scabrum",
+        "Leccinum vulpinum"
       ]
     },
     {
@@ -1895,6 +1911,14 @@
     },
     {
       "type": "genus",
+      "value": "Rozites",
+      "matchSpecies": [
+        "Cortinarius caperatus",
+        "Rozites caperatus"
+      ]
+    },
+    {
+      "type": "genus",
       "value": "Rubroboletus",
       "matchSpecies": [
         "Boletus satanas",
@@ -1987,6 +2011,7 @@
       "value": "Scleroderma",
       "matchSpecies": [
         "Scleroderma citrinum",
+        "Scleroderma polyrhizum",
         "Scleroderma verrucosum"
       ]
     },
@@ -2166,7 +2191,9 @@
         "Tricholoma aurantium",
         "Tricholoma bufonium",
         "Tricholoma inamoenum",
+        "Tricholoma matsutake",
         "Tricholoma myomyces",
+        "Tricholoma nauseosum",
         "Tricholoma orirubens",
         "Tricholoma pardinum",
         "Tricholoma pessundatum",
@@ -2397,6 +2424,14 @@
       "matchSpecies": [
         "Albatrellopsis confluens",
         "Albatrellus confluens"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Albatrellus cristatus",
+      "matchSpecies": [
+        "Albatrellus cristatus",
+        "Laeticutis cristata"
       ]
     },
     {
@@ -3342,6 +3377,14 @@
     },
     {
       "type": "species",
+      "value": "Collybia fusipes",
+      "matchSpecies": [
+        "Collybia fusipes",
+        "Gymnopus fusipes"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Collybia hariolorum",
       "matchSpecies": [
         "Collybia hariolorum",
@@ -3610,7 +3653,8 @@
       "type": "species",
       "value": "Cortinarius caperatus",
       "matchSpecies": [
-        "Cortinarius caperatus"
+        "Cortinarius caperatus",
+        "Rozites caperatus"
       ]
     },
     {
@@ -4273,6 +4317,14 @@
       "matchSpecies": [
         "Collybia kuehneriana",
         "Gymnopus erythropus"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Gymnopus fusipes",
+      "matchSpecies": [
+        "Collybia fusipes",
+        "Gymnopus fusipes"
       ]
     },
     {
@@ -4942,6 +4994,14 @@
     },
     {
       "type": "species",
+      "value": "Laeticutis cristata",
+      "matchSpecies": [
+        "Albatrellus cristatus",
+        "Laeticutis cristata"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Lanzia echinophila",
       "matchSpecies": [
         "Lanzia echinophila",
@@ -4984,6 +5044,13 @@
       "value": "Leccinum scabrum",
       "matchSpecies": [
         "Leccinum scabrum"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Leccinum vulpinum",
+      "matchSpecies": [
+        "Leccinum vulpinum"
       ]
     },
     {
@@ -6146,6 +6213,14 @@
     },
     {
       "type": "species",
+      "value": "Rozites caperatus",
+      "matchSpecies": [
+        "Cortinarius caperatus",
+        "Rozites caperatus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Rubroboletus satanas",
       "matchSpecies": [
         "Boletus satanas",
@@ -6570,6 +6645,13 @@
     },
     {
       "type": "species",
+      "value": "Scleroderma polyrhizum",
+      "matchSpecies": [
+        "Scleroderma polyrhizum"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Scleroderma verrucosum",
       "matchSpecies": [
         "Scleroderma verrucosum"
@@ -6839,10 +6921,26 @@
     },
     {
       "type": "species",
+      "value": "Tricholoma matsutake",
+      "matchSpecies": [
+        "Tricholoma matsutake",
+        "Tricholoma nauseosum"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Tricholoma myomyces",
       "matchSpecies": [
         "Tricholoma myomyces",
         "Tricholoma terreum"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Tricholoma nauseosum",
+      "matchSpecies": [
+        "Tricholoma matsutake",
+        "Tricholoma nauseosum"
       ]
     },
     {
@@ -7284,6 +7382,7 @@
         "Leccinum aurantiacum",
         "Leccinum carpini",
         "Leccinum scabrum",
+        "Leccinum vulpinum",
         "Neoboletus erythropus",
         "Phylloporus rhodoxanthus",
         "Porphyrellus porphyrosporus",
@@ -7417,7 +7516,8 @@
         "Cortinarius violaceus",
         "Cystinarius crassus",
         "Hygronarius renidens",
-        "Phlegmacium percome"
+        "Phlegmacium percome",
+        "Rozites caperatus"
       ]
     },
     {
@@ -7824,6 +7924,7 @@
         "Collybia butyracea",
         "Collybia confluens",
         "Collybia distorta",
+        "Collybia fusipes",
         "Collybia hariolorum",
         "Collybia kuehneriana",
         "Collybia maculata",
@@ -7832,6 +7933,7 @@
         "Collybiopsis peronata",
         "Gymnopus aquosus",
         "Gymnopus erythropus",
+        "Gymnopus fusipes",
         "Gymnopus hariolorum",
         "Gymnopus ocior",
         "Marasmius scorodonius",
@@ -8146,6 +8248,7 @@
       "value": "Sclerodermataceae",
       "matchSpecies": [
         "Scleroderma citrinum",
+        "Scleroderma polyrhizum",
         "Scleroderma verrucosum"
       ]
     },
@@ -8256,7 +8359,9 @@
         "Tricholoma aurantium",
         "Tricholoma bufonium",
         "Tricholoma inamoenum",
+        "Tricholoma matsutake",
         "Tricholoma myomyces",
+        "Tricholoma nauseosum",
         "Tricholoma orirubens",
         "Tricholoma pardinum",
         "Tricholoma pessundatum",
@@ -8398,6 +8503,7 @@
         "Collybia cirrhata",
         "Collybia confluens",
         "Collybia distorta",
+        "Collybia fusipes",
         "Collybia hariolorum",
         "Collybia irina",
         "Collybia kuehneriana",
@@ -8485,6 +8591,7 @@
         "Gymnopilus penetrans",
         "Gymnopus aquosus",
         "Gymnopus erythropus",
+        "Gymnopus fusipes",
         "Gymnopus hariolorum",
         "Gymnopus ocior",
         "Hebeloma crustuliniforme",
@@ -8641,6 +8748,7 @@
         "Rhodocollybia maculata",
         "Rhodocollybia prolixa",
         "Rhodocybe gemina",
+        "Rozites caperatus",
         "Schizophyllum commune",
         "Singerocybe phaeophthalma",
         "Strobilurus esculentus",
@@ -8653,7 +8761,9 @@
         "Tricholoma aurantium",
         "Tricholoma bufonium",
         "Tricholoma inamoenum",
+        "Tricholoma matsutake",
         "Tricholoma myomyces",
+        "Tricholoma nauseosum",
         "Tricholoma orirubens",
         "Tricholoma pardinum",
         "Tricholoma pessundatum",
@@ -8723,6 +8833,7 @@
         "Leccinum aurantiacum",
         "Leccinum carpini",
         "Leccinum scabrum",
+        "Leccinum vulpinum",
         "Neoboletus erythropus",
         "Paxillus atrotomentosus",
         "Paxillus rubicundulus",
@@ -8731,6 +8842,7 @@
         "Rhizopogon roseolus",
         "Rubroboletus satanas",
         "Scleroderma citrinum",
+        "Scleroderma polyrhizum",
         "Scleroderma verrucosum",
         "Strobilomyces strobilaceus",
         "Suillellus luridus",
@@ -8993,6 +9105,7 @@
       "matchSpecies": [
         "Albatrellopsis confluens",
         "Albatrellus confluens",
+        "Albatrellus cristatus",
         "Albatrellus ovinus",
         "Albatrellus subrubescens",
         "Auriscalpium vulgare",
@@ -9023,6 +9136,7 @@
         "Lactifluus glaucescens",
         "Lactifluus piperatus",
         "Lactifluus volemus",
+        "Laeticutis cristata",
         "Lentinellus cochleatus",
         "Russula adusta",
         "Russula albonigra",
@@ -9138,6 +9252,7 @@
         "Agrocybe praecox",
         "Albatrellopsis confluens",
         "Albatrellus confluens",
+        "Albatrellus cristatus",
         "Albatrellus ovinus",
         "Albatrellus subrubescens",
         "Amanita argentea",
@@ -9255,6 +9370,7 @@
         "Collybia cirrhata",
         "Collybia confluens",
         "Collybia distorta",
+        "Collybia fusipes",
         "Collybia hariolorum",
         "Collybia irina",
         "Collybia kuehneriana",
@@ -9369,6 +9485,7 @@
         "Gymnopilus penetrans",
         "Gymnopus aquosus",
         "Gymnopus erythropus",
+        "Gymnopus fusipes",
         "Gymnopus hariolorum",
         "Gymnopus ocior",
         "Gyroporus castaneus",
@@ -9451,11 +9568,13 @@
         "Lactifluus glaucescens",
         "Lactifluus piperatus",
         "Lactifluus volemus",
+        "Laeticutis cristata",
         "Laricifomes officinalis",
         "Leccinellum pseudoscabrum",
         "Leccinum aurantiacum",
         "Leccinum carpini",
         "Leccinum scabrum",
+        "Leccinum vulpinum",
         "Lentinellus cochleatus",
         "Lentinus tigrinus",
         "Lepiota aspera",
@@ -9606,6 +9725,7 @@
         "Rhodocollybia prolixa",
         "Rhodocybe gemina",
         "Rickenella fibula",
+        "Rozites caperatus",
         "Rubroboletus satanas",
         "Russula adusta",
         "Russula albonigra",
@@ -9663,6 +9783,7 @@
         "Sarcodon imbricatus",
         "Schizophyllum commune",
         "Scleroderma citrinum",
+        "Scleroderma polyrhizum",
         "Scleroderma verrucosum",
         "Singerocybe phaeophthalma",
         "Stereum hirsutum",
@@ -9691,7 +9812,9 @@
         "Tricholoma aurantium",
         "Tricholoma bufonium",
         "Tricholoma inamoenum",
+        "Tricholoma matsutake",
         "Tricholoma myomyces",
+        "Tricholoma nauseosum",
         "Tricholoma orirubens",
         "Tricholoma pardinum",
         "Tricholoma pessundatum",
@@ -9910,6 +10033,7 @@
         "Agrocybe praecox",
         "Albatrellopsis confluens",
         "Albatrellus confluens",
+        "Albatrellus cristatus",
         "Albatrellus ovinus",
         "Albatrellus subrubescens",
         "Amanita argentea",
@@ -10029,6 +10153,7 @@
         "Collybia cirrhata",
         "Collybia confluens",
         "Collybia distorta",
+        "Collybia fusipes",
         "Collybia hariolorum",
         "Collybia irina",
         "Collybia kuehneriana",
@@ -10145,6 +10270,7 @@
         "Gymnopilus penetrans",
         "Gymnopus aquosus",
         "Gymnopus erythropus",
+        "Gymnopus fusipes",
         "Gymnopus hariolorum",
         "Gymnopus ocior",
         "Gyroporus castaneus",
@@ -10227,11 +10353,13 @@
         "Lactifluus glaucescens",
         "Lactifluus piperatus",
         "Lactifluus volemus",
+        "Laeticutis cristata",
         "Laricifomes officinalis",
         "Leccinellum pseudoscabrum",
         "Leccinum aurantiacum",
         "Leccinum carpini",
         "Leccinum scabrum",
+        "Leccinum vulpinum",
         "Lentinellus cochleatus",
         "Lentinus tigrinus",
         "Lepiota aspera",
@@ -10382,6 +10510,7 @@
         "Rhodocollybia prolixa",
         "Rhodocybe gemina",
         "Rickenella fibula",
+        "Rozites caperatus",
         "Rubroboletus satanas",
         "Russula adusta",
         "Russula albonigra",
@@ -10439,6 +10568,7 @@
         "Sarcodon imbricatus",
         "Schizophyllum commune",
         "Scleroderma citrinum",
+        "Scleroderma polyrhizum",
         "Scleroderma verrucosum",
         "Singerocybe phaeophthalma",
         "Stereum hirsutum",
@@ -10468,7 +10598,9 @@
         "Tricholoma aurantium",
         "Tricholoma bufonium",
         "Tricholoma inamoenum",
+        "Tricholoma matsutake",
         "Tricholoma myomyces",
+        "Tricholoma nauseosum",
         "Tricholoma orirubens",
         "Tricholoma pardinum",
         "Tricholoma pessundatum",
@@ -10528,6 +10660,7 @@
         "Agrocybe praecox",
         "Albatrellopsis confluens",
         "Albatrellus confluens",
+        "Albatrellus cristatus",
         "Albatrellus ovinus",
         "Albatrellus subrubescens",
         "Amanita argentea",
@@ -10652,6 +10785,7 @@
         "Collybia cirrhata",
         "Collybia confluens",
         "Collybia distorta",
+        "Collybia fusipes",
         "Collybia hariolorum",
         "Collybia irina",
         "Collybia kuehneriana",
@@ -10775,6 +10909,7 @@
         "Gymnopilus penetrans",
         "Gymnopus aquosus",
         "Gymnopus erythropus",
+        "Gymnopus fusipes",
         "Gymnopus hariolorum",
         "Gymnopus ocior",
         "Gyroporus castaneus",
@@ -10864,12 +10999,14 @@
         "Lactifluus glaucescens",
         "Lactifluus piperatus",
         "Lactifluus volemus",
+        "Laeticutis cristata",
         "Lanzia echinophila",
         "Laricifomes officinalis",
         "Leccinellum pseudoscabrum",
         "Leccinum aurantiacum",
         "Leccinum carpini",
         "Leccinum scabrum",
+        "Leccinum vulpinum",
         "Lentinellus cochleatus",
         "Lentinus tigrinus",
         "Leotia lubrica",
@@ -11024,6 +11161,7 @@
         "Rhodocollybia prolixa",
         "Rhodocybe gemina",
         "Rickenella fibula",
+        "Rozites caperatus",
         "Rubroboletus satanas",
         "Russula adusta",
         "Russula albonigra",
@@ -11082,6 +11220,7 @@
         "Sarcodon imbricatus",
         "Schizophyllum commune",
         "Scleroderma citrinum",
+        "Scleroderma polyrhizum",
         "Scleroderma verrucosum",
         "Scutellinia superba",
         "Sepultaria sumneriana",
@@ -11118,7 +11257,9 @@
         "Tricholoma aurantium",
         "Tricholoma bufonium",
         "Tricholoma inamoenum",
+        "Tricholoma matsutake",
         "Tricholoma myomyces",
+        "Tricholoma nauseosum",
         "Tricholoma orirubens",
         "Tricholoma pardinum",
         "Tricholoma pessundatum",
