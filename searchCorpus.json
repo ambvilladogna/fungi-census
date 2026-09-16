@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T00:13:43.285Z",
+  "generatedAt": "2026-09-16T00:15:51.922Z",
   "corpus": [
     {
       "type": "genus",
@@ -998,6 +998,13 @@
       "matchSpecies": [
         "Hemitrichia clavata",
         "Hemitrichia serpula"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Hericium",
+      "matchSpecies": [
+        "Hericium erinaceus"
       ]
     },
     {
@@ -4416,6 +4423,13 @@
     },
     {
       "type": "species",
+      "value": "Hericium erinaceus",
+      "matchSpecies": [
+        "Hericium erinaceus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Heterobasidion parviporum",
       "matchSpecies": [
         "Heterobasidion parviporum"
@@ -7690,6 +7704,13 @@
     },
     {
       "type": "famiglia",
+      "value": "Hericiaceae",
+      "matchSpecies": [
+        "Hericium erinaceus"
+      ]
+    },
+    {
+      "type": "famiglia",
       "value": "Hydnaceae",
       "matchSpecies": [
         "Cantharellus amethysteus",
@@ -9109,6 +9130,7 @@
         "Albatrellus ovinus",
         "Albatrellus subrubescens",
         "Auriscalpium vulgare",
+        "Hericium erinaceus",
         "Heterobasidion parviporum",
         "Lactarius aurantiacus",
         "Lactarius azonites",
@@ -9492,6 +9514,7 @@
         "Hebeloma crustuliniforme",
         "Hebeloma sinapizans",
         "Hemileccinum depilatum",
+        "Hericium erinaceus",
         "Heterobasidion parviporum",
         "Hirneola auricula-judae",
         "Hydnellum peckii",
@@ -10277,6 +10300,7 @@
         "Hebeloma crustuliniforme",
         "Hebeloma sinapizans",
         "Hemileccinum depilatum",
+        "Hericium erinaceus",
         "Heterobasidion parviporum",
         "Hirneola auricula-judae",
         "Hydnellum peckii",
@@ -10920,6 +10944,7 @@
         "Helvella monachella",
         "Helvella silvicola",
         "Hemileccinum depilatum",
+        "Hericium erinaceus",
         "Heterobasidion parviporum",
         "Hirneola auricula-judae",
         "Hydnellum peckii",

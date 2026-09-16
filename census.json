@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-15T00:13:43.048Z",
-  "totalSpecies": 541,
-  "totalSamples": 1538,
+  "generatedAt": "2026-09-16T00:15:51.627Z",
+  "totalSpecies": 542,
+  "totalSamples": 1567,
   "species": [
     {
       "genus": "Abortiporus",
@@ -1712,6 +1712,13 @@
       "fullName": "Hemitrichia serpula",
       "lineage": "regno: Protozoa > phylum: Amoebozoa > classe: Myxogastrea > ordine: Trichiales > famiglia: Trichiaceae",
       "authority": "(Scop.) Rostaf. 1873"
+    },
+    {
+      "genus": "Hericium",
+      "species": "erinaceus",
+      "fullName": "Hericium erinaceus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Hericiaceae",
+      "authority": "(Bull.) Pers. 1797"
     },
     {
       "genus": "Heterobasidion",

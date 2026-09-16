@@ -6,6 +6,14 @@
   "autoreCorrente": "(Pers.) Fr. 1838",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-15",
+      "collector": "Fabio Locatelli",
+      "locality": "Schilpario",
+      "localityCoordinates": "45.873024, 9.916009",
+      "habitat": "Abete rosso",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2026-09-14",
       "collector": "Fabio Locatelli",
       "locality": "Ripa, Gromo",
@@ -60,7 +68,7 @@
         "ago": 1
       },
       {
-        "set": 1
+        "set": 2
       },
       {
         "ott": 1
@@ -74,8 +82,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 3,
-    "campioniRaccolti": 3,
+    "totaleCampioni": 4,
+    "campioniRaccolti": 4,
     "campioniExsiccata": 0
   }
 }

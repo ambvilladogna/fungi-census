@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-15",
+      "collector": "Pierino Bigoni",
+      "locality": "Strada per Colle Palazzo, Contrada Dosso, Plass, Oltressenda Alta, Bergamo",
+      "localityCoordinates": "45.923485, 9.953270",
+      "habitat": "Nocciolo",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-09-13",
       "collector": "Pierino Bigoni",
       "locality": "Piazza di Golla, Premolo",
@@ -156,7 +164,7 @@
         "ago": 5
       },
       {
-        "set": 5
+        "set": 6
       },
       {
         "ott": 3
@@ -170,8 +178,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 15,
-    "campioniRaccolti": 15,
+    "totaleCampioni": 16,
+    "campioniRaccolti": 16,
     "campioniExsiccata": 0
   }
 }
