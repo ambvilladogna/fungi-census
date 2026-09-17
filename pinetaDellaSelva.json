@@ -1,8 +1,8 @@
 {
   "title": "Pineta della Selva",
-  "generatedAt": "2026-09-15T00:13:43.266Z",
-  "totalSpecies": 121,
-  "totalSamples": 174,
+  "generatedAt": "2026-09-17T00:14:19.579Z",
+  "totalSpecies": 122,
+  "totalSamples": 178,
   "species": [
     {
       "genus": "Amanita",
@@ -251,6 +251,15 @@
       "authority": "(Bull.) Fr. 1838",
       "currentName": "Coprinellus micaceus",
       "currentAuthority": "(Bull.) Vilgalys, Hopple & Jacq. Johnson 2001"
+    },
+    {
+      "genus": "Cortinarius",
+      "species": "orellanoides",
+      "fullName": "Cortinarius orellanoides",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
+      "authority": "Rob. Henry 1937",
+      "currentName": "Cortinarius rubellus",
+      "currentAuthority": "Cooke 1887"
     },
     {
       "genus": "Cortinarius",

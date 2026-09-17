@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T00:15:51.922Z",
+  "generatedAt": "2026-09-17T00:14:19.606Z",
   "corpus": [
     {
       "type": "genus",
@@ -623,6 +623,7 @@
         "Cortinarius limonius",
         "Cortinarius malicorius",
         "Cortinarius odorifer",
+        "Cortinarius orellanoides",
         "Cortinarius orellanoides var. speciosissimus",
         "Cortinarius orellanus",
         "Cortinarius percomis",
@@ -3740,6 +3741,14 @@
     },
     {
       "type": "species",
+      "value": "Cortinarius orellanoides",
+      "matchSpecies": [
+        "Cortinarius orellanoides",
+        "Cortinarius rubellus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Cortinarius orellanoides var. speciosissimus",
       "matchSpecies": [
         "Cortinarius orellanoides var. speciosissimus",
@@ -3780,6 +3789,7 @@
       "type": "species",
       "value": "Cortinarius rubellus",
       "matchSpecies": [
+        "Cortinarius orellanoides",
         "Cortinarius orellanoides var. speciosissimus",
         "Cortinarius rubellus"
       ]
@@ -7236,7 +7246,6 @@
         "Agaricus praeclaresquamosus",
         "Agaricus sylvaticus",
         "Agaricus sylvicola",
-        "Amanita vaginata var. alba",
         "Chamaemyces fracidus",
         "Chlorophyllum brunneum",
         "Chlorophyllum rhacodes",
@@ -7311,6 +7320,7 @@
         "Amanita submembranacea",
         "Amanita umbrinolutea",
         "Amanita vaginata",
+        "Amanita vaginata var. alba",
         "Amanita virosa",
         "Limacella delicata",
         "Limacella glioderma",
@@ -7512,6 +7522,7 @@
         "Cortinarius limonius",
         "Cortinarius malicorius",
         "Cortinarius odorifer",
+        "Cortinarius orellanoides",
         "Cortinarius orellanoides var. speciosissimus",
         "Cortinarius orellanus",
         "Cortinarius percomis",
@@ -8569,6 +8580,7 @@
         "Cortinarius limonius",
         "Cortinarius malicorius",
         "Cortinarius odorifer",
+        "Cortinarius orellanoides",
         "Cortinarius orellanoides var. speciosissimus",
         "Cortinarius orellanus",
         "Cortinarius percomis",
@@ -9437,6 +9449,7 @@
         "Cortinarius limonius",
         "Cortinarius malicorius",
         "Cortinarius odorifer",
+        "Cortinarius orellanoides",
         "Cortinarius orellanoides var. speciosissimus",
         "Cortinarius orellanus",
         "Cortinarius percomis",
@@ -10221,6 +10234,7 @@
         "Cortinarius limonius",
         "Cortinarius malicorius",
         "Cortinarius odorifer",
+        "Cortinarius orellanoides",
         "Cortinarius orellanoides var. speciosissimus",
         "Cortinarius orellanus",
         "Cortinarius percomis",
@@ -10855,6 +10869,7 @@
         "Cortinarius limonius",
         "Cortinarius malicorius",
         "Cortinarius odorifer",
+        "Cortinarius orellanoides",
         "Cortinarius orellanoides var. speciosissimus",
         "Cortinarius orellanus",
         "Cortinarius percomis",

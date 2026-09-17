@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T00:13:43.301Z",
+  "generatedAt": "2026-09-17T00:14:19.630Z",
   "corpus": [
     {
       "type": "genus",
@@ -167,6 +167,7 @@
       "type": "genus",
       "value": "Cortinarius",
       "matchSpecies": [
+        "Cortinarius orellanoides",
         "Cortinarius orellanoides var. speciosissimus",
         "Cortinarius orellanus",
         "Cortinarius renidens",
@@ -945,6 +946,14 @@
     },
     {
       "type": "species",
+      "value": "Cortinarius orellanoides",
+      "matchSpecies": [
+        "Cortinarius orellanoides",
+        "Cortinarius rubellus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Cortinarius orellanoides var. speciosissimus",
       "matchSpecies": [
         "Cortinarius orellanoides var. speciosissimus",
@@ -970,6 +979,7 @@
       "type": "species",
       "value": "Cortinarius rubellus",
       "matchSpecies": [
+        "Cortinarius orellanoides",
         "Cortinarius orellanoides var. speciosissimus",
         "Cortinarius rubellus"
       ]
@@ -1819,6 +1829,7 @@
       "type": "famiglia",
       "value": "Cortinariaceae",
       "matchSpecies": [
+        "Cortinarius orellanoides",
         "Cortinarius orellanoides var. speciosissimus",
         "Cortinarius orellanus",
         "Cortinarius renidens",
@@ -2121,6 +2132,7 @@
         "Coprinus disseminatus",
         "Coprinus lagopus",
         "Coprinus micaceus",
+        "Cortinarius orellanoides",
         "Cortinarius orellanoides var. speciosissimus",
         "Cortinarius orellanus",
         "Cortinarius renidens",
@@ -2359,6 +2371,7 @@
         "Coprinus disseminatus",
         "Coprinus lagopus",
         "Coprinus micaceus",
+        "Cortinarius orellanoides",
         "Cortinarius orellanoides var. speciosissimus",
         "Cortinarius orellanus",
         "Cortinarius renidens",
@@ -2553,6 +2566,7 @@
         "Coprinus disseminatus",
         "Coprinus lagopus",
         "Coprinus micaceus",
+        "Cortinarius orellanoides",
         "Cortinarius orellanoides var. speciosissimus",
         "Cortinarius orellanus",
         "Cortinarius renidens",
@@ -2705,6 +2719,7 @@
         "Coprinus disseminatus",
         "Coprinus lagopus",
         "Coprinus micaceus",
+        "Cortinarius orellanoides",
         "Cortinarius orellanoides var. speciosissimus",
         "Cortinarius orellanus",
         "Cortinarius renidens",

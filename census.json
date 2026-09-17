@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-16T00:15:51.627Z",
-  "totalSpecies": 542,
-  "totalSamples": 1567,
+  "generatedAt": "2026-09-17T00:14:19.302Z",
+  "totalSpecies": 543,
+  "totalSamples": 1578,
   "species": [
     {
       "genus": "Abortiporus",
@@ -286,7 +286,7 @@
       "genus": "Amanita",
       "species": "vaginata var. alba",
       "fullName": "Amanita vaginata var. alba",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
       "authority": "(De Seynes) Gillet 1874"
     },
     {
@@ -1139,6 +1139,15 @@
       "authority": "Britzelm. 1885",
       "currentName": "Calonarius odorifer",
       "currentAuthority": "(Britzelm.) Niskanen & Liimat. 2022"
+    },
+    {
+      "genus": "Cortinarius",
+      "species": "orellanoides",
+      "fullName": "Cortinarius orellanoides",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
+      "authority": "Rob. Henry 1937",
+      "currentName": "Cortinarius rubellus",
+      "currentAuthority": "Cooke 1887"
     },
     {
       "genus": "Cortinarius",

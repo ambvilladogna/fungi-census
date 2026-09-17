@@ -6,6 +6,14 @@
   "autoreCorrente": "(Pers.) Harmaja 2003",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-11",
+      "collector": "Pierino Bigoni",
+      "locality": "Contrada Bricconi, Oltressenda Alta",
+      "localityCoordinates": "45.920360, 9.948130",
+      "habitat": "Bosco misto",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-08-31",
       "collector": "Pierino Bigoni",
       "locality": "Spiazzi, Gromo",
@@ -113,7 +121,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "06-23",
-    "raccoltaPiuTarda": "09-08",
+    "raccoltaPiuTarda": "09-11",
     "campioniPerMese": [
       {
         "gen": 0
@@ -140,7 +148,7 @@
         "ago": 10
       },
       {
-        "set": 1
+        "set": 2
       },
       {
         "ott": 0
@@ -154,8 +162,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 13,
-    "campioniRaccolti": 13,
+    "totaleCampioni": 14,
+    "campioniRaccolti": 14,
     "campioniExsiccata": 0
   }
 }

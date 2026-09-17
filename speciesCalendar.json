@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-16T00:15:51.729Z",
-  "totalSpecies": 542,
-  "totalSamples": 1713,
+  "generatedAt": "2026-09-17T00:14:19.407Z",
+  "totalSpecies": 543,
+  "totalSamples": 1733,
   "species": [
     {
       "genus": "Flammulina",
@@ -719,7 +719,7 @@
       "fullName": "Fomitopsis pinicola",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Polyporales > famiglia: Fomitopsidaceae",
       "authority": "(Sw.) P. Karst. 1881",
-      "totalSamples": 10,
+      "totalSamples": 11,
       "monthlyCount": [
         0,
         1,
@@ -729,7 +729,7 @@
         0,
         0,
         4,
-        1,
+        2,
         0,
         1,
         1
@@ -3569,7 +3569,7 @@
       "fullName": "Kuehneromyces mutabilis",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Kuehneromycetaceae",
       "authority": "(Schaeff.) Singer & A.H. Sm. 1946",
-      "totalSamples": 3,
+      "totalSamples": 4,
       "monthlyCount": [
         0,
         0,
@@ -3579,7 +3579,7 @@
         1,
         0,
         1,
-        1,
+        2,
         0,
         0,
         0
@@ -3595,14 +3595,14 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "09-08",
-      "latestDayOfYear": 251,
+      "latestDate": "09-11",
+      "latestDayOfYear": 254,
       "latestSample": {
-        "collectionDate": "2025-09-08",
-        "collector": "Fabio Locatelli",
-        "locality": "Ripa, Gromo",
-        "localityCoordinates": "45.976347, 9.928513",
-        "habitat": "Tronco marcescente",
+        "collectionDate": "2026-09-11",
+        "collector": "Pierino Bigoni",
+        "locality": "Contrada Bricconi, Oltressenda Alta",
+        "localityCoordinates": "45.920360, 9.948130",
+        "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
@@ -3747,7 +3747,7 @@
       "authority": "Schaeff. 1774",
       "currentName": "Suillellus luridus",
       "currentAuthority": "(Schaeff.) Murrill 1909",
-      "totalSamples": 16,
+      "totalSamples": 17,
       "monthlyCount": [
         0,
         0,
@@ -3757,7 +3757,7 @@
         6,
         5,
         3,
-        1,
+        2,
         1,
         0,
         0
@@ -4509,7 +4509,7 @@
       "authority": "(Pers.) P. Kumm. 1871",
       "currentName": "Infundibulicybe gibba",
       "currentAuthority": "(Pers.) Harmaja 2003",
-      "totalSamples": 13,
+      "totalSamples": 14,
       "monthlyCount": [
         0,
         0,
@@ -4519,7 +4519,7 @@
         1,
         1,
         10,
-        1,
+        2,
         0,
         0,
         0
@@ -4535,13 +4535,13 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "09-08",
-      "latestDayOfYear": 251,
+      "latestDate": "09-11",
+      "latestDayOfYear": 254,
       "latestSample": {
-        "collectionDate": "2025-09-08",
+        "collectionDate": "2026-09-11",
         "collector": "Pierino Bigoni",
-        "locality": "Strada per le baite del Moschel, Oltressenda Alta",
-        "localityCoordinates": "45.93408, 10.00331",
+        "locality": "Contrada Bricconi, Oltressenda Alta",
+        "localityCoordinates": "45.920360, 9.948130",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -4553,7 +4553,7 @@
       "fullName": "Infundibulicybe gibba",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales",
       "authority": "(Pers.) Harmaja 2003",
-      "totalSamples": 14,
+      "totalSamples": 15,
       "monthlyCount": [
         0,
         0,
@@ -4563,7 +4563,7 @@
         1,
         1,
         10,
-        2,
+        3,
         0,
         0,
         0
@@ -4597,7 +4597,7 @@
       "fullName": "Russula firmula",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
       "authority": "Jul. Schäff. 1940",
-      "totalSamples": 2,
+      "totalSamples": 3,
       "monthlyCount": [
         0,
         0,
@@ -4607,7 +4607,7 @@
         1,
         0,
         1,
-        0,
+        1,
         0,
         0,
         0
@@ -4623,13 +4623,13 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "08-26",
-      "latestDayOfYear": 238,
+      "latestDate": "09-11",
+      "latestDayOfYear": 254,
       "latestSample": {
-        "collectionDate": "2025-08-26",
+        "collectionDate": "2026-09-11",
         "collector": "Pierino Bigoni",
-        "locality": "Strada per le baite del Moschel, Oltressenda Alta",
-        "localityCoordinates": "45.93408, 10.00331",
+        "locality": "Contrada Bricconi, Oltressenda Alta",
+        "localityCoordinates": "45.920360, 9.948130",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -5799,7 +5799,7 @@
       "authority": "(Bull.) Lam. 1783",
       "currentName": "Amanita romagnesiana",
       "currentAuthority": "Tulloss 2000",
-      "totalSamples": 1,
+      "totalSamples": 2,
       "monthlyCount": [
         0,
         0,
@@ -5809,7 +5809,7 @@
         0,
         1,
         0,
-        0,
+        1,
         0,
         0,
         0
@@ -5825,15 +5825,15 @@
         "determiner": "Pietro Centenari",
         "_tipo": "raccolto"
       },
-      "latestDate": "07-05",
-      "latestDayOfYear": 186,
+      "latestDate": "09-11",
+      "latestDayOfYear": 254,
       "latestSample": {
-        "collectionDate": "2026-07-05",
-        "collector": "Pietro Centenari",
-        "locality": "Sentiero di Blum, Rovetta, Bergamo",
-        "localityCoordinates": "45.903626, 9.982526",
-        "habitat": "Bordo sentiero",
-        "determiner": "Pietro Centenari",
+        "collectionDate": "2026-09-11",
+        "collector": "Pierino Bigoni",
+        "locality": "Contrada Bricconi, Oltressenda Alta",
+        "localityCoordinates": "45.920360, 9.948130",
+        "habitat": "Bosco misto",
+        "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
     },
@@ -6377,7 +6377,7 @@
       "authority": "(Pers.) Kuyper 1981",
       "currentName": "Singerocybe phaeophthalma",
       "currentAuthority": "(Pers.) Harmaja 1988",
-      "totalSamples": 9,
+      "totalSamples": 10,
       "monthlyCount": [
         0,
         0,
@@ -6387,7 +6387,7 @@
         0,
         1,
         4,
-        3,
+        4,
         0,
         1,
         0
@@ -7221,7 +7221,7 @@
       "genus": "Amanita",
       "species": "vaginata var. alba",
       "fullName": "Amanita vaginata var. alba",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
       "authority": "(De Seynes) Gillet 1874",
       "totalSamples": 1,
       "monthlyCount": [
@@ -9627,7 +9627,7 @@
       "fullName": "Cortinarius rubellus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
       "authority": "Cooke 1887",
-      "totalSamples": 9,
+      "totalSamples": 10,
       "monthlyCount": [
         0,
         0,
@@ -9637,7 +9637,7 @@
         0,
         0,
         5,
-        1,
+        2,
         2,
         1,
         0
@@ -9707,6 +9707,52 @@
         "locality": "Zenier, Rovetta",
         "localityCoordinates": "45.898619, 9.984853",
         "habitat": "Bosco misto",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Cortinarius",
+      "species": "orellanoides",
+      "fullName": "Cortinarius orellanoides",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
+      "authority": "Rob. Henry 1937",
+      "currentName": "Cortinarius rubellus",
+      "currentAuthority": "Cooke 1887",
+      "totalSamples": 8,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        2,
+        2,
+        0,
+        0
+      ],
+      "earliestDate": "08-07",
+      "earliestDayOfYear": 219,
+      "earliestSample": {
+        "collectionDate": "2026-08-07",
+        "collector": "Fabio Locatelli",
+        "locality": "Schilpario",
+        "localityCoordinates": "46.009394, 10.154059",
+        "habitat": "Abete rosso",
+        "determiner": "Fabio Locatelli",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "10-30",
+      "latestDayOfYear": 304,
+      "latestSample": {
+        "collectionDate": "2025-10-30",
+        "collector": "Pierino Bigoni",
+        "locality": "Pineta della Selva, Clusone",
+        "localityCoordinates": "45.88196, 9.91806",
+        "habitat": "Pino abete",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
@@ -10873,7 +10919,7 @@
       "fullName": "Climacocystis borealis",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Polyporales",
       "authority": "(Fr.) Kotl. & Pouzar 1958",
-      "totalSamples": 2,
+      "totalSamples": 3,
       "monthlyCount": [
         0,
         0,
@@ -10883,7 +10929,7 @@
         0,
         0,
         1,
-        1,
+        2,
         0,
         0,
         0
@@ -11677,7 +11723,7 @@
       "fullName": "Calocera viscosa",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Dacrymycetes > ordine: Dacrymycetales > famiglia: Dacrymycetaceae",
       "authority": "(Pers.) Bory 1823",
-      "totalSamples": 3,
+      "totalSamples": 4,
       "monthlyCount": [
         0,
         0,
@@ -11687,7 +11733,7 @@
         0,
         0,
         3,
-        0,
+        1,
         0,
         0,
         0
@@ -11703,10 +11749,10 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "08-29",
-      "latestDayOfYear": 241,
+      "latestDate": "09-11",
+      "latestDayOfYear": 254,
       "latestSample": {
-        "collectionDate": "2026-08-29",
+        "collectionDate": "2026-09-11",
         "collector": "Pierino Bigoni",
         "locality": "Contrada Bricconi, Oltressenda Alta",
         "localityCoordinates": "45.920360, 9.948130",
@@ -13233,7 +13279,7 @@
       "fullName": "Marasmius cohaerens",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Marasmiaceae",
       "authority": "(Pers.) Cooke & Quél. 1878",
-      "totalSamples": 3,
+      "totalSamples": 4,
       "monthlyCount": [
         0,
         0,
@@ -13243,7 +13289,7 @@
         0,
         0,
         3,
-        0,
+        1,
         0,
         0,
         0
@@ -13259,14 +13305,14 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "08-31",
-      "latestDayOfYear": 243,
+      "latestDate": "09-11",
+      "latestDayOfYear": 254,
       "latestSample": {
-        "collectionDate": "2026-08-31",
+        "collectionDate": "2026-09-11",
         "collector": "Pierino Bigoni",
-        "locality": "Spiazzi, Gromo",
-        "localityCoordinates": "45.970802, 9.963785",
-        "habitat": "Bosco misto abete bianco e abete rosso",
+        "locality": "Contrada Bricconi, Oltressenda Alta",
+        "localityCoordinates": "45.920360, 9.948130",
+        "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
