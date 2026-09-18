@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-17",
+      "collector": "Fabio Locatelli",
+      "locality": "Schilpario",
+      "localityCoordinates": "45.873024, 9.916009",
+      "habitat": "Abete rosso",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2025-11-03",
       "collector": "Angelo Ballabeni",
       "locality": "Percorso vita, Rovetta",
@@ -56,7 +64,7 @@
   ],
   "campioniExsiccata": [],
   "fenologia": {
-    "raccoltaPiuPrecoce": "09-29",
+    "raccoltaPiuPrecoce": "09-17",
     "raccoltaPiuTarda": "11-03",
     "campioniPerMese": [
       {
@@ -84,7 +92,7 @@
         "ago": 0
       },
       {
-        "set": 1
+        "set": 2
       },
       {
         "ott": 4
@@ -98,8 +106,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 6,
-    "campioniRaccolti": 6,
+    "totaleCampioni": 7,
+    "campioniRaccolti": 7,
     "campioniExsiccata": 0
   }
 }

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-17T00:14:19.407Z",
+  "generatedAt": "2026-09-18T00:13:52.521Z",
   "totalSpecies": 543,
-  "totalSamples": 1733,
+  "totalSamples": 1737,
   "species": [
     {
       "genus": "Flammulina",
@@ -9359,7 +9359,7 @@
       "fullName": "Lactarius pallidus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
       "authority": "Pers. 1797",
-      "totalSamples": 7,
+      "totalSamples": 8,
       "monthlyCount": [
         0,
         0,
@@ -9369,7 +9369,7 @@
         0,
         0,
         3,
-        3,
+        4,
         1,
         0,
         0
@@ -10253,7 +10253,7 @@
       "fullName": "Cortinarius malicorius",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
       "authority": "Fr. 1838",
-      "totalSamples": 2,
+      "totalSamples": 3,
       "monthlyCount": [
         0,
         0,
@@ -10263,7 +10263,7 @@
         0,
         0,
         1,
-        0,
+        1,
         1,
         0,
         0
@@ -20138,6 +20138,50 @@
       }
     },
     {
+      "genus": "Armillaria",
+      "species": "ostoyae",
+      "fullName": "Armillaria ostoyae",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Physalacriaceae",
+      "authority": "(Romagn.) Herink 1973",
+      "totalSamples": 7,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        4,
+        1,
+        0
+      ],
+      "earliestDate": "09-17",
+      "earliestDayOfYear": 260,
+      "earliestSample": {
+        "collectionDate": "2026-09-17",
+        "collector": "Fabio Locatelli",
+        "locality": "Schilpario",
+        "localityCoordinates": "45.873024, 9.916009",
+        "habitat": "Abete rosso",
+        "determiner": "Fabio Locatelli",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "11-03",
+      "latestDayOfYear": 308,
+      "latestSample": {
+        "collectionDate": "2025-11-03",
+        "collector": "Angelo Ballabeni",
+        "locality": "Percorso vita, Rovetta",
+        "localityCoordinates": "45.89368, 9.97672",
+        "habitat": "Bosco misto",
+        "determiner": "Angelo Ballabeni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
       "genus": "Coprinus",
       "species": "atramentarius",
       "fullName": "Coprinus atramentarius",
@@ -20180,6 +20224,50 @@
         "localityCoordinates": "45.898619, 9.984853",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Cortinarius",
+      "species": "cumatilis",
+      "fullName": "Cortinarius cumatilis",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
+      "authority": "Fr. 1838",
+      "totalSamples": 3,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        2,
+        0,
+        0
+      ],
+      "earliestDate": "09-17",
+      "earliestDayOfYear": 260,
+      "earliestSample": {
+        "collectionDate": "2026-09-17",
+        "collector": "Fabio Locatelli",
+        "locality": "Schilpario",
+        "localityCoordinates": "45.873024, 9.916009",
+        "habitat": "Abete rosso",
+        "determiner": "Fabio Locatelli",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "10-08",
+      "latestDayOfYear": 281,
+      "latestSample": {
+        "collectionDate": "2025-10-08",
+        "collector": "Fabio Locatelli",
+        "locality": "Prat del sul, Clusone",
+        "localityCoordinates": "45.867941, 9.932321",
+        "habitat": "Faggeta",
+        "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
     },
@@ -20856,50 +20944,6 @@
       }
     },
     {
-      "genus": "Armillaria",
-      "species": "ostoyae",
-      "fullName": "Armillaria ostoyae",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Physalacriaceae",
-      "authority": "(Romagn.) Herink 1973",
-      "totalSamples": 6,
-      "monthlyCount": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        4,
-        1,
-        0
-      ],
-      "earliestDate": "09-29",
-      "earliestDayOfYear": 272,
-      "earliestSample": {
-        "collectionDate": "2025-09-29",
-        "collector": "Fabio Rossi",
-        "locality": "Valcanale, Ardesio",
-        "localityCoordinates": "45.950207, 9.858819",
-        "habitat": "Bosco misto",
-        "determiner": "Pierino Bigoni",
-        "_tipo": "raccolto"
-      },
-      "latestDate": "11-03",
-      "latestDayOfYear": 308,
-      "latestSample": {
-        "collectionDate": "2025-11-03",
-        "collector": "Angelo Ballabeni",
-        "locality": "Percorso vita, Rovetta",
-        "localityCoordinates": "45.89368, 9.97672",
-        "habitat": "Bosco misto",
-        "determiner": "Angelo Ballabeni",
-        "_tipo": "raccolto"
-      }
-    },
-    {
       "genus": "Clitocybe",
       "species": "clavipes",
       "fullName": "Clitocybe clavipes",
@@ -21298,50 +21342,6 @@
         "localityCoordinates": "45.863782, 9.953472",
         "habitat": "Pino abete e latifoglie",
         "determiner": "Pierino Bigoni",
-        "_tipo": "raccolto"
-      }
-    },
-    {
-      "genus": "Cortinarius",
-      "species": "cumatilis",
-      "fullName": "Cortinarius cumatilis",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
-      "authority": "Fr. 1838",
-      "totalSamples": 2,
-      "monthlyCount": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        2,
-        0,
-        0
-      ],
-      "earliestDate": "10-06",
-      "earliestDayOfYear": 279,
-      "earliestSample": {
-        "collectionDate": "2025-10-06",
-        "collector": "Fabio Locatelli",
-        "locality": "Schilpario",
-        "localityCoordinates": "46.009394, 10.154059",
-        "habitat": "Bosco misto",
-        "determiner": "Fabio Locatelli",
-        "_tipo": "raccolto"
-      },
-      "latestDate": "10-08",
-      "latestDayOfYear": 281,
-      "latestSample": {
-        "collectionDate": "2025-10-08",
-        "collector": "Fabio Locatelli",
-        "locality": "Prat del sul, Clusone",
-        "localityCoordinates": "45.867941, 9.932321",
-        "habitat": "Faggeta",
-        "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
     },

@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-17",
+      "collector": "Fabio Locatelli",
+      "locality": "Schilpario",
+      "localityCoordinates": "45.873024, 9.916009",
+      "habitat": "Faggio",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2026-09-13",
       "collector": "Pierino Bigoni",
       "locality": "Piazza di Golla, Premolo",
@@ -92,7 +100,7 @@
         "ago": 3
       },
       {
-        "set": 3
+        "set": 4
       },
       {
         "ott": 1
@@ -106,8 +114,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 7,
-    "campioniRaccolti": 7,
+    "totaleCampioni": 8,
+    "campioniRaccolti": 8,
     "campioniExsiccata": 0
   }
 }

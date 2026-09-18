@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-17",
+      "collector": "Fabio Locatelli",
+      "locality": "Schilpario",
+      "localityCoordinates": "45.873024, 9.916009",
+      "habitat": "Abete rosso",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2025-10-08",
       "collector": "Fabio Locatelli",
       "locality": "Prat del sul, Clusone",
@@ -24,7 +32,7 @@
   ],
   "campioniExsiccata": [],
   "fenologia": {
-    "raccoltaPiuPrecoce": "10-06",
+    "raccoltaPiuPrecoce": "09-17",
     "raccoltaPiuTarda": "10-08",
     "campioniPerMese": [
       {
@@ -52,7 +60,7 @@
         "ago": 0
       },
       {
-        "set": 0
+        "set": 1
       },
       {
         "ott": 2
@@ -66,8 +74,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 2,
-    "campioniRaccolti": 2,
+    "totaleCampioni": 3,
+    "campioniRaccolti": 3,
     "campioniExsiccata": 0
   }
 }
