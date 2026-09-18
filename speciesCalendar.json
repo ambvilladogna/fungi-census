@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T00:13:52.521Z",
+  "generatedAt": "2026-09-18T08:29:29.312Z",
   "totalSpecies": 543,
   "totalSamples": 1737,
   "species": [
@@ -20164,7 +20164,7 @@
         "collectionDate": "2026-09-17",
         "collector": "Fabio Locatelli",
         "locality": "Schilpario",
-        "localityCoordinates": "45.873024, 9.916009",
+        "localityCoordinates": "46.009394, 10.154059",
         "habitat": "Abete rosso",
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
@@ -20254,7 +20254,7 @@
         "collectionDate": "2026-09-17",
         "collector": "Fabio Locatelli",
         "locality": "Schilpario",
-        "localityCoordinates": "45.873024, 9.916009",
+        "localityCoordinates": "46.009394, 10.154059",
         "habitat": "Abete rosso",
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
