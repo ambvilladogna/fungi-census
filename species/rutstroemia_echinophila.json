@@ -6,6 +6,14 @@
   "autoreCorrente": "(Bull.) Korf 1982",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-18",
+      "collector": "Pierino Bigoni",
+      "locality": "Bosgarina",
+      "localityCoordinates": "",
+      "habitat": "Su vecchi ricci di castagno",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2025-09-17",
       "collector": "Pierino Bigoni",
       "locality": "Zenier, Rovetta",
@@ -25,7 +33,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "09-15",
-    "raccoltaPiuTarda": "09-17",
+    "raccoltaPiuTarda": "09-18",
     "campioniPerMese": [
       {
         "gen": 0
@@ -52,7 +60,7 @@
         "ago": 0
       },
       {
-        "set": 2
+        "set": 3
       },
       {
         "ott": 0
@@ -66,8 +74,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 2,
-    "campioniRaccolti": 2,
+    "totaleCampioni": 3,
+    "campioniRaccolti": 3,
     "campioniExsiccata": 0
   }
 }

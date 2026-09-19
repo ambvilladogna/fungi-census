@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-18T08:29:29.312Z",
-  "totalSpecies": 543,
-  "totalSamples": 1737,
+  "generatedAt": "2026-09-19T00:13:59.124Z",
+  "totalSpecies": 545,
+  "totalSamples": 1746,
   "species": [
     {
       "genus": "Flammulina",
@@ -497,7 +497,7 @@
       "fullName": "Trametes versicolor",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Polyporales > famiglia: Polyporaceae",
       "authority": "(L.) Lloyd 1920",
-      "totalSamples": 5,
+      "totalSamples": 6,
       "monthlyCount": [
         0,
         1,
@@ -507,7 +507,7 @@
         0,
         0,
         2,
-        0,
+        1,
         1,
         0,
         0
@@ -3837,7 +3837,7 @@
       "fullName": "Russula cyanoxantha",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
       "authority": "(Schaeff.) Fr. 1863",
-      "totalSamples": 24,
+      "totalSamples": 25,
       "monthlyCount": [
         0,
         0,
@@ -3847,7 +3847,7 @@
         4,
         8,
         8,
-        3,
+        4,
         1,
         0,
         0
@@ -4015,7 +4015,7 @@
       "fullName": "Amanita phalloides",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
       "authority": "(Vaill. ex Fr.) Link 1833",
-      "totalSamples": 16,
+      "totalSamples": 17,
       "monthlyCount": [
         0,
         0,
@@ -4025,7 +4025,7 @@
         1,
         1,
         5,
-        6,
+        7,
         3,
         0,
         0
@@ -9359,7 +9359,7 @@
       "fullName": "Lactarius pallidus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
       "authority": "Pers. 1797",
-      "totalSamples": 8,
+      "totalSamples": 9,
       "monthlyCount": [
         0,
         0,
@@ -9369,7 +9369,7 @@
         0,
         0,
         3,
-        4,
+        5,
         1,
         0,
         0
@@ -11665,7 +11665,7 @@
         "collectionDate": "2026-09-15",
         "collector": "Fabio Locatelli",
         "locality": "Schilpario",
-        "localityCoordinates": "45.873024, 9.916009",
+        "localityCoordinates": "46.009394, 10.154059",
         "habitat": "Abete rosso",
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
@@ -15645,7 +15645,7 @@
       "fullName": "Fistulina hepatica",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales",
       "authority": "(Schaeff.) With. 1801",
-      "totalSamples": 3,
+      "totalSamples": 4,
       "monthlyCount": [
         0,
         0,
@@ -15655,7 +15655,7 @@
         0,
         0,
         0,
-        3,
+        4,
         0,
         0,
         0
@@ -15671,14 +15671,14 @@
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       },
-      "latestDate": "09-14",
-      "latestDayOfYear": 257,
+      "latestDate": "09-18",
+      "latestDayOfYear": 261,
       "latestSample": {
-        "collectionDate": "2026-09-14",
-        "collector": "Luigi Rossi",
-        "locality": "Monte Beur Clusone",
-        "localityCoordinates": "45.871771, 9.942776",
-        "habitat": "Castagno",
+        "collectionDate": "2026-09-18",
+        "collector": "Pierino Bigoni",
+        "locality": "Bosgarina",
+        "localityCoordinates": "",
+        "habitat": "Su tronco di castagno",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
@@ -19338,6 +19338,50 @@
       }
     },
     {
+      "genus": "Conocybe",
+      "species": "siennophylla",
+      "fullName": "Conocybe siennophylla",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Bolbitiaceae",
+      "authority": "(Berk. & Broome) Singer ex Chiari & Papetti 2016",
+      "totalSamples": 1,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "earliestDate": "09-15",
+      "earliestDayOfYear": 258,
+      "earliestSample": {
+        "collectionDate": "2026-09-15",
+        "collector": "Pierino Bigoni",
+        "locality": "Colle Palazzo",
+        "localityCoordinates": "42.058128, 12.674679",
+        "habitat": "Bosco rado di Abeti",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "09-15",
+      "latestDayOfYear": 258,
+      "latestSample": {
+        "collectionDate": "2026-09-15",
+        "collector": "Pierino Bigoni",
+        "locality": "Colle Palazzo",
+        "localityCoordinates": "42.058128, 12.674679",
+        "habitat": "Bosco rado di Abeti",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
       "genus": "Coprinus",
       "species": "comatus",
       "fullName": "Coprinus comatus",
@@ -19916,6 +19960,50 @@
       }
     },
     {
+      "genus": "Mycena",
+      "species": "galericulata",
+      "fullName": "Mycena galericulata",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Mycenaceae",
+      "authority": "(Scop.) Gray 1821",
+      "totalSamples": 2,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0
+      ],
+      "earliestDate": "09-15",
+      "earliestDayOfYear": 258,
+      "earliestSample": {
+        "collectionDate": "2026-09-15",
+        "collector": "Pierino Bigoni",
+        "locality": "Colle Palazzo",
+        "localityCoordinates": "42.058128, 12.674679",
+        "habitat": "Su ceppaia di faggio",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "11-17",
+      "latestDayOfYear": 322,
+      "latestSample": {
+        "collectionDate": "2025-11-17",
+        "collector": "Antonio Guana",
+        "locality": "Ave, Ardesio",
+        "localityCoordinates": "45.945285, 9.963584",
+        "habitat": "Bosco misto",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
       "genus": "Pholiota",
       "species": "squarrosa",
       "fullName": "Pholiota squarrosa",
@@ -20011,7 +20099,7 @@
       "authority": "(Bull.) Höhn. 1917",
       "currentName": "Lanzia echinophila",
       "currentAuthority": "(Bull.) Korf 1982",
-      "totalSamples": 2,
+      "totalSamples": 3,
       "monthlyCount": [
         0,
         0,
@@ -20021,7 +20109,7 @@
         0,
         0,
         0,
-        2,
+        3,
         0,
         0,
         0
@@ -20037,14 +20125,14 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "09-17",
-      "latestDayOfYear": 260,
+      "latestDate": "09-18",
+      "latestDayOfYear": 261,
       "latestSample": {
-        "collectionDate": "2025-09-17",
+        "collectionDate": "2026-09-18",
         "collector": "Pierino Bigoni",
-        "locality": "Zenier, Rovetta",
-        "localityCoordinates": "45.898619, 9.984853",
-        "habitat": "Bosco misto",
+        "locality": "Bosgarina",
+        "localityCoordinates": "",
+        "habitat": "Su vecchi ricci di castagno",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
@@ -20629,6 +20717,50 @@
         "locality": "Pineta della Selva, Clusone",
         "localityCoordinates": "45.88196, 9.91806",
         "habitat": "Ceppaia di latifoglie",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Russula",
+      "species": "virescens",
+      "fullName": "Russula virescens",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
+      "authority": "(Schaeff.) Fr. 1836",
+      "totalSamples": 1,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "earliestDate": "09-18",
+      "earliestDayOfYear": 261,
+      "earliestSample": {
+        "collectionDate": "2026-09-18",
+        "collector": "Pierino Bigoni",
+        "locality": "Bosgarina",
+        "localityCoordinates": "",
+        "habitat": "Margine del bosco misto",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "09-18",
+      "latestDayOfYear": 261,
+      "latestSample": {
+        "collectionDate": "2026-09-18",
+        "collector": "Pierino Bigoni",
+        "locality": "Bosgarina",
+        "localityCoordinates": "",
+        "habitat": "Margine del bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
@@ -23743,50 +23875,6 @@
         "locality": "Oltressenda Alta",
         "localityCoordinates": "45.916699, 9.944232",
         "habitat": "Bosco aghifoglie",
-        "determiner": "Pierino Bigoni",
-        "_tipo": "raccolto"
-      }
-    },
-    {
-      "genus": "Mycena",
-      "species": "galericulata",
-      "fullName": "Mycena galericulata",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Mycenaceae",
-      "authority": "(Scop.) Gray 1821",
-      "totalSamples": 1,
-      "monthlyCount": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0
-      ],
-      "earliestDate": "11-17",
-      "earliestDayOfYear": 322,
-      "earliestSample": {
-        "collectionDate": "2025-11-17",
-        "collector": "Antonio Guana",
-        "locality": "Ave, Ardesio",
-        "localityCoordinates": "45.945285, 9.963584",
-        "habitat": "Bosco misto",
-        "determiner": "Pierino Bigoni",
-        "_tipo": "raccolto"
-      },
-      "latestDate": "11-17",
-      "latestDayOfYear": 322,
-      "latestSample": {
-        "collectionDate": "2025-11-17",
-        "collector": "Antonio Guana",
-        "locality": "Ave, Ardesio",
-        "localityCoordinates": "45.945285, 9.963584",
-        "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }

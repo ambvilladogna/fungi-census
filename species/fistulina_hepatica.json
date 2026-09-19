@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-18",
+      "collector": "Pierino Bigoni",
+      "locality": "Bosgarina",
+      "localityCoordinates": "",
+      "habitat": "Su tronco di castagno",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-09-14",
       "collector": "Luigi Rossi",
       "locality": "Monte Beur Clusone",
@@ -33,7 +41,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "09-01",
-    "raccoltaPiuTarda": "09-14",
+    "raccoltaPiuTarda": "09-18",
     "campioniPerMese": [
       {
         "gen": 0
@@ -60,7 +68,7 @@
         "ago": 0
       },
       {
-        "set": 3
+        "set": 4
       },
       {
         "ott": 0
@@ -74,8 +82,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 3,
-    "campioniRaccolti": 3,
+    "totaleCampioni": 4,
+    "campioniRaccolti": 4,
     "campioniExsiccata": 0
   }
 }

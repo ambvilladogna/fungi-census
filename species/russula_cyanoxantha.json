@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-18",
+      "collector": "Pierino Bigoni",
+      "locality": "Bosgarina",
+      "localityCoordinates": "",
+      "habitat": "Bosco misto di castagno e latifoglie",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-09-14",
       "collector": "Sergio Lonati",
       "locality": "Spiazzi, Gromo",
@@ -228,7 +236,7 @@
         "ago": 8
       },
       {
-        "set": 3
+        "set": 4
       },
       {
         "ott": 1
@@ -242,8 +250,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 24,
-    "campioniRaccolti": 24,
+    "totaleCampioni": 25,
+    "campioniRaccolti": 25,
     "campioniExsiccata": 0
   }
 }

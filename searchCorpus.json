@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T00:14:19.606Z",
+  "generatedAt": "2026-09-19T00:13:59.288Z",
   "corpus": [
     {
       "type": "genus",
@@ -537,6 +537,7 @@
         "Conocybe coprophila",
         "Conocybe juniana",
         "Conocybe magnicapitata",
+        "Conocybe siennophylla",
         "Conocybe tenera",
         "Conocybula coprophila",
         "Pholiotina aporos"
@@ -1989,6 +1990,7 @@
         "Russula subfoetens",
         "Russula vesca",
         "Russula violeipes",
+        "Russula virescens",
         "Russula xerampelina"
       ]
     },
@@ -3509,6 +3511,13 @@
       "matchSpecies": [
         "Conocybe juniana",
         "Conocybe magnicapitata"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Conocybe siennophylla",
+      "matchSpecies": [
+        "Conocybe siennophylla"
       ]
     },
     {
@@ -6633,6 +6642,13 @@
     },
     {
       "type": "species",
+      "value": "Russula virescens",
+      "matchSpecies": [
+        "Russula virescens"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Russula xerampelina",
       "matchSpecies": [
         "Russula xerampelina"
@@ -7372,6 +7388,7 @@
         "Conocybe coprophila",
         "Conocybe juniana",
         "Conocybe magnicapitata",
+        "Conocybe siennophylla",
         "Conocybe tenera",
         "Conocybula coprophila",
         "Pholiotina aporos",
@@ -8257,6 +8274,7 @@
         "Russula subfoetens",
         "Russula vesca",
         "Russula violeipes",
+        "Russula virescens",
         "Russula xerampelina"
       ]
     },
@@ -8551,6 +8569,7 @@
         "Conocybe coprophila",
         "Conocybe juniana",
         "Conocybe magnicapitata",
+        "Conocybe siennophylla",
         "Conocybe tenera",
         "Conocybula coprophila",
         "Coprinellus disseminatus",
@@ -9224,6 +9243,7 @@
         "Russula subfoetens",
         "Russula vesca",
         "Russula violeipes",
+        "Russula virescens",
         "Russula xerampelina",
         "Stereum hirsutum"
       ]
@@ -9420,6 +9440,7 @@
         "Conocybe coprophila",
         "Conocybe juniana",
         "Conocybe magnicapitata",
+        "Conocybe siennophylla",
         "Conocybe tenera",
         "Conocybula coprophila",
         "Coprinellus disseminatus",
@@ -9815,6 +9836,7 @@
         "Russula subfoetens",
         "Russula vesca",
         "Russula violeipes",
+        "Russula virescens",
         "Russula xerampelina",
         "Sarcodon imbricatus",
         "Schizophyllum commune",
@@ -10205,6 +10227,7 @@
         "Conocybe coprophila",
         "Conocybe juniana",
         "Conocybe magnicapitata",
+        "Conocybe siennophylla",
         "Conocybe tenera",
         "Conocybula coprophila",
         "Coprinellus disseminatus",
@@ -10602,6 +10625,7 @@
         "Russula subfoetens",
         "Russula vesca",
         "Russula violeipes",
+        "Russula virescens",
         "Russula xerampelina",
         "Sarcodon imbricatus",
         "Schizophyllum commune",
@@ -10839,6 +10863,7 @@
         "Conocybe coprophila",
         "Conocybe juniana",
         "Conocybe magnicapitata",
+        "Conocybe siennophylla",
         "Conocybe tenera",
         "Conocybula coprophila",
         "Coprinellus disseminatus",
@@ -11255,6 +11280,7 @@
         "Russula subfoetens",
         "Russula vesca",
         "Russula violeipes",
+        "Russula virescens",
         "Russula xerampelina",
         "Rutstroemia echinophila",
         "Sarcodon imbricatus",

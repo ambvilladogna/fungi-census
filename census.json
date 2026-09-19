@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-18T08:29:29.208Z",
-  "totalSpecies": 543,
-  "totalSamples": 1582,
+  "generatedAt": "2026-09-19T00:13:59.035Z",
+  "totalSpecies": 545,
+  "totalSamples": 1591,
   "species": [
     {
       "genus": "Abortiporus",
@@ -940,6 +940,13 @@
       "authority": "P.D. Orton 1960",
       "currentName": "Conocybe juniana",
       "currentAuthority": "(Velen.) Hauskn. & Svrček 1999"
+    },
+    {
+      "genus": "Conocybe",
+      "species": "siennophylla",
+      "fullName": "Conocybe siennophylla",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Bolbitiaceae",
+      "authority": "(Berk. & Broome) Singer ex Chiari & Papetti 2016"
     },
     {
       "genus": "Conocybe",
@@ -3602,6 +3609,13 @@
       "fullName": "Russula violeipes",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
       "authority": "Quél. 1898"
+    },
+    {
+      "genus": "Russula",
+      "species": "virescens",
+      "fullName": "Russula virescens",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
+      "authority": "(Schaeff.) Fr. 1836"
     },
     {
       "genus": "Russula",
