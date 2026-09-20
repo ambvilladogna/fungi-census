@@ -6,6 +6,14 @@
   "autoreCorrente": "(Schaeff.) Murrill 1909",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-19",
+      "collector": "Pierino Bigoni",
+      "locality": "M.Poieto loc.Cà dè Spì",
+      "localityCoordinates": "",
+      "habitat": "Bosco di faggio rado",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-09-11",
       "collector": "Pierino Bigoni",
       "locality": "Contrada Bricconi, Oltressenda Alta",
@@ -172,7 +180,7 @@
         "ago": 3
       },
       {
-        "set": 2
+        "set": 3
       },
       {
         "ott": 1
@@ -186,8 +194,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 17,
-    "campioniRaccolti": 17,
+    "totaleCampioni": 18,
+    "campioniRaccolti": 18,
     "campioniExsiccata": 0
   }
 }

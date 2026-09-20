@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-19",
+      "collector": "Pierino Bigoni",
+      "locality": "M.Poieto loc.Cà dè Spì",
+      "localityCoordinates": "",
+      "habitat": "Bosco di betulle",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-09-13",
       "collector": "Pierino Bigoni",
       "locality": "Piazza di Golla, Premolo",
@@ -132,7 +140,7 @@
         "ago": 3
       },
       {
-        "set": 5
+        "set": 6
       },
       {
         "ott": 3
@@ -146,8 +154,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 12,
-    "campioniRaccolti": 12,
+    "totaleCampioni": 13,
+    "campioniRaccolti": 13,
     "campioniExsiccata": 0
   }
 }

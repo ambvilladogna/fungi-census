@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-19",
+      "collector": "Pierino Bigoni",
+      "locality": "M.Poieto loc.Cà dè Spì",
+      "localityCoordinates": "",
+      "habitat": "Bosco misto con Abete rosso",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-09-13",
       "collector": "Pietro Centenari",
       "locality": "Piazza di Golla, Premolo",
@@ -116,7 +124,7 @@
         "ago": 0
       },
       {
-        "set": 7
+        "set": 8
       },
       {
         "ott": 3
@@ -130,8 +138,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 10,
-    "campioniRaccolti": 10,
+    "totaleCampioni": 11,
+    "campioniRaccolti": 11,
     "campioniExsiccata": 0
   }
 }

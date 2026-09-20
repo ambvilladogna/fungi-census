@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T00:14:19.630Z",
+  "generatedAt": "2026-09-20T00:14:20.593Z",
   "corpus": [
     {
       "type": "genus",
@@ -414,7 +414,8 @@
       "matchSpecies": [
         "Leucocybe connata",
         "Lyophyllum connatum",
-        "Lyophyllum decastes"
+        "Lyophyllum decastes",
+        "Lyophyllum fumosum"
       ]
     },
     {
@@ -1373,7 +1374,16 @@
       "type": "species",
       "value": "Lyophyllum decastes",
       "matchSpecies": [
-        "Lyophyllum decastes"
+        "Lyophyllum decastes",
+        "Lyophyllum fumosum"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Lyophyllum fumosum",
+      "matchSpecies": [
+        "Lyophyllum decastes",
+        "Lyophyllum fumosum"
       ]
     },
     {
@@ -1950,7 +1960,8 @@
       "type": "famiglia",
       "value": "Lyophyllaceae",
       "matchSpecies": [
-        "Lyophyllum decastes"
+        "Lyophyllum decastes",
+        "Lyophyllum fumosum"
       ]
     },
     {
@@ -2172,6 +2183,7 @@
         "Lycoperdon pyriforme",
         "Lyophyllum connatum",
         "Lyophyllum decastes",
+        "Lyophyllum fumosum",
         "Macrolepiota procera",
         "Melanoleuca subalpina",
         "Mycena epipterygia",
@@ -2423,6 +2435,7 @@
         "Lycoperdon pyriforme",
         "Lyophyllum connatum",
         "Lyophyllum decastes",
+        "Lyophyllum fumosum",
         "Macrolepiota procera",
         "Melanoleuca subalpina",
         "Mycena epipterygia",
@@ -2618,6 +2631,7 @@
         "Lycoperdon pyriforme",
         "Lyophyllum connatum",
         "Lyophyllum decastes",
+        "Lyophyllum fumosum",
         "Macrolepiota procera",
         "Melanoleuca subalpina",
         "Mycena epipterygia",
@@ -2775,6 +2789,7 @@
         "Lycoperdon pyriforme",
         "Lyophyllum connatum",
         "Lyophyllum decastes",
+        "Lyophyllum fumosum",
         "Macrolepiota procera",
         "Melanoleuca subalpina",
         "Mycena epipterygia",

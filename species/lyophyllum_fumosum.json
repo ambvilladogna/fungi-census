@@ -1,9 +1,9 @@
 {
-  "nomeCompleto": "Lyophyllum decastes",
-  "autore": "(Fr.) Singer 1951",
+  "nomeCompleto": "Lyophyllum fumosum",
+  "autore": "(Pers.) P.D. Orton 1960",
   "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Lyophyllaceae",
-  "nomeCorrente": null,
-  "autoreCorrente": null,
+  "nomeCorrente": "Lyophyllum decastes",
+  "autoreCorrente": "(Fr.) Singer 1951",
   "campioniRaccolti": [
     {
       "collectionDate": "2026-09-19",

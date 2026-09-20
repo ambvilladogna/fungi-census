@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-19",
+      "collector": "Pierino Bigoni",
+      "locality": "M.Poieto loc.Cà dè Spì",
+      "localityCoordinates": "",
+      "habitat": "Bosco misto di latifoglie",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-09-18",
       "collector": "Pierino Bigoni",
       "locality": "Bosgarina",
@@ -108,7 +116,7 @@
         "ago": 3
       },
       {
-        "set": 5
+        "set": 6
       },
       {
         "ott": 1
@@ -122,8 +130,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 9,
-    "campioniRaccolti": 9,
+    "totaleCampioni": 10,
+    "campioniRaccolti": 10,
     "campioniExsiccata": 0
   }
 }

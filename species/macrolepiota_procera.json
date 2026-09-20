@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-19",
+      "collector": "Pierino Bigoni",
+      "locality": "M.Poieto loc.Cà dè Spì",
+      "localityCoordinates": "",
+      "habitat": "Pascolo",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-09-15",
       "collector": "Pierino Bigoni",
       "locality": "Strada per Colle Palazzo, Ave, Ardesio, Bergamo",
@@ -212,7 +220,7 @@
         "ago": 6
       },
       {
-        "set": 3
+        "set": 4
       },
       {
         "ott": 2
@@ -226,8 +234,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 22,
-    "campioniRaccolti": 22,
+    "totaleCampioni": 23,
+    "campioniRaccolti": 23,
     "campioniExsiccata": 0
   }
 }

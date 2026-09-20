@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-19T00:13:59.035Z",
-  "totalSpecies": 545,
-  "totalSamples": 1591,
+  "generatedAt": "2026-09-20T00:14:20.315Z",
+  "totalSpecies": 548,
+  "totalSamples": 1610,
   "species": [
     {
       "genus": "Abortiporus",
@@ -2542,6 +2542,15 @@
       "authority": "(Fr.) Singer 1951"
     },
     {
+      "genus": "Lyophyllum",
+      "species": "fumosum",
+      "fullName": "Lyophyllum fumosum",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Lyophyllaceae",
+      "authority": "(Pers.) P.D. Orton 1960",
+      "currentName": "Lyophyllum decastes",
+      "currentAuthority": "(Fr.) Singer 1951"
+    },
+    {
       "genus": "Macrolepiota",
       "species": "konradii",
       "fullName": "Macrolepiota konradii",
@@ -2876,6 +2885,13 @@
       "authority": "(Batsch) Fr. 1838",
       "currentName": "Tapinella atrotomentosa",
       "currentAuthority": "(Batsch) Šutara 1992"
+    },
+    {
+      "genus": "Paxillus",
+      "species": "filamentosus",
+      "fullName": "Paxillus filamentosus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Paxillaceae",
+      "authority": "(Scop.) Fr. 1838"
     },
     {
       "genus": "Paxillus",
@@ -4102,6 +4118,15 @@
       "fullName": "Xeromphalina campanella",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Xeromphalinaceae",
       "authority": "(Batsch) Kühner & Maire 1934"
+    },
+    {
+      "genus": "Xerula",
+      "species": "badia",
+      "fullName": "Xerula badia",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Physalacriaceae",
+      "authority": "Métrod 1952",
+      "currentName": "Xerula pudens",
+      "currentAuthority": "(Pers.) Singer 1951"
     },
     {
       "genus": "Xylaria",

@@ -1,8 +1,8 @@
 {
   "title": "Pineta della Selva",
-  "generatedAt": "2026-09-17T00:14:19.579Z",
-  "totalSpecies": 122,
-  "totalSamples": 178,
+  "generatedAt": "2026-09-20T00:14:20.560Z",
+  "totalSpecies": 123,
+  "totalSamples": 179,
   "species": [
     {
       "genus": "Amanita",
@@ -634,6 +634,15 @@
       "fullName": "Lyophyllum decastes",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Lyophyllaceae",
       "authority": "(Fr.) Singer 1951"
+    },
+    {
+      "genus": "Lyophyllum",
+      "species": "fumosum",
+      "fullName": "Lyophyllum fumosum",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Lyophyllaceae",
+      "authority": "(Pers.) P.D. Orton 1960",
+      "currentName": "Lyophyllum decastes",
+      "currentAuthority": "(Fr.) Singer 1951"
     },
     {
       "genus": "Macrolepiota",

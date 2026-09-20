@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T00:13:59.288Z",
+  "generatedAt": "2026-09-20T00:14:20.583Z",
   "corpus": [
     {
       "type": "genus",
@@ -1441,7 +1441,8 @@
         "Leucocybe connata",
         "Lyophyllum amariusculum",
         "Lyophyllum connatum",
-        "Lyophyllum decastes"
+        "Lyophyllum decastes",
+        "Lyophyllum fumosum"
       ]
     },
     {
@@ -1634,6 +1635,7 @@
       "value": "Paxillus",
       "matchSpecies": [
         "Paxillus atrotomentosus",
+        "Paxillus filamentosus",
         "Paxillus rubicundulus",
         "Tapinella atrotomentosa"
       ]
@@ -2329,6 +2331,14 @@
       "value": "Xeromphalina",
       "matchSpecies": [
         "Xeromphalina campanella"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Xerula",
+      "matchSpecies": [
+        "Xerula badia",
+        "Xerula pudens"
       ]
     },
     {
@@ -5387,7 +5397,16 @@
       "type": "species",
       "value": "Lyophyllum decastes",
       "matchSpecies": [
-        "Lyophyllum decastes"
+        "Lyophyllum decastes",
+        "Lyophyllum fumosum"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Lyophyllum fumosum",
+      "matchSpecies": [
+        "Lyophyllum decastes",
+        "Lyophyllum fumosum"
       ]
     },
     {
@@ -5769,6 +5788,13 @@
       "matchSpecies": [
         "Paxillus atrotomentosus",
         "Tapinella atrotomentosa"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Paxillus filamentosus",
+      "matchSpecies": [
+        "Paxillus filamentosus"
       ]
     },
     {
@@ -7245,6 +7271,22 @@
     },
     {
       "type": "species",
+      "value": "Xerula badia",
+      "matchSpecies": [
+        "Xerula badia",
+        "Xerula pudens"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Xerula pudens",
+      "matchSpecies": [
+        "Xerula badia",
+        "Xerula pudens"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Xylaria polymorpha",
       "matchSpecies": [
         "Xylaria polymorpha"
@@ -7909,6 +7951,7 @@
         "Calocybe gambosa",
         "Lyophyllum amariusculum",
         "Lyophyllum decastes",
+        "Lyophyllum fumosum",
         "Tephrocybe rancida"
       ]
     },
@@ -8022,6 +8065,7 @@
       "type": "famiglia",
       "value": "Paxillaceae",
       "matchSpecies": [
+        "Paxillus filamentosus",
         "Paxillus rubicundulus"
       ]
     },
@@ -8067,7 +8111,9 @@
         "Hymenopellis radicata",
         "Mucidula mucida",
         "Oudemansiella radicata",
-        "Strobilurus esculentus"
+        "Strobilurus esculentus",
+        "Xerula badia",
+        "Xerula pudens"
       ]
     },
     {
@@ -8723,6 +8769,7 @@
         "Lyophyllum amariusculum",
         "Lyophyllum connatum",
         "Lyophyllum decastes",
+        "Lyophyllum fumosum",
         "Macrolepiota fuliginosa",
         "Macrolepiota konradii",
         "Macrolepiota mastoidea",
@@ -8836,7 +8883,9 @@
         "Utraria umbrina",
         "Vascellum pratense",
         "Volvariella murinella",
-        "Xeromphalina campanella"
+        "Xeromphalina campanella",
+        "Xerula badia",
+        "Xerula pudens"
       ]
     },
     {
@@ -8888,6 +8937,7 @@
         "Leccinum vulpinum",
         "Neoboletus erythropus",
         "Paxillus atrotomentosus",
+        "Paxillus filamentosus",
         "Paxillus rubicundulus",
         "Phylloporus rhodoxanthus",
         "Porphyrellus porphyrosporus",
@@ -9670,6 +9720,7 @@
         "Lyophyllum amariusculum",
         "Lyophyllum connatum",
         "Lyophyllum decastes",
+        "Lyophyllum fumosum",
         "Macrolepiota fuliginosa",
         "Macrolepiota konradii",
         "Macrolepiota mastoidea",
@@ -9719,6 +9770,7 @@
         "Paralepista flaccida",
         "Parasola plicatilis",
         "Paxillus atrotomentosus",
+        "Paxillus filamentosus",
         "Paxillus rubicundulus",
         "Perenniporia fraxinea",
         "Phaeoclavulina abietina",
@@ -9904,7 +9956,9 @@
         "Xerocomus ferrugineus",
         "Xerocomus pruinatus",
         "Xerocomus subtomentosus",
-        "Xeromphalina campanella"
+        "Xeromphalina campanella",
+        "Xerula badia",
+        "Xerula pudens"
       ]
     },
     {
@@ -10459,6 +10513,7 @@
         "Lyophyllum amariusculum",
         "Lyophyllum connatum",
         "Lyophyllum decastes",
+        "Lyophyllum fumosum",
         "Macrolepiota fuliginosa",
         "Macrolepiota konradii",
         "Macrolepiota mastoidea",
@@ -10508,6 +10563,7 @@
         "Paralepista flaccida",
         "Parasola plicatilis",
         "Paxillus atrotomentosus",
+        "Paxillus filamentosus",
         "Paxillus rubicundulus",
         "Perenniporia fraxinea",
         "Phaeoclavulina abietina",
@@ -10695,7 +10751,9 @@
         "Xerocomus ferrugineus",
         "Xerocomus pruinatus",
         "Xerocomus subtomentosus",
-        "Xeromphalina campanella"
+        "Xeromphalina campanella",
+        "Xerula badia",
+        "Xerula pudens"
       ]
     },
     {
@@ -11111,6 +11169,7 @@
         "Lyophyllum amariusculum",
         "Lyophyllum connatum",
         "Lyophyllum decastes",
+        "Lyophyllum fumosum",
         "Macrolepiota fuliginosa",
         "Macrolepiota konradii",
         "Macrolepiota mastoidea",
@@ -11162,6 +11221,7 @@
         "Paralepista flaccida",
         "Parasola plicatilis",
         "Paxillus atrotomentosus",
+        "Paxillus filamentosus",
         "Paxillus rubicundulus",
         "Perenniporia fraxinea",
         "Phaeoclavulina abietina",
@@ -11360,6 +11420,8 @@
         "Xerocomus pruinatus",
         "Xerocomus subtomentosus",
         "Xeromphalina campanella",
+        "Xerula badia",
+        "Xerula pudens",
         "Xylaria polymorpha"
       ]
     },

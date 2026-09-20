@@ -1,7 +1,7 @@
 {
-  "nomeCompleto": "Agaricus campestris",
-  "autore": "L. 1753",
-  "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
+  "nomeCompleto": "Paxillus filamentosus",
+  "autore": "(Scop.) Fr. 1838",
+  "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Paxillaceae",
   "nomeCorrente": null,
   "autoreCorrente": null,
   "campioniRaccolti": [
@@ -10,21 +10,13 @@
       "collector": "Pierino Bigoni",
       "locality": "M.Poieto loc.Cà dè Spì",
       "localityCoordinates": "",
-      "habitat": "Pascolo",
-      "determiner": "Pierino Bigoni"
-    },
-    {
-      "collectionDate": "2026-08-29",
-      "collector": "Pierino Bigoni",
-      "locality": "Contrada Bricconi, Oltressenda Alta",
-      "localityCoordinates": "45.920360, 9.948130",
-      "habitat": "Bosco misto",
+      "habitat": "Bosco rado di betulle",
       "determiner": "Pierino Bigoni"
     }
   ],
   "campioniExsiccata": [],
   "fenologia": {
-    "raccoltaPiuPrecoce": "08-29",
+    "raccoltaPiuPrecoce": "09-19",
     "raccoltaPiuTarda": "09-19",
     "campioniPerMese": [
       {
@@ -49,7 +41,7 @@
         "lug": 0
       },
       {
-        "ago": 1
+        "ago": 0
       },
       {
         "set": 1
@@ -66,8 +58,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 2,
-    "campioniRaccolti": 2,
+    "totaleCampioni": 1,
+    "campioniRaccolti": 1,
     "campioniExsiccata": 0
   }
 }

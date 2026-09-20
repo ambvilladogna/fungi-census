@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-19",
+      "collector": "Pierino Bigoni",
+      "locality": "M.Poieto loc.Cà dè Spì",
+      "localityCoordinates": "",
+      "habitat": "Bosco di faggio",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-09-18",
       "collector": "Pierino Bigoni",
       "locality": "Bosgarina",
@@ -172,7 +180,7 @@
         "ago": 5
       },
       {
-        "set": 7
+        "set": 8
       },
       {
         "ott": 3
@@ -186,8 +194,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 17,
-    "campioniRaccolti": 17,
+    "totaleCampioni": 18,
+    "campioniRaccolti": 18,
     "campioniExsiccata": 0
   }
 }
