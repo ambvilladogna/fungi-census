@@ -6,9 +6,17 @@
   "autoreCorrente": "(Bull.) Quél. 1886",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-20",
+      "collector": "Pierino Bigoni",
+      "locality": "M.Poieto",
+      "localityCoordinates": "45.789451, 9.775260",
+      "habitat": "Rami  vecchi di Laburnum anagyroides",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-09-19",
       "collector": "Pierino Bigoni",
-      "locality": "M.Poieto loc.Cà dè Spì",
+      "locality": "Cà de Spì, Monte Poieto, Gazzaniga",
       "localityCoordinates": "",
       "habitat": "Pianta morta di Laburnum anagyroides",
       "determiner": "Pierino Bigoni"
@@ -132,7 +140,7 @@
         "ago": 0
       },
       {
-        "set": 1
+        "set": 2
       },
       {
         "ott": 1
@@ -146,8 +154,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 12,
-    "campioniRaccolti": 12,
+    "totaleCampioni": 13,
+    "campioniRaccolti": 13,
     "campioniExsiccata": 0
   }
 }

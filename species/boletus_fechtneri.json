@@ -6,9 +6,17 @@
   "autoreCorrente": "(Velen.) D. Arora & J.L. Frank 2014",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-20",
+      "collector": "Pierino Bigoni",
+      "locality": "M.Poieto",
+      "localityCoordinates": "45.789451, 9.775260",
+      "habitat": "Margine del bosco misto",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-09-19",
       "collector": "Pierino Bigoni",
-      "locality": "M.Poieto loc.Cà dè Spì",
+      "locality": "Cà de Spì, Monte Poieto, Gazzaniga",
       "localityCoordinates": "",
       "habitat": "Bosco rado di latifoglie",
       "determiner": "Pierino Bigoni"
@@ -33,7 +41,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "08-02",
-    "raccoltaPiuTarda": "09-19",
+    "raccoltaPiuTarda": "09-20",
     "campioniPerMese": [
       {
         "gen": 0
@@ -60,7 +68,7 @@
         "ago": 1
       },
       {
-        "set": 2
+        "set": 3
       },
       {
         "ott": 0
@@ -74,8 +82,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 3,
-    "campioniRaccolti": 3,
+    "totaleCampioni": 4,
+    "campioniRaccolti": 4,
     "campioniExsiccata": 0
   }
 }

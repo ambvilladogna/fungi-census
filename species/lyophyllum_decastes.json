@@ -6,9 +6,17 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-20",
+      "collector": "Pierino Bigoni",
+      "locality": "M.Poieto",
+      "localityCoordinates": "45.789451, 9.775260",
+      "habitat": "Faggeta",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-09-19",
       "collector": "Pierino Bigoni",
-      "locality": "M.Poieto loc.Cà dè Spì",
+      "locality": "Cà de Spì, Monte Poieto, Gazzaniga",
       "localityCoordinates": "",
       "habitat": "Bosco rado di latifoglie",
       "determiner": "Pierino Bigoni"
@@ -16,7 +24,7 @@
     {
       "collectionDate": "2026-09-19",
       "collector": "Pierino Bigoni",
-      "locality": "M.Poieto loc.Cà dè Spì",
+      "locality": "Cà de Spì, Monte Poieto, Gazzaniga",
       "localityCoordinates": "",
       "habitat": "Bosco rado di latifoglie",
       "determiner": "Pierino Bigoni"
@@ -84,7 +92,7 @@
         "ago": 0
       },
       {
-        "set": 4
+        "set": 5
       },
       {
         "ott": 0
@@ -98,8 +106,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 6,
-    "campioniRaccolti": 6,
+    "totaleCampioni": 7,
+    "campioniRaccolti": 7,
     "campioniExsiccata": 0
   }
 }

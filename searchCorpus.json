@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T00:14:20.583Z",
+  "generatedAt": "2026-09-20T18:50:27.282Z",
   "corpus": [
     {
       "type": "genus",
@@ -1992,6 +1992,7 @@
         "Russula subfoetens",
         "Russula vesca",
         "Russula violeipes",
+        "Russula violeipes f. citrina",
         "Russula virescens",
         "Russula xerampelina"
       ]
@@ -6668,6 +6669,13 @@
     },
     {
       "type": "species",
+      "value": "Russula violeipes f. citrina",
+      "matchSpecies": [
+        "Russula violeipes f. citrina"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Russula virescens",
       "matchSpecies": [
         "Russula virescens"
@@ -8320,6 +8328,7 @@
         "Russula subfoetens",
         "Russula vesca",
         "Russula violeipes",
+        "Russula violeipes f. citrina",
         "Russula virescens",
         "Russula xerampelina"
       ]
@@ -9293,6 +9302,7 @@
         "Russula subfoetens",
         "Russula vesca",
         "Russula violeipes",
+        "Russula violeipes f. citrina",
         "Russula virescens",
         "Russula xerampelina",
         "Stereum hirsutum"
@@ -9888,6 +9898,7 @@
         "Russula subfoetens",
         "Russula vesca",
         "Russula violeipes",
+        "Russula violeipes f. citrina",
         "Russula virescens",
         "Russula xerampelina",
         "Sarcodon imbricatus",
@@ -10681,6 +10692,7 @@
         "Russula subfoetens",
         "Russula vesca",
         "Russula violeipes",
+        "Russula violeipes f. citrina",
         "Russula virescens",
         "Russula xerampelina",
         "Sarcodon imbricatus",
@@ -11340,6 +11352,7 @@
         "Russula subfoetens",
         "Russula vesca",
         "Russula violeipes",
+        "Russula violeipes f. citrina",
         "Russula virescens",
         "Russula xerampelina",
         "Rutstroemia echinophila",

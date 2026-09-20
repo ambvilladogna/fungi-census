@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T00:14:20.593Z",
+  "generatedAt": "2026-09-20T18:50:27.298Z",
   "corpus": [
     {
       "type": "genus",
@@ -559,7 +559,6 @@
         "Russula caerulea",
         "Russula camarophylla",
         "Russula chloroides",
-        "Russula cyanoxantha",
         "Russula grata",
         "Russula integra",
         "Russula laurocerasi",
@@ -1581,13 +1580,6 @@
     },
     {
       "type": "species",
-      "value": "Russula cyanoxantha",
-      "matchSpecies": [
-        "Russula cyanoxantha"
-      ]
-    },
-    {
-      "type": "species",
       "value": "Russula grata",
       "matchSpecies": [
         "Russula grata",
@@ -2070,7 +2062,6 @@
         "Russula caerulea",
         "Russula camarophylla",
         "Russula chloroides",
-        "Russula cyanoxantha",
         "Russula grata",
         "Russula integra",
         "Russula laurocerasi",
@@ -2324,7 +2315,6 @@
         "Russula caerulea",
         "Russula camarophylla",
         "Russula chloroides",
-        "Russula cyanoxantha",
         "Russula grata",
         "Russula integra",
         "Russula laurocerasi",
@@ -2462,7 +2452,6 @@
         "Russula caerulea",
         "Russula camarophylla",
         "Russula chloroides",
-        "Russula cyanoxantha",
         "Russula grata",
         "Russula integra",
         "Russula laurocerasi",
@@ -2658,7 +2647,6 @@
         "Russula caerulea",
         "Russula camarophylla",
         "Russula chloroides",
-        "Russula cyanoxantha",
         "Russula grata",
         "Russula integra",
         "Russula laurocerasi",
@@ -2816,7 +2804,6 @@
         "Russula caerulea",
         "Russula camarophylla",
         "Russula chloroides",
-        "Russula cyanoxantha",
         "Russula grata",
         "Russula integra",
         "Russula laurocerasi",

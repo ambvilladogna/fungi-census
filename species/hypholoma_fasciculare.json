@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-20",
+      "collector": "Pietro Centenari",
+      "locality": "Strada Falecchio - Camasone - San Fermo, Songavazzo, Bergamo",
+      "localityCoordinates": "45.867170, 10.024250",
+      "habitat": "Su pigna di abete rosso",
+      "determiner": "Pietro Centenari"
+    },
+    {
       "collectionDate": "2026-09-14",
       "collector": "Sergio Lonati",
       "locality": "Spiazzi, Gromo",
@@ -132,7 +140,7 @@
         "ago": 2
       },
       {
-        "set": 2
+        "set": 3
       },
       {
         "ott": 3
@@ -146,8 +154,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 12,
-    "campioniRaccolti": 12,
+    "totaleCampioni": 13,
+    "campioniRaccolti": 13,
     "campioniExsiccata": 0
   }
 }

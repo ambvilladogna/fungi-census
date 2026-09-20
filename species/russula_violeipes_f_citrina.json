@@ -1,31 +1,23 @@
 {
-  "nomeCompleto": "Lactarius torminosus",
-  "autore": "(Schaeff.) Pers. 1797",
+  "nomeCompleto": "Russula violeipes f. citrina",
+  "autore": "(Quél.) Maire 1910",
   "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
   "nomeCorrente": null,
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
-      "collectionDate": "2026-09-19",
-      "collector": "Pierino Bigoni",
-      "locality": "Cà de Spì, Monte Poieto, Gazzaniga",
-      "localityCoordinates": "",
-      "habitat": "Bosco di betulle",
-      "determiner": "Pierino Bigoni"
-    },
-    {
-      "collectionDate": "2025-09-15",
-      "collector": "Pierino Bigoni",
-      "locality": "Zenier, Rovetta",
-      "localityCoordinates": "45.898619, 9.984853",
-      "habitat": "Betulla",
-      "determiner": "Pierino Bigoni"
+      "collectionDate": "2026-09-20",
+      "collector": "Pietro Centenari",
+      "locality": "Strada Falecchio - Camasone - San Fermo, Songavazzo, Bergamo",
+      "localityCoordinates": "45.869303, 10.020553",
+      "habitat": "Bosco misto",
+      "determiner": "Pietro Centenari"
     }
   ],
   "campioniExsiccata": [],
   "fenologia": {
-    "raccoltaPiuPrecoce": "09-15",
-    "raccoltaPiuTarda": "09-19",
+    "raccoltaPiuPrecoce": "09-20",
+    "raccoltaPiuTarda": "09-20",
     "campioniPerMese": [
       {
         "gen": 0
@@ -52,7 +44,7 @@
         "ago": 0
       },
       {
-        "set": 2
+        "set": 1
       },
       {
         "ott": 0
@@ -66,8 +58,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 2,
-    "campioniRaccolti": 2,
+    "totaleCampioni": 1,
+    "campioniRaccolti": 1,
     "campioniExsiccata": 0
   }
 }

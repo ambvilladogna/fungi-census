@@ -6,6 +6,14 @@
   "autoreCorrente": "(DC.) Fr. 1828",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-20",
+      "collector": "Pietro Centenari",
+      "locality": "La Cremonella, Strada Falecchio - Camasone - San Fermo, Cerete, Bergamo",
+      "localityCoordinates": "45.858770, 10.028745",
+      "habitat": "A terra su pacciame",
+      "determiner": "Pietro Centenari"
+    },
+    {
       "collectionDate": "2026-09-14",
       "collector": "Sergio Lonati",
       "locality": "Spiazzi, Gromo",
@@ -108,7 +116,7 @@
         "ago": 4
       },
       {
-        "set": 4
+        "set": 5
       },
       {
         "ott": 0
@@ -122,8 +130,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 9,
-    "campioniRaccolti": 9,
+    "totaleCampioni": 10,
+    "campioniRaccolti": 10,
     "campioniExsiccata": 0
   }
 }

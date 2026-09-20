@@ -6,10 +6,18 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-20",
+      "collector": "Pietro Centenari",
+      "locality": "Strada Falecchio - Camasone - San Fermo, Songavazzo, Bergamo",
+      "localityCoordinates": "45.877455, 10.009258",
+      "habitat": "Abete rosso",
+      "determiner": "Pietro Centenari"
+    },
+    {
       "collectionDate": "2026-09-18",
       "collector": "Pierino Bigoni",
-      "locality": "Bosgarina",
-      "localityCoordinates": "",
+      "locality": "Busgarina, Clusone",
+      "localityCoordinates": "45.873024, 9.916009",
       "habitat": "Bosco misto di castagno e latifoglie",
       "determiner": "Pierino Bigoni"
     },
@@ -196,19 +204,11 @@
       "localityCoordinates": "46.034193, 10.005855",
       "habitat": "Faggio",
       "determiner": "Fabio Locatelli"
-    },
-    {
-      "collectionDate": "2025-06-16",
-      "collector": "Pierino Bigoni",
-      "locality": "Pineta della Selva, Clusone",
-      "localityCoordinates": "45.88196, 9.91806",
-      "habitat": "Bosco misto abete e pino silvestre",
-      "determiner": "Pierino Bigoni"
     }
   ],
   "campioniExsiccata": [],
   "fenologia": {
-    "raccoltaPiuPrecoce": "06-16",
+    "raccoltaPiuPrecoce": "06-25",
     "raccoltaPiuTarda": "10-02",
     "campioniPerMese": [
       {
@@ -227,7 +227,7 @@
         "mag": 0
       },
       {
-        "giu": 4
+        "giu": 3
       },
       {
         "lug": 8
@@ -236,7 +236,7 @@
         "ago": 8
       },
       {
-        "set": 4
+        "set": 5
       },
       {
         "ott": 1

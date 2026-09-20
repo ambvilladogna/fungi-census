@@ -1,8 +1,8 @@
 {
   "title": "Pineta della Selva",
-  "generatedAt": "2026-09-20T00:14:20.560Z",
-  "totalSpecies": 123,
-  "totalSamples": 179,
+  "generatedAt": "2026-09-20T18:50:27.261Z",
+  "totalSpecies": 122,
+  "totalSamples": 178,
   "species": [
     {
       "genus": "Amanita",
@@ -793,13 +793,6 @@
       "fullName": "Russula chloroides",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
       "authority": "(Krombh.) Bres. 1900"
-    },
-    {
-      "genus": "Russula",
-      "species": "cyanoxantha",
-      "fullName": "Russula cyanoxantha",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
-      "authority": "(Schaeff.) Fr. 1863"
     },
     {
       "genus": "Russula",

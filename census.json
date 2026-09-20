@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-20T00:14:20.315Z",
-  "totalSpecies": 548,
-  "totalSamples": 1610,
+  "generatedAt": "2026-09-20T18:50:26.977Z",
+  "totalSpecies": 549,
+  "totalSamples": 1625,
   "species": [
     {
       "genus": "Abortiporus",
@@ -3625,6 +3625,13 @@
       "fullName": "Russula violeipes",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
       "authority": "Quél. 1898"
+    },
+    {
+      "genus": "Russula",
+      "species": "violeipes f. citrina",
+      "fullName": "Russula violeipes f. citrina",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
+      "authority": "(Quél.) Maire 1910"
     },
     {
       "genus": "Russula",
