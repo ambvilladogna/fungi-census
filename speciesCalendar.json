@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T18:50:27.091Z",
+  "generatedAt": "2026-09-20T19:07:24.188Z",
   "totalSpecies": 549,
   "totalSamples": 1794,
   "species": [
@@ -3019,7 +3019,7 @@
         "collectionDate": "2026-09-19",
         "collector": "Pierino Bigoni",
         "locality": "Cà de Spì, Monte Poieto, Gazzaniga",
-        "localityCoordinates": "",
+        "localityCoordinates": "45.801245, 9.788662",
         "habitat": "Pascolo",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -4717,7 +4717,7 @@
         "collectionDate": "2026-09-19",
         "collector": "Pierino Bigoni",
         "locality": "Cà de Spì, Monte Poieto, Gazzaniga",
-        "localityCoordinates": "",
+        "localityCoordinates": "45.801245, 9.788662",
         "habitat": "Pascolo",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -5609,7 +5609,7 @@
         "collectionDate": "2026-09-19",
         "collector": "Pierino Bigoni",
         "locality": "Cà de Spì, Monte Poieto, Gazzaniga",
-        "localityCoordinates": "",
+        "localityCoordinates": "45.801245, 9.788662",
         "habitat": "Bosco misto di latifoglie",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -5653,7 +5653,7 @@
         "collectionDate": "2026-09-19",
         "collector": "Pierino Bigoni",
         "locality": "Cà de Spì, Monte Poieto, Gazzaniga",
-        "localityCoordinates": "",
+        "localityCoordinates": "45.801245, 9.788662",
         "habitat": "Bosco misto di latifoglie",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -13581,7 +13581,7 @@
         "collectionDate": "2026-09-19",
         "collector": "Pierino Bigoni",
         "locality": "Cà de Spì, Monte Poieto, Gazzaniga",
-        "localityCoordinates": "",
+        "localityCoordinates": "45.801245, 9.788662",
         "habitat": "Pascolo",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -19865,7 +19865,7 @@
         "collectionDate": "2026-09-19",
         "collector": "Pierino Bigoni",
         "locality": "Cà de Spì, Monte Poieto, Gazzaniga",
-        "localityCoordinates": "",
+        "localityCoordinates": "45.801245, 9.788662",
         "habitat": "Bosco di betulle",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -20838,7 +20838,7 @@
         "collectionDate": "2026-09-19",
         "collector": "Pierino Bigoni",
         "locality": "Cà de Spì, Monte Poieto, Gazzaniga",
-        "localityCoordinates": "",
+        "localityCoordinates": "45.801245, 9.788662",
         "habitat": "Bosco rado di betulle",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -20849,7 +20849,7 @@
         "collectionDate": "2026-09-19",
         "collector": "Pierino Bigoni",
         "locality": "Cà de Spì, Monte Poieto, Gazzaniga",
-        "localityCoordinates": "",
+        "localityCoordinates": "45.801245, 9.788662",
         "habitat": "Bosco rado di betulle",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -20928,7 +20928,7 @@
         "collectionDate": "2026-09-19",
         "collector": "Pierino Bigoni",
         "locality": "Cà de Spì, Monte Poieto, Gazzaniga",
-        "localityCoordinates": "",
+        "localityCoordinates": "45.801245, 9.788662",
         "habitat": "Bosco rado di latifoglie",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -20939,7 +20939,7 @@
         "collectionDate": "2026-09-19",
         "collector": "Pierino Bigoni",
         "locality": "Cà de Spì, Monte Poieto, Gazzaniga",
-        "localityCoordinates": "",
+        "localityCoordinates": "45.801245, 9.788662",
         "habitat": "Bosco rado di latifoglie",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
