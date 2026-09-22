@@ -6,18 +6,18 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
-      "collectionDate": "2025-09-04",
-      "collector": "Pietro Centenari",
-      "locality": "Cima Trifone, Songavazzo",
-      "localityCoordinates": "45.863856, 10.029163",
+      "collectionDate": "2026-09-20",
+      "collector": "Fabio Locatelli",
+      "locality": "Valcanale, Ardesio",
+      "localityCoordinates": "45.950207, 9.858819",
       "habitat": "Bosco misto",
-      "determiner": "Pietro Centenari"
+      "determiner": "Pierino Bigoni"
     }
   ],
   "campioniExsiccata": [],
   "fenologia": {
-    "raccoltaPiuPrecoce": "09-04",
-    "raccoltaPiuTarda": "09-04",
+    "raccoltaPiuPrecoce": "09-20",
+    "raccoltaPiuTarda": "09-20",
     "campioniPerMese": [
       {
         "gen": 0

@@ -6,6 +6,14 @@
   "autoreCorrente": "(Kallenb.) Mikšík 2017",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-20",
+      "collector": "Fabio Locatelli",
+      "locality": "Busgarina, Clusone",
+      "localityCoordinates": "45.873024, 9.916009",
+      "habitat": "Carpino",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-09-13",
       "collector": "Pierino Bigoni",
       "locality": "Piazza di Golla, Premolo",
@@ -25,7 +33,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "09-05",
-    "raccoltaPiuTarda": "09-13",
+    "raccoltaPiuTarda": "09-20",
     "campioniPerMese": [
       {
         "gen": 0
@@ -52,7 +60,7 @@
         "ago": 0
       },
       {
-        "set": 2
+        "set": 3
       },
       {
         "ott": 0
@@ -66,8 +74,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 2,
-    "campioniRaccolti": 2,
+    "totaleCampioni": 3,
+    "campioniRaccolti": 3,
     "campioniExsiccata": 0
   }
 }

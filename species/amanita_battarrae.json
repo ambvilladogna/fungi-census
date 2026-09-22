@@ -1,9 +1,9 @@
 {
-  "nomeCompleto": "Amanita umbrinolutea",
-  "autore": "(Secr. ex Gillet) Bataille 1910",
+  "nomeCompleto": "Amanita battarrae",
+  "autore": "(Boud.) Bon 1985",
   "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
-  "nomeCorrente": "Amanita battarrae",
-  "autoreCorrente": "(Boud.) Bon 1985",
+  "nomeCorrente": null,
+  "autoreCorrente": null,
   "campioniRaccolti": [
     {
       "collectionDate": "2026-09-20",

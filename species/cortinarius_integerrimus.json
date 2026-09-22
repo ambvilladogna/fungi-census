@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-20",
+      "collector": "Fabio Locatelli",
+      "locality": "Valcanale, Ardesio",
+      "localityCoordinates": "45.950207, 9.858819",
+      "habitat": "Bosco misto",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-08-26",
       "collector": "Fabio Locatelli",
       "locality": "Cima Bassa, Schilpario",
@@ -60,7 +68,7 @@
         "ago": 2
       },
       {
-        "set": 0
+        "set": 1
       },
       {
         "ott": 1
@@ -74,8 +82,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 3,
-    "campioniRaccolti": 3,
+    "totaleCampioni": 4,
+    "campioniRaccolti": 4,
     "campioniExsiccata": 0
   }
 }

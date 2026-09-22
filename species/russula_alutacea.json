@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-21",
+      "collector": "Pietro Centenari",
+      "locality": "Strada Falecchio - Camasone - San Fermo, Songavazzo, Bergamo",
+      "localityCoordinates": "45.853684, 10.034635",
+      "habitat": "Faggio",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-09-13",
       "collector": "Pierino Bigoni",
       "locality": "Piazza di Golla, Premolo",
@@ -41,7 +49,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "06-27",
-    "raccoltaPiuTarda": "09-13",
+    "raccoltaPiuTarda": "09-21",
     "campioniPerMese": [
       {
         "gen": 0
@@ -68,7 +76,7 @@
         "ago": 1
       },
       {
-        "set": 1
+        "set": 2
       },
       {
         "ott": 0
@@ -82,8 +90,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 4,
-    "campioniRaccolti": 4,
+    "totaleCampioni": 5,
+    "campioniRaccolti": 5,
     "campioniExsiccata": 0
   }
 }

@@ -6,6 +6,14 @@
   "autoreCorrente": "(Alb. & Schwein.) Singer 1939",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-20",
+      "collector": "Fabio Locatelli",
+      "locality": "Valcanale, Ardesio",
+      "localityCoordinates": "45.950207, 9.858819",
+      "habitat": "Bosco misto",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-09-13",
       "collector": "Pierino Bigoni",
       "locality": "Piazza di Golla, Premolo",
@@ -76,7 +84,7 @@
         "ago": 3
       },
       {
-        "set": 2
+        "set": 3
       },
       {
         "ott": 0
@@ -90,8 +98,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 5,
-    "campioniRaccolti": 5,
+    "totaleCampioni": 6,
+    "campioniRaccolti": 6,
     "campioniExsiccata": 0
   }
 }

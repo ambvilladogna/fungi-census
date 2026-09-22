@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-20",
+      "collector": "Pietro Centenari",
+      "locality": "Camasone, Songavazzo, Bergamo",
+      "localityCoordinates": "45.867870, 10.020890",
+      "habitat": "Abete rosso",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-08-31",
       "collector": "Pierino Bigoni",
       "locality": "Spiazzi, Gromo",
@@ -60,7 +68,7 @@
         "ago": 1
       },
       {
-        "set": 0
+        "set": 1
       },
       {
         "ott": 1
@@ -74,8 +82,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 3,
-    "campioniRaccolti": 3,
+    "totaleCampioni": 4,
+    "campioniRaccolti": 4,
     "campioniExsiccata": 0
   }
 }

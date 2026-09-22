@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-20",
+      "collector": "Fabio Locatelli",
+      "locality": "Busgarina, Clusone",
+      "localityCoordinates": "45.873024, 9.916009",
+      "habitat": "Betulla",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-09-06",
       "collector": "Pietro Centenari",
       "locality": "Blum, Rovetta",
@@ -100,7 +108,7 @@
         "ago": 2
       },
       {
-        "set": 4
+        "set": 5
       },
       {
         "ott": 1
@@ -114,8 +122,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 8,
-    "campioniRaccolti": 8,
+    "totaleCampioni": 9,
+    "campioniRaccolti": 9,
     "campioniExsiccata": 0
   }
 }

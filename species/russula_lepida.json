@@ -6,6 +6,14 @@
   "autoreCorrente": "Pers. 1796",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-20",
+      "collector": "Fabio Locatelli",
+      "locality": "Busgarina, Clusone",
+      "localityCoordinates": "45.873024, 9.916009",
+      "habitat": "Castagno",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2025-09-29",
       "collector": "Fabio Rossi",
       "locality": "Valcanale, Ardesio",
@@ -68,7 +76,7 @@
         "ago": 2
       },
       {
-        "set": 1
+        "set": 2
       },
       {
         "ott": 0
@@ -82,8 +90,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 4,
-    "campioniRaccolti": 4,
+    "totaleCampioni": 5,
+    "campioniRaccolti": 5,
     "campioniExsiccata": 0
   }
 }

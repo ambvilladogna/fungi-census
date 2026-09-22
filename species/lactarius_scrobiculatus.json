@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-20",
+      "collector": "Fabio Locatelli",
+      "locality": "Valcanale, Ardesio",
+      "localityCoordinates": "45.950207, 9.858819",
+      "habitat": "Bosco misto",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-09-15",
       "collector": "Pierino Bigoni",
       "locality": "Strada per Colle Palazzo, Ave, Ardesio, Bergamo",
@@ -92,7 +100,7 @@
         "ago": 2
       },
       {
-        "set": 4
+        "set": 5
       },
       {
         "ott": 1
@@ -106,8 +114,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 7,
-    "campioniRaccolti": 7,
+    "totaleCampioni": 8,
+    "campioniRaccolti": 8,
     "campioniExsiccata": 0
   }
 }

@@ -1,30 +1,22 @@
 {
-  "nomeCompleto": "Amanita umbrinolutea",
-  "autore": "(Secr. ex Gillet) Bataille 1910",
-  "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
-  "nomeCorrente": "Amanita battarrae",
-  "autoreCorrente": "(Boud.) Bon 1985",
+  "nomeCompleto": "Paxillus involutus",
+  "autore": "(Batsch) Fr. 1838",
+  "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Paxillaceae",
+  "nomeCorrente": null,
+  "autoreCorrente": null,
   "campioniRaccolti": [
     {
       "collectionDate": "2026-09-20",
       "collector": "Fabio Locatelli",
       "locality": "Busgarina, Clusone",
       "localityCoordinates": "45.873024, 9.916009",
-      "habitat": "Bosco misto",
+      "habitat": "Pino",
       "determiner": "Pierino Bigoni"
-    },
-    {
-      "collectionDate": "2026-08-09",
-      "collector": "Fabio Locatelli",
-      "locality": "Spiazzi, Gromo",
-      "localityCoordinates": "45.970802, 9.963785",
-      "habitat": "Abete rosso",
-      "determiner": "Fabio Locatelli"
     }
   ],
   "campioniExsiccata": [],
   "fenologia": {
-    "raccoltaPiuPrecoce": "08-09",
+    "raccoltaPiuPrecoce": "09-20",
     "raccoltaPiuTarda": "09-20",
     "campioniPerMese": [
       {
@@ -49,7 +41,7 @@
         "lug": 0
       },
       {
-        "ago": 1
+        "ago": 0
       },
       {
         "set": 1
@@ -66,8 +58,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 2,
-    "campioniRaccolti": 2,
+    "totaleCampioni": 1,
+    "campioniRaccolti": 1,
     "campioniExsiccata": 0
   }
 }

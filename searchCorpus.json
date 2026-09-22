@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T18:50:27.282Z",
+  "generatedAt": "2026-09-22T00:14:10.976Z",
   "corpus": [
     {
       "type": "genus",
@@ -60,6 +60,7 @@
         "Amanita battarrae",
         "Amanita brunneofuliginea",
         "Amanita citrina",
+        "Amanita crocea",
         "Amanita excelsa",
         "Amanita excelsa var. excelsa",
         "Amanita excelsa var. spissa",
@@ -920,7 +921,8 @@
       "type": "genus",
       "value": "Gomphidius",
       "matchSpecies": [
-        "Gomphidius glutinosus"
+        "Gomphidius glutinosus",
+        "Gomphidius maculatus"
       ]
     },
     {
@@ -1636,6 +1638,7 @@
       "matchSpecies": [
         "Paxillus atrotomentosus",
         "Paxillus filamentosus",
+        "Paxillus involutus",
         "Paxillus rubicundulus",
         "Tapinella atrotomentosa"
       ]
@@ -1954,6 +1957,7 @@
         "Russula chloroides",
         "Russula claroflava",
         "Russula cyanoxantha",
+        "Russula cyanoxantha f. peltereaui",
         "Russula delica",
         "Russula emetica",
         "Russula fageticola",
@@ -1988,6 +1992,7 @@
         "Russula romellii",
         "Russula rosea",
         "Russula rubroalba",
+        "Russula sanguinea",
         "Russula solaris",
         "Russula subfoetens",
         "Russula vesca",
@@ -2504,6 +2509,13 @@
       "value": "Amanita citrina",
       "matchSpecies": [
         "Amanita citrina"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Amanita crocea",
+      "matchSpecies": [
+        "Amanita crocea"
       ]
     },
     {
@@ -4320,6 +4332,13 @@
     },
     {
       "type": "species",
+      "value": "Gomphidius maculatus",
+      "matchSpecies": [
+        "Gomphidius maculatus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Gomphus clavatus",
       "matchSpecies": [
         "Gomphus clavatus"
@@ -5800,6 +5819,13 @@
     },
     {
       "type": "species",
+      "value": "Paxillus involutus",
+      "matchSpecies": [
+        "Paxillus involutus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Paxillus rubicundulus",
       "matchSpecies": [
         "Paxillus rubicundulus"
@@ -6390,6 +6416,13 @@
     },
     {
       "type": "species",
+      "value": "Russula cyanoxantha f. peltereaui",
+      "matchSpecies": [
+        "Russula cyanoxantha f. peltereaui"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Russula delica",
       "matchSpecies": [
         "Russula delica"
@@ -6637,6 +6670,13 @@
       "value": "Russula rubroalba",
       "matchSpecies": [
         "Russula rubroalba"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Russula sanguinea",
+      "matchSpecies": [
+        "Russula sanguinea"
       ]
     },
     {
@@ -7363,6 +7403,7 @@
         "Amanita battarrae",
         "Amanita brunneofuliginea",
         "Amanita citrina",
+        "Amanita crocea",
         "Amanita excelsa",
         "Amanita excelsa var. excelsa",
         "Amanita excelsa var. spissa",
@@ -7744,7 +7785,8 @@
       "value": "Gomphidiaceae",
       "matchSpecies": [
         "Chroogomphus rutilus",
-        "Gomphidius glutinosus"
+        "Gomphidius glutinosus",
+        "Gomphidius maculatus"
       ]
     },
     {
@@ -8074,6 +8116,7 @@
       "value": "Paxillaceae",
       "matchSpecies": [
         "Paxillus filamentosus",
+        "Paxillus involutus",
         "Paxillus rubicundulus"
       ]
     },
@@ -8290,6 +8333,7 @@
         "Russula chloroides",
         "Russula claroflava",
         "Russula cyanoxantha",
+        "Russula cyanoxantha f. peltereaui",
         "Russula delica",
         "Russula emetica",
         "Russula fageticola",
@@ -8324,6 +8368,7 @@
         "Russula romellii",
         "Russula rosea",
         "Russula rubroalba",
+        "Russula sanguinea",
         "Russula solaris",
         "Russula subfoetens",
         "Russula vesca",
@@ -8536,6 +8581,7 @@
         "Amanita battarrae",
         "Amanita brunneofuliginea",
         "Amanita citrina",
+        "Amanita crocea",
         "Amanita excelsa",
         "Amanita excelsa var. excelsa",
         "Amanita excelsa var. spissa",
@@ -8935,6 +8981,7 @@
         "Chroogomphus rutilus",
         "Cyanoboletus pulverulentus",
         "Gomphidius glutinosus",
+        "Gomphidius maculatus",
         "Gyroporus castaneus",
         "Hemileccinum depilatum",
         "Imleria badia",
@@ -8947,6 +8994,7 @@
         "Neoboletus erythropus",
         "Paxillus atrotomentosus",
         "Paxillus filamentosus",
+        "Paxillus involutus",
         "Paxillus rubicundulus",
         "Phylloporus rhodoxanthus",
         "Porphyrellus porphyrosporus",
@@ -9264,6 +9312,7 @@
         "Russula chloroides",
         "Russula claroflava",
         "Russula cyanoxantha",
+        "Russula cyanoxantha f. peltereaui",
         "Russula delica",
         "Russula emetica",
         "Russula fageticola",
@@ -9298,6 +9347,7 @@
         "Russula romellii",
         "Russula rosea",
         "Russula rubroalba",
+        "Russula sanguinea",
         "Russula solaris",
         "Russula subfoetens",
         "Russula vesca",
@@ -9374,6 +9424,7 @@
         "Amanita battarrae",
         "Amanita brunneofuliginea",
         "Amanita citrina",
+        "Amanita crocea",
         "Amanita excelsa",
         "Amanita excelsa var. excelsa",
         "Amanita excelsa var. spissa",
@@ -9596,6 +9647,7 @@
         "Gloeophyllum odoratum",
         "Gloeophyllum sepiarium",
         "Gomphidius glutinosus",
+        "Gomphidius maculatus",
         "Gomphus clavatus",
         "Guepinia helvelloides",
         "Gymnopilus penetrans",
@@ -9781,6 +9833,7 @@
         "Parasola plicatilis",
         "Paxillus atrotomentosus",
         "Paxillus filamentosus",
+        "Paxillus involutus",
         "Paxillus rubicundulus",
         "Perenniporia fraxinea",
         "Phaeoclavulina abietina",
@@ -9860,6 +9913,7 @@
         "Russula chloroides",
         "Russula claroflava",
         "Russula cyanoxantha",
+        "Russula cyanoxantha f. peltereaui",
         "Russula delica",
         "Russula emetica",
         "Russula fageticola",
@@ -9894,6 +9948,7 @@
         "Russula romellii",
         "Russula rosea",
         "Russula rubroalba",
+        "Russula sanguinea",
         "Russula solaris",
         "Russula subfoetens",
         "Russula vesca",
@@ -10164,6 +10219,7 @@
         "Amanita battarrae",
         "Amanita brunneofuliginea",
         "Amanita citrina",
+        "Amanita crocea",
         "Amanita excelsa",
         "Amanita excelsa var. excelsa",
         "Amanita excelsa var. spissa",
@@ -10390,6 +10446,7 @@
         "Gloeophyllum odoratum",
         "Gloeophyllum sepiarium",
         "Gomphidius glutinosus",
+        "Gomphidius maculatus",
         "Gomphus clavatus",
         "Guepinia helvelloides",
         "Gymnopilus penetrans",
@@ -10575,6 +10632,7 @@
         "Parasola plicatilis",
         "Paxillus atrotomentosus",
         "Paxillus filamentosus",
+        "Paxillus involutus",
         "Paxillus rubicundulus",
         "Perenniporia fraxinea",
         "Phaeoclavulina abietina",
@@ -10654,6 +10712,7 @@
         "Russula chloroides",
         "Russula claroflava",
         "Russula cyanoxantha",
+        "Russula cyanoxantha f. peltereaui",
         "Russula delica",
         "Russula emetica",
         "Russula fageticola",
@@ -10688,6 +10747,7 @@
         "Russula romellii",
         "Russula rosea",
         "Russula rubroalba",
+        "Russula sanguinea",
         "Russula solaris",
         "Russula subfoetens",
         "Russula vesca",
@@ -10800,6 +10860,7 @@
         "Amanita battarrae",
         "Amanita brunneofuliginea",
         "Amanita citrina",
+        "Amanita crocea",
         "Amanita excelsa",
         "Amanita excelsa var. excelsa",
         "Amanita excelsa var. spissa",
@@ -11038,6 +11099,7 @@
         "Gloeophyllum odoratum",
         "Gloeophyllum sepiarium",
         "Gomphidius glutinosus",
+        "Gomphidius maculatus",
         "Gomphus clavatus",
         "Guepinia helvelloides",
         "Gymnopilus penetrans",
@@ -11234,6 +11296,7 @@
         "Parasola plicatilis",
         "Paxillus atrotomentosus",
         "Paxillus filamentosus",
+        "Paxillus involutus",
         "Paxillus rubicundulus",
         "Perenniporia fraxinea",
         "Phaeoclavulina abietina",
@@ -11314,6 +11377,7 @@
         "Russula chloroides",
         "Russula claroflava",
         "Russula cyanoxantha",
+        "Russula cyanoxantha f. peltereaui",
         "Russula delica",
         "Russula emetica",
         "Russula fageticola",
@@ -11348,6 +11412,7 @@
         "Russula romellii",
         "Russula rosea",
         "Russula rubroalba",
+        "Russula sanguinea",
         "Russula solaris",
         "Russula subfoetens",
         "Russula vesca",

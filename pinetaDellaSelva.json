@@ -1,8 +1,8 @@
 {
   "title": "Pineta della Selva",
-  "generatedAt": "2026-09-20T18:50:27.261Z",
-  "totalSpecies": 122,
-  "totalSamples": 178,
+  "generatedAt": "2026-09-22T00:14:10.949Z",
+  "totalSpecies": 123,
+  "totalSamples": 179,
   "species": [
     {
       "genus": "Amanita",
@@ -341,6 +341,13 @@
       "fullName": "Gloeophyllum odoratum",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Gloeophyllales > famiglia: Gloeophyllaceae",
       "authority": "(Wulfen) Imazeki 1943"
+    },
+    {
+      "genus": "Gymnopus",
+      "species": "fusipes",
+      "fullName": "Gymnopus fusipes",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Omphalotaceae",
+      "authority": "(Bull.) Gray 1821"
     },
     {
       "genus": "Helvella",

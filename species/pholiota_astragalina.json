@@ -6,6 +6,14 @@
   "autoreCorrente": "(Fr.) E.J. Tian & Matheny 2020",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-20",
+      "collector": "Pietro Centenari",
+      "locality": "Camasone, Songavazzo, Bergamo",
+      "localityCoordinates": "45.867870, 10.020890",
+      "habitat": "Bosco misto",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-08-31",
       "collector": "Pierino Bigoni",
       "locality": "Spiazzi, Gromo",
@@ -84,7 +92,7 @@
         "ago": 4
       },
       {
-        "set": 1
+        "set": 2
       },
       {
         "ott": 1
@@ -98,8 +106,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 6,
-    "campioniRaccolti": 6,
+    "totaleCampioni": 7,
+    "campioniRaccolti": 7,
     "campioniExsiccata": 0
   }
 }

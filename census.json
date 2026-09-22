@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-21T16:03:07.613Z",
-  "totalSpecies": 549,
-  "totalSamples": 1626,
+  "generatedAt": "2026-09-22T00:14:10.681Z",
+  "totalSpecies": 556,
+  "totalSamples": 1666,
   "species": [
     {
       "genus": "Abortiporus",
@@ -120,10 +120,24 @@
     },
     {
       "genus": "Amanita",
+      "species": "battarrae",
+      "fullName": "Amanita battarrae",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
+      "authority": "(Boud.) Bon 1985"
+    },
+    {
+      "genus": "Amanita",
       "species": "citrina",
       "fullName": "Amanita citrina",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
       "authority": "Pers. 1797"
+    },
+    {
+      "genus": "Amanita",
+      "species": "crocea",
+      "fullName": "Amanita crocea",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
+      "authority": "(Quél.) Singer 1951"
     },
     {
       "genus": "Amanita",
@@ -1630,6 +1644,13 @@
       "authority": "(Schaeff.) Fr. 1838"
     },
     {
+      "genus": "Gomphidius",
+      "species": "maculatus",
+      "fullName": "Gomphidius maculatus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Gomphidiaceae",
+      "authority": "(Scop.) Fr. 1838"
+    },
+    {
       "genus": "Gomphus",
       "species": "clavatus",
       "fullName": "Gomphus clavatus",
@@ -1642,6 +1663,13 @@
       "fullName": "Gymnopilus penetrans",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Galerinaceae",
       "authority": "(Fr.) Murrill 1912"
+    },
+    {
+      "genus": "Gymnopus",
+      "species": "fusipes",
+      "fullName": "Gymnopus fusipes",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Omphalotaceae",
+      "authority": "(Bull.) Gray 1821"
     },
     {
       "genus": "Gymnopus",
@@ -2895,6 +2923,13 @@
     },
     {
       "genus": "Paxillus",
+      "species": "involutus",
+      "fullName": "Paxillus involutus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Paxillaceae",
+      "authority": "(Batsch) Fr. 1838"
+    },
+    {
+      "genus": "Paxillus",
       "species": "rubicundulus",
       "fullName": "Paxillus rubicundulus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Paxillaceae",
@@ -3383,6 +3418,13 @@
     },
     {
       "genus": "Russula",
+      "species": "cyanoxantha f. peltereaui",
+      "fullName": "Russula cyanoxantha f. peltereaui",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
+      "authority": "Singer 1926"
+    },
+    {
+      "genus": "Russula",
       "species": "delica",
       "fullName": "Russula delica",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
@@ -3597,6 +3639,13 @@
       "fullName": "Russula rubroalba",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
       "authority": "(Singer) Romagn. 1967"
+    },
+    {
+      "genus": "Russula",
+      "species": "sanguinea",
+      "fullName": "Russula sanguinea",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
+      "authority": "(Bull.) Fr. 1838"
     },
     {
       "genus": "Russula",
