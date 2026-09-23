@@ -6,7 +6,7 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
-      "collectionDate": "2026-09-21",
+      "collectionDate": "2026-09-20",
       "collector": "Pietro Centenari",
       "locality": "Strada Falecchio - Camasone - San Fermo, Songavazzo, Bergamo",
       "localityCoordinates": "45.853684, 10.034635",
@@ -49,7 +49,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "06-27",
-    "raccoltaPiuTarda": "09-21",
+    "raccoltaPiuTarda": "09-20",
     "campioniPerMese": [
       {
         "gen": 0

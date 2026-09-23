@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T00:14:10.780Z",
+  "generatedAt": "2026-09-23T00:13:38.580Z",
   "totalSpecies": 556,
   "totalSamples": 1846,
   "species": [
@@ -4799,10 +4799,10 @@
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       },
-      "latestDate": "09-21",
-      "latestDayOfYear": 264,
+      "latestDate": "09-20",
+      "latestDayOfYear": 263,
       "latestSample": {
-        "collectionDate": "2026-09-21",
+        "collectionDate": "2026-09-20",
         "collector": "Pietro Centenari",
         "locality": "Strada Falecchio - Camasone - San Fermo, Songavazzo, Bergamo",
         "localityCoordinates": "45.853684, 10.034635",
@@ -4845,10 +4845,10 @@
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       },
-      "latestDate": "09-21",
-      "latestDayOfYear": 264,
+      "latestDate": "09-20",
+      "latestDayOfYear": 263,
       "latestSample": {
-        "collectionDate": "2026-09-21",
+        "collectionDate": "2026-09-20",
         "collector": "Pietro Centenari",
         "locality": "Strada Falecchio - Camasone - San Fermo, Songavazzo, Bergamo",
         "localityCoordinates": "45.853684, 10.034635",
