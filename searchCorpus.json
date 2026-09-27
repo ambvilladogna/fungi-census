@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T00:14:10.976Z",
+  "generatedAt": "2026-09-27T00:13:56.793Z",
   "corpus": [
     {
       "type": "genus",
@@ -1363,8 +1363,10 @@
       "type": "genus",
       "value": "Leucoagaricus",
       "matchSpecies": [
+        "Leucoagaricus bresadolae",
         "Leucoagaricus leucothites",
-        "Leucocoprinus leucothites"
+        "Leucocoprinus leucothites",
+        "Macropsalliota americana"
       ]
     },
     {
@@ -1462,6 +1464,14 @@
         "Macrolepiota puellaris",
         "Macrolepiota rhacodes",
         "Macrolepiota rhacodes var. bohemica"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Macropsalliota",
+      "matchSpecies": [
+        "Leucoagaricus bresadolae",
+        "Macropsalliota americana"
       ]
     },
     {
@@ -5267,6 +5277,14 @@
     },
     {
       "type": "species",
+      "value": "Leucoagaricus bresadolae",
+      "matchSpecies": [
+        "Leucoagaricus bresadolae",
+        "Macropsalliota americana"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Leucoagaricus leucothites",
       "matchSpecies": [
         "Leucoagaricus leucothites",
@@ -5490,6 +5508,14 @@
       "matchSpecies": [
         "Chlorophyllum brunneum",
         "Macrolepiota rhacodes var. bohemica"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Macropsalliota americana",
+      "matchSpecies": [
+        "Leucoagaricus bresadolae",
+        "Macropsalliota americana"
       ]
     },
     {
@@ -7364,6 +7390,7 @@
         "Lepiota ignivolvata",
         "Lepiota magnispora",
         "Lepiota ventriosospora",
+        "Leucoagaricus bresadolae",
         "Leucoagaricus leucothites",
         "Leucocoprinus leucothites",
         "Leucocoprinus nympharum",
@@ -7374,7 +7401,8 @@
         "Macrolepiota procera var. fuliginosa",
         "Macrolepiota puellaris",
         "Macrolepiota rhacodes",
-        "Macrolepiota rhacodes var. bohemica"
+        "Macrolepiota rhacodes var. bohemica",
+        "Macropsalliota americana"
       ]
     },
     {
@@ -8805,6 +8833,7 @@
         "Lepista ricekii",
         "Lepista sordida",
         "Leratiomyces ceres",
+        "Leucoagaricus bresadolae",
         "Leucoagaricus leucothites",
         "Leucocoprinus leucothites",
         "Leucocoprinus nympharum",
@@ -8833,6 +8862,7 @@
         "Macrolepiota puellaris",
         "Macrolepiota rhacodes",
         "Macrolepiota rhacodes var. bohemica",
+        "Macropsalliota americana",
         "Marasmius bulliardii",
         "Marasmius cohaerens",
         "Marasmius oreades",
@@ -9763,6 +9793,7 @@
         "Lepista ricekii",
         "Lepista sordida",
         "Leratiomyces ceres",
+        "Leucoagaricus bresadolae",
         "Leucoagaricus leucothites",
         "Leucocoprinus leucothites",
         "Leucocoprinus nympharum",
@@ -9791,6 +9822,7 @@
         "Macrolepiota puellaris",
         "Macrolepiota rhacodes",
         "Macrolepiota rhacodes var. bohemica",
+        "Macropsalliota americana",
         "Marasmius bulliardii",
         "Marasmius cohaerens",
         "Marasmius oreades",
@@ -10562,6 +10594,7 @@
         "Lepista ricekii",
         "Lepista sordida",
         "Leratiomyces ceres",
+        "Leucoagaricus bresadolae",
         "Leucoagaricus leucothites",
         "Leucocoprinus leucothites",
         "Leucocoprinus nympharum",
@@ -10590,6 +10623,7 @@
         "Macrolepiota puellaris",
         "Macrolepiota rhacodes",
         "Macrolepiota rhacodes var. bohemica",
+        "Macropsalliota americana",
         "Marasmius bulliardii",
         "Marasmius cohaerens",
         "Marasmius oreades",
@@ -11224,6 +11258,7 @@
         "Lepista ricekii",
         "Lepista sordida",
         "Leratiomyces ceres",
+        "Leucoagaricus bresadolae",
         "Leucoagaricus leucothites",
         "Leucocoprinus leucothites",
         "Leucocoprinus nympharum",
@@ -11252,6 +11287,7 @@
         "Macrolepiota puellaris",
         "Macrolepiota rhacodes",
         "Macrolepiota rhacodes var. bohemica",
+        "Macropsalliota americana",
         "Marasmius bulliardii",
         "Marasmius cohaerens",
         "Marasmius oreades",

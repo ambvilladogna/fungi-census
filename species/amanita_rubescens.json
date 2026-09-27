@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-26",
+      "collector": "Pietro Centenari",
+      "locality": "Casa dell'Orfano, Clusone",
+      "localityCoordinates": "45.877660, 9.906041",
+      "habitat": "Abete rosso",
+      "determiner": "Flavio Rossi"
+    },
+    {
       "collectionDate": "2026-09-14",
       "collector": "Sergio Lonati",
       "locality": "Spiazzi, Gromo",
@@ -108,7 +116,7 @@
         "ago": 1
       },
       {
-        "set": 3
+        "set": 4
       },
       {
         "ott": 1
@@ -122,8 +130,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 9,
-    "campioniRaccolti": 9,
+    "totaleCampioni": 10,
+    "campioniRaccolti": 10,
     "campioniExsiccata": 0
   }
 }

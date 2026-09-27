@@ -1,8 +1,8 @@
 {
   "title": "Pineta della Selva",
-  "generatedAt": "2026-09-22T00:14:10.949Z",
-  "totalSpecies": 123,
-  "totalSamples": 179,
+  "generatedAt": "2026-09-27T00:13:56.770Z",
+  "totalSpecies": 127,
+  "totalSamples": 185,
   "species": [
     {
       "genus": "Amanita",
@@ -40,6 +40,13 @@
       "fullName": "Amanita phalloides",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
       "authority": "(Vaill. ex Fr.) Link 1833"
+    },
+    {
+      "genus": "Amanita",
+      "species": "rubescens",
+      "fullName": "Amanita rubescens",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
+      "authority": "Pers. 1797"
     },
     {
       "genus": "Armillaria",
@@ -597,6 +604,15 @@
       "authority": "(Bres.) Singer 1951"
     },
     {
+      "genus": "Leucoagaricus",
+      "species": "bresadolae",
+      "fullName": "Leucoagaricus bresadolae",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
+      "authority": "(Schulzer) Bon & Boiffard 1977",
+      "currentName": "Macropsalliota americana",
+      "currentAuthority": "(Peck) Kun L. Yang, Jia Y. Lin & Zhu L. Yang 2024"
+    },
+    {
       "genus": "Lycogala",
       "species": "epidendrum",
       "fullName": "Lycogala epidendrum",
@@ -865,6 +881,20 @@
       "fullName": "Stropharia aeruginosa",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Strophariaceae",
       "authority": "(Curtis) Quél. 1872"
+    },
+    {
+      "genus": "Suillus",
+      "species": "grevillei",
+      "fullName": "Suillus grevillei",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Suillaceae",
+      "authority": "(Klotzsch) Singer 1945"
+    },
+    {
+      "genus": "Suillus",
+      "species": "viscidus",
+      "fullName": "Suillus viscidus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Suillaceae",
+      "authority": "(L.) Roussel 1796"
     },
     {
       "genus": "Trametes",

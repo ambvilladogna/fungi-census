@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T18:50:27.298Z",
+  "generatedAt": "2026-09-27T00:13:56.808Z",
   "corpus": [
     {
       "type": "genus",
@@ -10,7 +10,8 @@
         "Amanita junquillea",
         "Amanita magnivolvata",
         "Amanita muscaria",
-        "Amanita phalloides"
+        "Amanita phalloides",
+        "Amanita rubescens"
       ]
     },
     {
@@ -385,6 +386,14 @@
     },
     {
       "type": "genus",
+      "value": "Leucoagaricus",
+      "matchSpecies": [
+        "Leucoagaricus bresadolae",
+        "Macropsalliota americana"
+      ]
+    },
+    {
+      "type": "genus",
       "value": "Leucocybe",
       "matchSpecies": [
         "Leucocybe connata",
@@ -423,6 +432,14 @@
       "value": "Macrolepiota",
       "matchSpecies": [
         "Macrolepiota procera"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Macropsalliota",
+      "matchSpecies": [
+        "Leucoagaricus bresadolae",
+        "Macropsalliota americana"
       ]
     },
     {
@@ -607,6 +624,14 @@
     },
     {
       "type": "genus",
+      "value": "Suillus",
+      "matchSpecies": [
+        "Suillus grevillei",
+        "Suillus viscidus"
+      ]
+    },
+    {
+      "type": "genus",
       "value": "Trametes",
       "matchSpecies": [
         "Pycnoporus cinnabarinus",
@@ -700,6 +725,13 @@
       "value": "Amanita phalloides",
       "matchSpecies": [
         "Amanita phalloides"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Amanita rubescens",
+      "matchSpecies": [
+        "Amanita rubescens"
       ]
     },
     {
@@ -1326,6 +1358,14 @@
     },
     {
       "type": "species",
+      "value": "Leucoagaricus bresadolae",
+      "matchSpecies": [
+        "Leucoagaricus bresadolae",
+        "Macropsalliota americana"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Leucocybe connata",
       "matchSpecies": [
         "Leucocybe connata",
@@ -1390,6 +1430,14 @@
       "value": "Macrolepiota procera",
       "matchSpecies": [
         "Macrolepiota procera"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Macropsalliota americana",
+      "matchSpecies": [
+        "Leucoagaricus bresadolae",
+        "Macropsalliota americana"
       ]
     },
     {
@@ -1668,6 +1716,20 @@
     },
     {
       "type": "species",
+      "value": "Suillus grevillei",
+      "matchSpecies": [
+        "Suillus grevillei"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Suillus viscidus",
+      "matchSpecies": [
+        "Suillus viscidus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Trametes cinnabarina",
       "matchSpecies": [
         "Pycnoporus cinnabarinus",
@@ -1765,7 +1827,9 @@
         "Lepiota cristata",
         "Lepiota magnispora",
         "Lepiota ventriosospora",
-        "Macrolepiota procera"
+        "Leucoagaricus bresadolae",
+        "Macrolepiota procera",
+        "Macropsalliota americana"
       ]
     },
     {
@@ -1777,7 +1841,8 @@
         "Amanita junquillea",
         "Amanita magnivolvata",
         "Amanita muscaria",
-        "Amanita phalloides"
+        "Amanita phalloides",
+        "Amanita rubescens"
       ]
     },
     {
@@ -2094,7 +2159,9 @@
       "type": "famiglia",
       "value": "Suillaceae",
       "matchSpecies": [
-        "Boletinus cavipes"
+        "Boletinus cavipes",
+        "Suillus grevillei",
+        "Suillus viscidus"
       ]
     },
     {
@@ -2116,6 +2183,7 @@
         "Amanita magnivolvata",
         "Amanita muscaria",
         "Amanita phalloides",
+        "Amanita rubescens",
         "Apioperdon pyriforme",
         "Armillaria mellea",
         "Armillaria ostoyae",
@@ -2168,6 +2236,7 @@
         "Lepiota magnispora",
         "Lepiota ventriosospora",
         "Lepista glaucocana",
+        "Leucoagaricus bresadolae",
         "Leucocybe connata",
         "Lycoperdon echinatum",
         "Lycoperdon perlatum",
@@ -2176,6 +2245,7 @@
         "Lyophyllum decastes",
         "Lyophyllum fumosum",
         "Macrolepiota procera",
+        "Macropsalliota americana",
         "Melanoleuca subalpina",
         "Mycena epipterygia",
         "Mycena pura",
@@ -2222,6 +2292,8 @@
         "Porphyrellus porphyrosporus",
         "Scleroderma verrucosum",
         "Suillellus luridus",
+        "Suillus grevillei",
+        "Suillus viscidus",
         "Xerocomellus armeniacus",
         "Xerocomus armeniacus",
         "Xerocomus badius",
@@ -2341,6 +2413,7 @@
         "Amanita magnivolvata",
         "Amanita muscaria",
         "Amanita phalloides",
+        "Amanita rubescens",
         "Apioperdon pyriforme",
         "Armillaria mellea",
         "Armillaria ostoyae",
@@ -2419,6 +2492,7 @@
         "Lepiota magnispora",
         "Lepiota ventriosospora",
         "Lepista glaucocana",
+        "Leucoagaricus bresadolae",
         "Leucocybe connata",
         "Lycoperdon echinatum",
         "Lycoperdon perlatum",
@@ -2427,6 +2501,7 @@
         "Lyophyllum decastes",
         "Lyophyllum fumosum",
         "Macrolepiota procera",
+        "Macropsalliota americana",
         "Melanoleuca subalpina",
         "Mycena epipterygia",
         "Mycena pura",
@@ -2463,6 +2538,8 @@
         "Singerocybe phaeophthalma",
         "Stropharia aeruginosa",
         "Suillellus luridus",
+        "Suillus grevillei",
+        "Suillus viscidus",
         "Trametes cinnabarina",
         "Trametes versicolor",
         "Tricholoma portentosum",
@@ -2536,6 +2613,7 @@
         "Amanita magnivolvata",
         "Amanita muscaria",
         "Amanita phalloides",
+        "Amanita rubescens",
         "Apioperdon pyriforme",
         "Armillaria mellea",
         "Armillaria ostoyae",
@@ -2614,6 +2692,7 @@
         "Lepiota magnispora",
         "Lepiota ventriosospora",
         "Lepista glaucocana",
+        "Leucoagaricus bresadolae",
         "Leucocybe connata",
         "Lycoperdon echinatum",
         "Lycoperdon perlatum",
@@ -2622,6 +2701,7 @@
         "Lyophyllum decastes",
         "Lyophyllum fumosum",
         "Macrolepiota procera",
+        "Macropsalliota americana",
         "Melanoleuca subalpina",
         "Mycena epipterygia",
         "Mycena pura",
@@ -2658,6 +2738,8 @@
         "Singerocybe phaeophthalma",
         "Stropharia aeruginosa",
         "Suillellus luridus",
+        "Suillus grevillei",
+        "Suillus viscidus",
         "Trametes cinnabarina",
         "Trametes versicolor",
         "Tricholoma portentosum",
@@ -2689,6 +2771,7 @@
         "Amanita magnivolvata",
         "Amanita muscaria",
         "Amanita phalloides",
+        "Amanita rubescens",
         "Apioperdon pyriforme",
         "Armillaria mellea",
         "Armillaria ostoyae",
@@ -2771,6 +2854,7 @@
         "Lepiota magnispora",
         "Lepiota ventriosospora",
         "Lepista glaucocana",
+        "Leucoagaricus bresadolae",
         "Leucocybe connata",
         "Lycoperdon echinatum",
         "Lycoperdon perlatum",
@@ -2779,6 +2863,7 @@
         "Lyophyllum decastes",
         "Lyophyllum fumosum",
         "Macrolepiota procera",
+        "Macropsalliota americana",
         "Melanoleuca subalpina",
         "Mycena epipterygia",
         "Mycena pura",
@@ -2816,6 +2901,8 @@
         "Spinellus fusiger",
         "Stropharia aeruginosa",
         "Suillellus luridus",
+        "Suillus grevillei",
+        "Suillus viscidus",
         "Trametes cinnabarina",
         "Trametes versicolor",
         "Tricholoma portentosum",

@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-26",
+      "collector": "Pietro Centenari",
+      "locality": "Casa dell'Orfano, Clusone",
+      "localityCoordinates": "45.877660, 9.906041",
+      "habitat": "Corniolo",
+      "determiner": "Flavio Rossi"
+    },
+    {
       "collectionDate": "2026-09-06",
       "collector": "Pietro Centenari",
       "locality": "Blum, Rovetta",
@@ -116,7 +124,7 @@
         "ago": 4
       },
       {
-        "set": 4
+        "set": 5
       },
       {
         "ott": 0
@@ -130,8 +138,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 10,
-    "campioniRaccolti": 10,
+    "totaleCampioni": 11,
+    "campioniRaccolti": 11,
     "campioniExsiccata": 0
   }
 }

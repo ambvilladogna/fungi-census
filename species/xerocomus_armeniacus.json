@@ -6,6 +6,14 @@
   "autoreCorrente": "(Quél.) M. Ullah, Saba, Asif & Karun. 2026",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-26",
+      "collector": "Pietro Centenari",
+      "locality": "Casa dell'Orfano, Clusone",
+      "localityCoordinates": "45.877660, 9.906041",
+      "habitat": "Pino silvestre",
+      "determiner": "Flavio Rossi"
+    },
+    {
       "collectionDate": "2025-10-27",
       "collector": "Pierino Bigoni",
       "locality": "Pineta della Selva, Clusone",
@@ -16,7 +24,7 @@
   ],
   "campioniExsiccata": [],
   "fenologia": {
-    "raccoltaPiuPrecoce": "10-27",
+    "raccoltaPiuPrecoce": "09-26",
     "raccoltaPiuTarda": "10-27",
     "campioniPerMese": [
       {
@@ -44,7 +52,7 @@
         "ago": 0
       },
       {
-        "set": 0
+        "set": 1
       },
       {
         "ott": 1
@@ -58,8 +66,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 1,
-    "campioniRaccolti": 1,
+    "totaleCampioni": 2,
+    "campioniRaccolti": 2,
     "campioniExsiccata": 0
   }
 }
