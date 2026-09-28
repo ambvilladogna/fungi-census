@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T00:13:56.683Z",
+  "generatedAt": "2026-09-28T10:08:55.723Z",
   "corpus": [
     {
       "type": "genus",
@@ -133,8 +133,10 @@
       "matchSpecies": [
         "Aureonarius callisteus",
         "Aureonarius limonius",
+        "Aureonarius neocallisteus",
         "Cortinarius callisteus",
-        "Cortinarius limonius"
+        "Cortinarius limonius",
+        "Cortinarius neocallisteus"
       ]
     },
     {
@@ -245,6 +247,13 @@
       "matchSpecies": [
         "Boletus fechtneri",
         "Butyriboletus fechtneri"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Callistosporium",
+      "matchSpecies": [
+        "Callistosporium luteo-olivaceum"
       ]
     },
     {
@@ -604,6 +613,7 @@
       "matchSpecies": [
         "Aureonarius callisteus",
         "Aureonarius limonius",
+        "Aureonarius neocallisteus",
         "Calonarius atrovirens",
         "Calonarius elegantior",
         "Calonarius meinhardii",
@@ -624,6 +634,8 @@
         "Cortinarius largus",
         "Cortinarius limonius",
         "Cortinarius malicorius",
+        "Cortinarius montanus",
+        "Cortinarius neocallisteus",
         "Cortinarius odorifer",
         "Cortinarius orellanoides",
         "Cortinarius orellanoides var. speciosissimus",
@@ -645,7 +657,8 @@
         "Cystinarius crassus",
         "Hygronarius renidens",
         "Phlegmacium percome",
-        "Rozites caperatus"
+        "Rozites caperatus",
+        "Thaxterogaster montanus"
       ]
     },
     {
@@ -1487,6 +1500,7 @@
       "matchSpecies": [
         "Marasmius bulliardii",
         "Marasmius cohaerens",
+        "Marasmius collinus",
         "Marasmius oreades",
         "Marasmius rotula",
         "Marasmius scorodonius",
@@ -1964,6 +1978,7 @@
         "Russula albonigra",
         "Russula alutacea",
         "Russula amara",
+        "Russula amarissima",
         "Russula amethystina",
         "Russula aurea",
         "Russula aurora",
@@ -2170,6 +2185,14 @@
       "value": "Tephrocybe",
       "matchSpecies": [
         "Tephrocybe rancida"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Thaxterogaster",
+      "matchSpecies": [
+        "Cortinarius montanus",
+        "Thaxterogaster montanus"
       ]
     },
     {
@@ -2788,6 +2811,14 @@
     },
     {
       "type": "species",
+      "value": "Aureonarius neocallisteus",
+      "matchSpecies": [
+        "Aureonarius neocallisteus",
+        "Cortinarius neocallisteus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Auricularia auricula-judae",
       "matchSpecies": [
         "Auricularia auricula-judae",
@@ -2976,6 +3007,13 @@
       "matchSpecies": [
         "Boletus fechtneri",
         "Butyriboletus fechtneri"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Callistosporium luteo-olivaceum",
+      "matchSpecies": [
+        "Callistosporium luteo-olivaceum"
       ]
     },
     {
@@ -3785,6 +3823,22 @@
       "value": "Cortinarius malicorius",
       "matchSpecies": [
         "Cortinarius malicorius"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Cortinarius montanus",
+      "matchSpecies": [
+        "Cortinarius montanus",
+        "Thaxterogaster montanus"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Cortinarius neocallisteus",
+      "matchSpecies": [
+        "Aureonarius neocallisteus",
+        "Cortinarius neocallisteus"
       ]
     },
     {
@@ -5555,6 +5609,13 @@
     },
     {
       "type": "species",
+      "value": "Marasmius collinus",
+      "matchSpecies": [
+        "Marasmius collinus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Marasmius oreades",
       "matchSpecies": [
         "Marasmius oreades"
@@ -6392,6 +6453,13 @@
     },
     {
       "type": "species",
+      "value": "Russula amarissima",
+      "matchSpecies": [
+        "Russula amarissima"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Russula amethystina",
       "matchSpecies": [
         "Russula amethystina"
@@ -7008,6 +7076,14 @@
     },
     {
       "type": "species",
+      "value": "Thaxterogaster montanus",
+      "matchSpecies": [
+        "Cortinarius montanus",
+        "Thaxterogaster montanus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Thelephora palmata",
       "matchSpecies": [
         "Thelephora palmata"
@@ -7599,6 +7675,13 @@
     },
     {
       "type": "famiglia",
+      "value": "Callistosporiaceae",
+      "matchSpecies": [
+        "Callistosporium luteo-olivaceum"
+      ]
+    },
+    {
+      "type": "famiglia",
       "value": "Caloscyphaceae",
       "matchSpecies": [
         "Caloscypha fulgens"
@@ -7665,6 +7748,7 @@
       "matchSpecies": [
         "Aureonarius callisteus",
         "Aureonarius limonius",
+        "Aureonarius neocallisteus",
         "Calonarius atrovirens",
         "Calonarius elegantior",
         "Calonarius meinhardii",
@@ -7685,6 +7769,8 @@
         "Cortinarius largus",
         "Cortinarius limonius",
         "Cortinarius malicorius",
+        "Cortinarius montanus",
+        "Cortinarius neocallisteus",
         "Cortinarius odorifer",
         "Cortinarius orellanoides",
         "Cortinarius orellanoides var. speciosissimus",
@@ -7706,7 +7792,8 @@
         "Cystinarius crassus",
         "Hygronarius renidens",
         "Phlegmacium percome",
-        "Rozites caperatus"
+        "Rozites caperatus",
+        "Thaxterogaster montanus"
       ]
     },
     {
@@ -8075,6 +8162,7 @@
       "matchSpecies": [
         "Marasmius bulliardii",
         "Marasmius cohaerens",
+        "Marasmius collinus",
         "Marasmius oreades",
         "Marasmius rotula",
         "Marasmius wynneae"
@@ -8387,6 +8475,7 @@
         "Russula albonigra",
         "Russula alutacea",
         "Russula amara",
+        "Russula amarissima",
         "Russula amethystina",
         "Russula aurea",
         "Russula aurora",
@@ -8679,11 +8768,13 @@
         "Asterophora parasitica",
         "Aureonarius callisteus",
         "Aureonarius limonius",
+        "Aureonarius neocallisteus",
         "Baeospora myosura",
         "Bolbitius titubans",
         "Bolbitius vitellinus",
         "Bovista plumbea",
         "Bovistella utriformis",
+        "Callistosporium luteo-olivaceum",
         "Calocybe gambosa",
         "Calonarius atrovirens",
         "Calonarius elegantior",
@@ -8763,6 +8854,8 @@
         "Cortinarius largus",
         "Cortinarius limonius",
         "Cortinarius malicorius",
+        "Cortinarius montanus",
+        "Cortinarius neocallisteus",
         "Cortinarius odorifer",
         "Cortinarius orellanoides",
         "Cortinarius orellanoides var. speciosissimus",
@@ -8901,6 +8994,7 @@
         "Macropsalliota americana",
         "Marasmius bulliardii",
         "Marasmius cohaerens",
+        "Marasmius collinus",
         "Marasmius oreades",
         "Marasmius rotula",
         "Marasmius scorodonius",
@@ -8979,6 +9073,7 @@
         "Stropharia rugosoannulata f. lutea",
         "Stropharia semiglobata",
         "Tephrocybe rancida",
+        "Thaxterogaster montanus",
         "Tricholoma aurantium",
         "Tricholoma bufonium",
         "Tricholoma inamoenum",
@@ -9370,6 +9465,7 @@
         "Russula albonigra",
         "Russula alutacea",
         "Russula amara",
+        "Russula amarissima",
         "Russula amethystina",
         "Russula aurea",
         "Russula aurora",
@@ -9526,6 +9622,7 @@
         "Asterophora parasitica",
         "Aureonarius callisteus",
         "Aureonarius limonius",
+        "Aureonarius neocallisteus",
         "Auricularia auricula-judae",
         "Auricularia mesenterica",
         "Auriscalpium vulgare",
@@ -9549,6 +9646,7 @@
         "Bovista plumbea",
         "Bovistella utriformis",
         "Butyriboletus fechtneri",
+        "Callistosporium luteo-olivaceum",
         "Caloboletus calopus",
         "Caloboletus radicans",
         "Calocybe gambosa",
@@ -9648,6 +9746,8 @@
         "Cortinarius largus",
         "Cortinarius limonius",
         "Cortinarius malicorius",
+        "Cortinarius montanus",
+        "Cortinarius neocallisteus",
         "Cortinarius odorifer",
         "Cortinarius orellanoides",
         "Cortinarius orellanoides var. speciosissimus",
@@ -9864,6 +9964,7 @@
         "Macropsalliota americana",
         "Marasmius bulliardii",
         "Marasmius cohaerens",
+        "Marasmius collinus",
         "Marasmius oreades",
         "Marasmius rotula",
         "Marasmius scorodonius",
@@ -9974,6 +10075,7 @@
         "Russula albonigra",
         "Russula alutacea",
         "Russula amara",
+        "Russula amarissima",
         "Russula amethystina",
         "Russula aurea",
         "Russula aurora",
@@ -10053,6 +10155,7 @@
         "Suillus viscidus",
         "Tapinella atrotomentosa",
         "Tephrocybe rancida",
+        "Thaxterogaster montanus",
         "Thelephora palmata",
         "Trametes cinnabarina",
         "Trametes versicolor",
@@ -10325,6 +10428,7 @@
         "Asterophora parasitica",
         "Aureonarius callisteus",
         "Aureonarius limonius",
+        "Aureonarius neocallisteus",
         "Auricularia auricula-judae",
         "Auricularia mesenterica",
         "Auriscalpium vulgare",
@@ -10348,6 +10452,7 @@
         "Bovista plumbea",
         "Bovistella utriformis",
         "Butyriboletus fechtneri",
+        "Callistosporium luteo-olivaceum",
         "Caloboletus calopus",
         "Caloboletus radicans",
         "Calocera viscosa",
@@ -10449,6 +10554,8 @@
         "Cortinarius largus",
         "Cortinarius limonius",
         "Cortinarius malicorius",
+        "Cortinarius montanus",
+        "Cortinarius neocallisteus",
         "Cortinarius odorifer",
         "Cortinarius orellanoides",
         "Cortinarius orellanoides var. speciosissimus",
@@ -10667,6 +10774,7 @@
         "Macropsalliota americana",
         "Marasmius bulliardii",
         "Marasmius cohaerens",
+        "Marasmius collinus",
         "Marasmius oreades",
         "Marasmius rotula",
         "Marasmius scorodonius",
@@ -10777,6 +10885,7 @@
         "Russula albonigra",
         "Russula alutacea",
         "Russula amara",
+        "Russula amarissima",
         "Russula amethystina",
         "Russula aurea",
         "Russula aurora",
@@ -10856,6 +10965,7 @@
         "Suillus viscidus",
         "Tapinella atrotomentosa",
         "Tephrocybe rancida",
+        "Thaxterogaster montanus",
         "Thelephora palmata",
         "Trametes cinnabarina",
         "Trametes versicolor",
@@ -10970,6 +11080,7 @@
         "Asterophora parasitica",
         "Aureonarius callisteus",
         "Aureonarius limonius",
+        "Aureonarius neocallisteus",
         "Auricularia auricula-judae",
         "Auricularia mesenterica",
         "Auriscalpium vulgare",
@@ -10994,6 +11105,7 @@
         "Bovista plumbea",
         "Bovistella utriformis",
         "Butyriboletus fechtneri",
+        "Callistosporium luteo-olivaceum",
         "Caloboletus calopus",
         "Caloboletus radicans",
         "Calocera viscosa",
@@ -11100,6 +11212,8 @@
         "Cortinarius largus",
         "Cortinarius limonius",
         "Cortinarius malicorius",
+        "Cortinarius montanus",
+        "Cortinarius neocallisteus",
         "Cortinarius odorifer",
         "Cortinarius orellanoides",
         "Cortinarius orellanoides var. speciosissimus",
@@ -11333,6 +11447,7 @@
         "Macropsalliota americana",
         "Marasmius bulliardii",
         "Marasmius cohaerens",
+        "Marasmius collinus",
         "Marasmius oreades",
         "Marasmius rotula",
         "Marasmius scorodonius",
@@ -11446,6 +11561,7 @@
         "Russula albonigra",
         "Russula alutacea",
         "Russula amara",
+        "Russula amarissima",
         "Russula amethystina",
         "Russula aurea",
         "Russula aurora",
@@ -11531,6 +11647,7 @@
         "Tapinella atrotomentosa",
         "Tarzetta cupularis",
         "Tephrocybe rancida",
+        "Thaxterogaster montanus",
         "Thelephora palmata",
         "Tolypocladium capitatum",
         "Trametes cinnabarina",

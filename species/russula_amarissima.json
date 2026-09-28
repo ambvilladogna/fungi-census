@@ -1,23 +1,23 @@
 {
-  "nomeCompleto": "Simocybe sumptuosa",
-  "autore": "(P.D. Orton) Singer 1962",
-  "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Crepidotaceae",
+  "nomeCompleto": "Russula amarissima",
+  "autore": "Romagn. & E.-J. Gilbert 1943",
+  "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
   "nomeCorrente": null,
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
-      "collectionDate": "2026-09-20",
-      "collector": "Pietro Centenari",
-      "locality": "Camasone, Songavazzo, Bergamo",
-      "localityCoordinates": "45.869884, 10.021833",
-      "habitat": "Tronco di ciliegio",
-      "determiner": "Pietro Centenari"
+      "collectionDate": "2026-09-27",
+      "collector": "Simone Oprandi",
+      "locality": "Falecchio, Songavazzo",
+      "localityCoordinates": "45.882296, 10.000041",
+      "habitat": "Bosco misto",
+      "determiner": "Flavio Rossi"
     }
   ],
   "campioniExsiccata": [],
   "fenologia": {
-    "raccoltaPiuPrecoce": "09-20",
-    "raccoltaPiuTarda": "09-20",
+    "raccoltaPiuPrecoce": "09-27",
+    "raccoltaPiuTarda": "09-27",
     "campioniPerMese": [
       {
         "gen": 0

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-28T00:13:56.419Z",
-  "totalSpecies": 559,
-  "totalSamples": 1674,
+  "generatedAt": "2026-09-28T10:08:55.442Z",
+  "totalSpecies": 564,
+  "totalSamples": 1681,
   "species": [
     {
       "genus": "Abortiporus",
@@ -515,6 +515,13 @@
       "fullName": "Butyriboletus fechtneri",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
       "authority": "(Velen.) D. Arora & J.L. Frank 2014"
+    },
+    {
+      "genus": "Callistosporium",
+      "species": "luteo-olivaceum",
+      "fullName": "Callistosporium luteo-olivaceum",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Callistosporiaceae",
+      "authority": "(Berk. & M.A. Curtis) Singer 1946"
     },
     {
       "genus": "Caloboletus",
@@ -1151,6 +1158,24 @@
       "fullName": "Cortinarius malicorius",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
       "authority": "Fr. 1838"
+    },
+    {
+      "genus": "Cortinarius",
+      "species": "montanus",
+      "fullName": "Cortinarius montanus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
+      "authority": "Kauffman 1932",
+      "currentName": "Thaxterogaster montanus",
+      "currentAuthority": "(Kauffman) Niskanen & Liimat. 2022"
+    },
+    {
+      "genus": "Cortinarius",
+      "species": "neocallisteus",
+      "fullName": "Cortinarius neocallisteus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
+      "authority": "Kranab., Ammirati, Liimat. & Niskanen 2016",
+      "currentName": "Aureonarius neocallisteus",
+      "currentAuthority": "(Kranab., Ammirati, Liimat. & Niskanen) Niskanen & Liimat. 2022"
     },
     {
       "genus": "Cortinarius",
@@ -2669,6 +2694,13 @@
     },
     {
       "genus": "Marasmius",
+      "species": "collinus",
+      "fullName": "Marasmius collinus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Marasmiaceae",
+      "authority": "(Scop.) Singer 1942"
+    },
+    {
+      "genus": "Marasmius",
       "species": "oreades",
       "fullName": "Marasmius oreades",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Marasmiaceae",
@@ -3368,6 +3400,13 @@
       "authority": "Kučera 1927",
       "currentName": "Russula caerulea",
       "currentAuthority": "Fr. 1838"
+    },
+    {
+      "genus": "Russula",
+      "species": "amarissima",
+      "fullName": "Russula amarissima",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
+      "authority": "Romagn. & E.-J. Gilbert 1943"
     },
     {
       "genus": "Russula",

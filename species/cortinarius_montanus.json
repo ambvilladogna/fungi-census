@@ -1,23 +1,23 @@
 {
-  "nomeCompleto": "Simocybe sumptuosa",
-  "autore": "(P.D. Orton) Singer 1962",
-  "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Crepidotaceae",
-  "nomeCorrente": null,
-  "autoreCorrente": null,
+  "nomeCompleto": "Cortinarius montanus",
+  "autore": "Kauffman 1932",
+  "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
+  "nomeCorrente": "Thaxterogaster montanus",
+  "autoreCorrente": "(Kauffman) Niskanen & Liimat. 2022",
   "campioniRaccolti": [
     {
-      "collectionDate": "2026-09-20",
-      "collector": "Pietro Centenari",
-      "locality": "Camasone, Songavazzo, Bergamo",
-      "localityCoordinates": "45.869884, 10.021833",
-      "habitat": "Tronco di ciliegio",
-      "determiner": "Pietro Centenari"
+      "collectionDate": "2026-09-27",
+      "collector": "Mostra Zootecnoca",
+      "locality": "Zenier, Rovetta",
+      "localityCoordinates": "45.898619, 9.984853",
+      "habitat": "Bosco misto",
+      "determiner": "Flavio Rossi"
     }
   ],
   "campioniExsiccata": [],
   "fenologia": {
-    "raccoltaPiuPrecoce": "09-20",
-    "raccoltaPiuTarda": "09-20",
+    "raccoltaPiuPrecoce": "09-27",
+    "raccoltaPiuTarda": "09-27",
     "campioniPerMese": [
       {
         "gen": 0
