@@ -1,23 +1,23 @@
 {
-  "nomeCompleto": "Leucoagaricus bresadolae",
-  "autore": "(Schulzer) Bon & Boiffard 1977",
-  "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
-  "nomeCorrente": "Macropsalliota americana",
-  "autoreCorrente": "(Peck) Kun L. Yang, Jia Y. Lin & Zhu L. Yang 2024",
+  "nomeCompleto": "Simocybe sumptuosa",
+  "autore": "(P.D. Orton) Singer 1962",
+  "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Crepidotaceae",
+  "nomeCorrente": null,
+  "autoreCorrente": null,
   "campioniRaccolti": [
     {
-      "collectionDate": "2026-09-26",
+      "collectionDate": "2026-09-20",
       "collector": "Pietro Centenari",
-      "locality": "Casa dell'Orfano, Clusone",
-      "localityCoordinates": "45.877660, 9.906041",
-      "habitat": "Prato",
-      "determiner": "Flavio Rossi"
+      "locality": "Camasone, Songavazzo, Bergamo",
+      "localityCoordinates": "45.869303, 10.020553",
+      "habitat": "Tronco di ciliegio",
+      "determiner": "Pietro Centenari"
     }
   ],
   "campioniExsiccata": [],
   "fenologia": {
-    "raccoltaPiuPrecoce": "09-26",
-    "raccoltaPiuTarda": "09-26",
+    "raccoltaPiuPrecoce": "09-20",
+    "raccoltaPiuTarda": "09-20",
     "campioniPerMese": [
       {
         "gen": 0

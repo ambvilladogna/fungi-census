@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-27T00:13:56.625Z",
-  "totalSpecies": 557,
-  "totalSamples": 1852,
+  "generatedAt": "2026-09-28T00:13:56.516Z",
+  "totalSpecies": 559,
+  "totalSamples": 1854,
   "species": [
     {
       "genus": "Flammulina",
@@ -21212,6 +21212,50 @@
       }
     },
     {
+      "genus": "Grifola",
+      "species": "frondosa",
+      "fullName": "Grifola frondosa",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Polyporales > famiglia: Grifolaceae",
+      "authority": "(Dicks.) Gray 1821",
+      "totalSamples": 1,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "earliestDate": "09-20",
+      "earliestDayOfYear": 263,
+      "earliestSample": {
+        "collectionDate": "2026-09-20",
+        "collector": "Luciano Imberti",
+        "locality": "Monte Misma, Pradalunga",
+        "localityCoordinates": "45.736776, 9.818517",
+        "habitat": "Castagno",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "09-20",
+      "latestDayOfYear": 263,
+      "latestSample": {
+        "collectionDate": "2026-09-20",
+        "collector": "Luciano Imberti",
+        "locality": "Monte Misma, Pradalunga",
+        "localityCoordinates": "45.736776, 9.818517",
+        "habitat": "Castagno",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
       "genus": "Paxillus",
       "species": "involutus",
       "fullName": "Paxillus involutus",
@@ -21383,6 +21427,50 @@
         "locality": "Strada Falecchio - Camasone - San Fermo, Songavazzo, Bergamo",
         "localityCoordinates": "45.869303, 10.020553",
         "habitat": "Bosco misto",
+        "determiner": "Pietro Centenari",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Simocybe",
+      "species": "sumptuosa",
+      "fullName": "Simocybe sumptuosa",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Crepidotaceae",
+      "authority": "(P.D. Orton) Singer 1962",
+      "totalSamples": 1,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "earliestDate": "09-20",
+      "earliestDayOfYear": 263,
+      "earliestSample": {
+        "collectionDate": "2026-09-20",
+        "collector": "Pietro Centenari",
+        "locality": "Camasone, Songavazzo, Bergamo",
+        "localityCoordinates": "45.869303, 10.020553",
+        "habitat": "Tronco di ciliegio",
+        "determiner": "Pietro Centenari",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "09-20",
+      "latestDayOfYear": 263,
+      "latestSample": {
+        "collectionDate": "2026-09-20",
+        "collector": "Pietro Centenari",
+        "locality": "Camasone, Songavazzo, Bergamo",
+        "localityCoordinates": "45.869303, 10.020553",
+        "habitat": "Tronco di ciliegio",
         "determiner": "Pietro Centenari",
         "_tipo": "raccolto"
       }
@@ -21593,7 +21681,7 @@
         "collector": "Pietro Centenari",
         "locality": "Casa dell'Orfano, Clusone",
         "localityCoordinates": "45.877660, 9.906041",
-        "habitat": "Pino silvestre",
+        "habitat": "Prato",
         "determiner": "Flavio Rossi",
         "_tipo": "raccolto"
       },
@@ -21604,7 +21692,7 @@
         "collector": "Pietro Centenari",
         "locality": "Casa dell'Orfano, Clusone",
         "localityCoordinates": "45.877660, 9.906041",
-        "habitat": "Pino silvestre",
+        "habitat": "Prato",
         "determiner": "Flavio Rossi",
         "_tipo": "raccolto"
       }
@@ -21639,7 +21727,7 @@
         "collector": "Pietro Centenari",
         "locality": "Casa dell'Orfano, Clusone",
         "localityCoordinates": "45.877660, 9.906041",
-        "habitat": "Pino silvestre",
+        "habitat": "Pino silvestre e corniolo",
         "determiner": "Flavio Rossi",
         "_tipo": "raccolto"
       },

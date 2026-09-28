@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T00:13:56.793Z",
+  "generatedAt": "2026-09-28T00:13:56.683Z",
   "corpus": [
     {
       "type": "genus",
@@ -930,6 +930,13 @@
       "value": "Gomphus",
       "matchSpecies": [
         "Gomphus clavatus"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Grifola",
+      "matchSpecies": [
+        "Grifola frondosa"
       ]
     },
     {
@@ -2056,6 +2063,13 @@
       "matchSpecies": [
         "Geopora sumneriana",
         "Sepultaria sumneriana"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Simocybe",
+      "matchSpecies": [
+        "Simocybe sumptuosa"
       ]
     },
     {
@@ -4352,6 +4366,13 @@
       "value": "Gomphus clavatus",
       "matchSpecies": [
         "Gomphus clavatus"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Grifola frondosa",
+      "matchSpecies": [
+        "Grifola frondosa"
       ]
     },
     {
@@ -6814,6 +6835,13 @@
     },
     {
       "type": "species",
+      "value": "Simocybe sumptuosa",
+      "matchSpecies": [
+        "Simocybe sumptuosa"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Singerocybe phaeophthalma",
       "matchSpecies": [
         "Clitocybe phaeophthalma",
@@ -7685,7 +7713,8 @@
       "type": "famiglia",
       "value": "Crepidotaceae",
       "matchSpecies": [
-        "Crepidotus mollis"
+        "Crepidotus mollis",
+        "Simocybe sumptuosa"
       ]
     },
     {
@@ -7815,6 +7844,13 @@
         "Chroogomphus rutilus",
         "Gomphidius glutinosus",
         "Gomphidius maculatus"
+      ]
+    },
+    {
+      "type": "famiglia",
+      "value": "Grifolaceae",
+      "matchSpecies": [
+        "Grifola frondosa"
       ]
     },
     {
@@ -8934,6 +8970,7 @@
         "Rhodocybe gemina",
         "Rozites caperatus",
         "Schizophyllum commune",
+        "Simocybe sumptuosa",
         "Singerocybe phaeophthalma",
         "Strobilurus esculentus",
         "Stropharia aeruginosa",
@@ -9256,6 +9293,7 @@
         "Ganoderma applanatum",
         "Ganoderma lucidum",
         "Ganoderma resinaceum",
+        "Grifola frondosa",
         "Irpex lacteus",
         "Ischnoderma benzoinum",
         "Laricifomes officinalis",
@@ -9679,6 +9717,7 @@
         "Gomphidius glutinosus",
         "Gomphidius maculatus",
         "Gomphus clavatus",
+        "Grifola frondosa",
         "Guepinia helvelloides",
         "Gymnopilus penetrans",
         "Gymnopus aquosus",
@@ -9993,6 +10032,7 @@
         "Scleroderma citrinum",
         "Scleroderma polyrhizum",
         "Scleroderma verrucosum",
+        "Simocybe sumptuosa",
         "Singerocybe phaeophthalma",
         "Stereum hirsutum",
         "Strobilomyces strobilaceus",
@@ -10480,6 +10520,7 @@
         "Gomphidius glutinosus",
         "Gomphidius maculatus",
         "Gomphus clavatus",
+        "Grifola frondosa",
         "Guepinia helvelloides",
         "Gymnopilus penetrans",
         "Gymnopus aquosus",
@@ -10794,6 +10835,7 @@
         "Scleroderma citrinum",
         "Scleroderma polyrhizum",
         "Scleroderma verrucosum",
+        "Simocybe sumptuosa",
         "Singerocybe phaeophthalma",
         "Stereum hirsutum",
         "Strobilomyces strobilaceus",
@@ -11135,6 +11177,7 @@
         "Gomphidius glutinosus",
         "Gomphidius maculatus",
         "Gomphus clavatus",
+        "Grifola frondosa",
         "Guepinia helvelloides",
         "Gymnopilus penetrans",
         "Gymnopus aquosus",
@@ -11464,6 +11507,7 @@
         "Scleroderma verrucosum",
         "Scutellinia superba",
         "Sepultaria sumneriana",
+        "Simocybe sumptuosa",
         "Singerocybe phaeophthalma",
         "Spathularia flavida",
         "Spinellus fusiger",

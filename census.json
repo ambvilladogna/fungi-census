@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-27T00:13:56.532Z",
-  "totalSpecies": 557,
-  "totalSamples": 1672,
+  "generatedAt": "2026-09-28T00:13:56.419Z",
+  "totalSpecies": 559,
+  "totalSamples": 1674,
   "species": [
     {
       "genus": "Abortiporus",
@@ -1656,6 +1656,13 @@
       "fullName": "Gomphus clavatus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Gomphales > famiglia: Gomphaceae",
       "authority": "(Pers.) Gray 1821"
+    },
+    {
+      "genus": "Grifola",
+      "species": "frondosa",
+      "fullName": "Grifola frondosa",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Polyporales > famiglia: Grifolaceae",
+      "authority": "(Dicks.) Gray 1821"
     },
     {
       "genus": "Gymnopilus",
@@ -3764,6 +3771,13 @@
       "authority": "(Cooke ex W. Phillips) Massee 1895",
       "currentName": "Geopora sumneriana",
       "currentAuthority": "(Cooke ex W. Phillips) M. Torre 1976"
+    },
+    {
+      "genus": "Simocybe",
+      "species": "sumptuosa",
+      "fullName": "Simocybe sumptuosa",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Crepidotaceae",
+      "authority": "(P.D. Orton) Singer 1962"
     },
     {
       "genus": "Spathularia",
