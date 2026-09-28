@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T10:18:44.929Z",
+  "generatedAt": "2026-09-28T11:04:34.016Z",
   "corpus": [
     {
       "type": "genus",
@@ -133,10 +133,8 @@
       "matchSpecies": [
         "Aureonarius callisteus",
         "Aureonarius limonius",
-        "Aureonarius neocallisteus",
         "Cortinarius callisteus",
-        "Cortinarius limonius",
-        "Cortinarius neocallisteus"
+        "Cortinarius limonius"
       ]
     },
     {
@@ -247,13 +245,6 @@
       "matchSpecies": [
         "Boletus fechtneri",
         "Butyriboletus fechtneri"
-      ]
-    },
-    {
-      "type": "genus",
-      "value": "Callistosporium",
-      "matchSpecies": [
-        "Callistosporium luteo-olivaceum"
       ]
     },
     {
@@ -613,7 +604,6 @@
       "matchSpecies": [
         "Aureonarius callisteus",
         "Aureonarius limonius",
-        "Aureonarius neocallisteus",
         "Calonarius atrovirens",
         "Calonarius elegantior",
         "Calonarius meinhardii",
@@ -634,8 +624,6 @@
         "Cortinarius largus",
         "Cortinarius limonius",
         "Cortinarius malicorius",
-        "Cortinarius montanus",
-        "Cortinarius neocallisteus",
         "Cortinarius odorifer",
         "Cortinarius orellanoides",
         "Cortinarius orellanoides var. speciosissimus",
@@ -657,8 +645,7 @@
         "Cystinarius crassus",
         "Hygronarius renidens",
         "Phlegmacium percome",
-        "Rozites caperatus",
-        "Thaxterogaster montanus"
+        "Rozites caperatus"
       ]
     },
     {
@@ -1178,7 +1165,6 @@
       "matchSpecies": [
         "Inocybe calamistrata",
         "Inocybe cervicolor",
-        "Inocybe cookei",
         "Inocybe corydalina",
         "Inocybe fastigiata",
         "Inocybe fibrosa",
@@ -1187,7 +1173,6 @@
         "Inocybe rimosa",
         "Inosperma calamistratum",
         "Inosperma cervicolor",
-        "Inosperma cookei",
         "Pseudosperma rimosum"
       ]
     },
@@ -1197,10 +1182,8 @@
       "matchSpecies": [
         "Inocybe calamistrata",
         "Inocybe cervicolor",
-        "Inocybe cookei",
         "Inosperma calamistratum",
-        "Inosperma cervicolor",
-        "Inosperma cookei"
+        "Inosperma cervicolor"
       ]
     },
     {
@@ -1504,7 +1487,6 @@
       "matchSpecies": [
         "Marasmius bulliardii",
         "Marasmius cohaerens",
-        "Marasmius collinus",
         "Marasmius oreades",
         "Marasmius rotula",
         "Marasmius scorodonius",
@@ -1779,7 +1761,6 @@
       "value": "Pleurotus",
       "matchSpecies": [
         "Pleurotus dryinus",
-        "Pleurotus eryngii var. laserpitii",
         "Pleurotus ostreatus"
       ]
     },
@@ -2190,14 +2171,6 @@
       "value": "Tephrocybe",
       "matchSpecies": [
         "Tephrocybe rancida"
-      ]
-    },
-    {
-      "type": "genus",
-      "value": "Thaxterogaster",
-      "matchSpecies": [
-        "Cortinarius montanus",
-        "Thaxterogaster montanus"
       ]
     },
     {
@@ -2816,14 +2789,6 @@
     },
     {
       "type": "species",
-      "value": "Aureonarius neocallisteus",
-      "matchSpecies": [
-        "Aureonarius neocallisteus",
-        "Cortinarius neocallisteus"
-      ]
-    },
-    {
-      "type": "species",
       "value": "Auricularia auricula-judae",
       "matchSpecies": [
         "Auricularia auricula-judae",
@@ -3012,13 +2977,6 @@
       "matchSpecies": [
         "Boletus fechtneri",
         "Butyriboletus fechtneri"
-      ]
-    },
-    {
-      "type": "species",
-      "value": "Callistosporium luteo-olivaceum",
-      "matchSpecies": [
-        "Callistosporium luteo-olivaceum"
       ]
     },
     {
@@ -3828,22 +3786,6 @@
       "value": "Cortinarius malicorius",
       "matchSpecies": [
         "Cortinarius malicorius"
-      ]
-    },
-    {
-      "type": "species",
-      "value": "Cortinarius montanus",
-      "matchSpecies": [
-        "Cortinarius montanus",
-        "Thaxterogaster montanus"
-      ]
-    },
-    {
-      "type": "species",
-      "value": "Cortinarius neocallisteus",
-      "matchSpecies": [
-        "Aureonarius neocallisteus",
-        "Cortinarius neocallisteus"
       ]
     },
     {
@@ -4848,14 +4790,6 @@
     },
     {
       "type": "species",
-      "value": "Inocybe cookei",
-      "matchSpecies": [
-        "Inocybe cookei",
-        "Inosperma cookei"
-      ]
-    },
-    {
-      "type": "species",
       "value": "Inocybe corydalina",
       "matchSpecies": [
         "Inocybe corydalina"
@@ -4912,14 +4846,6 @@
       "matchSpecies": [
         "Inocybe cervicolor",
         "Inosperma cervicolor"
-      ]
-    },
-    {
-      "type": "species",
-      "value": "Inosperma cookei",
-      "matchSpecies": [
-        "Inocybe cookei",
-        "Inosperma cookei"
       ]
     },
     {
@@ -5630,13 +5556,6 @@
     },
     {
       "type": "species",
-      "value": "Marasmius collinus",
-      "matchSpecies": [
-        "Marasmius collinus"
-      ]
-    },
-    {
-      "type": "species",
       "value": "Marasmius oreades",
       "matchSpecies": [
         "Marasmius oreades"
@@ -6091,13 +6010,6 @@
       "value": "Pleurotus dryinus",
       "matchSpecies": [
         "Pleurotus dryinus"
-      ]
-    },
-    {
-      "type": "species",
-      "value": "Pleurotus eryngii var. laserpitii",
-      "matchSpecies": [
-        "Pleurotus eryngii var. laserpitii"
       ]
     },
     {
@@ -7104,14 +7016,6 @@
     },
     {
       "type": "species",
-      "value": "Thaxterogaster montanus",
-      "matchSpecies": [
-        "Cortinarius montanus",
-        "Thaxterogaster montanus"
-      ]
-    },
-    {
-      "type": "species",
       "value": "Thelephora palmata",
       "matchSpecies": [
         "Thelephora palmata"
@@ -7703,13 +7607,6 @@
     },
     {
       "type": "famiglia",
-      "value": "Callistosporiaceae",
-      "matchSpecies": [
-        "Callistosporium luteo-olivaceum"
-      ]
-    },
-    {
-      "type": "famiglia",
       "value": "Caloscyphaceae",
       "matchSpecies": [
         "Caloscypha fulgens"
@@ -7776,7 +7673,6 @@
       "matchSpecies": [
         "Aureonarius callisteus",
         "Aureonarius limonius",
-        "Aureonarius neocallisteus",
         "Calonarius atrovirens",
         "Calonarius elegantior",
         "Calonarius meinhardii",
@@ -7797,8 +7693,6 @@
         "Cortinarius largus",
         "Cortinarius limonius",
         "Cortinarius malicorius",
-        "Cortinarius montanus",
-        "Cortinarius neocallisteus",
         "Cortinarius odorifer",
         "Cortinarius orellanoides",
         "Cortinarius orellanoides var. speciosissimus",
@@ -7820,8 +7714,7 @@
         "Cystinarius crassus",
         "Hygronarius renidens",
         "Phlegmacium percome",
-        "Rozites caperatus",
-        "Thaxterogaster montanus"
+        "Rozites caperatus"
       ]
     },
     {
@@ -8103,7 +7996,6 @@
       "matchSpecies": [
         "Inocybe calamistrata",
         "Inocybe cervicolor",
-        "Inocybe cookei",
         "Inocybe corydalina",
         "Inocybe fastigiata",
         "Inocybe fibrosa",
@@ -8112,7 +8004,6 @@
         "Inocybe rimosa",
         "Inosperma calamistratum",
         "Inosperma cervicolor",
-        "Inosperma cookei",
         "Pseudosperma rimosum"
       ]
     },
@@ -8192,7 +8083,6 @@
       "matchSpecies": [
         "Marasmius bulliardii",
         "Marasmius cohaerens",
-        "Marasmius collinus",
         "Marasmius oreades",
         "Marasmius rotula",
         "Marasmius wynneae"
@@ -8363,7 +8253,6 @@
       "value": "Pleurotaceae",
       "matchSpecies": [
         "Pleurotus dryinus",
-        "Pleurotus eryngii var. laserpitii",
         "Pleurotus ostreatus"
       ]
     },
@@ -8799,13 +8688,11 @@
         "Asterophora parasitica",
         "Aureonarius callisteus",
         "Aureonarius limonius",
-        "Aureonarius neocallisteus",
         "Baeospora myosura",
         "Bolbitius titubans",
         "Bolbitius vitellinus",
         "Bovista plumbea",
         "Bovistella utriformis",
-        "Callistosporium luteo-olivaceum",
         "Calocybe gambosa",
         "Calonarius atrovirens",
         "Calonarius elegantior",
@@ -8885,8 +8772,6 @@
         "Cortinarius largus",
         "Cortinarius limonius",
         "Cortinarius malicorius",
-        "Cortinarius montanus",
-        "Cortinarius neocallisteus",
         "Cortinarius odorifer",
         "Cortinarius orellanoides",
         "Cortinarius orellanoides var. speciosissimus",
@@ -8963,7 +8848,6 @@
         "Infundibulicybe gibba",
         "Inocybe calamistrata",
         "Inocybe cervicolor",
-        "Inocybe cookei",
         "Inocybe corydalina",
         "Inocybe fastigiata",
         "Inocybe fibrosa",
@@ -8972,7 +8856,6 @@
         "Inocybe rimosa",
         "Inosperma calamistratum",
         "Inosperma cervicolor",
-        "Inosperma cookei",
         "Kuehneromyces mutabilis",
         "Laccaria affinis",
         "Laccaria amethystina",
@@ -9027,7 +8910,6 @@
         "Macropsalliota americana",
         "Marasmius bulliardii",
         "Marasmius cohaerens",
-        "Marasmius collinus",
         "Marasmius oreades",
         "Marasmius rotula",
         "Marasmius scorodonius",
@@ -9071,7 +8953,6 @@
         "Pholiotina aporos",
         "Pholiotina teneroides",
         "Pleurotus dryinus",
-        "Pleurotus eryngii var. laserpitii",
         "Pleurotus ostreatus",
         "Pluteus atromarginatus",
         "Pluteus cervinus",
@@ -9107,7 +8988,6 @@
         "Stropharia rugosoannulata f. lutea",
         "Stropharia semiglobata",
         "Tephrocybe rancida",
-        "Thaxterogaster montanus",
         "Tricholoma aurantium",
         "Tricholoma bufonium",
         "Tricholoma inamoenum",
@@ -9656,7 +9536,6 @@
         "Asterophora parasitica",
         "Aureonarius callisteus",
         "Aureonarius limonius",
-        "Aureonarius neocallisteus",
         "Auricularia auricula-judae",
         "Auricularia mesenterica",
         "Auriscalpium vulgare",
@@ -9680,7 +9559,6 @@
         "Bovista plumbea",
         "Bovistella utriformis",
         "Butyriboletus fechtneri",
-        "Callistosporium luteo-olivaceum",
         "Caloboletus calopus",
         "Caloboletus radicans",
         "Calocybe gambosa",
@@ -9780,8 +9658,6 @@
         "Cortinarius largus",
         "Cortinarius limonius",
         "Cortinarius malicorius",
-        "Cortinarius montanus",
-        "Cortinarius neocallisteus",
         "Cortinarius odorifer",
         "Cortinarius orellanoides",
         "Cortinarius orellanoides var. speciosissimus",
@@ -9899,7 +9775,6 @@
         "Infundibulicybe gibba",
         "Inocybe calamistrata",
         "Inocybe cervicolor",
-        "Inocybe cookei",
         "Inocybe corydalina",
         "Inocybe fastigiata",
         "Inocybe fibrosa",
@@ -9908,7 +9783,6 @@
         "Inocybe rimosa",
         "Inosperma calamistratum",
         "Inosperma cervicolor",
-        "Inosperma cookei",
         "Irpex lacteus",
         "Ischnoderma benzoinum",
         "Kuehneromyces mutabilis",
@@ -10000,7 +9874,6 @@
         "Macropsalliota americana",
         "Marasmius bulliardii",
         "Marasmius cohaerens",
-        "Marasmius collinus",
         "Marasmius oreades",
         "Marasmius rotula",
         "Marasmius scorodonius",
@@ -10061,7 +9934,6 @@
         "Phylloporus rhodoxanthus",
         "Piptoporus betulinus",
         "Pleurotus dryinus",
-        "Pleurotus eryngii var. laserpitii",
         "Pleurotus ostreatus",
         "Pluteus atromarginatus",
         "Pluteus cervinus",
@@ -10192,7 +10064,6 @@
         "Suillus viscidus",
         "Tapinella atrotomentosa",
         "Tephrocybe rancida",
-        "Thaxterogaster montanus",
         "Thelephora palmata",
         "Trametes cinnabarina",
         "Trametes versicolor",
@@ -10465,7 +10336,6 @@
         "Asterophora parasitica",
         "Aureonarius callisteus",
         "Aureonarius limonius",
-        "Aureonarius neocallisteus",
         "Auricularia auricula-judae",
         "Auricularia mesenterica",
         "Auriscalpium vulgare",
@@ -10489,7 +10359,6 @@
         "Bovista plumbea",
         "Bovistella utriformis",
         "Butyriboletus fechtneri",
-        "Callistosporium luteo-olivaceum",
         "Caloboletus calopus",
         "Caloboletus radicans",
         "Calocera viscosa",
@@ -10591,8 +10460,6 @@
         "Cortinarius largus",
         "Cortinarius limonius",
         "Cortinarius malicorius",
-        "Cortinarius montanus",
-        "Cortinarius neocallisteus",
         "Cortinarius odorifer",
         "Cortinarius orellanoides",
         "Cortinarius orellanoides var. speciosissimus",
@@ -10712,7 +10579,6 @@
         "Infundibulicybe gibba",
         "Inocybe calamistrata",
         "Inocybe cervicolor",
-        "Inocybe cookei",
         "Inocybe corydalina",
         "Inocybe fastigiata",
         "Inocybe fibrosa",
@@ -10721,7 +10587,6 @@
         "Inocybe rimosa",
         "Inosperma calamistratum",
         "Inosperma cervicolor",
-        "Inosperma cookei",
         "Irpex lacteus",
         "Ischnoderma benzoinum",
         "Kuehneromyces mutabilis",
@@ -10813,7 +10678,6 @@
         "Macropsalliota americana",
         "Marasmius bulliardii",
         "Marasmius cohaerens",
-        "Marasmius collinus",
         "Marasmius oreades",
         "Marasmius rotula",
         "Marasmius scorodonius",
@@ -10874,7 +10738,6 @@
         "Phylloporus rhodoxanthus",
         "Piptoporus betulinus",
         "Pleurotus dryinus",
-        "Pleurotus eryngii var. laserpitii",
         "Pleurotus ostreatus",
         "Pluteus atromarginatus",
         "Pluteus cervinus",
@@ -11005,7 +10868,6 @@
         "Suillus viscidus",
         "Tapinella atrotomentosa",
         "Tephrocybe rancida",
-        "Thaxterogaster montanus",
         "Thelephora palmata",
         "Trametes cinnabarina",
         "Trametes versicolor",
@@ -11120,7 +10982,6 @@
         "Asterophora parasitica",
         "Aureonarius callisteus",
         "Aureonarius limonius",
-        "Aureonarius neocallisteus",
         "Auricularia auricula-judae",
         "Auricularia mesenterica",
         "Auriscalpium vulgare",
@@ -11145,7 +11006,6 @@
         "Bovista plumbea",
         "Bovistella utriformis",
         "Butyriboletus fechtneri",
-        "Callistosporium luteo-olivaceum",
         "Caloboletus calopus",
         "Caloboletus radicans",
         "Calocera viscosa",
@@ -11252,8 +11112,6 @@
         "Cortinarius largus",
         "Cortinarius limonius",
         "Cortinarius malicorius",
-        "Cortinarius montanus",
-        "Cortinarius neocallisteus",
         "Cortinarius odorifer",
         "Cortinarius orellanoides",
         "Cortinarius orellanoides var. speciosissimus",
@@ -11386,7 +11244,6 @@
         "Infundibulicybe gibba",
         "Inocybe calamistrata",
         "Inocybe cervicolor",
-        "Inocybe cookei",
         "Inocybe corydalina",
         "Inocybe fastigiata",
         "Inocybe fibrosa",
@@ -11395,7 +11252,6 @@
         "Inocybe rimosa",
         "Inosperma calamistratum",
         "Inosperma cervicolor",
-        "Inosperma cookei",
         "Irpex lacteus",
         "Ischnoderma benzoinum",
         "Kuehneromyces mutabilis",
@@ -11489,7 +11345,6 @@
         "Macropsalliota americana",
         "Marasmius bulliardii",
         "Marasmius cohaerens",
-        "Marasmius collinus",
         "Marasmius oreades",
         "Marasmius rotula",
         "Marasmius scorodonius",
@@ -11552,7 +11407,6 @@
         "Phylloporus rhodoxanthus",
         "Piptoporus betulinus",
         "Pleurotus dryinus",
-        "Pleurotus eryngii var. laserpitii",
         "Pleurotus ostreatus",
         "Pluteus atromarginatus",
         "Pluteus cervinus",
@@ -11690,7 +11544,6 @@
         "Tapinella atrotomentosa",
         "Tarzetta cupularis",
         "Tephrocybe rancida",
-        "Thaxterogaster montanus",
         "Thelephora palmata",
         "Tolypocladium capitatum",
         "Trametes cinnabarina",
