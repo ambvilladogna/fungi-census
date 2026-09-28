@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-28T10:08:55.442Z",
-  "totalSpecies": 564,
+  "generatedAt": "2026-09-28T10:18:44.631Z",
+  "totalSpecies": 566,
   "totalSamples": 1681,
   "species": [
     {
@@ -2039,6 +2039,15 @@
     },
     {
       "genus": "Inocybe",
+      "species": "cookei",
+      "fullName": "Inocybe cookei",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Inocybaceae",
+      "authority": "Bres. 1892",
+      "currentName": "Inosperma cookei",
+      "currentAuthority": "(Bres.) Matheny & Esteve-Rav. 2019"
+    },
+    {
+      "genus": "Inocybe",
       "species": "corydalina",
       "fullName": "Inocybe corydalina",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Inocybaceae",
@@ -3104,6 +3113,13 @@
       "fullName": "Pleurotus dryinus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Pleurotaceae",
       "authority": "(Pers.) P. Kumm. 1871"
+    },
+    {
+      "genus": "Pleurotus",
+      "species": "eryngii var. laserpitii",
+      "fullName": "Pleurotus eryngii var. laserpitii",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Pleurotaceae",
+      "authority": "Angeli & Scandurra 2012"
     },
     {
       "genus": "Pleurotus",

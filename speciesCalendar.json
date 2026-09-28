@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-28T10:08:55.540Z",
-  "totalSpecies": 564,
-  "totalSamples": 1859,
+  "generatedAt": "2026-09-28T10:18:44.740Z",
+  "totalSpecies": 566,
+  "totalSamples": 1861,
   "species": [
     {
       "genus": "Flammulina",
@@ -21880,11 +21880,101 @@
       }
     },
     {
+      "genus": "Inocybe",
+      "species": "cookei",
+      "fullName": "Inocybe cookei",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Inocybaceae",
+      "authority": "Bres. 1892",
+      "currentName": "Inosperma cookei",
+      "currentAuthority": "(Bres.) Matheny & Esteve-Rav. 2019",
+      "totalSamples": 1,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "earliestDate": "09-27",
+      "earliestDayOfYear": 270,
+      "earliestSample": {
+        "collectionDate": "2026-09-27",
+        "collector": "Mostra Zootecnoca",
+        "locality": "Zenier, Rovetta",
+        "localityCoordinates": "45.898619, 9.984853",
+        "habitat": "Bosco misto",
+        "determiner": "Flavio Rossi",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "09-27",
+      "latestDayOfYear": 270,
+      "latestSample": {
+        "collectionDate": "2026-09-27",
+        "collector": "Mostra Zootecnoca",
+        "locality": "Zenier, Rovetta",
+        "localityCoordinates": "45.898619, 9.984853",
+        "habitat": "Bosco misto",
+        "determiner": "Flavio Rossi",
+        "_tipo": "raccolto"
+      }
+    },
+    {
       "genus": "Marasmius",
       "species": "collinus",
       "fullName": "Marasmius collinus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Marasmiaceae",
       "authority": "(Scop.) Singer 1942",
+      "totalSamples": 1,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "earliestDate": "09-27",
+      "earliestDayOfYear": 270,
+      "earliestSample": {
+        "collectionDate": "2026-09-27",
+        "collector": "Mostra Zootecnoca",
+        "locality": "Zenier, Rovetta",
+        "localityCoordinates": "45.898619, 9.984853",
+        "habitat": "Bosco misto",
+        "determiner": "Flavio Rossi",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "09-27",
+      "latestDayOfYear": 270,
+      "latestSample": {
+        "collectionDate": "2026-09-27",
+        "collector": "Mostra Zootecnoca",
+        "locality": "Zenier, Rovetta",
+        "localityCoordinates": "45.898619, 9.984853",
+        "habitat": "Bosco misto",
+        "determiner": "Flavio Rossi",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Pleurotus",
+      "species": "eryngii var. laserpitii",
+      "fullName": "Pleurotus eryngii var. laserpitii",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Pleurotaceae",
+      "authority": "Angeli & Scandurra 2012",
       "totalSamples": 1,
       "monthlyCount": [
         0,

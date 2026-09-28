@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T10:08:55.723Z",
+  "generatedAt": "2026-09-28T10:18:44.929Z",
   "corpus": [
     {
       "type": "genus",
@@ -1178,6 +1178,7 @@
       "matchSpecies": [
         "Inocybe calamistrata",
         "Inocybe cervicolor",
+        "Inocybe cookei",
         "Inocybe corydalina",
         "Inocybe fastigiata",
         "Inocybe fibrosa",
@@ -1186,6 +1187,7 @@
         "Inocybe rimosa",
         "Inosperma calamistratum",
         "Inosperma cervicolor",
+        "Inosperma cookei",
         "Pseudosperma rimosum"
       ]
     },
@@ -1195,8 +1197,10 @@
       "matchSpecies": [
         "Inocybe calamistrata",
         "Inocybe cervicolor",
+        "Inocybe cookei",
         "Inosperma calamistratum",
-        "Inosperma cervicolor"
+        "Inosperma cervicolor",
+        "Inosperma cookei"
       ]
     },
     {
@@ -1775,6 +1779,7 @@
       "value": "Pleurotus",
       "matchSpecies": [
         "Pleurotus dryinus",
+        "Pleurotus eryngii var. laserpitii",
         "Pleurotus ostreatus"
       ]
     },
@@ -4843,6 +4848,14 @@
     },
     {
       "type": "species",
+      "value": "Inocybe cookei",
+      "matchSpecies": [
+        "Inocybe cookei",
+        "Inosperma cookei"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Inocybe corydalina",
       "matchSpecies": [
         "Inocybe corydalina"
@@ -4899,6 +4912,14 @@
       "matchSpecies": [
         "Inocybe cervicolor",
         "Inosperma cervicolor"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Inosperma cookei",
+      "matchSpecies": [
+        "Inocybe cookei",
+        "Inosperma cookei"
       ]
     },
     {
@@ -6070,6 +6091,13 @@
       "value": "Pleurotus dryinus",
       "matchSpecies": [
         "Pleurotus dryinus"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Pleurotus eryngii var. laserpitii",
+      "matchSpecies": [
+        "Pleurotus eryngii var. laserpitii"
       ]
     },
     {
@@ -8075,6 +8103,7 @@
       "matchSpecies": [
         "Inocybe calamistrata",
         "Inocybe cervicolor",
+        "Inocybe cookei",
         "Inocybe corydalina",
         "Inocybe fastigiata",
         "Inocybe fibrosa",
@@ -8083,6 +8112,7 @@
         "Inocybe rimosa",
         "Inosperma calamistratum",
         "Inosperma cervicolor",
+        "Inosperma cookei",
         "Pseudosperma rimosum"
       ]
     },
@@ -8333,6 +8363,7 @@
       "value": "Pleurotaceae",
       "matchSpecies": [
         "Pleurotus dryinus",
+        "Pleurotus eryngii var. laserpitii",
         "Pleurotus ostreatus"
       ]
     },
@@ -8932,6 +8963,7 @@
         "Infundibulicybe gibba",
         "Inocybe calamistrata",
         "Inocybe cervicolor",
+        "Inocybe cookei",
         "Inocybe corydalina",
         "Inocybe fastigiata",
         "Inocybe fibrosa",
@@ -8940,6 +8972,7 @@
         "Inocybe rimosa",
         "Inosperma calamistratum",
         "Inosperma cervicolor",
+        "Inosperma cookei",
         "Kuehneromyces mutabilis",
         "Laccaria affinis",
         "Laccaria amethystina",
@@ -9038,6 +9071,7 @@
         "Pholiotina aporos",
         "Pholiotina teneroides",
         "Pleurotus dryinus",
+        "Pleurotus eryngii var. laserpitii",
         "Pleurotus ostreatus",
         "Pluteus atromarginatus",
         "Pluteus cervinus",
@@ -9865,6 +9899,7 @@
         "Infundibulicybe gibba",
         "Inocybe calamistrata",
         "Inocybe cervicolor",
+        "Inocybe cookei",
         "Inocybe corydalina",
         "Inocybe fastigiata",
         "Inocybe fibrosa",
@@ -9873,6 +9908,7 @@
         "Inocybe rimosa",
         "Inosperma calamistratum",
         "Inosperma cervicolor",
+        "Inosperma cookei",
         "Irpex lacteus",
         "Ischnoderma benzoinum",
         "Kuehneromyces mutabilis",
@@ -10025,6 +10061,7 @@
         "Phylloporus rhodoxanthus",
         "Piptoporus betulinus",
         "Pleurotus dryinus",
+        "Pleurotus eryngii var. laserpitii",
         "Pleurotus ostreatus",
         "Pluteus atromarginatus",
         "Pluteus cervinus",
@@ -10675,6 +10712,7 @@
         "Infundibulicybe gibba",
         "Inocybe calamistrata",
         "Inocybe cervicolor",
+        "Inocybe cookei",
         "Inocybe corydalina",
         "Inocybe fastigiata",
         "Inocybe fibrosa",
@@ -10683,6 +10721,7 @@
         "Inocybe rimosa",
         "Inosperma calamistratum",
         "Inosperma cervicolor",
+        "Inosperma cookei",
         "Irpex lacteus",
         "Ischnoderma benzoinum",
         "Kuehneromyces mutabilis",
@@ -10835,6 +10874,7 @@
         "Phylloporus rhodoxanthus",
         "Piptoporus betulinus",
         "Pleurotus dryinus",
+        "Pleurotus eryngii var. laserpitii",
         "Pleurotus ostreatus",
         "Pluteus atromarginatus",
         "Pluteus cervinus",
@@ -11346,6 +11386,7 @@
         "Infundibulicybe gibba",
         "Inocybe calamistrata",
         "Inocybe cervicolor",
+        "Inocybe cookei",
         "Inocybe corydalina",
         "Inocybe fastigiata",
         "Inocybe fibrosa",
@@ -11354,6 +11395,7 @@
         "Inocybe rimosa",
         "Inosperma calamistratum",
         "Inosperma cervicolor",
+        "Inosperma cookei",
         "Irpex lacteus",
         "Ischnoderma benzoinum",
         "Kuehneromyces mutabilis",
@@ -11510,6 +11552,7 @@
         "Phylloporus rhodoxanthus",
         "Piptoporus betulinus",
         "Pleurotus dryinus",
+        "Pleurotus eryngii var. laserpitii",
         "Pleurotus ostreatus",
         "Pluteus atromarginatus",
         "Pluteus cervinus",
