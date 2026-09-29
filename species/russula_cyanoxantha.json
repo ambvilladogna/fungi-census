@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-28",
+      "collector": "Pierino Bigoni",
+      "locality": "Valzelli, Monte Pora, Castione della Presolana",
+      "localityCoordinates": "",
+      "habitat": "Abete rosso e latifoglie",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-09-20",
       "collector": "Pietro Centenari",
       "locality": "Strada Falecchio - Camasone - San Fermo, Songavazzo, Bergamo",
@@ -196,14 +204,6 @@
       "localityCoordinates": "45.970802, 9.963785",
       "habitat": "Bosco misto abete bianco e abete rosso",
       "determiner": "Pierino Bigoni"
-    },
-    {
-      "collectionDate": "2025-07-01",
-      "collector": "Fabio Locatelli",
-      "locality": "Valbondione",
-      "localityCoordinates": "46.034193, 10.005855",
-      "habitat": "Faggio",
-      "determiner": "Fabio Locatelli"
     }
   ],
   "campioniExsiccata": [],
@@ -230,13 +230,13 @@
         "giu": 3
       },
       {
-        "lug": 8
+        "lug": 7
       },
       {
         "ago": 8
       },
       {
-        "set": 5
+        "set": 6
       },
       {
         "ott": 1

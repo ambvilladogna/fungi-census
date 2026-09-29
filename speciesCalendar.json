@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-28T11:04:33.840Z",
-  "totalSpecies": 560,
-  "totalSamples": 1855,
+  "generatedAt": "2026-09-29T00:13:58.669Z",
+  "totalSpecies": 561,
+  "totalSamples": 1886,
   "species": [
     {
       "genus": "Flammulina",
@@ -2455,7 +2455,7 @@
       "fullName": "Pluteus cervinus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Pluteaceae",
       "authority": "(Schaeff.) P. Kumm. 1871",
-      "totalSamples": 5,
+      "totalSamples": 6,
       "monthlyCount": [
         0,
         0,
@@ -2465,7 +2465,7 @@
         0,
         0,
         0,
-        1,
+        2,
         0,
         2,
         0
@@ -2899,7 +2899,7 @@
       "fullName": "Macrolepiota procera",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
       "authority": "(Scop.) Singer 1948",
-      "totalSamples": 24,
+      "totalSamples": 25,
       "monthlyCount": [
         0,
         0,
@@ -2909,7 +2909,7 @@
         2,
         7,
         6,
-        5,
+        6,
         2,
         0,
         0
@@ -3255,7 +3255,7 @@
       "fullName": "Suillus grevillei",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Suillaceae",
       "authority": "(Klotzsch) Singer 1945",
-      "totalSamples": 11,
+      "totalSamples": 12,
       "monthlyCount": [
         0,
         0,
@@ -3265,7 +3265,7 @@
         1,
         0,
         4,
-        5,
+        6,
         0,
         0,
         1
@@ -3345,7 +3345,7 @@
       "authority": "Pers. 1795",
       "currentName": "Neoboletus erythropus",
       "currentAuthority": "(Pers.) Bertolini & Papetti 2026",
-      "totalSamples": 12,
+      "totalSamples": 13,
       "monthlyCount": [
         0,
         0,
@@ -3355,7 +3355,7 @@
         2,
         1,
         3,
-        4,
+        5,
         1,
         1,
         0
@@ -3837,7 +3837,7 @@
       "fullName": "Russula integra",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
       "authority": "(L.) Fr. 1838",
-      "totalSamples": 20,
+      "totalSamples": 21,
       "monthlyCount": [
         0,
         0,
@@ -3847,7 +3847,7 @@
         2,
         5,
         7,
-        4,
+        5,
         2,
         0,
         0
@@ -4737,9 +4737,9 @@
         0,
         0,
         3,
+        7,
         8,
-        8,
-        5,
+        6,
         1,
         0,
         0
@@ -5131,7 +5131,7 @@
       "fullName": "Russula vesca",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
       "authority": "Fr. 1836",
-      "totalSamples": 9,
+      "totalSamples": 10,
       "monthlyCount": [
         0,
         0,
@@ -5141,7 +5141,7 @@
         1,
         4,
         4,
-        0,
+        1,
         0,
         0,
         0
@@ -5157,15 +5157,15 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "08-26",
-      "latestDayOfYear": 238,
+      "latestDate": "09-28",
+      "latestDayOfYear": 271,
       "latestSample": {
-        "collectionDate": "2025-08-26",
-        "collector": "Renato Depressi",
-        "locality": "Strada per le baite del Moschel, Oltressenda Alta",
-        "localityCoordinates": "45.93408, 10.00331",
-        "habitat": "Bosco misto",
-        "determiner": "Renato Depressi",
+        "collectionDate": "2026-09-28",
+        "collector": "Pierino Bigoni",
+        "locality": "Valzelli, Monte Pora, Castione della Presolana",
+        "localityCoordinates": "",
+        "habitat": "Abete rosso e latifoglie",
+        "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
     },
@@ -6421,7 +6421,7 @@
       "fullName": "Clitopilus prunulus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Entolomataceae",
       "authority": "(Scop.) P. Kumm. 1871",
-      "totalSamples": 20,
+      "totalSamples": 21,
       "monthlyCount": [
         0,
         0,
@@ -6431,7 +6431,7 @@
         0,
         3,
         8,
-        7,
+        8,
         2,
         0,
         0
@@ -6601,7 +6601,7 @@
       "fullName": "Russula albonigra",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
       "authority": "(Krombh.) Fr. 1874",
-      "totalSamples": 3,
+      "totalSamples": 4,
       "monthlyCount": [
         0,
         0,
@@ -6611,7 +6611,7 @@
         0,
         2,
         1,
-        0,
+        1,
         0,
         0,
         0
@@ -6627,14 +6627,14 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "08-26",
-      "latestDayOfYear": 238,
+      "latestDate": "09-28",
+      "latestDayOfYear": 271,
       "latestSample": {
-        "collectionDate": "2025-08-26",
+        "collectionDate": "2026-09-28",
         "collector": "Pierino Bigoni",
-        "locality": "Strada per le baite del Moschel, Oltressenda Alta",
-        "localityCoordinates": "45.93408, 10.00331",
-        "habitat": "Bosco misto",
+        "locality": "Valzelli, Monte Pora, Castione della Presolana",
+        "localityCoordinates": "",
+        "habitat": "Abete rosso e latifoglie",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
@@ -7045,7 +7045,7 @@
       "fullName": "Porphyrellus porphyrosporus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
       "authority": "(Fr.) E.-J. Gilbert 1931",
-      "totalSamples": 7,
+      "totalSamples": 8,
       "monthlyCount": [
         0,
         0,
@@ -7055,7 +7055,7 @@
         0,
         1,
         2,
-        1,
+        2,
         2,
         1,
         0
@@ -8515,7 +8515,7 @@
       "fullName": "Amanita muscaria",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
       "authority": "(L.) Lam. 1783",
-      "totalSamples": 13,
+      "totalSamples": 14,
       "monthlyCount": [
         0,
         0,
@@ -8525,7 +8525,7 @@
         0,
         0,
         3,
-        6,
+        7,
         3,
         1,
         0
@@ -9583,7 +9583,7 @@
       "authority": "(Alb. & Schwein.) P. Kumm. 1871",
       "currentName": "Rhodocollybia maculata",
       "currentAuthority": "(Alb. & Schwein.) Singer 1939",
-      "totalSamples": 6,
+      "totalSamples": 7,
       "monthlyCount": [
         0,
         0,
@@ -9593,7 +9593,7 @@
         0,
         0,
         3,
-        3,
+        4,
         0,
         0,
         0
@@ -10475,7 +10475,7 @@
       "fullName": "Russula mustelina",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
       "authority": "Fr. 1838",
-      "totalSamples": 1,
+      "totalSamples": 2,
       "monthlyCount": [
         0,
         0,
@@ -10485,7 +10485,7 @@
         0,
         0,
         1,
-        0,
+        1,
         0,
         0,
         0
@@ -10501,15 +10501,15 @@
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       },
-      "latestDate": "08-18",
-      "latestDayOfYear": 230,
+      "latestDate": "09-28",
+      "latestDayOfYear": 271,
       "latestSample": {
-        "collectionDate": "2026-08-18",
-        "collector": "Fabio Locatelli",
-        "locality": "Schilpario, pista di fondo",
-        "localityCoordinates": "46.008466, 10.164438",
-        "habitat": "Abetaia",
-        "determiner": "Fabio Locatelli",
+        "collectionDate": "2026-09-28",
+        "collector": "Pierino Bigoni",
+        "locality": "Valzelli, Monte Pora, Castione della Presolana",
+        "localityCoordinates": "",
+        "habitat": "Abete rosso e latifoglie",
+        "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
     },
@@ -11591,7 +11591,7 @@
       "fullName": "Russula queletii",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
       "authority": "Fr. 1872",
-      "totalSamples": 7,
+      "totalSamples": 8,
       "monthlyCount": [
         0,
         0,
@@ -11601,7 +11601,7 @@
         0,
         0,
         5,
-        0,
+        1,
         2,
         0,
         0
@@ -12745,7 +12745,7 @@
       "fullName": "Chalciporus piperatus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
       "authority": "(Bull.) Bataille 1908",
-      "totalSamples": 5,
+      "totalSamples": 6,
       "monthlyCount": [
         0,
         0,
@@ -12755,7 +12755,7 @@
         0,
         0,
         2,
-        3,
+        4,
         0,
         0,
         0
@@ -12771,14 +12771,14 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "09-22",
-      "latestDayOfYear": 265,
+      "latestDate": "09-28",
+      "latestDayOfYear": 271,
       "latestSample": {
-        "collectionDate": "2025-09-22",
-        "collector": "Antonio Guana",
-        "locality": "Selva d'Agnone, Valgoglio",
-        "localityCoordinates": "45.982797, 9.891481",
-        "habitat": "Bosco misto",
+        "collectionDate": "2026-09-28",
+        "collector": "Pierino Bigoni",
+        "locality": "Valzelli, Monte Pora, Castione della Presolana",
+        "localityCoordinates": "",
+        "habitat": "Abete rosso e latifoglie",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
@@ -13235,7 +13235,7 @@
       "fullName": "Lepiota clypeolaria",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
       "authority": "(Bull.) P. Kumm. 1871",
-      "totalSamples": 1,
+      "totalSamples": 2,
       "monthlyCount": [
         0,
         0,
@@ -13245,7 +13245,7 @@
         0,
         0,
         1,
-        0,
+        1,
         0,
         0,
         0
@@ -13261,14 +13261,14 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "08-27",
-      "latestDayOfYear": 239,
+      "latestDate": "09-28",
+      "latestDayOfYear": 271,
       "latestSample": {
-        "collectionDate": "2026-08-27",
+        "collectionDate": "2026-09-28",
         "collector": "Pierino Bigoni",
-        "locality": "Spiazzi, Gromo",
-        "localityCoordinates": "45.970802, 9.963785",
-        "habitat": "Bosco misto abete bianco e abete rosso",
+        "locality": "Valzelli, Monte Pora, Castione della Presolana",
+        "localityCoordinates": "",
+        "habitat": "Giardino",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
@@ -14753,7 +14753,7 @@
       "authority": "(Fr.) Fr. 1838",
       "currentName": "Calonarius elegantior",
       "currentAuthority": "(Fr.) Niskanen & Liimat. 2022",
-      "totalSamples": 2,
+      "totalSamples": 3,
       "monthlyCount": [
         0,
         0,
@@ -14763,7 +14763,7 @@
         0,
         0,
         1,
-        1,
+        2,
         0,
         0,
         0
@@ -14779,15 +14779,15 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "09-13",
-      "latestDayOfYear": 256,
+      "latestDate": "09-28",
+      "latestDayOfYear": 271,
       "latestSample": {
-        "collectionDate": "2026-09-13",
+        "collectionDate": "2026-09-28",
         "collector": "Pierino Bigoni",
-        "locality": "Piazza di Golla, Premolo",
-        "localityCoordinates": "45.885467, 9.846477",
-        "habitat": "Bosco misto",
-        "determiner": "Fabio Locatelli",
+        "locality": "Valzelli, Monte Pora, Castione della Presolana",
+        "localityCoordinates": "",
+        "habitat": "Abete rosso e latifoglie",
+        "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
     },
@@ -15645,7 +15645,7 @@
       "authority": "(Fr.) E.-J. Gilbert 1931",
       "currentName": "Imleria badia",
       "currentAuthority": "(Fr.) Vizzini 2014",
-      "totalSamples": 13,
+      "totalSamples": 14,
       "monthlyCount": [
         0,
         0,
@@ -15655,7 +15655,7 @@
         0,
         0,
         1,
-        8,
+        9,
         2,
         2,
         0
@@ -15691,7 +15691,7 @@
       "authority": "(Fr.) Quél. 1888",
       "currentName": "Xerocomellus pruinatus",
       "currentAuthority": "(Fr.) Šutara 2008",
-      "totalSamples": 2,
+      "totalSamples": 3,
       "monthlyCount": [
         0,
         0,
@@ -15701,7 +15701,7 @@
         0,
         0,
         1,
-        1,
+        2,
         0,
         0,
         0
@@ -15717,14 +15717,14 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "09-15",
-      "latestDayOfYear": 258,
+      "latestDate": "09-28",
+      "latestDayOfYear": 271,
       "latestSample": {
-        "collectionDate": "2025-09-15",
-        "collector": "Angelo Fraschina",
-        "locality": "Spiazzi, Gromo",
-        "localityCoordinates": "45.970802, 9.963785",
-        "habitat": "Bosco misto abete bianco e abete rosso",
+        "collectionDate": "2026-09-28",
+        "collector": "Pierino Bigoni",
+        "locality": "Valzelli, Monte Pora, Castione della Presolana",
+        "localityCoordinates": "",
+        "habitat": "Abete rosso e latifoglie",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
@@ -15869,7 +15869,7 @@
       "fullName": "Clavulina coralloides",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Cantharellales > famiglia: Hydnaceae",
       "authority": "(L.) J. Schröt. 1888",
-      "totalSamples": 5,
+      "totalSamples": 6,
       "monthlyCount": [
         0,
         0,
@@ -15879,7 +15879,7 @@
         0,
         0,
         0,
-        4,
+        5,
         1,
         0,
         0
@@ -15915,7 +15915,7 @@
       "authority": "(Holmsk.) J. Schröt. 1888",
       "currentName": "Clavulina coralloides",
       "currentAuthority": "(L.) J. Schröt. 1888",
-      "totalSamples": 5,
+      "totalSamples": 6,
       "monthlyCount": [
         0,
         0,
@@ -15925,7 +15925,7 @@
         0,
         0,
         0,
-        4,
+        5,
         1,
         0,
         0
@@ -15959,7 +15959,7 @@
       "fullName": "Cortinarius violaceus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
       "authority": "(L.) Gray 1821",
-      "totalSamples": 4,
+      "totalSamples": 5,
       "monthlyCount": [
         0,
         0,
@@ -15969,7 +15969,7 @@
         0,
         0,
         0,
-        4,
+        5,
         0,
         0,
         0
@@ -15985,14 +15985,14 @@
         "determiner": "Renato Depressi",
         "_tipo": "raccolto"
       },
-      "latestDate": "09-22",
-      "latestDayOfYear": 265,
+      "latestDate": "09-28",
+      "latestDayOfYear": 271,
       "latestSample": {
-        "collectionDate": "2025-09-22",
-        "collector": "Antonio Guana",
-        "locality": "Selva d'Agnone, Valgoglio",
-        "localityCoordinates": "45.982797, 9.891481",
-        "habitat": "Bosco misto",
+        "collectionDate": "2026-09-28",
+        "collector": "Pierino Bigoni",
+        "locality": "Valzelli, Monte Pora, Castione della Presolana",
+        "localityCoordinates": "",
+        "habitat": "Abete rosso e latifoglie",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
@@ -16401,7 +16401,7 @@
       "fullName": "Cortinarius variecolor",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
       "authority": "(Pers.) Fr. 1838",
-      "totalSamples": 8,
+      "totalSamples": 9,
       "monthlyCount": [
         0,
         0,
@@ -16411,7 +16411,7 @@
         0,
         0,
         0,
-        7,
+        8,
         1,
         0,
         0
@@ -16667,7 +16667,7 @@
       "fullName": "Lactarius deterrimus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
       "authority": "Gröger 1968",
-      "totalSamples": 11,
+      "totalSamples": 12,
       "monthlyCount": [
         0,
         0,
@@ -16677,7 +16677,7 @@
         0,
         0,
         0,
-        8,
+        9,
         3,
         0,
         0
@@ -17511,7 +17511,7 @@
       "fullName": "Amanita submembranacea",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
       "authority": "(Bon) Gröger 1979",
-      "totalSamples": 2,
+      "totalSamples": 3,
       "monthlyCount": [
         0,
         0,
@@ -17521,7 +17521,7 @@
         0,
         0,
         0,
-        2,
+        3,
         0,
         0,
         0
@@ -17537,14 +17537,14 @@
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       },
-      "latestDate": "09-21",
-      "latestDayOfYear": 264,
+      "latestDate": "09-28",
+      "latestDayOfYear": 271,
       "latestSample": {
-        "collectionDate": "2026-09-21",
-        "collector": "Pietro Centenari",
-        "locality": "Camasone, Songavazzo, Bergamo",
-        "localityCoordinates": "45.867870, 10.020890",
-        "habitat": "Abete rosso",
+        "collectionDate": "2026-09-28",
+        "collector": "Pierino Bigoni",
+        "locality": "Valzelli, Monte Pora, Castione della Presolana",
+        "localityCoordinates": "",
+        "habitat": "Abete rosso e latifoglie",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
@@ -18311,7 +18311,7 @@
       "fullName": "Clitocybe nebularis",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Clitocybaceae",
       "authority": "(Batsch) P. Kumm. 1871",
-      "totalSamples": 5,
+      "totalSamples": 6,
       "monthlyCount": [
         0,
         0,
@@ -18321,7 +18321,7 @@
         0,
         0,
         0,
-        2,
+        3,
         2,
         1,
         0
@@ -19251,7 +19251,7 @@
       "fullName": "Tricholoma vaccinum",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Tricholomataceae",
       "authority": "(Schaeff.) P. Kumm. 1871",
-      "totalSamples": 4,
+      "totalSamples": 5,
       "monthlyCount": [
         0,
         0,
@@ -19261,7 +19261,7 @@
         0,
         0,
         0,
-        1,
+        2,
         2,
         1,
         0
@@ -20099,7 +20099,7 @@
       "fullName": "Mycena galericulata",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Mycenaceae",
       "authority": "(Scop.) Gray 1821",
-      "totalSamples": 2,
+      "totalSamples": 3,
       "monthlyCount": [
         0,
         0,
@@ -20109,7 +20109,7 @@
         0,
         0,
         0,
-        1,
+        2,
         0,
         1,
         0
@@ -20143,7 +20143,7 @@
       "fullName": "Pholiota squarrosa",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Strophariaceae",
       "authority": "(Vahl) P. Kumm. 1871",
-      "totalSamples": 1,
+      "totalSamples": 2,
       "monthlyCount": [
         0,
         0,
@@ -20153,7 +20153,7 @@
         0,
         0,
         0,
-        1,
+        2,
         0,
         0,
         0
@@ -20169,14 +20169,14 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "09-15",
-      "latestDayOfYear": 258,
+      "latestDate": "09-28",
+      "latestDayOfYear": 271,
       "latestSample": {
-        "collectionDate": "2025-09-15",
-        "collector": "Antonio Guana",
-        "locality": "Colle Palazzo, Oltressenda Alta",
-        "localityCoordinates": "45.938839, 9.973808",
-        "habitat": "Bosco misto",
+        "collectionDate": "2026-09-28",
+        "collector": "Pierino Bigoni",
+        "locality": "Valzelli, Monte Pora, Castione della Presolana",
+        "localityCoordinates": "",
+        "habitat": "Abete rosso e latifoglie",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
@@ -21261,7 +21261,7 @@
       "fullName": "Paxillus involutus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Paxillaceae",
       "authority": "(Batsch) Fr. 1838",
-      "totalSamples": 1,
+      "totalSamples": 2,
       "monthlyCount": [
         0,
         0,
@@ -21271,7 +21271,7 @@
         0,
         0,
         0,
-        1,
+        2,
         0,
         0,
         0
@@ -21287,14 +21287,14 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "09-20",
-      "latestDayOfYear": 263,
+      "latestDate": "09-28",
+      "latestDayOfYear": 271,
       "latestSample": {
-        "collectionDate": "2026-09-20",
-        "collector": "Fabio Locatelli",
-        "locality": "Busgarina, Clusone",
-        "localityCoordinates": "45.873024, 9.916009",
-        "habitat": "Pino",
+        "collectionDate": "2026-09-28",
+        "collector": "Pierino Bigoni",
+        "locality": "Valzelli, Monte Pora, Castione della Presolana",
+        "localityCoordinates": "",
+        "habitat": "Abete rosso e latifoglie",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
@@ -21788,6 +21788,96 @@
       }
     },
     {
+      "genus": "Cortinarius",
+      "species": "caninus",
+      "fullName": "Cortinarius caninus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
+      "authority": "(Fr.) Fr. 1838",
+      "totalSamples": 1,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "earliestDate": "09-28",
+      "earliestDayOfYear": 271,
+      "earliestSample": {
+        "collectionDate": "2026-09-28",
+        "collector": "Pierino Bigoni",
+        "locality": "Valzelli, Monte Pora, Castione della Presolana",
+        "localityCoordinates": "",
+        "habitat": "Abete rosso e latifoglie",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "09-28",
+      "latestDayOfYear": 271,
+      "latestSample": {
+        "collectionDate": "2026-09-28",
+        "collector": "Pierino Bigoni",
+        "locality": "Valzelli, Monte Pora, Castione della Presolana",
+        "localityCoordinates": "",
+        "habitat": "Abete rosso e latifoglie",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Leucoagaricus",
+      "species": "leucothites",
+      "fullName": "Leucoagaricus leucothites",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
+      "authority": "(Vittad.) Wasser 1977",
+      "currentName": "Leucocoprinus leucothites",
+      "currentAuthority": "(Vittad.) Redhead 2023",
+      "totalSamples": 2,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0
+      ],
+      "earliestDate": "09-28",
+      "earliestDayOfYear": 271,
+      "earliestSample": {
+        "collectionDate": "2026-09-28",
+        "collector": "Pierino Bigoni",
+        "locality": "Rovetta",
+        "localityCoordinates": "45.892989, 9.983457",
+        "habitat": "Giardino",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "09-29",
+      "latestDayOfYear": 272,
+      "latestSample": {
+        "collectionDate": "2025-09-29",
+        "collector": "Antonio Guana",
+        "locality": "Cimitero monumentale, Bergamo",
+        "localityCoordinates": "45.697583, 9.690081",
+        "habitat": "Aiuole",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
       "genus": "Clitocybe",
       "species": "clavipes",
       "fullName": "Clitocybe clavipes",
@@ -21829,52 +21919,6 @@
         "locality": "Valcanale, Ardesio",
         "localityCoordinates": "45.950207, 9.858819",
         "habitat": "Bosco misto",
-        "determiner": "Pierino Bigoni",
-        "_tipo": "raccolto"
-      }
-    },
-    {
-      "genus": "Leucoagaricus",
-      "species": "leucothites",
-      "fullName": "Leucoagaricus leucothites",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
-      "authority": "(Vittad.) Wasser 1977",
-      "currentName": "Leucocoprinus leucothites",
-      "currentAuthority": "(Vittad.) Redhead 2023",
-      "totalSamples": 1,
-      "monthlyCount": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0
-      ],
-      "earliestDate": "09-29",
-      "earliestDayOfYear": 272,
-      "earliestSample": {
-        "collectionDate": "2025-09-29",
-        "collector": "Antonio Guana",
-        "locality": "Cimitero monumentale, Bergamo",
-        "localityCoordinates": "45.697583, 9.690081",
-        "habitat": "Aiuole",
-        "determiner": "Pierino Bigoni",
-        "_tipo": "raccolto"
-      },
-      "latestDate": "09-29",
-      "latestDayOfYear": 272,
-      "latestSample": {
-        "collectionDate": "2025-09-29",
-        "collector": "Antonio Guana",
-        "locality": "Cimitero monumentale, Bergamo",
-        "localityCoordinates": "45.697583, 9.690081",
-        "habitat": "Aiuole",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }

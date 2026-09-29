@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-28",
+      "collector": "Pierino Bigoni",
+      "locality": "Valzelli, Monte Pora, Castione della Presolana",
+      "localityCoordinates": "",
+      "habitat": "Larice",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-09-26",
       "collector": "Pietro Centenari",
       "locality": "Casa dell'Orfano, Clusone",
@@ -124,7 +132,7 @@
         "ago": 4
       },
       {
-        "set": 5
+        "set": 6
       },
       {
         "ott": 0
@@ -138,8 +146,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 11,
-    "campioniRaccolti": 11,
+    "totaleCampioni": 12,
+    "campioniRaccolti": 12,
     "campioniExsiccata": 0
   }
 }

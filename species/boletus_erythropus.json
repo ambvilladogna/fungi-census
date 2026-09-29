@@ -6,6 +6,14 @@
   "autoreCorrente": "(Pers.) Bertolini & Papetti 2026",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-28",
+      "collector": "Pierino Bigoni",
+      "locality": "Valzelli, Monte Pora, Castione della Presolana",
+      "localityCoordinates": "",
+      "habitat": "Abete rosso e latifoglie",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-09-14",
       "collector": "Sergio Lonati",
       "locality": "Spiazzi, Gromo",
@@ -132,7 +140,7 @@
         "ago": 3
       },
       {
-        "set": 4
+        "set": 5
       },
       {
         "ott": 1
@@ -146,8 +154,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 12,
-    "campioniRaccolti": 12,
+    "totaleCampioni": 13,
+    "campioniRaccolti": 13,
     "campioniExsiccata": 0
   }
 }

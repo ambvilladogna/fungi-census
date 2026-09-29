@@ -6,6 +6,14 @@
   "autoreCorrente": "(Fr.) Vizzini 2014",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-28",
+      "collector": "Pierino Bigoni",
+      "locality": "Valzelli, Monte Pora, Castione della Presolana",
+      "localityCoordinates": "",
+      "habitat": "Abete rosso e latifoglie",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-09-13",
       "collector": "Juri Imberti",
       "locality": "Monte Pora, Castione della Presolana",
@@ -140,7 +148,7 @@
         "ago": 1
       },
       {
-        "set": 8
+        "set": 9
       },
       {
         "ott": 2
@@ -154,8 +162,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 13,
-    "campioniRaccolti": 13,
+    "totaleCampioni": 14,
+    "campioniRaccolti": 14,
     "campioniExsiccata": 0
   }
 }

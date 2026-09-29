@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T11:04:34.016Z",
+  "generatedAt": "2026-09-29T00:13:58.828Z",
   "corpus": [
     {
       "type": "genus",
@@ -614,6 +614,7 @@
         "Cortinarius brunneus",
         "Cortinarius bulliardii",
         "Cortinarius callisteus",
+        "Cortinarius caninus",
         "Cortinarius caperatus",
         "Cortinarius collinitus",
         "Cortinarius crassus",
@@ -3712,6 +3713,13 @@
       "matchSpecies": [
         "Aureonarius callisteus",
         "Cortinarius callisteus"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Cortinarius caninus",
+      "matchSpecies": [
+        "Cortinarius caninus"
       ]
     },
     {
@@ -7683,6 +7691,7 @@
         "Cortinarius brunneus",
         "Cortinarius bulliardii",
         "Cortinarius callisteus",
+        "Cortinarius caninus",
         "Cortinarius caperatus",
         "Cortinarius collinitus",
         "Cortinarius crassus",
@@ -8762,6 +8771,7 @@
         "Cortinarius brunneus",
         "Cortinarius bulliardii",
         "Cortinarius callisteus",
+        "Cortinarius caninus",
         "Cortinarius caperatus",
         "Cortinarius collinitus",
         "Cortinarius crassus",
@@ -9648,6 +9658,7 @@
         "Cortinarius brunneus",
         "Cortinarius bulliardii",
         "Cortinarius callisteus",
+        "Cortinarius caninus",
         "Cortinarius caperatus",
         "Cortinarius collinitus",
         "Cortinarius crassus",
@@ -10450,6 +10461,7 @@
         "Cortinarius brunneus",
         "Cortinarius bulliardii",
         "Cortinarius callisteus",
+        "Cortinarius caninus",
         "Cortinarius caperatus",
         "Cortinarius collinitus",
         "Cortinarius crassus",
@@ -11102,6 +11114,7 @@
         "Cortinarius brunneus",
         "Cortinarius bulliardii",
         "Cortinarius callisteus",
+        "Cortinarius caninus",
         "Cortinarius caperatus",
         "Cortinarius collinitus",
         "Cortinarius crassus",

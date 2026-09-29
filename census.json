@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-28T11:01:00.798Z",
-  "totalSpecies": 560,
-  "totalSamples": 1675,
+  "generatedAt": "2026-09-29T00:13:58.577Z",
+  "totalSpecies": 561,
+  "totalSamples": 1706,
   "species": [
     {
       "genus": "Abortiporus",
@@ -1075,6 +1075,13 @@
       "authority": "(Fr.) Fr. 1838",
       "currentName": "Aureonarius callisteus",
       "currentAuthority": "(Fr.) Niskanen & Liimat. 2022"
+    },
+    {
+      "genus": "Cortinarius",
+      "species": "caninus",
+      "fullName": "Cortinarius caninus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
+      "authority": "(Fr.) Fr. 1838"
     },
     {
       "genus": "Cortinarius",

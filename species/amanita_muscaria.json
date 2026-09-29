@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-09-28",
+      "collector": "Pierino Bigoni",
+      "locality": "Valzelli, Monte Pora, Castione della Presolana",
+      "localityCoordinates": "",
+      "habitat": "Abete rosso e latifoglie",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-09-19",
       "collector": "Pierino Bigoni",
       "locality": "Cà de Spì, Monte Poieto, Gazzaniga",
@@ -140,7 +148,7 @@
         "ago": 3
       },
       {
-        "set": 6
+        "set": 7
       },
       {
         "ott": 3
@@ -154,8 +162,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 13,
-    "campioniRaccolti": 13,
+    "totaleCampioni": 14,
+    "campioniRaccolti": 14,
     "campioniExsiccata": 0
   }
 }
