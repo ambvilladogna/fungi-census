@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T00:13:58.828Z",
+  "generatedAt": "2026-09-30T00:14:35.943Z",
   "corpus": [
     {
       "type": "genus",
@@ -982,6 +982,7 @@
       "value": "Hebeloma",
       "matchSpecies": [
         "Hebeloma crustuliniforme",
+        "Hebeloma radicosum",
         "Hebeloma sinapizans"
       ]
     },
@@ -4450,6 +4451,13 @@
       "value": "Hebeloma crustuliniforme",
       "matchSpecies": [
         "Hebeloma crustuliniforme"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Hebeloma radicosum",
+      "matchSpecies": [
+        "Hebeloma radicosum"
       ]
     },
     {
@@ -8511,6 +8519,7 @@
       "value": "Strophariaceae",
       "matchSpecies": [
         "Hebeloma crustuliniforme",
+        "Hebeloma radicosum",
         "Hebeloma sinapizans",
         "Hypholoma capnoides",
         "Hypholoma fasciculare",
@@ -8831,6 +8840,7 @@
         "Gymnopus hariolorum",
         "Gymnopus ocior",
         "Hebeloma crustuliniforme",
+        "Hebeloma radicosum",
         "Hebeloma sinapizans",
         "Hygrocybe calyptriformis",
         "Hygrocybe citrina",
@@ -9748,6 +9758,7 @@
         "Gymnopus ocior",
         "Gyroporus castaneus",
         "Hebeloma crustuliniforme",
+        "Hebeloma radicosum",
         "Hebeloma sinapizans",
         "Hemileccinum depilatum",
         "Hericium erinaceus",
@@ -10553,6 +10564,7 @@
         "Gymnopus ocior",
         "Gyroporus castaneus",
         "Hebeloma crustuliniforme",
+        "Hebeloma radicosum",
         "Hebeloma sinapizans",
         "Hemileccinum depilatum",
         "Hericium erinaceus",
@@ -11212,6 +11224,7 @@
         "Gymnopus ocior",
         "Gyroporus castaneus",
         "Hebeloma crustuliniforme",
+        "Hebeloma radicosum",
         "Hebeloma sinapizans",
         "Helvella crispa",
         "Helvella elastica",

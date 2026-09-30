@@ -1,6 +1,6 @@
 {
-  "nomeCompleto": "Pholiota squarrosa",
-  "autore": "(Vahl) P. Kumm. 1871",
+  "nomeCompleto": "Hebeloma radicosum",
+  "autore": "(Bull.) Ricken 1911",
   "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Strophariaceae",
   "nomeCorrente": null,
   "autoreCorrente": null,
@@ -8,23 +8,15 @@
     {
       "collectionDate": "2026-09-28",
       "collector": "Pierino Bigoni",
-      "locality": "Valzelli, Monte Pora, Castione della Presolana",
-      "localityCoordinates": "45.885288, 10.084634",
-      "habitat": "Abete rosso e latifoglie",
-      "determiner": "Pierino Bigoni"
-    },
-    {
-      "collectionDate": "2025-09-15",
-      "collector": "Antonio Guana",
-      "locality": "Colle Palazzo, Oltressenda Alta",
-      "localityCoordinates": "45.938839, 9.973808",
-      "habitat": "Bosco misto",
+      "locality": "Via Casa Grande, Gromo San Marino, Gandellino, Bergamo",
+      "localityCoordinates": "45.997115, 9.938117",
+      "habitat": "Misto faggio e abete rosso",
       "determiner": "Pierino Bigoni"
     }
   ],
   "campioniExsiccata": [],
   "fenologia": {
-    "raccoltaPiuPrecoce": "09-15",
+    "raccoltaPiuPrecoce": "09-28",
     "raccoltaPiuTarda": "09-28",
     "campioniPerMese": [
       {
@@ -52,7 +44,7 @@
         "ago": 0
       },
       {
-        "set": 2
+        "set": 1
       },
       {
         "ott": 0
@@ -66,8 +58,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 2,
-    "campioniRaccolti": 2,
+    "totaleCampioni": 1,
+    "campioniRaccolti": 1,
     "campioniExsiccata": 0
   }
 }

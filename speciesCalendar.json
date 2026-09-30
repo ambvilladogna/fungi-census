@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-29T00:13:58.669Z",
-  "totalSpecies": 561,
-  "totalSamples": 1886,
+  "generatedAt": "2026-09-30T00:14:35.744Z",
+  "totalSpecies": 562,
+  "totalSamples": 1889,
   "species": [
     {
       "genus": "Flammulina",
@@ -5163,7 +5163,7 @@
         "collectionDate": "2026-09-28",
         "collector": "Pierino Bigoni",
         "locality": "Valzelli, Monte Pora, Castione della Presolana",
-        "localityCoordinates": "",
+        "localityCoordinates": "45.885288, 10.084634",
         "habitat": "Abete rosso e latifoglie",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -6633,7 +6633,7 @@
         "collectionDate": "2026-09-28",
         "collector": "Pierino Bigoni",
         "locality": "Valzelli, Monte Pora, Castione della Presolana",
-        "localityCoordinates": "",
+        "localityCoordinates": "45.885288, 10.084634",
         "habitat": "Abete rosso e latifoglie",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -10507,7 +10507,7 @@
         "collectionDate": "2026-09-28",
         "collector": "Pierino Bigoni",
         "locality": "Valzelli, Monte Pora, Castione della Presolana",
-        "localityCoordinates": "",
+        "localityCoordinates": "45.885288, 10.084634",
         "habitat": "Abete rosso e latifoglie",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -10921,7 +10921,7 @@
       "fullName": "Cantharellus friesii",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Cantharellales > famiglia: Hydnaceae",
       "authority": "Quél. 1872",
-      "totalSamples": 1,
+      "totalSamples": 2,
       "monthlyCount": [
         0,
         0,
@@ -10931,7 +10931,7 @@
         0,
         0,
         1,
-        0,
+        1,
         0,
         0,
         0
@@ -10947,15 +10947,15 @@
         "determiner": "Renato Depressi",
         "_tipo": "raccolto"
       },
-      "latestDate": "08-25",
-      "latestDayOfYear": 237,
+      "latestDate": "09-28",
+      "latestDayOfYear": 271,
       "latestSample": {
-        "collectionDate": "2025-08-25",
-        "collector": "Renato Depressi",
-        "locality": "Blum, Rovetta",
-        "localityCoordinates": "45.909548, 9.973256",
-        "habitat": "Bosco misto",
-        "determiner": "Renato Depressi",
+        "collectionDate": "2026-09-28",
+        "collector": "Pierino Bigoni",
+        "locality": "Via Casa Grande, Gromo San Marino, Gandellino, Bergamo",
+        "localityCoordinates": "45.997280, 9.938010",
+        "habitat": "Faggio",
+        "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
     },
@@ -12777,7 +12777,7 @@
         "collectionDate": "2026-09-28",
         "collector": "Pierino Bigoni",
         "locality": "Valzelli, Monte Pora, Castione della Presolana",
-        "localityCoordinates": "",
+        "localityCoordinates": "45.885288, 10.084634",
         "habitat": "Abete rosso e latifoglie",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -13267,7 +13267,7 @@
         "collectionDate": "2026-09-28",
         "collector": "Pierino Bigoni",
         "locality": "Valzelli, Monte Pora, Castione della Presolana",
-        "localityCoordinates": "",
+        "localityCoordinates": "45.885288, 10.084634",
         "habitat": "Giardino",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -14785,7 +14785,7 @@
         "collectionDate": "2026-09-28",
         "collector": "Pierino Bigoni",
         "locality": "Valzelli, Monte Pora, Castione della Presolana",
-        "localityCoordinates": "",
+        "localityCoordinates": "45.885288, 10.084634",
         "habitat": "Abete rosso e latifoglie",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -15723,7 +15723,7 @@
         "collectionDate": "2026-09-28",
         "collector": "Pierino Bigoni",
         "locality": "Valzelli, Monte Pora, Castione della Presolana",
-        "localityCoordinates": "",
+        "localityCoordinates": "45.885288, 10.084634",
         "habitat": "Abete rosso e latifoglie",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -15991,7 +15991,7 @@
         "collectionDate": "2026-09-28",
         "collector": "Pierino Bigoni",
         "locality": "Valzelli, Monte Pora, Castione della Presolana",
-        "localityCoordinates": "",
+        "localityCoordinates": "45.885288, 10.084634",
         "habitat": "Abete rosso e latifoglie",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -17543,7 +17543,7 @@
         "collectionDate": "2026-09-28",
         "collector": "Pierino Bigoni",
         "locality": "Valzelli, Monte Pora, Castione della Presolana",
-        "localityCoordinates": "",
+        "localityCoordinates": "45.885288, 10.084634",
         "habitat": "Abete rosso e latifoglie",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -20009,7 +20009,7 @@
       "fullName": "Leotia lubrica",
       "lineage": "regno: Fungi > phylum: Ascomycota > classe: Leotiomycetes > ordine: Leotiales > famiglia: Leotiaceae",
       "authority": "(Scop.) Pers. 1794",
-      "totalSamples": 1,
+      "totalSamples": 2,
       "monthlyCount": [
         0,
         0,
@@ -20019,7 +20019,7 @@
         0,
         0,
         0,
-        1,
+        2,
         0,
         0,
         0
@@ -20035,14 +20035,14 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "09-15",
-      "latestDayOfYear": 258,
+      "latestDate": "09-28",
+      "latestDayOfYear": 271,
       "latestSample": {
-        "collectionDate": "2025-09-15",
-        "collector": "Antonio Guana",
-        "locality": "Colle Palazzo, Oltressenda Alta",
-        "localityCoordinates": "45.938839, 9.973808",
-        "habitat": "Bosco misto",
+        "collectionDate": "2026-09-28",
+        "collector": "Pierino Bigoni",
+        "locality": "Via Casa Grande, Gromo San Marino, Gandellino, Bergamo",
+        "localityCoordinates": "45.997090, 9.938107",
+        "habitat": "Faggio",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
@@ -20175,7 +20175,7 @@
         "collectionDate": "2026-09-28",
         "collector": "Pierino Bigoni",
         "locality": "Valzelli, Monte Pora, Castione della Presolana",
-        "localityCoordinates": "",
+        "localityCoordinates": "45.885288, 10.084634",
         "habitat": "Abete rosso e latifoglie",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -21293,7 +21293,7 @@
         "collectionDate": "2026-09-28",
         "collector": "Pierino Bigoni",
         "locality": "Valzelli, Monte Pora, Castione della Presolana",
-        "localityCoordinates": "",
+        "localityCoordinates": "45.885288, 10.084634",
         "habitat": "Abete rosso e latifoglie",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -21814,7 +21814,7 @@
         "collectionDate": "2026-09-28",
         "collector": "Pierino Bigoni",
         "locality": "Valzelli, Monte Pora, Castione della Presolana",
-        "localityCoordinates": "",
+        "localityCoordinates": "45.885288, 10.084634",
         "habitat": "Abete rosso e latifoglie",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -21825,8 +21825,52 @@
         "collectionDate": "2026-09-28",
         "collector": "Pierino Bigoni",
         "locality": "Valzelli, Monte Pora, Castione della Presolana",
-        "localityCoordinates": "",
+        "localityCoordinates": "45.885288, 10.084634",
         "habitat": "Abete rosso e latifoglie",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Hebeloma",
+      "species": "radicosum",
+      "fullName": "Hebeloma radicosum",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Strophariaceae",
+      "authority": "(Bull.) Ricken 1911",
+      "totalSamples": 1,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "earliestDate": "09-28",
+      "earliestDayOfYear": 271,
+      "earliestSample": {
+        "collectionDate": "2026-09-28",
+        "collector": "Pierino Bigoni",
+        "locality": "Via Casa Grande, Gromo San Marino, Gandellino, Bergamo",
+        "localityCoordinates": "45.997115, 9.938117",
+        "habitat": "Misto faggio e abete rosso",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "09-28",
+      "latestDayOfYear": 271,
+      "latestSample": {
+        "collectionDate": "2026-09-28",
+        "collector": "Pierino Bigoni",
+        "locality": "Via Casa Grande, Gromo San Marino, Gandellino, Bergamo",
+        "localityCoordinates": "45.997115, 9.938117",
+        "habitat": "Misto faggio e abete rosso",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }

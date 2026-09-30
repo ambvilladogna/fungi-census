@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-29T00:13:58.577Z",
-  "totalSpecies": 561,
-  "totalSamples": 1706,
+  "generatedAt": "2026-09-30T00:14:35.643Z",
+  "totalSpecies": 562,
+  "totalSamples": 1709,
   "species": [
     {
       "genus": "Abortiporus",
@@ -1712,6 +1712,13 @@
       "fullName": "Hebeloma crustuliniforme",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Strophariaceae",
       "authority": "(Bull.) Quél. 1872"
+    },
+    {
+      "genus": "Hebeloma",
+      "species": "radicosum",
+      "fullName": "Hebeloma radicosum",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Strophariaceae",
+      "authority": "(Bull.) Ricken 1911"
     },
     {
       "genus": "Hebeloma",
