@@ -6,7 +6,7 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
-      "collectionDate": "2026-09-28",
+      "collectionDate": "2026-09-29",
       "collector": "Pierino Bigoni",
       "locality": "Via Casa Grande, Gromo San Marino, Gandellino, Bergamo",
       "localityCoordinates": "45.997280, 9.938010",
@@ -25,7 +25,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "08-25",
-    "raccoltaPiuTarda": "09-28",
+    "raccoltaPiuTarda": "09-29",
     "campioniPerMese": [
       {
         "gen": 0
