@@ -1,6 +1,6 @@
 {
-  "nomeCompleto": "Hygrophorus erubescens",
-  "autore": "(Fr.) Fr. 1838",
+  "nomeCompleto": "Hygrophorus poetarum",
+  "autore": "R. Heim 1948",
   "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Hygrophoraceae",
   "nomeCorrente": null,
   "autoreCorrente": null,
@@ -12,19 +12,11 @@
       "localityCoordinates": "46.009394, 10.154059",
       "habitat": "Abete rosso",
       "determiner": "Fabio Locatelli"
-    },
-    {
-      "collectionDate": "2025-08-05",
-      "collector": "Fabio Locatelli",
-      "locality": "Schilpario",
-      "localityCoordinates": "46.009394, 10.154059",
-      "habitat": "Abete rosso",
-      "determiner": "Fabio Locatelli"
     }
   ],
   "campioniExsiccata": [],
   "fenologia": {
-    "raccoltaPiuPrecoce": "08-05",
+    "raccoltaPiuPrecoce": "09-30",
     "raccoltaPiuTarda": "09-30",
     "campioniPerMese": [
       {
@@ -49,7 +41,7 @@
         "lug": 0
       },
       {
-        "ago": 1
+        "ago": 0
       },
       {
         "set": 1
@@ -66,8 +58,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 2,
-    "campioniRaccolti": 2,
+    "totaleCampioni": 1,
+    "campioniRaccolti": 1,
     "campioniExsiccata": 0
   }
 }

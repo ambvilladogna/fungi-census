@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-01T00:13:59.656Z",
-  "totalSpecies": 562,
-  "totalSamples": 1889,
+  "generatedAt": "2026-10-02T00:14:13.607Z",
+  "totalSpecies": 563,
+  "totalSamples": 1897,
   "species": [
     {
       "genus": "Flammulina",
@@ -6421,7 +6421,7 @@
       "fullName": "Clitopilus prunulus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Entolomataceae",
       "authority": "(Scop.) P. Kumm. 1871",
-      "totalSamples": 21,
+      "totalSamples": 22,
       "monthlyCount": [
         0,
         0,
@@ -6431,7 +6431,7 @@
         0,
         3,
         8,
-        8,
+        9,
         2,
         0,
         0
@@ -9361,7 +9361,7 @@
       "fullName": "Hygrophorus erubescens",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Hygrophoraceae",
       "authority": "(Fr.) Fr. 1838",
-      "totalSamples": 1,
+      "totalSamples": 2,
       "monthlyCount": [
         0,
         0,
@@ -9371,7 +9371,7 @@
         0,
         0,
         1,
-        0,
+        1,
         0,
         0,
         0
@@ -9387,10 +9387,10 @@
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       },
-      "latestDate": "08-05",
-      "latestDayOfYear": 217,
+      "latestDate": "09-30",
+      "latestDayOfYear": 273,
       "latestSample": {
-        "collectionDate": "2025-08-05",
+        "collectionDate": "2026-09-30",
         "collector": "Fabio Locatelli",
         "locality": "Schilpario",
         "localityCoordinates": "46.009394, 10.154059",
@@ -10965,7 +10965,7 @@
       "fullName": "Catathelasma imperiale",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Biannulariaceae",
       "authority": "(P. Karst.) Singer 1940",
-      "totalSamples": 2,
+      "totalSamples": 3,
       "monthlyCount": [
         0,
         0,
@@ -10975,7 +10975,7 @@
         0,
         0,
         1,
-        0,
+        1,
         0,
         1,
         0
@@ -14617,7 +14617,7 @@
       "authority": "Fr. 1821",
       "currentName": "Craterellus tubaeformis",
       "currentAuthority": "(Fr.) Quél. 1888",
-      "totalSamples": 8,
+      "totalSamples": 9,
       "monthlyCount": [
         0,
         0,
@@ -14627,7 +14627,7 @@
         0,
         0,
         1,
-        3,
+        4,
         2,
         2,
         0
@@ -14797,7 +14797,7 @@
       "fullName": "Craterellus tubaeformis",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Cantharellales > famiglia: Hydnaceae",
       "authority": "(Fr.) Quél. 1888",
-      "totalSamples": 8,
+      "totalSamples": 9,
       "monthlyCount": [
         0,
         0,
@@ -14807,7 +14807,7 @@
         0,
         0,
         1,
-        3,
+        4,
         2,
         2,
         0
@@ -16977,7 +16977,7 @@
       "fullName": "Hygrophorus agathosmus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Hygrophoraceae",
       "authority": "(Fr.) Fr. 1838",
-      "totalSamples": 2,
+      "totalSamples": 3,
       "monthlyCount": [
         0,
         0,
@@ -16987,7 +16987,7 @@
         0,
         0,
         0,
-        1,
+        2,
         1,
         0,
         0
@@ -20455,7 +20455,7 @@
       "fullName": "Cortinarius cumatilis",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
       "authority": "Fr. 1838",
-      "totalSamples": 3,
+      "totalSamples": 4,
       "monthlyCount": [
         0,
         0,
@@ -20465,7 +20465,7 @@
         0,
         0,
         0,
-        1,
+        2,
         2,
         0,
         0
@@ -21964,6 +21964,50 @@
         "localityCoordinates": "45.997115, 9.938117",
         "habitat": "Misto faggio e abete rosso",
         "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Hygrophorus",
+      "species": "poetarum",
+      "fullName": "Hygrophorus poetarum",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Hygrophoraceae",
+      "authority": "R. Heim 1948",
+      "totalSamples": 1,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "earliestDate": "09-30",
+      "earliestDayOfYear": 273,
+      "earliestSample": {
+        "collectionDate": "2026-09-30",
+        "collector": "Fabio Locatelli",
+        "locality": "Schilpario",
+        "localityCoordinates": "46.009394, 10.154059",
+        "habitat": "Abete rosso",
+        "determiner": "Fabio Locatelli",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "09-30",
+      "latestDayOfYear": 273,
+      "latestSample": {
+        "collectionDate": "2026-09-30",
+        "collector": "Fabio Locatelli",
+        "locality": "Schilpario",
+        "localityCoordinates": "46.009394, 10.154059",
+        "habitat": "Abete rosso",
+        "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
     },

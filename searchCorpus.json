@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T00:14:35.943Z",
+  "generatedAt": "2026-10-02T00:14:13.782Z",
   "corpus": [
     {
       "type": "genus",
@@ -1084,6 +1084,7 @@
         "Hygrophorus erubescens",
         "Hygrophorus lucorum",
         "Hygrophorus marzuolus",
+        "Hygrophorus poetarum",
         "Hygrophorus pudorinus"
       ]
     },
@@ -4677,6 +4678,13 @@
     },
     {
       "type": "species",
+      "value": "Hygrophorus poetarum",
+      "matchSpecies": [
+        "Hygrophorus poetarum"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Hygrophorus pudorinus",
       "matchSpecies": [
         "Hygrophorus pudorinus"
@@ -7978,6 +7986,7 @@
         "Hygrophorus erubescens",
         "Hygrophorus lucorum",
         "Hygrophorus marzuolus",
+        "Hygrophorus poetarum",
         "Hygrophorus pudorinus",
         "Porpolomopsis calyptriformis"
       ]
@@ -8857,6 +8866,7 @@
         "Hygrophorus erubescens",
         "Hygrophorus lucorum",
         "Hygrophorus marzuolus",
+        "Hygrophorus poetarum",
         "Hygrophorus pudorinus",
         "Hymenopellis radicata",
         "Hypholoma capnoides",
@@ -9783,6 +9793,7 @@
         "Hygrophorus erubescens",
         "Hygrophorus lucorum",
         "Hygrophorus marzuolus",
+        "Hygrophorus poetarum",
         "Hygrophorus pudorinus",
         "Hymenochaete cruenta",
         "Hymenopellis radicata",
@@ -10589,6 +10600,7 @@
         "Hygrophorus erubescens",
         "Hygrophorus lucorum",
         "Hygrophorus marzuolus",
+        "Hygrophorus poetarum",
         "Hygrophorus pudorinus",
         "Hymenochaete cruenta",
         "Hymenopellis radicata",
@@ -11253,6 +11265,7 @@
         "Hygrophorus erubescens",
         "Hygrophorus lucorum",
         "Hygrophorus marzuolus",
+        "Hygrophorus poetarum",
         "Hygrophorus pudorinus",
         "Hymenochaete cruenta",
         "Hymenopellis radicata",
