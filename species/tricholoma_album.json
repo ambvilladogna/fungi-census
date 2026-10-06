@@ -1,30 +1,22 @@
 {
-  "nomeCompleto": "Russula amarissima",
-  "autore": "Romagn. & E.-J. Gilbert 1943",
-  "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
+  "nomeCompleto": "Tricholoma album",
+  "autore": "(Schaeff.) P. Kumm. 1871",
+  "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Tricholomataceae",
   "nomeCorrente": null,
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
       "collectionDate": "2026-10-05",
-      "collector": "Antonio Guana",
-      "locality": "Cardeto, Ardesio",
-      "localityCoordinates": "",
-      "habitat": "Castagno",
+      "collector": "Fabio Locatelli",
+      "locality": "Prat del sul, Clusone",
+      "localityCoordinates": "45.867941, 9.932321",
+      "habitat": "Faggio",
       "determiner": "Pierino Bigoni"
-    },
-    {
-      "collectionDate": "2026-09-27",
-      "collector": "Simone Oprandi",
-      "locality": "Falecchio, Songavazzo",
-      "localityCoordinates": "45.882296, 10.000041",
-      "habitat": "Bosco misto",
-      "determiner": "Flavio Rossi"
     }
   ],
   "campioniExsiccata": [],
   "fenologia": {
-    "raccoltaPiuPrecoce": "09-27",
+    "raccoltaPiuPrecoce": "10-05",
     "raccoltaPiuTarda": "10-05",
     "campioniPerMese": [
       {
@@ -52,7 +44,7 @@
         "ago": 0
       },
       {
-        "set": 1
+        "set": 0
       },
       {
         "ott": 1
@@ -66,8 +58,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 2,
-    "campioniRaccolti": 2,
+    "totaleCampioni": 1,
+    "campioniRaccolti": 1,
     "campioniExsiccata": 0
   }
 }

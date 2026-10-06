@@ -1,25 +1,25 @@
 {
-  "nomeCompleto": "Russula amarissima",
-  "autore": "Romagn. & E.-J. Gilbert 1943",
-  "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
+  "nomeCompleto": "Amanita caesarea",
+  "autore": "(Scop.) Pers. 1801",
+  "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
   "nomeCorrente": null,
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
       "collectionDate": "2026-10-05",
-      "collector": "Antonio Guana",
-      "locality": "Cardeto, Ardesio",
-      "localityCoordinates": "",
+      "collector": "Gianluigi Pellizzari",
+      "locality": "Monte Bue, Cene",
+      "localityCoordinates": "45.785822, 9.846521",
       "habitat": "Castagno",
       "determiner": "Pierino Bigoni"
     },
     {
       "collectionDate": "2026-09-27",
-      "collector": "Simone Oprandi",
-      "locality": "Falecchio, Songavazzo",
-      "localityCoordinates": "45.882296, 10.000041",
-      "habitat": "Bosco misto",
-      "determiner": "Flavio Rossi"
+      "collector": "Lorenzo Maffeis",
+      "locality": "Ganda, Aviatico",
+      "localityCoordinates": "45.792644, 9.798636",
+      "habitat": "Castagno",
+      "determiner": "Pierino Bigoni"
     }
   ],
   "campioniExsiccata": [],

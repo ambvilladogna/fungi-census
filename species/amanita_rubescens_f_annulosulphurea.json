@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-10-05",
+      "collector": "Pietro Centenari",
+      "locality": "Isola felice, Rovetta",
+      "localityCoordinates": "",
+      "habitat": "Bosco misto",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-09-15",
       "collector": "Pierino Bigoni",
       "locality": "Strada per Colle Palazzo, Ave, Ardesio, Bergamo",
@@ -33,7 +41,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "09-13",
-    "raccoltaPiuTarda": "09-15",
+    "raccoltaPiuTarda": "10-05",
     "campioniPerMese": [
       {
         "gen": 0
@@ -63,7 +71,7 @@
         "set": 3
       },
       {
-        "ott": 0
+        "ott": 1
       },
       {
         "nov": 0
@@ -74,8 +82,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 3,
-    "campioniRaccolti": 3,
+    "totaleCampioni": 4,
+    "campioniRaccolti": 4,
     "campioniExsiccata": 0
   }
 }

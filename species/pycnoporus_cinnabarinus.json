@@ -6,6 +6,14 @@
   "autoreCorrente": "(Jacq.) Fr. 1849",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-10-05",
+      "collector": "Antonio Guana",
+      "locality": "Cardeto, Ardesio",
+      "localityCoordinates": "",
+      "habitat": "Bosco misto",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2025-06-16",
       "collector": "Pierino Bigoni",
       "locality": "Pineta della Selva, Clusone",
@@ -17,7 +25,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "06-16",
-    "raccoltaPiuTarda": "06-16",
+    "raccoltaPiuTarda": "10-05",
     "campioniPerMese": [
       {
         "gen": 0
@@ -47,7 +55,7 @@
         "set": 0
       },
       {
-        "ott": 0
+        "ott": 1
       },
       {
         "nov": 0
@@ -58,8 +66,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 1,
-    "campioniRaccolti": 1,
+    "totaleCampioni": 2,
+    "campioniRaccolti": 2,
     "campioniExsiccata": 0
   }
 }

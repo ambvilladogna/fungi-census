@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-02T00:14:13.494Z",
-  "totalSpecies": 563,
-  "totalSamples": 1717,
+  "generatedAt": "2026-10-06T00:14:32.325Z",
+  "totalSpecies": 568,
+  "totalSamples": 1747,
   "species": [
     {
       "genus": "Abortiporus",
@@ -124,6 +124,13 @@
       "fullName": "Amanita battarrae",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
       "authority": "(Boud.) Bon 1985"
+    },
+    {
+      "genus": "Amanita",
+      "species": "caesarea",
+      "fullName": "Amanita caesarea",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
+      "authority": "(Scop.) Pers. 1801"
     },
     {
       "genus": "Amanita",
@@ -1287,6 +1294,13 @@
     },
     {
       "genus": "Cortinarius",
+      "species": "varius",
+      "fullName": "Cortinarius varius",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
+      "authority": "(Schaeff.) Fr. 1838"
+    },
+    {
+      "genus": "Cortinarius",
       "species": "venetus",
       "fullName": "Cortinarius venetus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
@@ -1705,6 +1719,13 @@
       "fullName": "Gyroporus castaneus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Gyroporaceae",
       "authority": "(Bull.) Quél. 1886"
+    },
+    {
+      "genus": "Hapalopilus",
+      "species": "rutilans",
+      "fullName": "Hapalopilus rutilans",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Polyporales > famiglia: Phanerochaetaceae",
+      "authority": "(Pers.) Murrill 1904"
     },
     {
       "genus": "Hebeloma",
@@ -3888,6 +3909,13 @@
     },
     {
       "genus": "Suillus",
+      "species": "bovinus",
+      "fullName": "Suillus bovinus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Suillaceae",
+      "authority": "(L.) Roussel 1796"
+    },
+    {
+      "genus": "Suillus",
       "species": "granulatus",
       "fullName": "Suillus granulatus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Suillaceae",
@@ -3992,6 +4020,13 @@
       "fullName": "Trichia scabra",
       "lineage": "regno: Protozoa > phylum: Amoebozoa > classe: Myxogastrea > ordine: Trichiales > famiglia: Trichiaceae",
       "authority": "Rostaf. 1875"
+    },
+    {
+      "genus": "Tricholoma",
+      "species": "album",
+      "fullName": "Tricholoma album",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Tricholomataceae",
+      "authority": "(Schaeff.) P. Kumm. 1871"
     },
     {
       "genus": "Tricholoma",

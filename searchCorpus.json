@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T00:14:13.782Z",
+  "generatedAt": "2026-10-06T00:14:32.605Z",
   "corpus": [
     {
       "type": "genus",
@@ -59,6 +59,7 @@
         "Amanita badia",
         "Amanita battarrae",
         "Amanita brunneofuliginea",
+        "Amanita caesarea",
         "Amanita citrina",
         "Amanita crocea",
         "Amanita excelsa",
@@ -641,6 +642,7 @@
         "Cortinarius subvalidus",
         "Cortinarius traganus",
         "Cortinarius variecolor",
+        "Cortinarius varius",
         "Cortinarius venetus",
         "Cortinarius violaceus",
         "Cystinarius crassus",
@@ -975,6 +977,13 @@
       "value": "Gyroporus",
       "matchSpecies": [
         "Gyroporus castaneus"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Hapalopilus",
+      "matchSpecies": [
+        "Hapalopilus rutilans"
       ]
     },
     {
@@ -2145,6 +2154,7 @@
       "type": "genus",
       "value": "Suillus",
       "matchSpecies": [
+        "Suillus bovinus",
         "Suillus granulatus",
         "Suillus grevillei",
         "Suillus luteus",
@@ -2234,6 +2244,7 @@
       "type": "genus",
       "value": "Tricholoma",
       "matchSpecies": [
+        "Tricholoma album",
         "Tricholoma aurantium",
         "Tricholoma bufonium",
         "Tricholoma inamoenum",
@@ -2530,6 +2541,13 @@
       "matchSpecies": [
         "Amanita brunneofuliginea",
         "Amanita ochraceomaculata"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Amanita caesarea",
+      "matchSpecies": [
+        "Amanita caesarea"
       ]
     },
     {
@@ -3921,6 +3939,13 @@
     },
     {
       "type": "species",
+      "value": "Cortinarius varius",
+      "matchSpecies": [
+        "Cortinarius varius"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Cortinarius venetus",
       "matchSpecies": [
         "Cortinarius venetus"
@@ -4445,6 +4470,13 @@
       "value": "Gyroporus castaneus",
       "matchSpecies": [
         "Gyroporus castaneus"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Hapalopilus rutilans",
+      "matchSpecies": [
+        "Hapalopilus rutilans"
       ]
     },
     {
@@ -6969,6 +7001,13 @@
     },
     {
       "type": "species",
+      "value": "Suillus bovinus",
+      "matchSpecies": [
+        "Suillus bovinus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Suillus granulatus",
       "matchSpecies": [
         "Suillus granulatus"
@@ -7096,6 +7135,13 @@
       "matchSpecies": [
         "Podostroma alutaceum",
         "Trichoderma alutaceum"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Tricholoma album",
+      "matchSpecies": [
+        "Tricholoma album"
       ]
     },
     {
@@ -7490,6 +7536,7 @@
         "Amanita badia",
         "Amanita battarrae",
         "Amanita brunneofuliginea",
+        "Amanita caesarea",
         "Amanita citrina",
         "Amanita crocea",
         "Amanita excelsa",
@@ -7734,6 +7781,7 @@
         "Cortinarius subvalidus",
         "Cortinarius traganus",
         "Cortinarius variecolor",
+        "Cortinarius varius",
         "Cortinarius venetus",
         "Cortinarius violaceus",
         "Cystinarius crassus",
@@ -8238,7 +8286,8 @@
       "type": "famiglia",
       "value": "Phanerochaetaceae",
       "matchSpecies": [
-        "Bjerkandera adusta"
+        "Bjerkandera adusta",
+        "Hapalopilus rutilans"
       ]
     },
     {
@@ -8553,6 +8602,7 @@
       "value": "Suillaceae",
       "matchSpecies": [
         "Boletinus cavipes",
+        "Suillus bovinus",
         "Suillus granulatus",
         "Suillus grevillei",
         "Suillus luteus",
@@ -8606,6 +8656,7 @@
       "matchSpecies": [
         "Aspropaxillus candidus",
         "Leucopaxillus candidus",
+        "Tricholoma album",
         "Tricholoma aurantium",
         "Tricholoma bufonium",
         "Tricholoma inamoenum",
@@ -8680,6 +8731,7 @@
         "Amanita badia",
         "Amanita battarrae",
         "Amanita brunneofuliginea",
+        "Amanita caesarea",
         "Amanita citrina",
         "Amanita crocea",
         "Amanita excelsa",
@@ -8816,6 +8868,7 @@
         "Cortinarius subvalidus",
         "Cortinarius traganus",
         "Cortinarius variecolor",
+        "Cortinarius varius",
         "Cortinarius venetus",
         "Cortinarius violaceus",
         "Crepidotus mollis",
@@ -9018,6 +9071,7 @@
         "Stropharia rugosoannulata f. lutea",
         "Stropharia semiglobata",
         "Tephrocybe rancida",
+        "Tricholoma album",
         "Tricholoma aurantium",
         "Tricholoma bufonium",
         "Tricholoma inamoenum",
@@ -9112,6 +9166,7 @@
         "Strobilomyces strobilaceus",
         "Suillellus luridus",
         "Suillellus rubrosanguineus",
+        "Suillus bovinus",
         "Suillus granulatus",
         "Suillus grevillei",
         "Suillus luteus",
@@ -9333,6 +9388,7 @@
         "Ganoderma lucidum",
         "Ganoderma resinaceum",
         "Grifola frondosa",
+        "Hapalopilus rutilans",
         "Irpex lacteus",
         "Ischnoderma benzoinum",
         "Laricifomes officinalis",
@@ -9531,6 +9587,7 @@
         "Amanita badia",
         "Amanita battarrae",
         "Amanita brunneofuliginea",
+        "Amanita caesarea",
         "Amanita citrina",
         "Amanita crocea",
         "Amanita excelsa",
@@ -9705,6 +9762,7 @@
         "Cortinarius subvalidus",
         "Cortinarius traganus",
         "Cortinarius variecolor",
+        "Cortinarius varius",
         "Cortinarius venetus",
         "Cortinarius violaceus",
         "Craterellus cinereus",
@@ -9767,6 +9825,7 @@
         "Gymnopus hariolorum",
         "Gymnopus ocior",
         "Gyroporus castaneus",
+        "Hapalopilus rutilans",
         "Hebeloma crustuliniforme",
         "Hebeloma radicosum",
         "Hebeloma sinapizans",
@@ -10088,6 +10147,7 @@
         "Stropharia semiglobata",
         "Suillellus luridus",
         "Suillellus rubrosanguineus",
+        "Suillus bovinus",
         "Suillus granulatus",
         "Suillus grevillei",
         "Suillus luteus",
@@ -10101,6 +10161,7 @@
         "Trametes cinnabarina",
         "Trametes versicolor",
         "Tremiscus helvelloides",
+        "Tricholoma album",
         "Tricholoma aurantium",
         "Tricholoma bufonium",
         "Tricholoma inamoenum",
@@ -10334,6 +10395,7 @@
         "Amanita badia",
         "Amanita battarrae",
         "Amanita brunneofuliginea",
+        "Amanita caesarea",
         "Amanita citrina",
         "Amanita crocea",
         "Amanita excelsa",
@@ -10510,6 +10572,7 @@
         "Cortinarius subvalidus",
         "Cortinarius traganus",
         "Cortinarius variecolor",
+        "Cortinarius varius",
         "Cortinarius venetus",
         "Cortinarius violaceus",
         "Craterellus cinereus",
@@ -10574,6 +10637,7 @@
         "Gymnopus hariolorum",
         "Gymnopus ocior",
         "Gyroporus castaneus",
+        "Hapalopilus rutilans",
         "Hebeloma crustuliniforme",
         "Hebeloma radicosum",
         "Hebeloma sinapizans",
@@ -10895,6 +10959,7 @@
         "Stropharia semiglobata",
         "Suillellus luridus",
         "Suillellus rubrosanguineus",
+        "Suillus bovinus",
         "Suillus granulatus",
         "Suillus grevillei",
         "Suillus luteus",
@@ -10909,6 +10974,7 @@
         "Trametes versicolor",
         "Tremella mesenterica",
         "Tremiscus helvelloides",
+        "Tricholoma album",
         "Tricholoma aurantium",
         "Tricholoma bufonium",
         "Tricholoma inamoenum",
@@ -10983,6 +11049,7 @@
         "Amanita badia",
         "Amanita battarrae",
         "Amanita brunneofuliginea",
+        "Amanita caesarea",
         "Amanita citrina",
         "Amanita crocea",
         "Amanita excelsa",
@@ -11165,6 +11232,7 @@
         "Cortinarius subvalidus",
         "Cortinarius traganus",
         "Cortinarius variecolor",
+        "Cortinarius varius",
         "Cortinarius venetus",
         "Cortinarius violaceus",
         "Craterellus cinereus",
@@ -11235,6 +11303,7 @@
         "Gymnopus hariolorum",
         "Gymnopus ocior",
         "Gyroporus castaneus",
+        "Hapalopilus rutilans",
         "Hebeloma crustuliniforme",
         "Hebeloma radicosum",
         "Hebeloma sinapizans",
@@ -11573,6 +11642,7 @@
         "Stropharia semiglobata",
         "Suillellus luridus",
         "Suillellus rubrosanguineus",
+        "Suillus bovinus",
         "Suillus granulatus",
         "Suillus grevillei",
         "Suillus luteus",
@@ -11590,6 +11660,7 @@
         "Tremella mesenterica",
         "Tremiscus helvelloides",
         "Trichoderma alutaceum",
+        "Tricholoma album",
         "Tricholoma aurantium",
         "Tricholoma bufonium",
         "Tricholoma inamoenum",

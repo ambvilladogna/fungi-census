@@ -1,30 +1,22 @@
 {
-  "nomeCompleto": "Russula amarissima",
-  "autore": "Romagn. & E.-J. Gilbert 1943",
-  "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
+  "nomeCompleto": "Suillus bovinus",
+  "autore": "(L.) Roussel 1796",
+  "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Suillaceae",
   "nomeCorrente": null,
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
       "collectionDate": "2026-10-05",
-      "collector": "Antonio Guana",
-      "locality": "Cardeto, Ardesio",
+      "collector": "Pietro Centenari",
+      "locality": "Isola felice, Rovetta",
       "localityCoordinates": "",
-      "habitat": "Castagno",
-      "determiner": "Pierino Bigoni"
-    },
-    {
-      "collectionDate": "2026-09-27",
-      "collector": "Simone Oprandi",
-      "locality": "Falecchio, Songavazzo",
-      "localityCoordinates": "45.882296, 10.000041",
       "habitat": "Bosco misto",
-      "determiner": "Flavio Rossi"
+      "determiner": "Pierino Bigoni"
     }
   ],
   "campioniExsiccata": [],
   "fenologia": {
-    "raccoltaPiuPrecoce": "09-27",
+    "raccoltaPiuPrecoce": "10-05",
     "raccoltaPiuTarda": "10-05",
     "campioniPerMese": [
       {
@@ -52,7 +44,7 @@
         "ago": 0
       },
       {
-        "set": 1
+        "set": 0
       },
       {
         "ott": 1
@@ -66,8 +58,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 2,
-    "campioniRaccolti": 2,
+    "totaleCampioni": 1,
+    "campioniRaccolti": 1,
     "campioniExsiccata": 0
   }
 }

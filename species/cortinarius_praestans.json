@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-10-05",
+      "collector": "Fabio Locatelli",
+      "locality": "Prat del sul, Clusone",
+      "localityCoordinates": "45.867941, 9.932321",
+      "habitat": "Faggio",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-09-20",
       "collector": "Pierino Bigoni",
       "locality": "M.Poieto",
@@ -33,7 +41,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "09-14",
-    "raccoltaPiuTarda": "10-02",
+    "raccoltaPiuTarda": "10-05",
     "campioniPerMese": [
       {
         "gen": 0
@@ -63,7 +71,7 @@
         "set": 2
       },
       {
-        "ott": 1
+        "ott": 2
       },
       {
         "nov": 0
@@ -74,8 +82,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 3,
-    "campioniRaccolti": 3,
+    "totaleCampioni": 4,
+    "campioniRaccolti": 4,
     "campioniExsiccata": 0
   }
 }
