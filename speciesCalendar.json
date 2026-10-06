@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T14:31:17.534Z",
+  "generatedAt": "2026-10-06T15:24:50.811Z",
   "totalSpecies": 570,
   "totalSamples": 1931,
   "species": [
@@ -1951,7 +1951,7 @@
         "collectionDate": "2026-10-05",
         "collector": "Antonio Guana",
         "locality": "Cardeto, Gandellino",
-        "localityCoordinates": "46.004851, 9.911829",
+        "localityCoordinates": "45.99762, 9.93263",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -1997,7 +1997,7 @@
         "collectionDate": "2026-10-05",
         "collector": "Antonio Guana",
         "locality": "Cardeto, Gandellino",
-        "localityCoordinates": "46.004851, 9.911829",
+        "localityCoordinates": "45.99762, 9.93263",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -3243,7 +3243,7 @@
         "collectionDate": "2026-10-05",
         "collector": "Antonio Guana",
         "locality": "Cardeto, Gandellino",
-        "localityCoordinates": "46.004851, 9.911829",
+        "localityCoordinates": "45.99762, 9.93263",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -3825,7 +3825,7 @@
         "collectionDate": "2026-10-05",
         "collector": "Antonio Guana",
         "locality": "Cardeto, Gandellino",
-        "localityCoordinates": "46.004851, 9.911829",
+        "localityCoordinates": "45.99762, 9.93263",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -18123,7 +18123,7 @@
         "collectionDate": "2026-10-05",
         "collector": "Antonio Guana",
         "locality": "Cardeto, Gandellino",
-        "localityCoordinates": "46.004851, 9.911829",
+        "localityCoordinates": "45.99762, 9.93263",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -21825,7 +21825,7 @@
         "collectionDate": "2026-10-05",
         "collector": "Antonio Guana",
         "locality": "Cardeto, Gandellino",
-        "localityCoordinates": "46.004851, 9.911829",
+        "localityCoordinates": "45.99762, 9.93263",
         "habitat": "Castagno",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
