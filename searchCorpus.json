@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T00:14:32.605Z",
+  "generatedAt": "2026-10-06T14:31:17.728Z",
   "corpus": [
     {
       "type": "genus",
@@ -497,6 +497,7 @@
         "Collybia cirrhata",
         "Collybia confluens",
         "Collybia distorta",
+        "Collybia dryophila",
         "Collybia fusipes",
         "Collybia hariolorum",
         "Collybia irina",
@@ -510,6 +511,7 @@
         "Collybiopsis confluens",
         "Collybiopsis peronata",
         "Gymnopus aquosus",
+        "Gymnopus dryophilus",
         "Gymnopus erythropus",
         "Gymnopus fusipes",
         "Gymnopus hariolorum",
@@ -962,10 +964,12 @@
       "value": "Gymnopus",
       "matchSpecies": [
         "Collybia aquosa",
+        "Collybia dryophila",
         "Collybia fusipes",
         "Collybia hariolorum",
         "Collybia kuehneriana",
         "Gymnopus aquosus",
+        "Gymnopus dryophilus",
         "Gymnopus erythropus",
         "Gymnopus fusipes",
         "Gymnopus hariolorum",
@@ -1762,6 +1766,14 @@
     },
     {
       "type": "genus",
+      "value": "Picipes",
+      "matchSpecies": [
+        "Picipes badius",
+        "Polyporus badius"
+      ]
+    },
+    {
+      "type": "genus",
       "value": "Piptoporus",
       "matchSpecies": [
         "Fomitopsis betulina",
@@ -1804,6 +1816,8 @@
       "matchSpecies": [
         "Cerioporus squamosus",
         "Fomitopsis moritziana",
+        "Picipes badius",
+        "Polyporus badius",
         "Polyporus mori",
         "Polyporus squamosus"
       ]
@@ -3456,6 +3470,14 @@
     },
     {
       "type": "species",
+      "value": "Collybia dryophila",
+      "matchSpecies": [
+        "Collybia dryophila",
+        "Gymnopus dryophilus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Collybia fusipes",
       "matchSpecies": [
         "Collybia fusipes",
@@ -4432,6 +4454,14 @@
       "matchSpecies": [
         "Collybia aquosa",
         "Gymnopus aquosus"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Gymnopus dryophilus",
+      "matchSpecies": [
+        "Collybia dryophila",
+        "Gymnopus dryophilus"
       ]
     },
     {
@@ -6055,6 +6085,14 @@
     },
     {
       "type": "species",
+      "value": "Picipes badius",
+      "matchSpecies": [
+        "Picipes badius",
+        "Polyporus badius"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Piptoporus betulinus",
       "matchSpecies": [
         "Fomitopsis betulina",
@@ -6137,6 +6175,14 @@
       "matchSpecies": [
         "Podostroma alutaceum",
         "Trichoderma alutaceum"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Polyporus badius",
+      "matchSpecies": [
+        "Picipes badius",
+        "Polyporus badius"
       ]
     },
     {
@@ -8212,6 +8258,7 @@
         "Collybia butyracea",
         "Collybia confluens",
         "Collybia distorta",
+        "Collybia dryophila",
         "Collybia fusipes",
         "Collybia hariolorum",
         "Collybia kuehneriana",
@@ -8220,6 +8267,7 @@
         "Collybiopsis confluens",
         "Collybiopsis peronata",
         "Gymnopus aquosus",
+        "Gymnopus dryophilus",
         "Gymnopus erythropus",
         "Gymnopus fusipes",
         "Gymnopus hariolorum",
@@ -8368,6 +8416,8 @@
         "Lentinus tigrinus",
         "Neofavolus alveolaris",
         "Perenniporia fraxinea",
+        "Picipes badius",
+        "Polyporus badius",
         "Polyporus squamosus",
         "Postia caesia",
         "Pycnoporus cinnabarinus",
@@ -8806,6 +8856,7 @@
         "Collybia cirrhata",
         "Collybia confluens",
         "Collybia distorta",
+        "Collybia dryophila",
         "Collybia fusipes",
         "Collybia hariolorum",
         "Collybia irina",
@@ -8897,6 +8948,7 @@
         "Galerina stylifera",
         "Gymnopilus penetrans",
         "Gymnopus aquosus",
+        "Gymnopus dryophilus",
         "Gymnopus erythropus",
         "Gymnopus fusipes",
         "Gymnopus hariolorum",
@@ -9397,7 +9449,9 @@
         "Panus conchatus",
         "Perenniporia fraxinea",
         "Phaeolus schweinitzii",
+        "Picipes badius",
         "Piptoporus betulinus",
+        "Polyporus badius",
         "Polyporus mori",
         "Polyporus squamosus",
         "Postia caesia",
@@ -9700,6 +9754,7 @@
         "Collybia cirrhata",
         "Collybia confluens",
         "Collybia distorta",
+        "Collybia dryophila",
         "Collybia fusipes",
         "Collybia hariolorum",
         "Collybia irina",
@@ -9820,6 +9875,7 @@
         "Guepinia helvelloides",
         "Gymnopilus penetrans",
         "Gymnopus aquosus",
+        "Gymnopus dryophilus",
         "Gymnopus erythropus",
         "Gymnopus fusipes",
         "Gymnopus hariolorum",
@@ -10024,6 +10080,7 @@
         "Pholiotina teneroides",
         "Phylloporia ribis",
         "Phylloporus rhodoxanthus",
+        "Picipes badius",
         "Piptoporus betulinus",
         "Pleurotus dryinus",
         "Pleurotus ostreatus",
@@ -10035,6 +10092,7 @@
         "Pluteus pouzarianus",
         "Pluteus romellii",
         "Pluteus roseipes",
+        "Polyporus badius",
         "Polyporus mori",
         "Polyporus squamosus",
         "Porphyrellus porphyrosporus",
@@ -10510,6 +10568,7 @@
         "Collybia cirrhata",
         "Collybia confluens",
         "Collybia distorta",
+        "Collybia dryophila",
         "Collybia fusipes",
         "Collybia hariolorum",
         "Collybia irina",
@@ -10632,6 +10691,7 @@
         "Guepinia helvelloides",
         "Gymnopilus penetrans",
         "Gymnopus aquosus",
+        "Gymnopus dryophilus",
         "Gymnopus erythropus",
         "Gymnopus fusipes",
         "Gymnopus hariolorum",
@@ -10836,6 +10896,7 @@
         "Pholiotina teneroides",
         "Phylloporia ribis",
         "Phylloporus rhodoxanthus",
+        "Picipes badius",
         "Piptoporus betulinus",
         "Pleurotus dryinus",
         "Pleurotus ostreatus",
@@ -10847,6 +10908,7 @@
         "Pluteus pouzarianus",
         "Pluteus romellii",
         "Pluteus roseipes",
+        "Polyporus badius",
         "Polyporus mori",
         "Polyporus squamosus",
         "Porphyrellus porphyrosporus",
@@ -11169,6 +11231,7 @@
         "Collybia cirrhata",
         "Collybia confluens",
         "Collybia distorta",
+        "Collybia dryophila",
         "Collybia fusipes",
         "Collybia hariolorum",
         "Collybia irina",
@@ -11298,6 +11361,7 @@
         "Guepinia helvelloides",
         "Gymnopilus penetrans",
         "Gymnopus aquosus",
+        "Gymnopus dryophilus",
         "Gymnopus erythropus",
         "Gymnopus fusipes",
         "Gymnopus hariolorum",
@@ -11513,6 +11577,7 @@
         "Pholiotina teneroides",
         "Phylloporia ribis",
         "Phylloporus rhodoxanthus",
+        "Picipes badius",
         "Piptoporus betulinus",
         "Pleurotus dryinus",
         "Pleurotus ostreatus",
@@ -11525,6 +11590,7 @@
         "Pluteus romellii",
         "Pluteus roseipes",
         "Podostroma alutaceum",
+        "Polyporus badius",
         "Polyporus mori",
         "Polyporus squamosus",
         "Porphyrellus porphyrosporus",

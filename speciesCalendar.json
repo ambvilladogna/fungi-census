@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-06T00:14:32.417Z",
-  "totalSpecies": 568,
-  "totalSamples": 1929,
+  "generatedAt": "2026-10-06T14:31:17.534Z",
+  "totalSpecies": 570,
+  "totalSamples": 1931,
   "species": [
     {
       "genus": "Flammulina",
@@ -1950,8 +1950,8 @@
       "latestSample": {
         "collectionDate": "2026-10-05",
         "collector": "Antonio Guana",
-        "locality": "Cardeto, Ardesio",
-        "localityCoordinates": "",
+        "locality": "Cardeto, Gandellino",
+        "localityCoordinates": "46.004851, 9.911829",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -1996,8 +1996,8 @@
       "latestSample": {
         "collectionDate": "2026-10-05",
         "collector": "Antonio Guana",
-        "locality": "Cardeto, Ardesio",
-        "localityCoordinates": "",
+        "locality": "Cardeto, Gandellino",
+        "localityCoordinates": "46.004851, 9.911829",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -2040,8 +2040,8 @@
       "latestSample": {
         "collectionDate": "2026-10-05",
         "collector": "Pietro Centenari",
-        "locality": "Isola felice, Rovetta",
-        "localityCoordinates": "",
+        "locality": "Cappella Alpini San Lorenzo, Vogno, Rovetta",
+        "localityCoordinates": "45.868762, 9.965036",
         "habitat": "Pino",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -3242,8 +3242,8 @@
       "latestSample": {
         "collectionDate": "2026-10-05",
         "collector": "Antonio Guana",
-        "locality": "Cardeto, Ardesio",
-        "localityCoordinates": "",
+        "locality": "Cardeto, Gandellino",
+        "localityCoordinates": "46.004851, 9.911829",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -3824,8 +3824,8 @@
       "latestSample": {
         "collectionDate": "2026-10-05",
         "collector": "Antonio Guana",
-        "locality": "Cardeto, Ardesio",
-        "localityCoordinates": "",
+        "locality": "Cardeto, Gandellino",
+        "localityCoordinates": "46.004851, 9.911829",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -7970,8 +7970,8 @@
       "latestSample": {
         "collectionDate": "2026-10-05",
         "collector": "Pietro Centenari",
-        "locality": "Isola felice, Rovetta",
-        "localityCoordinates": "",
+        "locality": "Cappella Alpini San Lorenzo, Vogno, Rovetta",
+        "localityCoordinates": "45.868762, 9.965036",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -8014,8 +8014,8 @@
       "latestSample": {
         "collectionDate": "2026-10-05",
         "collector": "Pietro Centenari",
-        "locality": "Isola felice, Rovetta",
-        "localityCoordinates": "",
+        "locality": "Cappella Alpini San Lorenzo, Vogno, Rovetta",
+        "localityCoordinates": "45.868762, 9.965036",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -13536,8 +13536,8 @@
       "latestSample": {
         "collectionDate": "2026-10-05",
         "collector": "Pietro Centenari",
-        "locality": "Isola felice, Rovetta",
-        "localityCoordinates": "",
+        "locality": "Cappella Alpini San Lorenzo, Vogno, Rovetta",
+        "localityCoordinates": "45.868762, 9.965036",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -15454,8 +15454,8 @@
       "latestSample": {
         "collectionDate": "2026-10-05",
         "collector": "Pietro Centenari",
-        "locality": "Isola felice, Rovetta",
-        "localityCoordinates": "",
+        "locality": "Cappella Alpini San Lorenzo, Vogno, Rovetta",
+        "localityCoordinates": "45.865173, 9.966102",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -17498,8 +17498,8 @@
       "latestSample": {
         "collectionDate": "2026-10-05",
         "collector": "Pietro Centenari",
-        "locality": "Isola felice, Rovetta",
-        "localityCoordinates": "",
+        "locality": "Cappella Alpini San Lorenzo, Vogno, Rovetta",
+        "localityCoordinates": "45.868762, 9.965036",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -18122,8 +18122,8 @@
       "latestSample": {
         "collectionDate": "2026-10-05",
         "collector": "Antonio Guana",
-        "locality": "Cardeto, Ardesio",
-        "localityCoordinates": "",
+        "locality": "Cardeto, Gandellino",
+        "localityCoordinates": "46.004851, 9.911829",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -18254,8 +18254,8 @@
       "latestSample": {
         "collectionDate": "2026-10-05",
         "collector": "Pietro Centenari",
-        "locality": "Isola felice, Rovetta",
-        "localityCoordinates": "",
+        "locality": "Cappella Alpini San Lorenzo, Vogno, Rovetta",
+        "localityCoordinates": "45.865334, 9.966130",
         "habitat": "Nel muschio ai piedi di abete rosso",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -18790,8 +18790,8 @@
       "latestSample": {
         "collectionDate": "2026-10-05",
         "collector": "Pietro Centenari",
-        "locality": "Isola felice, Rovetta",
-        "localityCoordinates": "",
+        "locality": "Cappella Alpini San Lorenzo, Vogno, Rovetta",
+        "localityCoordinates": "45.868762, 9.965036",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -19686,8 +19686,8 @@
       "latestSample": {
         "collectionDate": "2026-10-05",
         "collector": "Pietro Centenari",
-        "locality": "Isola felice, Rovetta",
-        "localityCoordinates": "",
+        "locality": "Cappella Alpini San Lorenzo, Vogno, Rovetta",
+        "localityCoordinates": "45.868762, 9.965036",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -19820,8 +19820,8 @@
       "latestSample": {
         "collectionDate": "2026-10-05",
         "collector": "Pietro Centenari",
-        "locality": "Isola felice, Rovetta",
-        "localityCoordinates": "",
+        "locality": "Cappella Alpini San Lorenzo, Vogno, Rovetta",
+        "localityCoordinates": "45.868762, 9.965036",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -21824,8 +21824,8 @@
       "latestSample": {
         "collectionDate": "2026-10-05",
         "collector": "Antonio Guana",
-        "locality": "Cardeto, Ardesio",
-        "localityCoordinates": "",
+        "locality": "Cardeto, Gandellino",
+        "localityCoordinates": "46.004851, 9.911829",
         "habitat": "Castagno",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -22391,8 +22391,8 @@
       "earliestSample": {
         "collectionDate": "2026-10-05",
         "collector": "Pietro Centenari",
-        "locality": "Isola felice, Rovetta",
-        "localityCoordinates": "",
+        "locality": "Cappella Alpini San Lorenzo, Vogno, Rovetta",
+        "localityCoordinates": "45.868762, 9.965036",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -22402,8 +22402,8 @@
       "latestSample": {
         "collectionDate": "2026-10-05",
         "collector": "Pietro Centenari",
-        "locality": "Isola felice, Rovetta",
-        "localityCoordinates": "",
+        "locality": "Cappella Alpini San Lorenzo, Vogno, Rovetta",
+        "localityCoordinates": "45.868762, 9.965036",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -22435,8 +22435,8 @@
       "earliestSample": {
         "collectionDate": "2026-10-05",
         "collector": "Pietro Centenari",
-        "locality": "Isola felice, Rovetta",
-        "localityCoordinates": "",
+        "locality": "Cappella Alpini San Lorenzo, Vogno, Rovetta",
+        "localityCoordinates": "45.865550, 9.966332",
         "habitat": "Su tronco morto di abete rosso",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -22446,8 +22446,8 @@
       "latestSample": {
         "collectionDate": "2026-10-05",
         "collector": "Pietro Centenari",
-        "locality": "Isola felice, Rovetta",
-        "localityCoordinates": "",
+        "locality": "Cappella Alpini San Lorenzo, Vogno, Rovetta",
+        "localityCoordinates": "45.865550, 9.966332",
         "habitat": "Su tronco morto di abete rosso",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -22479,8 +22479,8 @@
       "earliestSample": {
         "collectionDate": "2026-10-05",
         "collector": "Pietro Centenari",
-        "locality": "Isola felice, Rovetta",
-        "localityCoordinates": "",
+        "locality": "Cappella Alpini San Lorenzo, Vogno, Rovetta",
+        "localityCoordinates": "45.868762, 9.965036",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -22490,8 +22490,8 @@
       "latestSample": {
         "collectionDate": "2026-10-05",
         "collector": "Pietro Centenari",
-        "locality": "Isola felice, Rovetta",
-        "localityCoordinates": "",
+        "locality": "Cappella Alpini San Lorenzo, Vogno, Rovetta",
+        "localityCoordinates": "45.868762, 9.965036",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -22537,6 +22537,52 @@
         "locality": "Prat del sul, Clusone",
         "localityCoordinates": "45.867941, 9.932321",
         "habitat": "Faggio",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Collybia",
+      "species": "dryophila",
+      "fullName": "Collybia dryophila",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Omphalotaceae",
+      "authority": "(Bull.) P. Kumm. 1871",
+      "currentName": "Gymnopus dryophilus",
+      "currentAuthority": "(Bull.) Murrill 1916",
+      "totalSamples": 1,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "earliestDate": "10-06",
+      "earliestDayOfYear": 279,
+      "earliestSample": {
+        "collectionDate": "2026-10-06",
+        "collector": "Pierino Bigoni",
+        "locality": "Botto Alto, Ardesio",
+        "localityCoordinates": "45.944819, 9.932124",
+        "habitat": "Bordo sentiero",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "10-06",
+      "latestDayOfYear": 279,
+      "latestSample": {
+        "collectionDate": "2026-10-06",
+        "collector": "Pierino Bigoni",
+        "locality": "Botto Alto, Ardesio",
+        "localityCoordinates": "45.944819, 9.932124",
+        "habitat": "Bordo sentiero",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
@@ -22801,6 +22847,52 @@
         "locality": "Spiazzi, Gromo",
         "localityCoordinates": "45.970802, 9.963785",
         "habitat": "Bosco misto abete bianco e abete rosso",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Polyporus",
+      "species": "badius",
+      "fullName": "Polyporus badius",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Polyporales > famiglia: Polyporaceae",
+      "authority": "(Pers.) Schwein. 1832",
+      "currentName": "Picipes badius",
+      "currentAuthority": "(Pers.) Zmitr. & Kovalenko 2016",
+      "totalSamples": 1,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "earliestDate": "10-06",
+      "earliestDayOfYear": 279,
+      "earliestSample": {
+        "collectionDate": "2026-10-06",
+        "collector": "Pierino Bigoni",
+        "locality": "Ardesio",
+        "localityCoordinates": "45.939493, 9.936104",
+        "habitat": "Ceppaia di latifoglie",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "10-06",
+      "latestDayOfYear": 279,
+      "latestSample": {
+        "collectionDate": "2026-10-06",
+        "collector": "Pierino Bigoni",
+        "locality": "Ardesio",
+        "localityCoordinates": "45.939493, 9.936104",
+        "habitat": "Ceppaia di latifoglie",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T00:13:56.808Z",
+  "generatedAt": "2026-10-06T14:31:17.747Z",
   "corpus": [
     {
       "type": "genus",
@@ -64,7 +64,6 @@
       "type": "genus",
       "value": "Boletus",
       "matchSpecies": [
-        "Boletus edulis",
         "Boletus erythropus",
         "Boletus luridus",
         "Neoboletus erythropus",
@@ -790,13 +789,6 @@
       "value": "Boletinus cavipes",
       "matchSpecies": [
         "Boletinus cavipes"
-      ]
-    },
-    {
-      "type": "species",
-      "value": "Boletus edulis",
-      "matchSpecies": [
-        "Boletus edulis"
       ]
     },
     {
@@ -1865,7 +1857,6 @@
       "type": "famiglia",
       "value": "Boletaceae",
       "matchSpecies": [
-        "Boletus edulis",
         "Boletus erythropus",
         "Boletus luridus",
         "Imleria badia",
@@ -2284,7 +2275,6 @@
       "value": "Boletales",
       "matchSpecies": [
         "Boletinus cavipes",
-        "Boletus edulis",
         "Boletus erythropus",
         "Boletus luridus",
         "Imleria badia",
@@ -2422,7 +2412,6 @@
         "Auriscalpium vulgare",
         "Baeospora myosura",
         "Boletinus cavipes",
-        "Boletus edulis",
         "Boletus erythropus",
         "Boletus luridus",
         "Cantharellus amethysteus",
@@ -2622,7 +2611,6 @@
         "Auriscalpium vulgare",
         "Baeospora myosura",
         "Boletinus cavipes",
-        "Boletus edulis",
         "Boletus erythropus",
         "Boletus luridus",
         "Cantharellus amethysteus",
@@ -2780,7 +2768,6 @@
         "Auriscalpium vulgare",
         "Baeospora myosura",
         "Boletinus cavipes",
-        "Boletus edulis",
         "Boletus erythropus",
         "Boletus luridus",
         "Cantharellus amethysteus",

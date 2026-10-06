@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-06T00:14:32.325Z",
-  "totalSpecies": 568,
-  "totalSamples": 1747,
+  "generatedAt": "2026-10-06T14:31:17.411Z",
+  "totalSpecies": 570,
+  "totalSamples": 1750,
   "species": [
     {
       "genus": "Abortiporus",
@@ -898,6 +898,15 @@
       "authority": "(Fr.) Quél. 1872",
       "currentName": "Rhodocollybia prolixa",
       "currentAuthority": "(Fr.) Antonín & Noordel. 1997"
+    },
+    {
+      "genus": "Collybia",
+      "species": "dryophila",
+      "fullName": "Collybia dryophila",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Omphalotaceae",
+      "authority": "(Bull.) P. Kumm. 1871",
+      "currentName": "Gymnopus dryophilus",
+      "currentAuthority": "(Bull.) Murrill 1916"
     },
     {
       "genus": "Collybia",
@@ -3186,6 +3195,15 @@
       "authority": "(Pers.) G.F. Atk. 1905",
       "currentName": "Trichoderma alutaceum",
       "currentAuthority": "Jaklitsch 2011"
+    },
+    {
+      "genus": "Polyporus",
+      "species": "badius",
+      "fullName": "Polyporus badius",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Polyporales > famiglia: Polyporaceae",
+      "authority": "(Pers.) Schwein. 1832",
+      "currentName": "Picipes badius",
+      "currentAuthority": "(Pers.) Zmitr. & Kovalenko 2016"
     },
     {
       "genus": "Polyporus",

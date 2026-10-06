@@ -1,8 +1,8 @@
 {
   "title": "Pineta della Selva",
-  "generatedAt": "2026-09-27T00:13:56.770Z",
-  "totalSpecies": 127,
-  "totalSamples": 185,
+  "generatedAt": "2026-10-06T14:31:17.707Z",
+  "totalSpecies": 126,
+  "totalSamples": 184,
   "species": [
     {
       "genus": "Amanita",
@@ -96,13 +96,6 @@
       "fullName": "Boletinus cavipes",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Suillaceae",
       "authority": "(Klotzsch) Kalchbr. 1867"
-    },
-    {
-      "genus": "Boletus",
-      "species": "edulis",
-      "fullName": "Boletus edulis",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
-      "authority": "Bull. 1782"
     },
     {
       "genus": "Boletus",

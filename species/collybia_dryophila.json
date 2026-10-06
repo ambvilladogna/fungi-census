@@ -1,23 +1,23 @@
 {
-  "nomeCompleto": "Suillus bovinus",
-  "autore": "(L.) Roussel 1796",
-  "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Suillaceae",
-  "nomeCorrente": null,
-  "autoreCorrente": null,
+  "nomeCompleto": "Collybia dryophila",
+  "autore": "(Bull.) P. Kumm. 1871",
+  "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Omphalotaceae",
+  "nomeCorrente": "Gymnopus dryophilus",
+  "autoreCorrente": "(Bull.) Murrill 1916",
   "campioniRaccolti": [
     {
-      "collectionDate": "2026-10-05",
-      "collector": "Pietro Centenari",
-      "locality": "Cappella Alpini San Lorenzo, Vogno, Rovetta",
-      "localityCoordinates": "45.868762, 9.965036",
-      "habitat": "Bosco misto",
+      "collectionDate": "2026-10-06",
+      "collector": "Pierino Bigoni",
+      "locality": "Botto Alto, Ardesio",
+      "localityCoordinates": "45.944819, 9.932124",
+      "habitat": "Bordo sentiero",
       "determiner": "Pierino Bigoni"
     }
   ],
   "campioniExsiccata": [],
   "fenologia": {
-    "raccoltaPiuPrecoce": "10-05",
-    "raccoltaPiuTarda": "10-05",
+    "raccoltaPiuPrecoce": "10-06",
+    "raccoltaPiuTarda": "10-06",
     "campioniPerMese": [
       {
         "gen": 0
