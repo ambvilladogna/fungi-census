@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-06T15:24:50.811Z",
+  "generatedAt": "2026-10-07T00:14:18.986Z",
   "totalSpecies": 570,
-  "totalSamples": 1931,
+  "totalSamples": 1932,
   "species": [
     {
       "genus": "Flammulina",
@@ -21437,7 +21437,7 @@
       "fullName": "Simocybe sumptuosa",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Crepidotaceae",
       "authority": "(P.D. Orton) Singer 1962",
-      "totalSamples": 1,
+      "totalSamples": 2,
       "monthlyCount": [
         0,
         0,
@@ -21447,7 +21447,7 @@
         0,
         0,
         0,
-        1,
+        2,
         0,
         0,
         0
@@ -21456,11 +21456,11 @@
       "earliestDayOfYear": 263,
       "earliestSample": {
         "collectionDate": "2026-09-20",
-        "collector": "Pietro Centenari",
-        "locality": "Camasone, Songavazzo, Bergamo",
-        "localityCoordinates": "45.869884, 10.021833",
-        "habitat": "Tronco di ciliegio",
-        "determiner": "Pietro Centenari",
+        "collector": "Renato Depressi",
+        "locality": "Pospe, Aprico, Fino del Monte",
+        "localityCoordinates": "45.904927, 9.997730",
+        "habitat": "Nocciolo",
+        "determiner": "Angelo Ballabeni",
         "_tipo": "raccolto"
       },
       "latestDate": "09-20",
@@ -21470,7 +21470,7 @@
         "collector": "Pietro Centenari",
         "locality": "Camasone, Songavazzo, Bergamo",
         "localityCoordinates": "45.869884, 10.021833",
-        "habitat": "Tronco di ciliegio",
+        "habitat": "Tronco caduto di ciliegio",
         "determiner": "Pietro Centenari",
         "_tipo": "raccolto"
       }
