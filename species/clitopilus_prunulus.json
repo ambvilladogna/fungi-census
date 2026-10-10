@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-10-09",
+      "collector": "Pietro Centenari",
+      "locality": "Sent. Alto Serio (Verso i monti Parè e Blum - strada), Rovetta, Comunità Montana della Valle Seriana, Bergamo",
+      "localityCoordinates": "45.908087, 9.967027",
+      "habitat": "Abete rosso",
+      "determiner": "Pietro Centenari"
+    },
+    {
       "collectionDate": "2026-09-30",
       "collector": "Fabio Locatelli",
       "locality": "Schilpario",
@@ -215,7 +223,7 @@
         "set": 9
       },
       {
-        "ott": 2
+        "ott": 3
       },
       {
         "nov": 0
@@ -226,8 +234,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 22,
-    "campioniRaccolti": 22,
+    "totaleCampioni": 23,
+    "campioniRaccolti": 23,
     "campioniExsiccata": 0
   }
 }

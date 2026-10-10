@@ -6,6 +6,14 @@
   "autoreCorrente": "(Fr.) Vizzini 2014",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-10-09",
+      "collector": "Pietro Centenari",
+      "locality": "Blum, Rovetta",
+      "localityCoordinates": "45.909548, 9.973256",
+      "habitat": "Abete rosso",
+      "determiner": "Pietro Centenari"
+    },
+    {
       "collectionDate": "2026-09-28",
       "collector": "Pierino Bigoni",
       "locality": "Valzelli, Monte Pora, Castione della Presolana",
@@ -151,7 +159,7 @@
         "set": 9
       },
       {
-        "ott": 2
+        "ott": 3
       },
       {
         "nov": 2
@@ -162,8 +170,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 14,
-    "campioniRaccolti": 14,
+    "totaleCampioni": 15,
+    "campioniRaccolti": 15,
     "campioniExsiccata": 0
   }
 }

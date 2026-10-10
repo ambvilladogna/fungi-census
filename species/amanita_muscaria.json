@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-10-09",
+      "collector": "Pietro Centenari",
+      "locality": "Sent. Alto Serio (Verso i monti Parè e Blum - strada), Rovetta, Comunità Montana della Valle Seriana, Bergamo",
+      "localityCoordinates": "45.907437, 9.967302",
+      "habitat": "Betulla",
+      "determiner": "Pietro Centenari"
+    },
+    {
       "collectionDate": "2026-09-28",
       "collector": "Pierino Bigoni",
       "locality": "Valzelli, Monte Pora, Castione della Presolana",
@@ -151,7 +159,7 @@
         "set": 7
       },
       {
-        "ott": 3
+        "ott": 4
       },
       {
         "nov": 1
@@ -162,8 +170,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 14,
-    "campioniRaccolti": 14,
+    "totaleCampioni": 15,
+    "campioniRaccolti": 15,
     "campioniExsiccata": 0
   }
 }

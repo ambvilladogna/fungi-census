@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-07T00:14:18.986Z",
+  "generatedAt": "2026-10-10T00:14:42.968Z",
   "totalSpecies": 570,
-  "totalSamples": 1932,
+  "totalSamples": 1938,
   "species": [
     {
       "genus": "Flammulina",
@@ -2909,8 +2909,8 @@
         2,
         6,
         6,
-        6,
-        3,
+        5,
+        4,
         0,
         0
       ],
@@ -6421,7 +6421,7 @@
       "fullName": "Clitopilus prunulus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Entolomataceae",
       "authority": "(Scop.) P. Kumm. 1871",
-      "totalSamples": 22,
+      "totalSamples": 23,
       "monthlyCount": [
         0,
         0,
@@ -6432,7 +6432,7 @@
         3,
         8,
         9,
-        2,
+        3,
         0,
         0
       ],
@@ -8515,7 +8515,7 @@
       "fullName": "Amanita muscaria",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
       "authority": "(L.) Lam. 1783",
-      "totalSamples": 14,
+      "totalSamples": 15,
       "monthlyCount": [
         0,
         0,
@@ -8526,7 +8526,7 @@
         0,
         3,
         7,
-        3,
+        4,
         1,
         0
       ],
@@ -11277,7 +11277,7 @@
       "fullName": "Lactarius scrobiculatus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
       "authority": "(Scop.) Fr. 1838",
-      "totalSamples": 8,
+      "totalSamples": 9,
       "monthlyCount": [
         0,
         0,
@@ -11288,7 +11288,7 @@
         0,
         2,
         5,
-        1,
+        2,
         0,
         0
       ],
@@ -11303,15 +11303,15 @@
         "determiner": "Angelo Ballabeni",
         "_tipo": "raccolto"
       },
-      "latestDate": "10-06",
-      "latestDayOfYear": 279,
+      "latestDate": "10-09",
+      "latestDayOfYear": 282,
       "latestSample": {
-        "collectionDate": "2025-10-06",
+        "collectionDate": "2026-10-09",
         "collector": "Pietro Centenari",
-        "locality": "Blum, Rovetta",
-        "localityCoordinates": "45.909548, 9.973256",
-        "habitat": "Bosco misto",
-        "determiner": "Fabio Locatelli",
+        "locality": "Campos, Rovetta",
+        "localityCoordinates": "45.903515, 9.983604",
+        "habitat": "Abete rosso",
+        "determiner": "Pietro Centenari",
         "_tipo": "raccolto"
       }
     },
@@ -15645,7 +15645,7 @@
       "authority": "(Fr.) E.-J. Gilbert 1931",
       "currentName": "Imleria badia",
       "currentAuthority": "(Fr.) Vizzini 2014",
-      "totalSamples": 14,
+      "totalSamples": 15,
       "monthlyCount": [
         0,
         0,
@@ -15656,7 +15656,7 @@
         0,
         1,
         9,
-        2,
+        3,
         2,
         0
       ],
@@ -18047,7 +18047,7 @@
       "authority": "(Vittad.) Singer 1951",
       "currentName": "Chlorophyllum rhacodes",
       "currentAuthority": "(Vittad.) Vellinga 2002",
-      "totalSamples": 4,
+      "totalSamples": 5,
       "monthlyCount": [
         0,
         0,
@@ -18058,7 +18058,7 @@
         0,
         0,
         4,
-        0,
+        1,
         0,
         0
       ],
@@ -18073,15 +18073,15 @@
         "determiner": "Renato Depressi",
         "_tipo": "raccolto"
       },
-      "latestDate": "09-19",
-      "latestDayOfYear": 262,
+      "latestDate": "10-09",
+      "latestDayOfYear": 282,
       "latestSample": {
-        "collectionDate": "2025-09-19",
-        "collector": "Pierino Bigoni",
-        "locality": "Spiazzi di Gromo",
-        "localityCoordinates": "45.963846, 9.961154",
-        "habitat": "Bosco abete rosso e bianco",
-        "determiner": "Pierino Bigoni",
+        "collectionDate": "2026-10-09",
+        "collector": "Pietro Centenari",
+        "locality": "Sent. Alto Serio (Verso i monti Parè e Blum - strada), Rovetta, Comunità Montana della Valle Seriana, Bergamo",
+        "localityCoordinates": "45.906933, 9.971263",
+        "habitat": "Prato nelle vicinanze di pino silvestre",
+        "determiner": "Pietro Centenari",
         "_tipo": "raccolto"
       }
     },
@@ -20545,7 +20545,7 @@
       "fullName": "Lactarius deliciosus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
       "authority": "(L.) Gray 1821",
-      "totalSamples": 3,
+      "totalSamples": 4,
       "monthlyCount": [
         0,
         0,
@@ -20556,7 +20556,7 @@
         0,
         0,
         1,
-        1,
+        2,
         1,
         0
       ],
