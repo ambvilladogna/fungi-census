@@ -1,8 +1,8 @@
 {
   "title": "Pineta della Selva",
-  "generatedAt": "2026-10-06T14:31:17.707Z",
-  "totalSpecies": 126,
-  "totalSamples": 184,
+  "generatedAt": "2026-10-11T00:14:27.350Z",
+  "totalSpecies": 127,
+  "totalSamples": 185,
   "species": [
     {
       "genus": "Amanita",
@@ -459,6 +459,13 @@
       "fullName": "Hypoxylon fragiforme",
       "lineage": "regno: Fungi > phylum: Ascomycota > classe: Sordariomycetes > ordine: Xylariales > famiglia: Hypoxylaceae",
       "authority": "(Pers.) J. Kickx f. 1835"
+    },
+    {
+      "genus": "Infundibulicybe",
+      "species": "geotropa",
+      "fullName": "Infundibulicybe geotropa",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales",
+      "authority": "(Bull.) Harmaja 2003"
     },
     {
       "genus": "Inocybe",

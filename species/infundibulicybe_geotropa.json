@@ -1,9 +1,9 @@
 {
-  "nomeCompleto": "Clitocybe geotropa",
-  "autore": "(Bull.) Quél. 1872",
+  "nomeCompleto": "Infundibulicybe geotropa",
+  "autore": "(Bull.) Harmaja 2003",
   "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales",
-  "nomeCorrente": "Infundibulicybe geotropa",
-  "autoreCorrente": "(Bull.) Harmaja 2003",
+  "nomeCorrente": null,
+  "autoreCorrente": null,
   "campioniRaccolti": [
     {
       "collectionDate": "2026-10-10",

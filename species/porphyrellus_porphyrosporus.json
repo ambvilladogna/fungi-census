@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-10-10",
+      "collector": "Fabio Locatelli",
+      "locality": "Rasga, Clusone",
+      "localityCoordinates": "46.009394, 10.154059",
+      "habitat": "Abete rosso",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2026-09-28",
       "collector": "Pierino Bigoni",
       "locality": "Valzelli, Monte Pora, Castione della Presolana",
@@ -103,7 +111,7 @@
         "set": 2
       },
       {
-        "ott": 2
+        "ott": 3
       },
       {
         "nov": 1
@@ -114,8 +122,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 8,
-    "campioniRaccolti": 8,
+    "totaleCampioni": 9,
+    "campioniRaccolti": 9,
     "campioniExsiccata": 0
   }
 }

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-10T00:14:42.968Z",
-  "totalSpecies": 570,
-  "totalSamples": 1938,
+  "generatedAt": "2026-10-11T00:14:27.176Z",
+  "totalSpecies": 573,
+  "totalSamples": 1954,
   "species": [
     {
       "genus": "Flammulina",
@@ -1431,7 +1431,7 @@
       "authority": "(V. Brig.) Singer 1951",
       "currentName": "Cyclocybe cylindracea",
       "currentAuthority": "(DC.) Vizzini & Angelini 2014",
-      "totalSamples": 6,
+      "totalSamples": 7,
       "monthlyCount": [
         0,
         0,
@@ -1442,7 +1442,7 @@
         1,
         1,
         2,
-        0,
+        1,
         0,
         0
       ],
@@ -1457,15 +1457,15 @@
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       },
-      "latestDate": "09-08",
-      "latestDayOfYear": 251,
+      "latestDate": "10-10",
+      "latestDayOfYear": 283,
       "latestSample": {
-        "collectionDate": "2025-09-08",
-        "collector": "Pierino Bigoni",
-        "locality": "Peschiera del Garda",
-        "localityCoordinates": "45.438945, 10.692017",
-        "habitat": "Ceppaia pino domestico",
-        "determiner": "Pierino Bigoni",
+        "collectionDate": "2026-10-10",
+        "collector": "Fabio Locatelli",
+        "locality": "Rasga, Clusone",
+        "localityCoordinates": "46.009394, 10.154059",
+        "habitat": "Acero",
+        "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
     },
@@ -1475,7 +1475,7 @@
       "fullName": "Cyclocybe cylindracea",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Hemipholiotaceae",
       "authority": "(DC.) Vizzini & Angelini 2014",
-      "totalSamples": 6,
+      "totalSamples": 7,
       "monthlyCount": [
         0,
         0,
@@ -1486,7 +1486,7 @@
         1,
         1,
         2,
-        0,
+        1,
         0,
         0
       ],
@@ -1501,15 +1501,15 @@
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       },
-      "latestDate": "09-08",
-      "latestDayOfYear": 251,
+      "latestDate": "10-10",
+      "latestDayOfYear": 283,
       "latestSample": {
-        "collectionDate": "2025-09-08",
-        "collector": "Pierino Bigoni",
-        "locality": "Peschiera del Garda",
-        "localityCoordinates": "45.438945, 10.692017",
-        "habitat": "Ceppaia pino domestico",
-        "determiner": "Pierino Bigoni",
+        "collectionDate": "2026-10-10",
+        "collector": "Fabio Locatelli",
+        "locality": "Rasga, Clusone",
+        "localityCoordinates": "46.009394, 10.154059",
+        "habitat": "Acero",
+        "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
     },
@@ -3569,7 +3569,7 @@
       "fullName": "Kuehneromyces mutabilis",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Kuehneromycetaceae",
       "authority": "(Schaeff.) Singer & A.H. Sm. 1946",
-      "totalSamples": 4,
+      "totalSamples": 5,
       "monthlyCount": [
         0,
         0,
@@ -3580,7 +3580,7 @@
         0,
         1,
         2,
-        0,
+        1,
         0,
         0
       ],
@@ -3595,15 +3595,15 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "09-11",
-      "latestDayOfYear": 254,
+      "latestDate": "10-10",
+      "latestDayOfYear": 283,
       "latestSample": {
-        "collectionDate": "2026-09-11",
-        "collector": "Pierino Bigoni",
-        "locality": "Contrada Bricconi, Oltressenda Alta",
-        "localityCoordinates": "45.920360, 9.948130",
-        "habitat": "Bosco misto",
-        "determiner": "Pierino Bigoni",
+        "collectionDate": "2026-10-10",
+        "collector": "Fabio Locatelli",
+        "locality": "Rasga, Clusone",
+        "localityCoordinates": "46.009394, 10.154059",
+        "habitat": "Acero",
+        "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
     },
@@ -7045,7 +7045,7 @@
       "fullName": "Porphyrellus porphyrosporus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
       "authority": "(Fr.) E.-J. Gilbert 1931",
-      "totalSamples": 8,
+      "totalSamples": 9,
       "monthlyCount": [
         0,
         0,
@@ -7056,7 +7056,7 @@
         1,
         2,
         2,
-        2,
+        3,
         1,
         0
       ],
@@ -8561,7 +8561,7 @@
       "authority": "Redeuilh 1986",
       "currentName": "Hemileccinum depilatum",
       "currentAuthority": "(Redeuilh) Šutara 2008",
-      "totalSamples": 4,
+      "totalSamples": 5,
       "monthlyCount": [
         0,
         0,
@@ -8572,7 +8572,7 @@
         0,
         2,
         2,
-        0,
+        1,
         0,
         0
       ],
@@ -8587,14 +8587,14 @@
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       },
-      "latestDate": "09-13",
-      "latestDayOfYear": 256,
+      "latestDate": "10-10",
+      "latestDayOfYear": 283,
       "latestSample": {
-        "collectionDate": "2026-09-13",
-        "collector": "Pierino Bigoni",
-        "locality": "Piazza di Golla, Premolo",
-        "localityCoordinates": "45.885467, 9.846477",
-        "habitat": "Bosco misto",
+        "collectionDate": "2026-10-10",
+        "collector": "Fabio Locatelli",
+        "locality": "Monte Ost, Clusone",
+        "localityCoordinates": "",
+        "habitat": "Carpino",
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
@@ -8739,7 +8739,7 @@
       "fullName": "Hemileccinum depilatum",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
       "authority": "(Redeuilh) Šutara 2008",
-      "totalSamples": 4,
+      "totalSamples": 5,
       "monthlyCount": [
         0,
         0,
@@ -8750,7 +8750,7 @@
         0,
         2,
         2,
-        0,
+        1,
         0,
         0
       ],
@@ -8765,14 +8765,14 @@
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       },
-      "latestDate": "09-13",
-      "latestDayOfYear": 256,
+      "latestDate": "10-10",
+      "latestDayOfYear": 283,
       "latestSample": {
-        "collectionDate": "2026-09-13",
-        "collector": "Pierino Bigoni",
-        "locality": "Piazza di Golla, Premolo",
-        "localityCoordinates": "45.885467, 9.846477",
-        "habitat": "Bosco misto",
+        "collectionDate": "2026-10-10",
+        "collector": "Fabio Locatelli",
+        "locality": "Monte Ost, Clusone",
+        "localityCoordinates": "",
+        "habitat": "Carpino",
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
@@ -16711,7 +16711,7 @@
       "fullName": "Leccinum aurantiacum",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
       "authority": "(Bull.) Gray 1821",
-      "totalSamples": 2,
+      "totalSamples": 3,
       "monthlyCount": [
         0,
         0,
@@ -16722,7 +16722,7 @@
         0,
         0,
         2,
-        0,
+        1,
         0,
         0
       ],
@@ -16737,15 +16737,15 @@
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       },
-      "latestDate": "09-17",
-      "latestDayOfYear": 260,
+      "latestDate": "10-10",
+      "latestDayOfYear": 283,
       "latestSample": {
-        "collectionDate": "2025-09-17",
-        "collector": "Pierino Bigoni",
-        "locality": "Zenier, Rovetta",
-        "localityCoordinates": "45.898619, 9.984853",
-        "habitat": "Bosco misto",
-        "determiner": "Pierino Bigoni",
+        "collectionDate": "2026-10-10",
+        "collector": "Fabio Locatelli",
+        "locality": "Rasga, Clusone",
+        "localityCoordinates": "",
+        "habitat": "Pioppo tremulo",
+        "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
     },
@@ -18851,7 +18851,7 @@
       "authority": "(Bull.) Cooke 1871",
       "currentName": "Collybia nuda",
       "currentAuthority": "(Bull.) Z.M. He & Zhu L. Yang 2023",
-      "totalSamples": 4,
+      "totalSamples": 5,
       "monthlyCount": [
         0,
         0,
@@ -18862,7 +18862,7 @@
         0,
         0,
         2,
-        1,
+        2,
         1,
         0
       ],
@@ -23652,6 +23652,186 @@
       }
     },
     {
+      "genus": "Clitocybe",
+      "species": "geotropa",
+      "fullName": "Clitocybe geotropa",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales",
+      "authority": "(Bull.) Quél. 1872",
+      "currentName": "Infundibulicybe geotropa",
+      "currentAuthority": "(Bull.) Harmaja 2003",
+      "totalSamples": 5,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        1
+      ],
+      "earliestDate": "10-10",
+      "earliestDayOfYear": 283,
+      "earliestSample": {
+        "collectionDate": "2026-10-10",
+        "collector": "Fabio Locatelli",
+        "locality": "Rasga, Clusone",
+        "localityCoordinates": "46.009394, 10.154059",
+        "habitat": "Abete rosso",
+        "determiner": "Fabio Locatelli",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "12-17",
+      "latestDayOfYear": 352,
+      "latestSample": {
+        "collectionDate": "2025-12-17",
+        "collector": "Luciano Imberti",
+        "locality": "Monte Bue, Cene",
+        "localityCoordinates": "45.785822, 9.846521",
+        "habitat": "Bosco latifoglie",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Cortinarius",
+      "species": "glaucopus",
+      "fullName": "Cortinarius glaucopus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
+      "authority": "(Schaeff.) Gray 1821",
+      "currentName": "Phlegmacium glaucopus",
+      "currentAuthority": "(Schaeff.) Wünsche 1877",
+      "totalSamples": 1,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "earliestDate": "10-10",
+      "earliestDayOfYear": 283,
+      "earliestSample": {
+        "collectionDate": "2026-10-10",
+        "collector": "Fabio Locatelli",
+        "locality": "Blum, Rovetta",
+        "localityCoordinates": "45.909548, 9.973256",
+        "habitat": "Abete rosso",
+        "determiner": "Fabio Locatelli",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "10-10",
+      "latestDayOfYear": 283,
+      "latestSample": {
+        "collectionDate": "2026-10-10",
+        "collector": "Fabio Locatelli",
+        "locality": "Blum, Rovetta",
+        "localityCoordinates": "45.909548, 9.973256",
+        "habitat": "Abete rosso",
+        "determiner": "Fabio Locatelli",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Infundibulicybe",
+      "species": "geotropa",
+      "fullName": "Infundibulicybe geotropa",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales",
+      "authority": "(Bull.) Harmaja 2003",
+      "totalSamples": 5,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        1
+      ],
+      "earliestDate": "10-10",
+      "earliestDayOfYear": 283,
+      "earliestSample": {
+        "collectionDate": "2026-10-10",
+        "collector": "Fabio Locatelli",
+        "locality": "Rasga, Clusone",
+        "localityCoordinates": "46.009394, 10.154059",
+        "habitat": "Abete rosso",
+        "determiner": "Fabio Locatelli",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "12-17",
+      "latestDayOfYear": 352,
+      "latestSample": {
+        "collectionDate": "2025-12-17",
+        "collector": "Luciano Imberti",
+        "locality": "Monte Bue, Cene",
+        "localityCoordinates": "45.785822, 9.846521",
+        "habitat": "Bosco latifoglie",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Macrolepiota",
+      "species": "excoriata",
+      "fullName": "Macrolepiota excoriata",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
+      "authority": "(Schaeff.) Wasser 1978",
+      "totalSamples": 1,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "earliestDate": "10-10",
+      "earliestDayOfYear": 283,
+      "earliestSample": {
+        "collectionDate": "2026-10-10",
+        "collector": "Fabio Locatelli",
+        "locality": "Rasga, Clusone",
+        "localityCoordinates": "",
+        "habitat": "Prato",
+        "determiner": "Fabio Locatelli",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "10-10",
+      "latestDayOfYear": 283,
+      "latestSample": {
+        "collectionDate": "2026-10-10",
+        "collector": "Fabio Locatelli",
+        "locality": "Rasga, Clusone",
+        "localityCoordinates": "",
+        "habitat": "Prato",
+        "determiner": "Fabio Locatelli",
+        "_tipo": "raccolto"
+      }
+    },
+    {
       "genus": "Amanita",
       "species": "simulans",
       "fullName": "Amanita simulans",
@@ -24003,52 +24183,6 @@
         "locality": "Pineta della Selva, Clusone",
         "localityCoordinates": "45.88196, 9.91806",
         "habitat": "Bosco misto",
-        "determiner": "Pierino Bigoni",
-        "_tipo": "raccolto"
-      }
-    },
-    {
-      "genus": "Clitocybe",
-      "species": "geotropa",
-      "fullName": "Clitocybe geotropa",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales",
-      "authority": "(Bull.) Quél. 1872",
-      "currentName": "Infundibulicybe geotropa",
-      "currentAuthority": "(Bull.) Harmaja 2003",
-      "totalSamples": 4,
-      "monthlyCount": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        2,
-        1
-      ],
-      "earliestDate": "10-27",
-      "earliestDayOfYear": 300,
-      "earliestSample": {
-        "collectionDate": "2025-10-27",
-        "collector": "Pierino Bigoni",
-        "locality": "Pineta della Selva, Clusone",
-        "localityCoordinates": "45.88196, 9.91806",
-        "habitat": "Bosco misto",
-        "determiner": "Pierino Bigoni",
-        "_tipo": "raccolto"
-      },
-      "latestDate": "12-17",
-      "latestDayOfYear": 352,
-      "latestSample": {
-        "collectionDate": "2025-12-17",
-        "collector": "Luciano Imberti",
-        "locality": "Monte Bue, Cene",
-        "localityCoordinates": "45.785822, 9.846521",
-        "habitat": "Bosco latifoglie",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }

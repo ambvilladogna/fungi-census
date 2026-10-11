@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-10T00:14:42.866Z",
-  "totalSpecies": 570,
-  "totalSamples": 1758,
+  "generatedAt": "2026-10-11T00:14:27.043Z",
+  "totalSpecies": 573,
+  "totalSamples": 1768,
   "species": [
     {
       "genus": "Abortiporus",
@@ -1140,6 +1140,15 @@
     },
     {
       "genus": "Cortinarius",
+      "species": "glaucopus",
+      "fullName": "Cortinarius glaucopus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
+      "authority": "(Schaeff.) Gray 1821",
+      "currentName": "Phlegmacium glaucopus",
+      "currentAuthority": "(Schaeff.) Wünsche 1877"
+    },
+    {
+      "genus": "Cortinarius",
       "species": "infractus",
       "fullName": "Cortinarius infractus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
@@ -2040,6 +2049,13 @@
     },
     {
       "genus": "Infundibulicybe",
+      "species": "geotropa",
+      "fullName": "Infundibulicybe geotropa",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales",
+      "authority": "(Bull.) Harmaja 2003"
+    },
+    {
+      "genus": "Infundibulicybe",
       "species": "gibba",
       "fullName": "Infundibulicybe gibba",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales",
@@ -2644,6 +2660,13 @@
       "authority": "(Pers.) P.D. Orton 1960",
       "currentName": "Lyophyllum decastes",
       "currentAuthority": "(Fr.) Singer 1951"
+    },
+    {
+      "genus": "Macrolepiota",
+      "species": "excoriata",
+      "fullName": "Macrolepiota excoriata",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
+      "authority": "(Schaeff.) Wasser 1978"
     },
     {
       "genus": "Macrolepiota",
