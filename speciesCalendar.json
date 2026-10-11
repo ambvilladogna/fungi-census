@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T17:58:31.902Z",
+  "generatedAt": "2026-10-11T18:08:35.681Z",
   "totalSpecies": 573,
   "totalSamples": 1954,
   "species": [
@@ -1463,7 +1463,7 @@
         "collectionDate": "2026-10-10",
         "collector": "Fabio Locatelli",
         "locality": "Rasga, Clusone",
-        "localityCoordinates": "46.009394, 10.154059",
+        "localityCoordinates": "45.907651, 9.962218",
         "habitat": "Acero",
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
@@ -1507,7 +1507,7 @@
         "collectionDate": "2026-10-10",
         "collector": "Fabio Locatelli",
         "locality": "Rasga, Clusone",
-        "localityCoordinates": "",
+        "localityCoordinates": "45.907651, 9.962218",
         "habitat": "Acero",
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
@@ -3601,7 +3601,7 @@
         "collectionDate": "2026-10-10",
         "collector": "Fabio Locatelli",
         "locality": "Rasga, Clusone",
-        "localityCoordinates": "",
+        "localityCoordinates": "45.907651, 9.962218",
         "habitat": "Acero",
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
@@ -16743,7 +16743,7 @@
         "collectionDate": "2026-10-10",
         "collector": "Fabio Locatelli",
         "locality": "Rasga, Clusone",
-        "localityCoordinates": "",
+        "localityCoordinates": "45.907651, 9.962218",
         "habitat": "Pioppo tremulo",
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
@@ -23680,7 +23680,7 @@
         "collectionDate": "2026-10-10",
         "collector": "Fabio Locatelli",
         "locality": "Rasga, Clusone",
-        "localityCoordinates": "46.009394, 10.154059",
+        "localityCoordinates": "45.907651, 9.962218",
         "habitat": "Abete rosso",
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
@@ -23770,7 +23770,7 @@
         "collectionDate": "2026-10-10",
         "collector": "Fabio Locatelli",
         "locality": "Rasga, Clusone",
-        "localityCoordinates": "",
+        "localityCoordinates": "45.907651, 9.962218",
         "habitat": "Abete rosso",
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
@@ -23814,7 +23814,7 @@
         "collectionDate": "2026-10-10",
         "collector": "Fabio Locatelli",
         "locality": "Rasga, Clusone",
-        "localityCoordinates": "",
+        "localityCoordinates": "45.907651, 9.962218",
         "habitat": "Prato",
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
@@ -23825,7 +23825,7 @@
         "collectionDate": "2026-10-10",
         "collector": "Fabio Locatelli",
         "locality": "Rasga, Clusone",
-        "localityCoordinates": "",
+        "localityCoordinates": "45.907651, 9.962218",
         "habitat": "Prato",
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
