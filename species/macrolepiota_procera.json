@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-10-12",
+      "collector": "Pierino Bigoni",
+      "locality": "Pineta della Selva, Clusone",
+      "localityCoordinates": "45.88196, 9.91806",
+      "habitat": "Bosco misto",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-10-09",
       "collector": "Pietro Centenari",
       "locality": "Blum, Rovetta",
@@ -142,14 +150,6 @@
       "determiner": "Pietro Centenari"
     },
     {
-      "collectionDate": "2026-06-20",
-      "collector": "Pierino Bigoni",
-      "locality": "Falecchio, Songavazzo",
-      "localityCoordinates": "45.882296, 10.000041",
-      "habitat": "Sul terreno a bordo bosco misto",
-      "determiner": "Pierino Bigoni"
-    },
-    {
       "collectionDate": "2026-05-21",
       "collector": "Erica Pozzi",
       "locality": "Casale, Albino",
@@ -209,7 +209,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "05-21",
-    "raccoltaPiuTarda": "10-09",
+    "raccoltaPiuTarda": "10-12",
     "campioniPerMese": [
       {
         "gen": 0
@@ -227,7 +227,7 @@
         "mag": 2
       },
       {
-        "giu": 2
+        "giu": 1
       },
       {
         "lug": 6
@@ -239,7 +239,7 @@
         "set": 5
       },
       {
-        "ott": 4
+        "ott": 5
       },
       {
         "nov": 0

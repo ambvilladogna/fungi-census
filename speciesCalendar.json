@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-11T18:08:35.681Z",
-  "totalSpecies": 573,
-  "totalSamples": 1954,
+  "generatedAt": "2026-10-13T00:14:28.785Z",
+  "totalSpecies": 576,
+  "totalSamples": 1998,
   "species": [
     {
       "genus": "Flammulina",
@@ -2675,7 +2675,7 @@
       "fullName": "Mycena pura",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Mycenaceae",
       "authority": "(Pers.) P. Kumm. 1871",
-      "totalSamples": 13,
+      "totalSamples": 14,
       "monthlyCount": [
         0,
         0,
@@ -2686,7 +2686,7 @@
         1,
         4,
         5,
-        1,
+        2,
         1,
         0
       ],
@@ -2906,11 +2906,11 @@
         0,
         0,
         2,
-        2,
+        1,
         6,
         6,
         5,
-        4,
+        5,
         0,
         0
       ],
@@ -2925,14 +2925,14 @@
         "determiner": "Erica Pozzi",
         "_tipo": "raccolto"
       },
-      "latestDate": "10-09",
-      "latestDayOfYear": 282,
+      "latestDate": "10-12",
+      "latestDayOfYear": 285,
       "latestSample": {
-        "collectionDate": "2025-10-09",
+        "collectionDate": "2026-10-12",
         "collector": "Pierino Bigoni",
         "locality": "Pineta della Selva, Clusone",
         "localityCoordinates": "45.88196, 9.91806",
-        "habitat": "Bosco misto abete e latifoglie",
+        "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
@@ -4103,7 +4103,7 @@
       "fullName": "Amanita rubescens",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
       "authority": "Pers. 1797",
-      "totalSamples": 10,
+      "totalSamples": 11,
       "monthlyCount": [
         0,
         0,
@@ -4114,7 +4114,7 @@
         3,
         1,
         4,
-        1,
+        2,
         0,
         0
       ],
@@ -4863,7 +4863,7 @@
       "fullName": "Amanita excelsa",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
       "authority": "(Fr.) Bertill. 1866",
-      "totalSamples": 11,
+      "totalSamples": 12,
       "monthlyCount": [
         0,
         0,
@@ -4874,7 +4874,7 @@
         0,
         1,
         7,
-        0,
+        1,
         0,
         0
       ],
@@ -4889,14 +4889,14 @@
         "determiner": "Pietro Centenari",
         "_tipo": "raccolto"
       },
-      "latestDate": "09-21",
-      "latestDayOfYear": 264,
+      "latestDate": "10-12",
+      "latestDayOfYear": 285,
       "latestSample": {
-        "collectionDate": "2025-09-21",
-        "collector": "Pietro Centenari",
-        "locality": "Campos, Rovetta",
-        "localityCoordinates": "45.903515, 9.983604",
-        "habitat": "Abete rosso",
+        "collectionDate": "2026-10-12",
+        "collector": "Pierino Bigoni",
+        "locality": "Pineta della Selva, Clusone",
+        "localityCoordinates": "45.88196, 9.91806",
+        "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
@@ -4909,7 +4909,7 @@
       "authority": "(Fr.) Opiz 1852",
       "currentName": "Amanita excelsa",
       "currentAuthority": "(Fr.) Bertill. 1866",
-      "totalSamples": 11,
+      "totalSamples": 12,
       "monthlyCount": [
         0,
         0,
@@ -4920,7 +4920,7 @@
         0,
         1,
         7,
-        0,
+        1,
         0,
         0
       ],
@@ -4935,14 +4935,14 @@
         "determiner": "Pietro Centenari",
         "_tipo": "raccolto"
       },
-      "latestDate": "09-21",
-      "latestDayOfYear": 264,
+      "latestDate": "10-12",
+      "latestDayOfYear": 285,
       "latestSample": {
-        "collectionDate": "2025-09-21",
-        "collector": "Pietro Centenari",
-        "locality": "Campos, Rovetta",
-        "localityCoordinates": "45.903515, 9.983604",
-        "habitat": "Abete rosso",
+        "collectionDate": "2026-10-12",
+        "collector": "Pierino Bigoni",
+        "locality": "Pineta della Selva, Clusone",
+        "localityCoordinates": "45.88196, 9.91806",
+        "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
@@ -5175,7 +5175,7 @@
       "fullName": "Russula violeipes",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
       "authority": "Quél. 1898",
-      "totalSamples": 8,
+      "totalSamples": 9,
       "monthlyCount": [
         0,
         0,
@@ -5186,7 +5186,7 @@
         3,
         1,
         2,
-        1,
+        2,
         0,
         0
       ],
@@ -5201,14 +5201,14 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "10-09",
-      "latestDayOfYear": 282,
+      "latestDate": "10-12",
+      "latestDayOfYear": 285,
       "latestSample": {
-        "collectionDate": "2025-10-09",
+        "collectionDate": "2026-10-12",
         "collector": "Pierino Bigoni",
         "locality": "Pineta della Selva, Clusone",
         "localityCoordinates": "45.88196, 9.91806",
-        "habitat": "Bosco misto abete e latifoglie",
+        "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
@@ -5845,7 +5845,7 @@
       "authority": "(Bull.) Kalchbr. 1867",
       "currentName": "Pseudosperma rimosum",
       "currentAuthority": "(Bull.) Matheny & Esteve-Rav. 2019",
-      "totalSamples": 4,
+      "totalSamples": 5,
       "monthlyCount": [
         0,
         0,
@@ -5856,7 +5856,7 @@
         2,
         1,
         0,
-        1,
+        2,
         0,
         0
       ],
@@ -5871,14 +5871,14 @@
         "determiner": "Pietro Centenari",
         "_tipo": "raccolto"
       },
-      "latestDate": "10-09",
-      "latestDayOfYear": 282,
+      "latestDate": "10-12",
+      "latestDayOfYear": 285,
       "latestSample": {
-        "collectionDate": "2025-10-09",
+        "collectionDate": "2026-10-12",
         "collector": "Pierino Bigoni",
         "locality": "Pineta della Selva, Clusone",
         "localityCoordinates": "45.88196, 9.91806",
-        "habitat": "Bosco misto abete e latifoglie",
+        "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
@@ -5889,7 +5889,7 @@
       "fullName": "Phaeolus schweinitzii",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Polyporales > famiglia: Laetiporaceae",
       "authority": "(Fr.) Pat. 1900",
-      "totalSamples": 4,
+      "totalSamples": 5,
       "monthlyCount": [
         0,
         0,
@@ -5900,7 +5900,7 @@
         2,
         1,
         1,
-        0,
+        1,
         0,
         0
       ],
@@ -5915,14 +5915,14 @@
         "determiner": "Pietro Centenari",
         "_tipo": "raccolto"
       },
-      "latestDate": "09-22",
-      "latestDayOfYear": 265,
+      "latestDate": "10-12",
+      "latestDayOfYear": 285,
       "latestSample": {
-        "collectionDate": "2025-09-22",
-        "collector": "Antonio Guana",
-        "locality": "Selva d'Agnone, Valgoglio",
-        "localityCoordinates": "45.982797, 9.891481",
-        "habitat": "Larice",
+        "collectionDate": "2026-10-12",
+        "collector": "Pierino Bigoni",
+        "locality": "Pineta della Selva, Clusone",
+        "localityCoordinates": "45.88196, 9.91806",
+        "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
@@ -5977,7 +5977,7 @@
       "fullName": "Russula camarophylla",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
       "authority": "Romagn. 1967",
-      "totalSamples": 7,
+      "totalSamples": 8,
       "monthlyCount": [
         0,
         0,
@@ -5988,7 +5988,7 @@
         1,
         4,
         2,
-        0,
+        1,
         0,
         0
       ],
@@ -6003,14 +6003,14 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "09-14",
-      "latestDayOfYear": 257,
+      "latestDate": "10-12",
+      "latestDayOfYear": 285,
       "latestSample": {
-        "collectionDate": "2026-09-14",
-        "collector": "Fabio Rossi",
+        "collectionDate": "2026-10-12",
+        "collector": "Pierino Bigoni",
         "locality": "Pineta della Selva, Clusone",
         "localityCoordinates": "45.88196, 9.91806",
-        "habitat": "Abete rosso",
+        "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
@@ -6377,7 +6377,7 @@
       "authority": "(Pers.) Kuyper 1981",
       "currentName": "Singerocybe phaeophthalma",
       "currentAuthority": "(Pers.) Harmaja 1988",
-      "totalSamples": 10,
+      "totalSamples": 11,
       "monthlyCount": [
         0,
         0,
@@ -6388,7 +6388,7 @@
         1,
         4,
         4,
-        0,
+        1,
         1,
         0
       ],
@@ -6557,7 +6557,7 @@
       "authority": "(Fr.) Fr. 1836",
       "currentName": "Mycetinis scorodonius",
       "currentAuthority": "(Fr.) A.W. Wilson & Desjardin 2005",
-      "totalSamples": 4,
+      "totalSamples": 5,
       "monthlyCount": [
         0,
         0,
@@ -6568,7 +6568,7 @@
         2,
         2,
         0,
-        0,
+        1,
         0,
         0
       ],
@@ -6583,14 +6583,14 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "08-31",
-      "latestDayOfYear": 243,
+      "latestDate": "10-12",
+      "latestDayOfYear": 285,
       "latestSample": {
-        "collectionDate": "2026-08-31",
+        "collectionDate": "2026-10-12",
         "collector": "Pierino Bigoni",
-        "locality": "Spiazzi, Gromo",
-        "localityCoordinates": "45.970802, 9.963785",
-        "habitat": "Bosco misto abete bianco e abete rosso",
+        "locality": "Pineta della Selva, Clusone",
+        "localityCoordinates": "45.88196, 9.91806",
+        "habitat": "Pacciame di abete rosso",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
@@ -7091,7 +7091,7 @@
       "authority": "Kučera 1927",
       "currentName": "Russula caerulea",
       "currentAuthority": "Fr. 1838",
-      "totalSamples": 4,
+      "totalSamples": 5,
       "monthlyCount": [
         0,
         0,
@@ -7102,7 +7102,7 @@
         1,
         0,
         1,
-        1,
+        2,
         1,
         0
       ],
@@ -7401,7 +7401,7 @@
       "fullName": "Volvariella murinella",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Volvariellaceae",
       "authority": "(Quél.) M.M. Moser ex Dennis, P.D. Orton & Hora 1960",
-      "totalSamples": 1,
+      "totalSamples": 2,
       "monthlyCount": [
         0,
         0,
@@ -7412,7 +7412,7 @@
         1,
         0,
         0,
-        0,
+        1,
         0,
         0
       ],
@@ -7427,14 +7427,14 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "07-20",
-      "latestDayOfYear": 201,
+      "latestDate": "10-12",
+      "latestDayOfYear": 285,
       "latestSample": {
-        "collectionDate": "2025-07-20",
-        "collector": "Antonio Guana",
-        "locality": "Piazzolo, Ardesio",
-        "localityCoordinates": "45.939095, 9.940667",
-        "habitat": "Terreno nudo",
+        "collectionDate": "2026-10-12",
+        "collector": "Pierino Bigoni",
+        "locality": "Pineta della Selva, Clusone",
+        "localityCoordinates": "45.88196, 9.91806",
+        "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
@@ -9139,7 +9139,7 @@
       "fullName": "Cantharellus romagnesianus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Cantharellales > famiglia: Hydnaceae",
       "authority": "Eyssart. & Buyck 1999",
-      "totalSamples": 3,
+      "totalSamples": 4,
       "monthlyCount": [
         0,
         0,
@@ -9150,7 +9150,7 @@
         0,
         1,
         0,
-        0,
+        1,
         2,
         0
       ],
@@ -9629,7 +9629,7 @@
       "authority": "Consiglio, D. Antonini & M. Antonini 2003",
       "currentName": "Cortinarius rubellus",
       "currentAuthority": "Cooke 1887",
-      "totalSamples": 9,
+      "totalSamples": 10,
       "monthlyCount": [
         0,
         0,
@@ -9640,7 +9640,7 @@
         0,
         5,
         1,
-        2,
+        3,
         1,
         0
       ],
@@ -9673,7 +9673,7 @@
       "fullName": "Cortinarius rubellus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
       "authority": "Cooke 1887",
-      "totalSamples": 10,
+      "totalSamples": 11,
       "monthlyCount": [
         0,
         0,
@@ -9684,7 +9684,7 @@
         0,
         5,
         2,
-        2,
+        3,
         1,
         0
       ],
@@ -9853,7 +9853,7 @@
       "fullName": "Tricholoma saponaceum",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Tricholomataceae",
       "authority": "(Fr.) P. Kumm. 1871",
-      "totalSamples": 5,
+      "totalSamples": 6,
       "monthlyCount": [
         0,
         0,
@@ -9864,7 +9864,7 @@
         0,
         1,
         2,
-        1,
+        2,
         1,
         0
       ],
@@ -9897,7 +9897,7 @@
       "fullName": "Amanita battarrae",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
       "authority": "(Boud.) Bon 1985",
-      "totalSamples": 2,
+      "totalSamples": 3,
       "monthlyCount": [
         0,
         0,
@@ -9908,7 +9908,7 @@
         0,
         1,
         1,
-        0,
+        1,
         0,
         0
       ],
@@ -9923,13 +9923,13 @@
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       },
-      "latestDate": "09-20",
-      "latestDayOfYear": 263,
+      "latestDate": "10-12",
+      "latestDayOfYear": 285,
       "latestSample": {
-        "collectionDate": "2026-09-20",
-        "collector": "Fabio Locatelli",
-        "locality": "Busgarina, Clusone",
-        "localityCoordinates": "45.873024, 9.916009",
+        "collectionDate": "2026-10-12",
+        "collector": "Pierino Bigoni",
+        "locality": "Pineta della Selva, Clusone",
+        "localityCoordinates": "45.88196, 9.91806",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -9987,7 +9987,7 @@
       "authority": "(Secr. ex Gillet) Bataille 1910",
       "currentName": "Amanita battarrae",
       "currentAuthority": "(Boud.) Bon 1985",
-      "totalSamples": 2,
+      "totalSamples": 3,
       "monthlyCount": [
         0,
         0,
@@ -9998,7 +9998,7 @@
         0,
         1,
         1,
-        0,
+        1,
         0,
         0
       ],
@@ -10013,13 +10013,13 @@
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       },
-      "latestDate": "09-20",
-      "latestDayOfYear": 263,
+      "latestDate": "10-12",
+      "latestDayOfYear": 285,
       "latestSample": {
-        "collectionDate": "2026-09-20",
-        "collector": "Fabio Locatelli",
-        "locality": "Busgarina, Clusone",
-        "localityCoordinates": "45.873024, 9.916009",
+        "collectionDate": "2026-10-12",
+        "collector": "Pierino Bigoni",
+        "locality": "Pineta della Selva, Clusone",
+        "localityCoordinates": "45.88196, 9.91806",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -10787,7 +10787,7 @@
       "fullName": "Russula badia",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
       "authority": "Quél. 1881",
-      "totalSamples": 3,
+      "totalSamples": 4,
       "monthlyCount": [
         0,
         0,
@@ -10798,7 +10798,7 @@
         0,
         1,
         2,
-        0,
+        1,
         0,
         0
       ],
@@ -10813,15 +10813,15 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "09-17",
-      "latestDayOfYear": 260,
+      "latestDate": "10-12",
+      "latestDayOfYear": 285,
       "latestSample": {
-        "collectionDate": "2025-09-17",
-        "collector": "Pietro Centenari",
-        "locality": "Val Righenzuolo, Onore",
-        "localityCoordinates": "45.87806, 10.02910",
-        "habitat": "Abete rosso",
-        "determiner": "Pietro Centenari",
+        "collectionDate": "2026-10-12",
+        "collector": "Pierino Bigoni",
+        "locality": "Pineta della Selva, Clusone",
+        "localityCoordinates": "45.88196, 9.91806",
+        "habitat": "Bosco misto",
+        "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
     },
@@ -11547,7 +11547,7 @@
       "fullName": "Rhodocybe gemina",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Entolomataceae",
       "authority": "(Paulet) Kuyper & Noordel. 1987",
-      "totalSamples": 3,
+      "totalSamples": 4,
       "monthlyCount": [
         0,
         0,
@@ -11558,7 +11558,7 @@
         0,
         1,
         2,
-        0,
+        1,
         0,
         0
       ],
@@ -11573,13 +11573,13 @@
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       },
-      "latestDate": "09-20",
-      "latestDayOfYear": 263,
+      "latestDate": "10-12",
+      "latestDayOfYear": 285,
       "latestSample": {
-        "collectionDate": "2026-09-20",
-        "collector": "Pietro Centenari",
-        "locality": "Camasone, Songavazzo, Bergamo",
-        "localityCoordinates": "45.867870, 10.020890",
+        "collectionDate": "2026-10-12",
+        "collector": "Pierino Bigoni",
+        "locality": "Pineta della Selva, Clusone",
+        "localityCoordinates": "45.88196, 9.91806",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -13279,7 +13279,7 @@
       "fullName": "Lepiota cristata",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
       "authority": "(Bolton) P. Kumm. 1871",
-      "totalSamples": 3,
+      "totalSamples": 4,
       "monthlyCount": [
         0,
         0,
@@ -13290,7 +13290,7 @@
         0,
         1,
         1,
-        1,
+        2,
         0,
         0
       ],
@@ -13305,14 +13305,14 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "10-09",
-      "latestDayOfYear": 282,
+      "latestDate": "10-12",
+      "latestDayOfYear": 285,
       "latestSample": {
-        "collectionDate": "2025-10-09",
+        "collectionDate": "2026-10-12",
         "collector": "Pierino Bigoni",
         "locality": "Pineta della Selva, Clusone",
         "localityCoordinates": "45.88196, 9.91806",
-        "habitat": "Bosco misto abete e latifoglie",
+        "habitat": "Su resti di vegetazione",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
@@ -13369,7 +13369,7 @@
       "fullName": "Marasmius cohaerens",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Marasmiaceae",
       "authority": "(Pers.) Cooke & Quél. 1878",
-      "totalSamples": 4,
+      "totalSamples": 5,
       "monthlyCount": [
         0,
         0,
@@ -13380,7 +13380,7 @@
         0,
         3,
         1,
-        0,
+        1,
         0,
         0
       ],
@@ -13395,14 +13395,14 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "09-11",
-      "latestDayOfYear": 254,
+      "latestDate": "10-12",
+      "latestDayOfYear": 285,
       "latestSample": {
-        "collectionDate": "2026-09-11",
+        "collectionDate": "2026-10-12",
         "collector": "Pierino Bigoni",
-        "locality": "Contrada Bricconi, Oltressenda Alta",
-        "localityCoordinates": "45.920360, 9.948130",
-        "habitat": "Bosco misto",
+        "locality": "Pineta della Selva, Clusone",
+        "localityCoordinates": "45.88196, 9.91806",
+        "habitat": "Su resti di abete rosso",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
@@ -14305,7 +14305,7 @@
       "fullName": "Lepiota magnispora",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
       "authority": "Murrill 1912",
-      "totalSamples": 4,
+      "totalSamples": 5,
       "monthlyCount": [
         0,
         0,
@@ -14316,7 +14316,7 @@
         0,
         2,
         1,
-        1,
+        2,
         0,
         0
       ],
@@ -14331,14 +14331,14 @@
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       },
-      "latestDate": "10-09",
-      "latestDayOfYear": 282,
+      "latestDate": "10-12",
+      "latestDayOfYear": 285,
       "latestSample": {
-        "collectionDate": "2025-10-09",
+        "collectionDate": "2026-10-12",
         "collector": "Pierino Bigoni",
         "locality": "Pineta della Selva, Clusone",
         "localityCoordinates": "45.88196, 9.91806",
-        "habitat": "Bosco misto abete e latifoglie",
+        "habitat": "Sul terreno",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
@@ -14351,7 +14351,7 @@
       "authority": "D.A. Reid 1958",
       "currentName": "Lepiota magnispora",
       "currentAuthority": "Murrill 1912",
-      "totalSamples": 4,
+      "totalSamples": 5,
       "monthlyCount": [
         0,
         0,
@@ -14362,7 +14362,7 @@
         0,
         2,
         1,
-        1,
+        2,
         0,
         0
       ],
@@ -14377,14 +14377,14 @@
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       },
-      "latestDate": "10-09",
-      "latestDayOfYear": 282,
+      "latestDate": "10-12",
+      "latestDayOfYear": 285,
       "latestSample": {
-        "collectionDate": "2025-10-09",
+        "collectionDate": "2026-10-12",
         "collector": "Pierino Bigoni",
         "locality": "Pineta della Selva, Clusone",
         "localityCoordinates": "45.88196, 9.91806",
-        "habitat": "Bosco misto abete e latifoglie",
+        "habitat": "Sul terreno",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
@@ -15869,7 +15869,7 @@
       "fullName": "Clavulina coralloides",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Cantharellales > famiglia: Hydnaceae",
       "authority": "(L.) J. Schröt. 1888",
-      "totalSamples": 6,
+      "totalSamples": 7,
       "monthlyCount": [
         0,
         0,
@@ -15880,7 +15880,7 @@
         0,
         0,
         5,
-        1,
+        2,
         0,
         0
       ],
@@ -15895,14 +15895,14 @@
         "determiner": "Renato Depressi",
         "_tipo": "raccolto"
       },
-      "latestDate": "10-09",
-      "latestDayOfYear": 282,
+      "latestDate": "10-12",
+      "latestDayOfYear": 285,
       "latestSample": {
-        "collectionDate": "2025-10-09",
+        "collectionDate": "2026-10-12",
         "collector": "Pierino Bigoni",
         "locality": "Pineta della Selva, Clusone",
         "localityCoordinates": "45.88196, 9.91806",
-        "habitat": "Bosco misto abete e latifoglie",
+        "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
@@ -15915,7 +15915,7 @@
       "authority": "(Holmsk.) J. Schröt. 1888",
       "currentName": "Clavulina coralloides",
       "currentAuthority": "(L.) J. Schröt. 1888",
-      "totalSamples": 6,
+      "totalSamples": 7,
       "monthlyCount": [
         0,
         0,
@@ -15926,7 +15926,7 @@
         0,
         0,
         5,
-        1,
+        2,
         0,
         0
       ],
@@ -15941,14 +15941,14 @@
         "determiner": "Renato Depressi",
         "_tipo": "raccolto"
       },
-      "latestDate": "10-09",
-      "latestDayOfYear": 282,
+      "latestDate": "10-12",
+      "latestDayOfYear": 285,
       "latestSample": {
-        "collectionDate": "2025-10-09",
+        "collectionDate": "2026-10-12",
         "collector": "Pierino Bigoni",
         "locality": "Pineta della Selva, Clusone",
         "localityCoordinates": "45.88196, 9.91806",
-        "habitat": "Bosco misto abete e latifoglie",
+        "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
@@ -18047,7 +18047,7 @@
       "authority": "(Vittad.) Singer 1951",
       "currentName": "Chlorophyllum rhacodes",
       "currentAuthority": "(Vittad.) Vellinga 2002",
-      "totalSamples": 5,
+      "totalSamples": 6,
       "monthlyCount": [
         0,
         0,
@@ -18058,7 +18058,7 @@
         0,
         0,
         4,
-        1,
+        2,
         0,
         0
       ],
@@ -18073,15 +18073,15 @@
         "determiner": "Renato Depressi",
         "_tipo": "raccolto"
       },
-      "latestDate": "10-09",
-      "latestDayOfYear": 282,
+      "latestDate": "10-12",
+      "latestDayOfYear": 285,
       "latestSample": {
-        "collectionDate": "2026-10-09",
-        "collector": "Pietro Centenari",
-        "locality": "Sent. Alto Serio (Verso i monti Parè e Blum - strada), Rovetta, Comunità Montana della Valle Seriana, Bergamo",
-        "localityCoordinates": "45.906933, 9.971263",
-        "habitat": "Prato nelle vicinanze di pino silvestre",
-        "determiner": "Pietro Centenari",
+        "collectionDate": "2026-10-12",
+        "collector": "Pierino Bigoni",
+        "locality": "Pineta della Selva, Clusone",
+        "localityCoordinates": "45.88196, 9.91806",
+        "habitat": "Bosco misto",
+        "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
     },
@@ -19387,7 +19387,7 @@
       "fullName": "Clavulina rugosa",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Cantharellales > famiglia: Hydnaceae",
       "authority": "(Bull.) J. Schröt. 1888",
-      "totalSamples": 4,
+      "totalSamples": 5,
       "monthlyCount": [
         0,
         0,
@@ -19398,7 +19398,7 @@
         0,
         0,
         2,
-        1,
+        2,
         1,
         0
       ],
@@ -19789,7 +19789,7 @@
       "fullName": "Gomphidius glutinosus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Gomphidiaceae",
       "authority": "(Schaeff.) Fr. 1838",
-      "totalSamples": 2,
+      "totalSamples": 3,
       "monthlyCount": [
         0,
         0,
@@ -19800,7 +19800,7 @@
         0,
         0,
         1,
-        1,
+        2,
         0,
         0
       ],
@@ -19815,14 +19815,14 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "10-05",
-      "latestDayOfYear": 278,
+      "latestDate": "10-12",
+      "latestDayOfYear": 285,
       "latestSample": {
-        "collectionDate": "2026-10-05",
-        "collector": "Pietro Centenari",
-        "locality": "Cappella Alpini San Lorenzo, Vogno, Rovetta",
-        "localityCoordinates": "45.868762, 9.965036",
-        "habitat": "Bosco misto",
+        "collectionDate": "2026-10-12",
+        "collector": "Pierino Bigoni",
+        "locality": "Pineta della Selva, Clusone",
+        "localityCoordinates": "45.88196, 9.91806",
+        "habitat": "Pino silvestre",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
@@ -20365,7 +20365,7 @@
       "fullName": "Armillaria ostoyae",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Physalacriaceae",
       "authority": "(Romagn.) Herink 1973",
-      "totalSamples": 7,
+      "totalSamples": 8,
       "monthlyCount": [
         0,
         0,
@@ -20376,7 +20376,7 @@
         0,
         0,
         2,
-        4,
+        5,
         1,
         0
       ],
@@ -21129,7 +21129,7 @@
       "fullName": "Cortinarius orellanus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
       "authority": "Fr. 1838",
-      "totalSamples": 3,
+      "totalSamples": 4,
       "monthlyCount": [
         0,
         0,
@@ -21140,7 +21140,7 @@
         0,
         0,
         1,
-        2,
+        3,
         0,
         0
       ],
@@ -21155,14 +21155,14 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "10-09",
-      "latestDayOfYear": 282,
+      "latestDate": "10-12",
+      "latestDayOfYear": 285,
       "latestSample": {
-        "collectionDate": "2025-10-09",
+        "collectionDate": "2026-10-12",
         "collector": "Pierino Bigoni",
         "locality": "Pineta della Selva, Clusone",
         "localityCoordinates": "45.88196, 9.91806",
-        "habitat": "Bosco misto abete e latifoglie",
+        "habitat": "Nocciolo",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
@@ -21261,7 +21261,7 @@
       "fullName": "Paxillus involutus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Paxillaceae",
       "authority": "(Batsch) Fr. 1838",
-      "totalSamples": 2,
+      "totalSamples": 3,
       "monthlyCount": [
         0,
         0,
@@ -21272,7 +21272,7 @@
         0,
         0,
         2,
-        0,
+        1,
         0,
         0
       ],
@@ -21287,14 +21287,14 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "09-28",
-      "latestDayOfYear": 271,
+      "latestDate": "10-12",
+      "latestDayOfYear": 285,
       "latestSample": {
-        "collectionDate": "2026-09-28",
+        "collectionDate": "2026-10-12",
         "collector": "Pierino Bigoni",
-        "locality": "Valzelli, Monte Pora, Castione della Presolana",
-        "localityCoordinates": "45.885288, 10.084634",
-        "habitat": "Abete rosso e latifoglie",
+        "locality": "Pineta della Selva, Clusone",
+        "localityCoordinates": "45.88196, 9.91806",
+        "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
@@ -21349,7 +21349,7 @@
       "fullName": "Russula sanguinea",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
       "authority": "(Bull.) Fr. 1838",
-      "totalSamples": 1,
+      "totalSamples": 2,
       "monthlyCount": [
         0,
         0,
@@ -21360,7 +21360,7 @@
         0,
         0,
         1,
-        0,
+        1,
         0,
         0
       ],
@@ -21375,14 +21375,14 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "09-20",
-      "latestDayOfYear": 263,
+      "latestDate": "10-12",
+      "latestDayOfYear": 285,
       "latestSample": {
-        "collectionDate": "2026-09-20",
-        "collector": "Fabio Locatelli",
-        "locality": "Busgarina, Clusone",
-        "localityCoordinates": "45.873024, 9.916009",
-        "habitat": "Pino silvestre",
+        "collectionDate": "2026-10-12",
+        "collector": "Pierino Bigoni",
+        "locality": "Pineta della Selva, Clusone",
+        "localityCoordinates": "45.88196, 9.91806",
+        "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
@@ -21705,7 +21705,7 @@
       "authority": "(Quél.) Quél. 1888",
       "currentName": "Xerocomellus armeniacus",
       "currentAuthority": "(Quél.) M. Ullah, Saba, Asif & Karun. 2026",
-      "totalSamples": 2,
+      "totalSamples": 3,
       "monthlyCount": [
         0,
         0,
@@ -21716,7 +21716,7 @@
         0,
         0,
         1,
-        1,
+        2,
         0,
         0
       ],
@@ -21929,7 +21929,7 @@
       "authority": "(Pers.) P. Kumm. 1871",
       "currentName": "Ampulloclitocybe clavipes",
       "currentAuthority": "(Pers.) Redhead, Lutzoni, Moncalvo & Vilgalys 2002",
-      "totalSamples": 1,
+      "totalSamples": 2,
       "monthlyCount": [
         0,
         0,
@@ -21940,7 +21940,7 @@
         0,
         0,
         1,
-        0,
+        1,
         0,
         0
       ],
@@ -21955,13 +21955,13 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "09-29",
-      "latestDayOfYear": 272,
+      "latestDate": "10-12",
+      "latestDayOfYear": 285,
       "latestSample": {
-        "collectionDate": "2025-09-29",
-        "collector": "Fabio Rossi",
-        "locality": "Valcanale, Ardesio",
-        "localityCoordinates": "45.950207, 9.858819",
+        "collectionDate": "2026-10-12",
+        "collector": "Pierino Bigoni",
+        "locality": "Pineta della Selva, Clusone",
+        "localityCoordinates": "45.88196, 9.91806",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -22459,7 +22459,7 @@
       "fullName": "Suillus bovinus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Suillaceae",
       "authority": "(L.) Roussel 1796",
-      "totalSamples": 1,
+      "totalSamples": 2,
       "monthlyCount": [
         0,
         0,
@@ -22470,7 +22470,7 @@
         0,
         0,
         0,
-        1,
+        2,
         0,
         0
       ],
@@ -22485,14 +22485,14 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "10-05",
-      "latestDayOfYear": 278,
+      "latestDate": "10-12",
+      "latestDayOfYear": 285,
       "latestSample": {
-        "collectionDate": "2026-10-05",
-        "collector": "Pietro Centenari",
-        "locality": "Cappella Alpini San Lorenzo, Vogno, Rovetta",
-        "localityCoordinates": "45.868762, 9.965036",
-        "habitat": "Bosco misto",
+        "collectionDate": "2026-10-12",
+        "collector": "Pierino Bigoni",
+        "locality": "Pineta della Selva, Clusone",
+        "localityCoordinates": "45.88196, 9.91806",
+        "habitat": "Pino silvestre",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
@@ -22905,7 +22905,7 @@
       "authority": "(Schrad.) P. Karst. 1881",
       "currentName": "Cyanosporus caesius",
       "currentAuthority": "(Schrad.) McGinty 1909",
-      "totalSamples": 1,
+      "totalSamples": 2,
       "monthlyCount": [
         0,
         0,
@@ -22916,7 +22916,7 @@
         0,
         0,
         0,
-        1,
+        2,
         0,
         0
       ],
@@ -22931,15 +22931,15 @@
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       },
-      "latestDate": "10-06",
-      "latestDayOfYear": 279,
+      "latestDate": "10-12",
+      "latestDayOfYear": 285,
       "latestSample": {
-        "collectionDate": "2025-10-06",
-        "collector": "Fabio Locatelli",
-        "locality": "Schilpario",
-        "localityCoordinates": "46.009394, 10.154059",
+        "collectionDate": "2026-10-12",
+        "collector": "Pierino Bigoni",
+        "locality": "Pineta della Selva, Clusone",
+        "localityCoordinates": "45.88196, 9.91806",
         "habitat": "Bosco misto",
-        "determiner": "Fabio Locatelli",
+        "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
     },
@@ -23345,7 +23345,7 @@
       "fullName": "Baeospora myosura",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales",
       "authority": "(Fr.) Singer 1938",
-      "totalSamples": 2,
+      "totalSamples": 3,
       "monthlyCount": [
         0,
         0,
@@ -23356,7 +23356,7 @@
         0,
         0,
         0,
-        1,
+        2,
         0,
         1
       ],
@@ -23435,7 +23435,7 @@
       "fullName": "Crucibulum laeve",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales",
       "authority": "(Huds.) Kambly 1936",
-      "totalSamples": 1,
+      "totalSamples": 2,
       "monthlyCount": [
         0,
         0,
@@ -23446,7 +23446,7 @@
         0,
         0,
         0,
-        1,
+        2,
         0,
         0
       ],
@@ -23461,14 +23461,14 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "10-09",
-      "latestDayOfYear": 282,
+      "latestDate": "10-12",
+      "latestDayOfYear": 285,
       "latestSample": {
-        "collectionDate": "2025-10-09",
+        "collectionDate": "2026-10-12",
         "collector": "Pierino Bigoni",
         "locality": "Pineta della Selva, Clusone",
         "localityCoordinates": "45.88196, 9.91806",
-        "habitat": "Bosco misto abete e latifoglie",
+        "habitat": "Su resti di vegetazione",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
@@ -23828,6 +23828,228 @@
         "localityCoordinates": "45.907651, 9.962218",
         "habitat": "Prato",
         "determiner": "Fabio Locatelli",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Chroogomphus",
+      "species": "rutilus",
+      "fullName": "Chroogomphus rutilus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Gomphidiaceae",
+      "authority": "(Schaeff.) O.K. Mill. 1964",
+      "totalSamples": 2,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0
+      ],
+      "earliestDate": "10-12",
+      "earliestDayOfYear": 285,
+      "earliestSample": {
+        "collectionDate": "2026-10-12",
+        "collector": "Pierino Bigoni",
+        "locality": "Pineta della Selva, Clusone",
+        "localityCoordinates": "45.88196, 9.91806",
+        "habitat": "Pino silvestre",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "11-03",
+      "latestDayOfYear": 308,
+      "latestSample": {
+        "collectionDate": "2025-11-03",
+        "collector": "Angelo Ballabeni",
+        "locality": "Percorso vita, Rovetta",
+        "localityCoordinates": "45.89368, 9.97672",
+        "habitat": "Pino",
+        "determiner": "Angelo Ballabeni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Cortinarius",
+      "species": "saporatus",
+      "fullName": "Cortinarius saporatus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
+      "authority": "Britzelm. 1897",
+      "currentName": "Calonarius saporatus",
+      "currentAuthority": "(Britzelm.) Niskanen & Liimat. 2022",
+      "totalSamples": 1,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "earliestDate": "10-12",
+      "earliestDayOfYear": 285,
+      "earliestSample": {
+        "collectionDate": "2026-10-12",
+        "collector": "Pierino Bigoni",
+        "locality": "Pineta della Selva, Clusone",
+        "localityCoordinates": "45.88196, 9.91806",
+        "habitat": "Bosco misto",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "10-12",
+      "latestDayOfYear": 285,
+      "latestSample": {
+        "collectionDate": "2026-10-12",
+        "collector": "Pierino Bigoni",
+        "locality": "Pineta della Selva, Clusone",
+        "localityCoordinates": "45.88196, 9.91806",
+        "habitat": "Bosco misto",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Mycena",
+      "species": "rosella",
+      "fullName": "Mycena rosella",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Mycenaceae",
+      "authority": "(Fr.) P. Kumm. 1871",
+      "totalSamples": 1,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "earliestDate": "10-12",
+      "earliestDayOfYear": 285,
+      "earliestSample": {
+        "collectionDate": "2026-10-12",
+        "collector": "Pierino Bigoni",
+        "locality": "Pineta della Selva, Clusone",
+        "localityCoordinates": "45.88196, 9.91806",
+        "habitat": "Bosco misto",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "10-12",
+      "latestDayOfYear": 285,
+      "latestSample": {
+        "collectionDate": "2026-10-12",
+        "collector": "Pierino Bigoni",
+        "locality": "Pineta della Selva, Clusone",
+        "localityCoordinates": "45.88196, 9.91806",
+        "habitat": "Bosco misto",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Pluteus",
+      "species": "atromarginatus",
+      "fullName": "Pluteus atromarginatus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Pluteaceae",
+      "authority": "(Konrad) Kühner 1935",
+      "totalSamples": 2,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0
+      ],
+      "earliestDate": "10-12",
+      "earliestDayOfYear": 285,
+      "earliestSample": {
+        "collectionDate": "2026-10-12",
+        "collector": "Pierino Bigoni",
+        "locality": "Pineta della Selva, Clusone",
+        "localityCoordinates": "45.88196, 9.91806",
+        "habitat": "Bosco misto",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "11-01",
+      "latestDayOfYear": 306,
+      "latestSample": {
+        "collectionDate": "2025-11-01",
+        "collector": "Pierino Bigoni",
+        "locality": "Parco avventura in Pineta, Clusone",
+        "localityCoordinates": "45.880916, 9.919919",
+        "habitat": "Bosco misto pino abete e latifoglie",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Russula",
+      "species": "densifolia",
+      "fullName": "Russula densifolia",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
+      "authority": "Secr. ex Gillet 1876",
+      "totalSamples": 1,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "earliestDate": "10-12",
+      "earliestDayOfYear": 285,
+      "earliestSample": {
+        "collectionDate": "2026-10-12",
+        "collector": "Pierino Bigoni",
+        "locality": "Pineta della Selva, Clusone",
+        "localityCoordinates": "45.88196, 9.91806",
+        "habitat": "Bosco misto",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "10-12",
+      "latestDayOfYear": 285,
+      "latestSample": {
+        "collectionDate": "2026-10-12",
+        "collector": "Pierino Bigoni",
+        "locality": "Pineta della Selva, Clusone",
+        "localityCoordinates": "45.88196, 9.91806",
+        "habitat": "Bosco misto",
+        "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
     },
@@ -24544,50 +24766,6 @@
       }
     },
     {
-      "genus": "Pluteus",
-      "species": "atromarginatus",
-      "fullName": "Pluteus atromarginatus",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Pluteaceae",
-      "authority": "(Konrad) Kühner 1935",
-      "totalSamples": 1,
-      "monthlyCount": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0
-      ],
-      "earliestDate": "11-01",
-      "earliestDayOfYear": 306,
-      "earliestSample": {
-        "collectionDate": "2025-11-01",
-        "collector": "Pierino Bigoni",
-        "locality": "Parco avventura in Pineta, Clusone",
-        "localityCoordinates": "45.880916, 9.919919",
-        "habitat": "Bosco misto pino abete e latifoglie",
-        "determiner": "Pierino Bigoni",
-        "_tipo": "raccolto"
-      },
-      "latestDate": "11-01",
-      "latestDayOfYear": 306,
-      "latestSample": {
-        "collectionDate": "2025-11-01",
-        "collector": "Pierino Bigoni",
-        "locality": "Parco avventura in Pineta, Clusone",
-        "localityCoordinates": "45.880916, 9.919919",
-        "habitat": "Bosco misto pino abete e latifoglie",
-        "determiner": "Pierino Bigoni",
-        "_tipo": "raccolto"
-      }
-    },
-    {
       "genus": "Psathyrella",
       "species": "corrugis",
       "fullName": "Psathyrella corrugis",
@@ -24628,50 +24806,6 @@
         "localityCoordinates": "45.880916, 9.919919",
         "habitat": "Bosco misto pino abete e latifoglie",
         "determiner": "Pierino Bigoni",
-        "_tipo": "raccolto"
-      }
-    },
-    {
-      "genus": "Chroogomphus",
-      "species": "rutilus",
-      "fullName": "Chroogomphus rutilus",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Gomphidiaceae",
-      "authority": "(Schaeff.) O.K. Mill. 1964",
-      "totalSamples": 1,
-      "monthlyCount": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0
-      ],
-      "earliestDate": "11-03",
-      "earliestDayOfYear": 308,
-      "earliestSample": {
-        "collectionDate": "2025-11-03",
-        "collector": "Angelo Ballabeni",
-        "locality": "Percorso vita, Rovetta",
-        "localityCoordinates": "45.89368, 9.97672",
-        "habitat": "Pino",
-        "determiner": "Angelo Ballabeni",
-        "_tipo": "raccolto"
-      },
-      "latestDate": "11-03",
-      "latestDayOfYear": 308,
-      "latestSample": {
-        "collectionDate": "2025-11-03",
-        "collector": "Angelo Ballabeni",
-        "locality": "Percorso vita, Rovetta",
-        "localityCoordinates": "45.89368, 9.97672",
-        "habitat": "Pino",
-        "determiner": "Angelo Ballabeni",
         "_tipo": "raccolto"
       }
     },

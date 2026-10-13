@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-10-12",
+      "collector": "Pierino Bigoni",
+      "locality": "Pineta della Selva, Clusone",
+      "localityCoordinates": "45.88196, 9.91806",
+      "habitat": "Bosco misto",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-09-14",
       "collector": "Fabio Rossi",
       "locality": "Pineta della Selva, Clusone",
@@ -65,7 +73,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "07-05",
-    "raccoltaPiuTarda": "09-14",
+    "raccoltaPiuTarda": "10-12",
     "campioniPerMese": [
       {
         "gen": 0
@@ -95,7 +103,7 @@
         "set": 2
       },
       {
-        "ott": 0
+        "ott": 1
       },
       {
         "nov": 0
@@ -106,8 +114,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 7,
-    "campioniRaccolti": 7,
+    "totaleCampioni": 8,
+    "campioniRaccolti": 8,
     "campioniExsiccata": 0
   }
 }

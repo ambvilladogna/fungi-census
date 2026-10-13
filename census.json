@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-11T18:08:35.563Z",
-  "totalSpecies": 573,
-  "totalSamples": 1768,
+  "generatedAt": "2026-10-13T00:14:28.692Z",
+  "totalSpecies": 576,
+  "totalSamples": 1809,
   "species": [
     {
       "genus": "Abortiporus",
@@ -1263,6 +1263,15 @@
       "fullName": "Cortinarius sanguineus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
       "authority": "(Wulfen) Gray 1821"
+    },
+    {
+      "genus": "Cortinarius",
+      "species": "saporatus",
+      "fullName": "Cortinarius saporatus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
+      "authority": "Britzelm. 1897",
+      "currentName": "Calonarius saporatus",
+      "currentAuthority": "(Britzelm.) Niskanen & Liimat. 2022"
     },
     {
       "genus": "Cortinarius",
@@ -2916,6 +2925,13 @@
     },
     {
       "genus": "Mycena",
+      "species": "rosella",
+      "fullName": "Mycena rosella",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Mycenaceae",
+      "authority": "(Fr.) P. Kumm. 1871"
+    },
+    {
+      "genus": "Mycena",
       "species": "strobilicola",
       "fullName": "Mycena strobilicola",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Mycenaceae",
@@ -3535,6 +3551,13 @@
       "fullName": "Russula delica",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
       "authority": "Fr. 1838"
+    },
+    {
+      "genus": "Russula",
+      "species": "densifolia",
+      "fullName": "Russula densifolia",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
+      "authority": "Secr. ex Gillet 1876"
     },
     {
       "genus": "Russula",

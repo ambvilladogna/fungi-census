@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T00:14:27.375Z",
+  "generatedAt": "2026-10-13T00:14:28.958Z",
   "corpus": [
     {
       "type": "genus",
@@ -280,10 +280,12 @@
         "Calonarius elegantior",
         "Calonarius meinhardii",
         "Calonarius odorifer",
+        "Calonarius saporatus",
         "Calonarius splendens",
         "Cortinarius atrovirens",
         "Cortinarius elegantior",
         "Cortinarius odorifer",
+        "Cortinarius saporatus",
         "Cortinarius splendens",
         "Cortinarius splendens var. meinhardii"
       ]
@@ -611,6 +613,7 @@
         "Calonarius elegantior",
         "Calonarius meinhardii",
         "Calonarius odorifer",
+        "Calonarius saporatus",
         "Calonarius splendens",
         "Cortinarius atrovirens",
         "Cortinarius bolaris",
@@ -639,6 +642,7 @@
         "Cortinarius rubellus",
         "Cortinarius salor",
         "Cortinarius sanguineus",
+        "Cortinarius saporatus",
         "Cortinarius splendens",
         "Cortinarius splendens var. meinhardii",
         "Cortinarius subtortus",
@@ -1568,6 +1572,7 @@
         "Mycena pura",
         "Mycena renati",
         "Mycena rosea",
+        "Mycena rosella",
         "Mycena strobilicola",
         "Mycena zephirus",
         "Prunulus pearsonianus",
@@ -2008,6 +2013,7 @@
         "Russula cyanoxantha",
         "Russula cyanoxantha f. peltereaui",
         "Russula delica",
+        "Russula densifolia",
         "Russula emetica",
         "Russula fageticola",
         "Russula farinipes",
@@ -3083,6 +3089,14 @@
     },
     {
       "type": "species",
+      "value": "Calonarius saporatus",
+      "matchSpecies": [
+        "Calonarius saporatus",
+        "Cortinarius saporatus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Calonarius splendens",
       "matchSpecies": [
         "Calonarius splendens",
@@ -3926,6 +3940,14 @@
       "value": "Cortinarius sanguineus",
       "matchSpecies": [
         "Cortinarius sanguineus"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Cortinarius saporatus",
+      "matchSpecies": [
+        "Calonarius saporatus",
+        "Cortinarius saporatus"
       ]
     },
     {
@@ -5837,6 +5859,13 @@
     },
     {
       "type": "species",
+      "value": "Mycena rosella",
+      "matchSpecies": [
+        "Mycena rosella"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Mycena strobilicola",
       "matchSpecies": [
         "Mycena strobilicola"
@@ -6611,6 +6640,13 @@
       "value": "Russula delica",
       "matchSpecies": [
         "Russula delica"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Russula densifolia",
+      "matchSpecies": [
+        "Russula densifolia"
       ]
     },
     {
@@ -7823,6 +7859,7 @@
         "Calonarius elegantior",
         "Calonarius meinhardii",
         "Calonarius odorifer",
+        "Calonarius saporatus",
         "Calonarius splendens",
         "Cortinarius atrovirens",
         "Cortinarius bolaris",
@@ -7851,6 +7888,7 @@
         "Cortinarius rubellus",
         "Cortinarius salor",
         "Cortinarius sanguineus",
+        "Cortinarius saporatus",
         "Cortinarius splendens",
         "Cortinarius splendens var. meinhardii",
         "Cortinarius subtortus",
@@ -8273,6 +8311,7 @@
         "Mycena pura",
         "Mycena renati",
         "Mycena rosea",
+        "Mycena rosella",
         "Mycena strobilicola",
         "Mycena zephirus",
         "Panellus stipticus",
@@ -8564,6 +8603,7 @@
         "Russula cyanoxantha",
         "Russula cyanoxantha f. peltereaui",
         "Russula delica",
+        "Russula densifolia",
         "Russula emetica",
         "Russula fageticola",
         "Russula farinipes",
@@ -8858,6 +8898,7 @@
         "Calonarius elegantior",
         "Calonarius meinhardii",
         "Calonarius odorifer",
+        "Calonarius saporatus",
         "Calonarius splendens",
         "Calvatia excipuliformis",
         "Calvatia gigantea",
@@ -8945,6 +8986,7 @@
         "Cortinarius rubellus",
         "Cortinarius salor",
         "Cortinarius sanguineus",
+        "Cortinarius saporatus",
         "Cortinarius splendens",
         "Cortinarius splendens var. meinhardii",
         "Cortinarius subtortus",
@@ -9100,6 +9142,7 @@
         "Mycena pura",
         "Mycena renati",
         "Mycena rosea",
+        "Mycena rosella",
         "Mycena strobilicola",
         "Mycena zephirus",
         "Mycetinis scorodonius",
@@ -9566,6 +9609,7 @@
         "Russula cyanoxantha",
         "Russula cyanoxantha f. peltereaui",
         "Russula delica",
+        "Russula densifolia",
         "Russula emetica",
         "Russula fageticola",
         "Russula farinipes",
@@ -9741,6 +9785,7 @@
         "Calonarius elegantior",
         "Calonarius meinhardii",
         "Calonarius odorifer",
+        "Calonarius saporatus",
         "Calonarius splendens",
         "Calvatia excipuliformis",
         "Calvatia gigantea",
@@ -9846,6 +9891,7 @@
         "Cortinarius rubellus",
         "Cortinarius salor",
         "Cortinarius sanguineus",
+        "Cortinarius saporatus",
         "Cortinarius splendens",
         "Cortinarius splendens var. meinhardii",
         "Cortinarius subtortus",
@@ -10080,6 +10126,7 @@
         "Mycena pura",
         "Mycena renati",
         "Mycena rosea",
+        "Mycena rosella",
         "Mycena strobilicola",
         "Mycena zephirus",
         "Mycetinis scorodonius",
@@ -10184,6 +10231,7 @@
         "Russula cyanoxantha",
         "Russula cyanoxantha f. peltereaui",
         "Russula delica",
+        "Russula densifolia",
         "Russula emetica",
         "Russula fageticola",
         "Russula farinipes",
@@ -10557,6 +10605,7 @@
         "Calonarius elegantior",
         "Calonarius meinhardii",
         "Calonarius odorifer",
+        "Calonarius saporatus",
         "Calonarius splendens",
         "Calvatia excipuliformis",
         "Calvatia gigantea",
@@ -10663,6 +10712,7 @@
         "Cortinarius rubellus",
         "Cortinarius salor",
         "Cortinarius sanguineus",
+        "Cortinarius saporatus",
         "Cortinarius splendens",
         "Cortinarius splendens var. meinhardii",
         "Cortinarius subtortus",
@@ -10899,6 +10949,7 @@
         "Mycena pura",
         "Mycena renati",
         "Mycena rosea",
+        "Mycena rosella",
         "Mycena strobilicola",
         "Mycena zephirus",
         "Mycetinis scorodonius",
@@ -11003,6 +11054,7 @@
         "Russula cyanoxantha",
         "Russula cyanoxantha f. peltereaui",
         "Russula delica",
+        "Russula densifolia",
         "Russula emetica",
         "Russula fageticola",
         "Russula farinipes",
@@ -11219,6 +11271,7 @@
         "Calonarius elegantior",
         "Calonarius meinhardii",
         "Calonarius odorifer",
+        "Calonarius saporatus",
         "Calonarius splendens",
         "Caloscypha fulgens",
         "Calvatia excipuliformis",
@@ -11330,6 +11383,7 @@
         "Cortinarius rubellus",
         "Cortinarius salor",
         "Cortinarius sanguineus",
+        "Cortinarius saporatus",
         "Cortinarius splendens",
         "Cortinarius splendens var. meinhardii",
         "Cortinarius subtortus",
@@ -11583,6 +11637,7 @@
         "Mycena pura",
         "Mycena renati",
         "Mycena rosea",
+        "Mycena rosella",
         "Mycena strobilicola",
         "Mycena zephirus",
         "Mycetinis scorodonius",
@@ -11688,6 +11743,7 @@
         "Russula cyanoxantha",
         "Russula cyanoxantha f. peltereaui",
         "Russula delica",
+        "Russula densifolia",
         "Russula emetica",
         "Russula fageticola",
         "Russula farinipes",

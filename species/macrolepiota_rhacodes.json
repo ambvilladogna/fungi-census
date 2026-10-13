@@ -6,6 +6,14 @@
   "autoreCorrente": "(Vittad.) Vellinga 2002",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-10-12",
+      "collector": "Pierino Bigoni",
+      "locality": "Pineta della Selva, Clusone",
+      "localityCoordinates": "45.88196, 9.91806",
+      "habitat": "Bosco misto",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-10-09",
       "collector": "Pietro Centenari",
       "locality": "Sent. Alto Serio (Verso i monti Parè e Blum - strada), Rovetta, Comunità Montana della Valle Seriana, Bergamo",
@@ -49,7 +57,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "09-13",
-    "raccoltaPiuTarda": "10-09",
+    "raccoltaPiuTarda": "10-12",
     "campioniPerMese": [
       {
         "gen": 0
@@ -79,7 +87,7 @@
         "set": 4
       },
       {
-        "ott": 1
+        "ott": 2
       },
       {
         "nov": 0
@@ -90,8 +98,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 5,
-    "campioniRaccolti": 5,
+    "totaleCampioni": 6,
+    "campioniRaccolti": 6,
     "campioniExsiccata": 0
   }
 }

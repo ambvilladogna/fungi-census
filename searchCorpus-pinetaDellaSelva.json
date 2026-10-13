@@ -1,17 +1,29 @@
 {
-  "generatedAt": "2026-10-06T14:31:17.747Z",
+  "generatedAt": "2026-10-13T00:14:28.970Z",
   "corpus": [
     {
       "type": "genus",
       "value": "Amanita",
       "matchSpecies": [
+        "Amanita battarrae",
         "Amanita citrina",
+        "Amanita excelsa",
         "Amanita gemmata",
         "Amanita junquillea",
         "Amanita magnivolvata",
         "Amanita muscaria",
         "Amanita phalloides",
-        "Amanita rubescens"
+        "Amanita rubescens",
+        "Amanita spissa",
+        "Amanita umbrinolutea"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Ampulloclitocybe",
+      "matchSpecies": [
+        "Ampulloclitocybe clavipes",
+        "Clitocybe clavipes"
       ]
     },
     {
@@ -72,6 +84,14 @@
     },
     {
       "type": "genus",
+      "value": "Calonarius",
+      "matchSpecies": [
+        "Calonarius saporatus",
+        "Cortinarius saporatus"
+      ]
+    },
+    {
+      "type": "genus",
       "value": "Cantharellus",
       "matchSpecies": [
         "Cantharellus amethysteus",
@@ -86,6 +106,21 @@
       "matchSpecies": [
         "Cerioporus squamosus",
         "Polyporus squamosus"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Chlorophyllum",
+      "matchSpecies": [
+        "Chlorophyllum rhacodes",
+        "Macrolepiota rhacodes"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Chroogomphus",
+      "matchSpecies": [
+        "Chroogomphus rutilus"
       ]
     },
     {
@@ -108,6 +143,8 @@
       "type": "genus",
       "value": "Clitocybe",
       "matchSpecies": [
+        "Ampulloclitocybe clavipes",
+        "Clitocybe clavipes",
         "Clitocybe geotropa",
         "Clitocybe nebularis",
         "Clitocybe phaeophthalma",
@@ -167,11 +204,13 @@
       "type": "genus",
       "value": "Cortinarius",
       "matchSpecies": [
+        "Calonarius saporatus",
         "Cortinarius orellanoides",
         "Cortinarius orellanoides var. speciosissimus",
         "Cortinarius orellanus",
         "Cortinarius renidens",
         "Cortinarius rubellus",
+        "Cortinarius saporatus",
         "Cortinarius venetus",
         "Hygronarius renidens"
       ]
@@ -189,6 +228,14 @@
       "value": "Crucibulum",
       "matchSpecies": [
         "Crucibulum laeve"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Cyanosporus",
+      "matchSpecies": [
+        "Cyanosporus caesius",
+        "Postia caesia"
       ]
     },
     {
@@ -225,6 +272,13 @@
       "value": "Gloeophyllum",
       "matchSpecies": [
         "Gloeophyllum odoratum"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Gomphidius",
+      "matchSpecies": [
+        "Gomphidius glutinosus"
       ]
     },
     {
@@ -430,7 +484,9 @@
       "type": "genus",
       "value": "Macrolepiota",
       "matchSpecies": [
-        "Macrolepiota procera"
+        "Chlorophyllum rhacodes",
+        "Macrolepiota procera",
+        "Macrolepiota rhacodes"
       ]
     },
     {
@@ -439,6 +495,15 @@
       "matchSpecies": [
         "Leucoagaricus bresadolae",
         "Macropsalliota americana"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Marasmius",
+      "matchSpecies": [
+        "Marasmius cohaerens",
+        "Marasmius scorodonius",
+        "Mycetinis scorodonius"
       ]
     },
     {
@@ -455,8 +520,17 @@
         "Mycena epipterygia",
         "Mycena pura",
         "Mycena rosea",
+        "Mycena rosella",
         "Mycena zephirus",
         "Prunulus roseus"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Mycetinis",
+      "matchSpecies": [
+        "Marasmius scorodonius",
+        "Mycetinis scorodonius"
       ]
     },
     {
@@ -476,10 +550,24 @@
     },
     {
       "type": "genus",
+      "value": "Paxillus",
+      "matchSpecies": [
+        "Paxillus involutus"
+      ]
+    },
+    {
+      "type": "genus",
       "value": "Perenniporia",
       "matchSpecies": [
         "Perenniporia fraxinea",
         "Vanderbylia fraxinea"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Phaeolus",
+      "matchSpecies": [
+        "Phaeolus schweinitzii"
       ]
     },
     {
@@ -519,6 +607,14 @@
       "matchSpecies": [
         "Hygrocybe calyptriformis",
         "Porpolomopsis calyptriformis"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Postia",
+      "matchSpecies": [
+        "Cyanosporus caesius",
+        "Postia caesia"
       ]
     },
     {
@@ -569,17 +665,27 @@
     },
     {
       "type": "genus",
+      "value": "Rhodocybe",
+      "matchSpecies": [
+        "Rhodocybe gemina"
+      ]
+    },
+    {
+      "type": "genus",
       "value": "Russula",
       "matchSpecies": [
         "Russula amara",
+        "Russula badia",
         "Russula caerulea",
         "Russula camarophylla",
         "Russula chloroides",
+        "Russula densifolia",
         "Russula grata",
         "Russula integra",
         "Russula laurocerasi",
         "Russula nigricans",
         "Russula ochroleuca",
+        "Russula sanguinea",
         "Russula solaris",
         "Russula violeipes"
       ]
@@ -625,6 +731,7 @@
       "type": "genus",
       "value": "Suillus",
       "matchSpecies": [
+        "Suillus bovinus",
         "Suillus grevillei",
         "Suillus viscidus"
       ]
@@ -665,6 +772,13 @@
     },
     {
       "type": "genus",
+      "value": "Volvariella",
+      "matchSpecies": [
+        "Volvariella murinella"
+      ]
+    },
+    {
+      "type": "genus",
       "value": "Xerocomellus",
       "matchSpecies": [
         "Xerocomellus armeniacus",
@@ -684,9 +798,25 @@
     },
     {
       "type": "species",
+      "value": "Amanita battarrae",
+      "matchSpecies": [
+        "Amanita battarrae",
+        "Amanita umbrinolutea"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Amanita citrina",
       "matchSpecies": [
         "Amanita citrina"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Amanita excelsa",
+      "matchSpecies": [
+        "Amanita excelsa",
+        "Amanita spissa"
       ]
     },
     {
@@ -731,6 +861,30 @@
       "value": "Amanita rubescens",
       "matchSpecies": [
         "Amanita rubescens"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Amanita spissa",
+      "matchSpecies": [
+        "Amanita excelsa",
+        "Amanita spissa"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Amanita umbrinolutea",
+      "matchSpecies": [
+        "Amanita battarrae",
+        "Amanita umbrinolutea"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Ampulloclitocybe clavipes",
+      "matchSpecies": [
+        "Ampulloclitocybe clavipes",
+        "Clitocybe clavipes"
       ]
     },
     {
@@ -809,6 +963,14 @@
     },
     {
       "type": "species",
+      "value": "Calonarius saporatus",
+      "matchSpecies": [
+        "Calonarius saporatus",
+        "Cortinarius saporatus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Cantharellus amethysteus",
       "matchSpecies": [
         "Cantharellus amethysteus"
@@ -839,6 +1001,21 @@
     },
     {
       "type": "species",
+      "value": "Chlorophyllum rhacodes",
+      "matchSpecies": [
+        "Chlorophyllum rhacodes",
+        "Macrolepiota rhacodes"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Chroogomphus rutilus",
+      "matchSpecies": [
+        "Chroogomphus rutilus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Clavulina coralloides",
       "matchSpecies": [
         "Clavulina coralloides",
@@ -865,6 +1042,14 @@
       "value": "Clavulinopsis corniculata",
       "matchSpecies": [
         "Clavulinopsis corniculata"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Clitocybe clavipes",
+      "matchSpecies": [
+        "Ampulloclitocybe clavipes",
+        "Clitocybe clavipes"
       ]
     },
     {
@@ -1010,6 +1195,14 @@
     },
     {
       "type": "species",
+      "value": "Cortinarius saporatus",
+      "matchSpecies": [
+        "Calonarius saporatus",
+        "Cortinarius saporatus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Cortinarius venetus",
       "matchSpecies": [
         "Cortinarius venetus"
@@ -1028,6 +1221,14 @@
       "value": "Crucibulum laeve",
       "matchSpecies": [
         "Crucibulum laeve"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Cyanosporus caesius",
+      "matchSpecies": [
+        "Cyanosporus caesius",
+        "Postia caesia"
       ]
     },
     {
@@ -1064,6 +1265,13 @@
       "value": "Gloeophyllum odoratum",
       "matchSpecies": [
         "Gloeophyllum odoratum"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Gomphidius glutinosus",
+      "matchSpecies": [
+        "Gomphidius glutinosus"
       ]
     },
     {
@@ -1426,10 +1634,33 @@
     },
     {
       "type": "species",
+      "value": "Macrolepiota rhacodes",
+      "matchSpecies": [
+        "Chlorophyllum rhacodes",
+        "Macrolepiota rhacodes"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Macropsalliota americana",
       "matchSpecies": [
         "Leucoagaricus bresadolae",
         "Macropsalliota americana"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Marasmius cohaerens",
+      "matchSpecies": [
+        "Marasmius cohaerens"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Marasmius scorodonius",
+      "matchSpecies": [
+        "Marasmius scorodonius",
+        "Mycetinis scorodonius"
       ]
     },
     {
@@ -1463,9 +1694,24 @@
     },
     {
       "type": "species",
+      "value": "Mycena rosella",
+      "matchSpecies": [
+        "Mycena rosella"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Mycena zephirus",
       "matchSpecies": [
         "Mycena zephirus"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Mycetinis scorodonius",
+      "matchSpecies": [
+        "Marasmius scorodonius",
+        "Mycetinis scorodonius"
       ]
     },
     {
@@ -1485,10 +1731,24 @@
     },
     {
       "type": "species",
+      "value": "Paxillus involutus",
+      "matchSpecies": [
+        "Paxillus involutus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Perenniporia fraxinea",
       "matchSpecies": [
         "Perenniporia fraxinea",
         "Vanderbylia fraxinea"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Phaeolus schweinitzii",
+      "matchSpecies": [
+        "Phaeolus schweinitzii"
       ]
     },
     {
@@ -1544,6 +1804,14 @@
     },
     {
       "type": "species",
+      "value": "Postia caesia",
+      "matchSpecies": [
+        "Cyanosporus caesius",
+        "Postia caesia"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Prunulus roseus",
       "matchSpecies": [
         "Mycena rosea",
@@ -1590,10 +1858,24 @@
     },
     {
       "type": "species",
+      "value": "Rhodocybe gemina",
+      "matchSpecies": [
+        "Rhodocybe gemina"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Russula amara",
       "matchSpecies": [
         "Russula amara",
         "Russula caerulea"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Russula badia",
+      "matchSpecies": [
+        "Russula badia"
       ]
     },
     {
@@ -1616,6 +1898,13 @@
       "value": "Russula chloroides",
       "matchSpecies": [
         "Russula chloroides"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Russula densifolia",
+      "matchSpecies": [
+        "Russula densifolia"
       ]
     },
     {
@@ -1653,6 +1942,13 @@
       "value": "Russula ochroleuca",
       "matchSpecies": [
         "Russula ochroleuca"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Russula sanguinea",
+      "matchSpecies": [
+        "Russula sanguinea"
       ]
     },
     {
@@ -1704,6 +2000,13 @@
       "matchSpecies": [
         "Boletus luridus",
         "Suillellus luridus"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Suillus bovinus",
+      "matchSpecies": [
+        "Suillus bovinus"
       ]
     },
     {
@@ -1780,6 +2083,13 @@
     },
     {
       "type": "species",
+      "value": "Volvariella murinella",
+      "matchSpecies": [
+        "Volvariella murinella"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Xerocomellus armeniacus",
       "matchSpecies": [
         "Xerocomellus armeniacus",
@@ -1813,6 +2123,7 @@
       "type": "famiglia",
       "value": "Agaricaceae",
       "matchSpecies": [
+        "Chlorophyllum rhacodes",
         "Coprinus comatus",
         "Echinoderma asperum",
         "Lepiota aspera",
@@ -1821,6 +2132,7 @@
         "Lepiota ventriosospora",
         "Leucoagaricus bresadolae",
         "Macrolepiota procera",
+        "Macrolepiota rhacodes",
         "Macropsalliota americana"
       ]
     },
@@ -1828,13 +2140,17 @@
       "type": "famiglia",
       "value": "Amanitaceae",
       "matchSpecies": [
+        "Amanita battarrae",
         "Amanita citrina",
+        "Amanita excelsa",
         "Amanita gemmata",
         "Amanita junquillea",
         "Amanita magnivolvata",
         "Amanita muscaria",
         "Amanita phalloides",
-        "Amanita rubescens"
+        "Amanita rubescens",
+        "Amanita spissa",
+        "Amanita umbrinolutea"
       ]
     },
     {
@@ -1887,11 +2203,13 @@
       "type": "famiglia",
       "value": "Cortinariaceae",
       "matchSpecies": [
+        "Calonarius saporatus",
         "Cortinarius orellanoides",
         "Cortinarius orellanoides var. speciosissimus",
         "Cortinarius orellanus",
         "Cortinarius renidens",
         "Cortinarius rubellus",
+        "Cortinarius saporatus",
         "Cortinarius venetus",
         "Hygronarius renidens"
       ]
@@ -1900,7 +2218,8 @@
       "type": "famiglia",
       "value": "Entolomataceae",
       "matchSpecies": [
-        "Clitopilus prunulus"
+        "Clitopilus prunulus",
+        "Rhodocybe gemina"
       ]
     },
     {
@@ -1915,6 +2234,14 @@
       "value": "Gomphaceae",
       "matchSpecies": [
         "Ramaria sanguinea"
+      ]
+    },
+    {
+      "type": "famiglia",
+      "value": "Gomphidiaceae",
+      "matchSpecies": [
+        "Chroogomphus rutilus",
+        "Gomphidius glutinosus"
       ]
     },
     {
@@ -1962,6 +2289,8 @@
       "type": "famiglia",
       "value": "Hygrophoraceae",
       "matchSpecies": [
+        "Ampulloclitocybe clavipes",
+        "Clitocybe clavipes",
         "Hygrocybe calyptriformis",
         "Hygrophorus agathosmus",
         "Hygrophorus eburneus",
@@ -1996,6 +2325,13 @@
     },
     {
       "type": "famiglia",
+      "value": "Laetiporaceae",
+      "matchSpecies": [
+        "Phaeolus schweinitzii"
+      ]
+    },
+    {
+      "type": "famiglia",
       "value": "Lycoperdaceae",
       "matchSpecies": [
         "Apioperdon pyriforme",
@@ -2014,6 +2350,13 @@
     },
     {
       "type": "famiglia",
+      "value": "Marasmiaceae",
+      "matchSpecies": [
+        "Marasmius cohaerens"
+      ]
+    },
+    {
+      "type": "famiglia",
       "value": "Melanoleucaceae",
       "matchSpecies": [
         "Melanoleuca subalpina"
@@ -2026,6 +2369,7 @@
         "Mycena epipterygia",
         "Mycena pura",
         "Mycena rosea",
+        "Mycena rosella",
         "Mycena zephirus",
         "Prunulus roseus"
       ]
@@ -2037,7 +2381,16 @@
         "Collybia distorta",
         "Collybia fusipes",
         "Gymnopus fusipes",
+        "Marasmius scorodonius",
+        "Mycetinis scorodonius",
         "Rhodocollybia prolixa"
+      ]
+    },
+    {
+      "type": "famiglia",
+      "value": "Paxillaceae",
+      "matchSpecies": [
+        "Paxillus involutus"
       ]
     },
     {
@@ -2077,9 +2430,11 @@
       "value": "Polyporaceae",
       "matchSpecies": [
         "Cerioporus squamosus",
+        "Cyanosporus caesius",
         "Ganoderma adspersum",
         "Perenniporia fraxinea",
         "Polyporus squamosus",
+        "Postia caesia",
         "Pycnoporus cinnabarinus",
         "Trametes cinnabarina",
         "Trametes versicolor",
@@ -2115,14 +2470,17 @@
         "Lactarius deterrimus",
         "Lactarius salmonicolor",
         "Russula amara",
+        "Russula badia",
         "Russula caerulea",
         "Russula camarophylla",
         "Russula chloroides",
+        "Russula densifolia",
         "Russula grata",
         "Russula integra",
         "Russula laurocerasi",
         "Russula nigricans",
         "Russula ochroleuca",
+        "Russula sanguinea",
         "Russula solaris",
         "Russula violeipes"
       ]
@@ -2151,6 +2509,7 @@
       "value": "Suillaceae",
       "matchSpecies": [
         "Boletinus cavipes",
+        "Suillus bovinus",
         "Suillus grevillei",
         "Suillus viscidus"
       ]
@@ -2165,21 +2524,36 @@
       ]
     },
     {
+      "type": "famiglia",
+      "value": "Volvariellaceae",
+      "matchSpecies": [
+        "Volvariella murinella"
+      ]
+    },
+    {
       "type": "ordine",
       "value": "Agaricales",
       "matchSpecies": [
+        "Amanita battarrae",
         "Amanita citrina",
+        "Amanita excelsa",
         "Amanita gemmata",
         "Amanita junquillea",
         "Amanita magnivolvata",
         "Amanita muscaria",
         "Amanita phalloides",
         "Amanita rubescens",
+        "Amanita spissa",
+        "Amanita umbrinolutea",
+        "Ampulloclitocybe clavipes",
         "Apioperdon pyriforme",
         "Armillaria mellea",
         "Armillaria ostoyae",
         "Baeospora myosura",
+        "Calonarius saporatus",
+        "Chlorophyllum rhacodes",
         "Clavulinopsis corniculata",
+        "Clitocybe clavipes",
         "Clitocybe geotropa",
         "Clitocybe nebularis",
         "Clitocybe phaeophthalma",
@@ -2198,6 +2572,7 @@
         "Cortinarius orellanus",
         "Cortinarius renidens",
         "Cortinarius rubellus",
+        "Cortinarius saporatus",
         "Cortinarius venetus",
         "Crucibulum laeve",
         "Echinoderma asperum",
@@ -2236,12 +2611,17 @@
         "Lyophyllum decastes",
         "Lyophyllum fumosum",
         "Macrolepiota procera",
+        "Macrolepiota rhacodes",
         "Macropsalliota americana",
+        "Marasmius cohaerens",
+        "Marasmius scorodonius",
         "Melanoleuca subalpina",
         "Mycena epipterygia",
         "Mycena pura",
         "Mycena rosea",
+        "Mycena rosella",
         "Mycena zephirus",
+        "Mycetinis scorodonius",
         "Omphalina pyxidata",
         "Pholiota lenta",
         "Pluteus atromarginatus",
@@ -2252,13 +2632,15 @@
         "Psathyrella corrugis",
         "Pseudosperma rimosum",
         "Rhodocollybia prolixa",
+        "Rhodocybe gemina",
         "Singerocybe phaeophthalma",
         "Stropharia aeruginosa",
         "Tricholoma portentosum",
         "Tricholoma saponaceum",
         "Tricholoma vaccinum",
         "Tricholomopsis decora",
-        "Tricholomopsis rutilans"
+        "Tricholomopsis rutilans",
+        "Volvariella murinella"
       ]
     },
     {
@@ -2277,11 +2659,15 @@
         "Boletinus cavipes",
         "Boletus erythropus",
         "Boletus luridus",
+        "Chroogomphus rutilus",
+        "Gomphidius glutinosus",
         "Imleria badia",
         "Neoboletus erythropus",
+        "Paxillus involutus",
         "Porphyrellus porphyrosporus",
         "Scleroderma verrucosum",
         "Suillellus luridus",
+        "Suillus bovinus",
         "Suillus grevillei",
         "Suillus viscidus",
         "Xerocomellus armeniacus",
@@ -2354,10 +2740,13 @@
       "value": "Polyporales",
       "matchSpecies": [
         "Cerioporus squamosus",
+        "Cyanosporus caesius",
         "Ganoderma adspersum",
         "Ischnoderma benzoinum",
         "Perenniporia fraxinea",
+        "Phaeolus schweinitzii",
         "Polyporus squamosus",
+        "Postia caesia",
         "Pycnoporus cinnabarinus",
         "Trametes cinnabarina",
         "Trametes versicolor",
@@ -2374,14 +2763,17 @@
         "Lactarius deterrimus",
         "Lactarius salmonicolor",
         "Russula amara",
+        "Russula badia",
         "Russula caerulea",
         "Russula camarophylla",
         "Russula chloroides",
+        "Russula densifolia",
         "Russula grata",
         "Russula integra",
         "Russula laurocerasi",
         "Russula nigricans",
         "Russula ochroleuca",
+        "Russula sanguinea",
         "Russula solaris",
         "Russula violeipes"
       ]
@@ -2397,13 +2789,18 @@
       "type": "classe",
       "value": "Agaricomycetes",
       "matchSpecies": [
+        "Amanita battarrae",
         "Amanita citrina",
+        "Amanita excelsa",
         "Amanita gemmata",
         "Amanita junquillea",
         "Amanita magnivolvata",
         "Amanita muscaria",
         "Amanita phalloides",
         "Amanita rubescens",
+        "Amanita spissa",
+        "Amanita umbrinolutea",
+        "Ampulloclitocybe clavipes",
         "Apioperdon pyriforme",
         "Armillaria mellea",
         "Armillaria ostoyae",
@@ -2414,14 +2811,18 @@
         "Boletinus cavipes",
         "Boletus erythropus",
         "Boletus luridus",
+        "Calonarius saporatus",
         "Cantharellus amethysteus",
         "Cantharellus romagnesianus",
         "Cantharellus tubaeformis",
         "Cerioporus squamosus",
+        "Chlorophyllum rhacodes",
+        "Chroogomphus rutilus",
         "Clavulina coralloides",
         "Clavulina cristata",
         "Clavulina rugosa",
         "Clavulinopsis corniculata",
+        "Clitocybe clavipes",
         "Clitocybe geotropa",
         "Clitocybe nebularis",
         "Clitocybe phaeophthalma",
@@ -2440,13 +2841,16 @@
         "Cortinarius orellanus",
         "Cortinarius renidens",
         "Cortinarius rubellus",
+        "Cortinarius saporatus",
         "Cortinarius venetus",
         "Craterellus tubaeformis",
         "Crucibulum laeve",
+        "Cyanosporus caesius",
         "Echinoderma asperum",
         "Flammulina velutipes",
         "Ganoderma adspersum",
         "Gloeophyllum odoratum",
+        "Gomphidius glutinosus",
         "Gymnopus fusipes",
         "Hirneola auricula-judae",
         "Hydnum repandum",
@@ -2490,15 +2894,22 @@
         "Lyophyllum decastes",
         "Lyophyllum fumosum",
         "Macrolepiota procera",
+        "Macrolepiota rhacodes",
         "Macropsalliota americana",
+        "Marasmius cohaerens",
+        "Marasmius scorodonius",
         "Melanoleuca subalpina",
         "Mycena epipterygia",
         "Mycena pura",
         "Mycena rosea",
+        "Mycena rosella",
         "Mycena zephirus",
+        "Mycetinis scorodonius",
         "Neoboletus erythropus",
         "Omphalina pyxidata",
+        "Paxillus involutus",
         "Perenniporia fraxinea",
+        "Phaeolus schweinitzii",
         "Pholiota lenta",
         "Pluteus atromarginatus",
         "Pluteus cervinus",
@@ -2506,27 +2917,33 @@
         "Polyporus squamosus",
         "Porphyrellus porphyrosporus",
         "Porpolomopsis calyptriformis",
+        "Postia caesia",
         "Prunulus roseus",
         "Psathyrella corrugis",
         "Pseudosperma rimosum",
         "Pycnoporus cinnabarinus",
         "Ramaria sanguinea",
         "Rhodocollybia prolixa",
+        "Rhodocybe gemina",
         "Russula amara",
+        "Russula badia",
         "Russula caerulea",
         "Russula camarophylla",
         "Russula chloroides",
+        "Russula densifolia",
         "Russula grata",
         "Russula integra",
         "Russula laurocerasi",
         "Russula nigricans",
         "Russula ochroleuca",
+        "Russula sanguinea",
         "Russula solaris",
         "Russula violeipes",
         "Scleroderma verrucosum",
         "Singerocybe phaeophthalma",
         "Stropharia aeruginosa",
         "Suillellus luridus",
+        "Suillus bovinus",
         "Suillus grevillei",
         "Suillus viscidus",
         "Trametes cinnabarina",
@@ -2537,6 +2954,7 @@
         "Tricholomopsis decora",
         "Tricholomopsis rutilans",
         "Vanderbylia fraxinea",
+        "Volvariella murinella",
         "Xerocomellus armeniacus",
         "Xerocomus armeniacus",
         "Xerocomus badius",
@@ -2596,13 +3014,18 @@
       "type": "phylum",
       "value": "Basidiomycota",
       "matchSpecies": [
+        "Amanita battarrae",
         "Amanita citrina",
+        "Amanita excelsa",
         "Amanita gemmata",
         "Amanita junquillea",
         "Amanita magnivolvata",
         "Amanita muscaria",
         "Amanita phalloides",
         "Amanita rubescens",
+        "Amanita spissa",
+        "Amanita umbrinolutea",
+        "Ampulloclitocybe clavipes",
         "Apioperdon pyriforme",
         "Armillaria mellea",
         "Armillaria ostoyae",
@@ -2613,14 +3036,18 @@
         "Boletinus cavipes",
         "Boletus erythropus",
         "Boletus luridus",
+        "Calonarius saporatus",
         "Cantharellus amethysteus",
         "Cantharellus romagnesianus",
         "Cantharellus tubaeformis",
         "Cerioporus squamosus",
+        "Chlorophyllum rhacodes",
+        "Chroogomphus rutilus",
         "Clavulina coralloides",
         "Clavulina cristata",
         "Clavulina rugosa",
         "Clavulinopsis corniculata",
+        "Clitocybe clavipes",
         "Clitocybe geotropa",
         "Clitocybe nebularis",
         "Clitocybe phaeophthalma",
@@ -2639,13 +3066,16 @@
         "Cortinarius orellanus",
         "Cortinarius renidens",
         "Cortinarius rubellus",
+        "Cortinarius saporatus",
         "Cortinarius venetus",
         "Craterellus tubaeformis",
         "Crucibulum laeve",
+        "Cyanosporus caesius",
         "Echinoderma asperum",
         "Flammulina velutipes",
         "Ganoderma adspersum",
         "Gloeophyllum odoratum",
+        "Gomphidius glutinosus",
         "Gymnopus fusipes",
         "Hirneola auricula-judae",
         "Hydnum repandum",
@@ -2689,15 +3119,22 @@
         "Lyophyllum decastes",
         "Lyophyllum fumosum",
         "Macrolepiota procera",
+        "Macrolepiota rhacodes",
         "Macropsalliota americana",
+        "Marasmius cohaerens",
+        "Marasmius scorodonius",
         "Melanoleuca subalpina",
         "Mycena epipterygia",
         "Mycena pura",
         "Mycena rosea",
+        "Mycena rosella",
         "Mycena zephirus",
+        "Mycetinis scorodonius",
         "Neoboletus erythropus",
         "Omphalina pyxidata",
+        "Paxillus involutus",
         "Perenniporia fraxinea",
+        "Phaeolus schweinitzii",
         "Pholiota lenta",
         "Pluteus atromarginatus",
         "Pluteus cervinus",
@@ -2705,27 +3142,33 @@
         "Polyporus squamosus",
         "Porphyrellus porphyrosporus",
         "Porpolomopsis calyptriformis",
+        "Postia caesia",
         "Prunulus roseus",
         "Psathyrella corrugis",
         "Pseudosperma rimosum",
         "Pycnoporus cinnabarinus",
         "Ramaria sanguinea",
         "Rhodocollybia prolixa",
+        "Rhodocybe gemina",
         "Russula amara",
+        "Russula badia",
         "Russula caerulea",
         "Russula camarophylla",
         "Russula chloroides",
+        "Russula densifolia",
         "Russula grata",
         "Russula integra",
         "Russula laurocerasi",
         "Russula nigricans",
         "Russula ochroleuca",
+        "Russula sanguinea",
         "Russula solaris",
         "Russula violeipes",
         "Scleroderma verrucosum",
         "Singerocybe phaeophthalma",
         "Stropharia aeruginosa",
         "Suillellus luridus",
+        "Suillus bovinus",
         "Suillus grevillei",
         "Suillus viscidus",
         "Trametes cinnabarina",
@@ -2736,6 +3179,7 @@
         "Tricholomopsis decora",
         "Tricholomopsis rutilans",
         "Vanderbylia fraxinea",
+        "Volvariella murinella",
         "Xerocomellus armeniacus",
         "Xerocomus armeniacus",
         "Xerocomus badius",
@@ -2753,13 +3197,18 @@
       "type": "regno",
       "value": "Fungi",
       "matchSpecies": [
+        "Amanita battarrae",
         "Amanita citrina",
+        "Amanita excelsa",
         "Amanita gemmata",
         "Amanita junquillea",
         "Amanita magnivolvata",
         "Amanita muscaria",
         "Amanita phalloides",
         "Amanita rubescens",
+        "Amanita spissa",
+        "Amanita umbrinolutea",
+        "Ampulloclitocybe clavipes",
         "Apioperdon pyriforme",
         "Armillaria mellea",
         "Armillaria ostoyae",
@@ -2770,14 +3219,18 @@
         "Boletinus cavipes",
         "Boletus erythropus",
         "Boletus luridus",
+        "Calonarius saporatus",
         "Cantharellus amethysteus",
         "Cantharellus romagnesianus",
         "Cantharellus tubaeformis",
         "Cerioporus squamosus",
+        "Chlorophyllum rhacodes",
+        "Chroogomphus rutilus",
         "Clavulina coralloides",
         "Clavulina cristata",
         "Clavulina rugosa",
         "Clavulinopsis corniculata",
+        "Clitocybe clavipes",
         "Clitocybe geotropa",
         "Clitocybe nebularis",
         "Clitocybe phaeophthalma",
@@ -2796,13 +3249,16 @@
         "Cortinarius orellanus",
         "Cortinarius renidens",
         "Cortinarius rubellus",
+        "Cortinarius saporatus",
         "Cortinarius venetus",
         "Craterellus tubaeformis",
         "Crucibulum laeve",
+        "Cyanosporus caesius",
         "Echinoderma asperum",
         "Flammulina velutipes",
         "Ganoderma adspersum",
         "Gloeophyllum odoratum",
+        "Gomphidius glutinosus",
         "Gymnopus fusipes",
         "Helvella crispa",
         "Helvella elastica",
@@ -2850,15 +3306,22 @@
         "Lyophyllum decastes",
         "Lyophyllum fumosum",
         "Macrolepiota procera",
+        "Macrolepiota rhacodes",
         "Macropsalliota americana",
+        "Marasmius cohaerens",
+        "Marasmius scorodonius",
         "Melanoleuca subalpina",
         "Mycena epipterygia",
         "Mycena pura",
         "Mycena rosea",
+        "Mycena rosella",
         "Mycena zephirus",
+        "Mycetinis scorodonius",
         "Neoboletus erythropus",
         "Omphalina pyxidata",
+        "Paxillus involutus",
         "Perenniporia fraxinea",
+        "Phaeolus schweinitzii",
         "Pholiota lenta",
         "Pluteus atromarginatus",
         "Pluteus cervinus",
@@ -2866,21 +3329,26 @@
         "Polyporus squamosus",
         "Porphyrellus porphyrosporus",
         "Porpolomopsis calyptriformis",
+        "Postia caesia",
         "Prunulus roseus",
         "Psathyrella corrugis",
         "Pseudosperma rimosum",
         "Pycnoporus cinnabarinus",
         "Ramaria sanguinea",
         "Rhodocollybia prolixa",
+        "Rhodocybe gemina",
         "Russula amara",
+        "Russula badia",
         "Russula caerulea",
         "Russula camarophylla",
         "Russula chloroides",
+        "Russula densifolia",
         "Russula grata",
         "Russula integra",
         "Russula laurocerasi",
         "Russula nigricans",
         "Russula ochroleuca",
+        "Russula sanguinea",
         "Russula solaris",
         "Russula violeipes",
         "Scleroderma verrucosum",
@@ -2888,6 +3356,7 @@
         "Spinellus fusiger",
         "Stropharia aeruginosa",
         "Suillellus luridus",
+        "Suillus bovinus",
         "Suillus grevillei",
         "Suillus viscidus",
         "Trametes cinnabarina",
@@ -2898,6 +3367,7 @@
         "Tricholomopsis decora",
         "Tricholomopsis rutilans",
         "Vanderbylia fraxinea",
+        "Volvariella murinella",
         "Xerocomellus armeniacus",
         "Xerocomus armeniacus",
         "Xerocomus badius",
