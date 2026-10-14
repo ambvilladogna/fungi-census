@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T00:14:28.958Z",
+  "generatedAt": "2026-10-14T00:14:27.976Z",
   "corpus": [
     {
       "type": "genus",
@@ -49,6 +49,13 @@
         "Albatrellus ovinus",
         "Albatrellus subrubescens",
         "Laeticutis cristata"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Aleuria",
+      "matchSpecies": [
+        "Aleuria aurantia"
       ]
     },
     {
@@ -2536,6 +2543,13 @@
       "value": "Albatrellus subrubescens",
       "matchSpecies": [
         "Albatrellus subrubescens"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Aleuria aurantia",
+      "matchSpecies": [
+        "Aleuria aurantia"
       ]
     },
     {
@@ -8529,6 +8543,7 @@
       "type": "famiglia",
       "value": "Pyronemataceae",
       "matchSpecies": [
+        "Aleuria aurantia",
         "Geopora sumneriana",
         "Scutellinia superba",
         "Sepultaria sumneriana"
@@ -9464,6 +9479,7 @@
       "type": "ordine",
       "value": "Pezizales",
       "matchSpecies": [
+        "Aleuria aurantia",
         "Caloscypha fulgens",
         "Discina ancilis",
         "Discina perlata",
@@ -10411,6 +10427,7 @@
       "type": "classe",
       "value": "Pezizomycetes",
       "matchSpecies": [
+        "Aleuria aurantia",
         "Caloscypha fulgens",
         "Discina ancilis",
         "Discina perlata",
@@ -10479,6 +10496,7 @@
       "type": "phylum",
       "value": "Ascomycota",
       "matchSpecies": [
+        "Aleuria aurantia",
         "Bisporella citrina",
         "Caloscypha fulgens",
         "Calycina citrina",
@@ -11199,6 +11217,7 @@
         "Albatrellus cristatus",
         "Albatrellus ovinus",
         "Albatrellus subrubescens",
+        "Aleuria aurantia",
         "Amanita argentea",
         "Amanita badia",
         "Amanita battarrae",

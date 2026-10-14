@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-13T00:14:28.692Z",
-  "totalSpecies": 576,
-  "totalSamples": 1809,
+  "generatedAt": "2026-10-14T00:14:27.696Z",
+  "totalSpecies": 577,
+  "totalSamples": 1810,
   "species": [
     {
       "genus": "Abortiporus",
@@ -103,6 +103,13 @@
       "fullName": "Albatrellus subrubescens",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Albatrellaceae",
       "authority": "(Murrill) Pouzar 1972"
+    },
+    {
+      "genus": "Aleuria",
+      "species": "aurantia",
+      "fullName": "Aleuria aurantia",
+      "lineage": "regno: Fungi > phylum: Ascomycota > classe: Pezizomycetes > ordine: Pezizales > famiglia: Pyronemataceae",
+      "authority": "(Pers.) Fuckel 1870"
     },
     {
       "genus": "Amanita",
