@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T00:14:27.976Z",
+  "generatedAt": "2026-10-15T00:14:47.193Z",
   "corpus": [
     {
       "type": "genus",
@@ -798,6 +798,7 @@
       "value": "Echinoderma",
       "matchSpecies": [
         "Echinoderma asperum",
+        "Echinoderma perplexum",
         "Lepiota aspera"
       ]
     },
@@ -4210,6 +4211,13 @@
     },
     {
       "type": "species",
+      "value": "Echinoderma perplexum",
+      "matchSpecies": [
+        "Echinoderma perplexum"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Elaphomyces granulatus",
       "matchSpecies": [
         "Elaphomyces granulatus"
@@ -7613,6 +7621,7 @@
         "Chlorophyllum rhacodes",
         "Coprinus comatus",
         "Echinoderma asperum",
+        "Echinoderma perplexum",
         "Lepiota aspera",
         "Lepiota clypeolaria",
         "Lepiota cristata",
@@ -9022,6 +9031,7 @@
         "Deconica coprophila",
         "Delicatula integrella",
         "Echinoderma asperum",
+        "Echinoderma perplexum",
         "Entoloma bloxamii",
         "Entoloma hirtipes",
         "Entoloma incanum",
@@ -9937,6 +9947,7 @@
         "Deconica coprophila",
         "Delicatula integrella",
         "Echinoderma asperum",
+        "Echinoderma perplexum",
         "Entoloma bloxamii",
         "Entoloma hirtipes",
         "Entoloma incanum",
@@ -10761,6 +10772,7 @@
         "Deconica coprophila",
         "Delicatula integrella",
         "Echinoderma asperum",
+        "Echinoderma perplexum",
         "Entoloma bloxamii",
         "Entoloma hirtipes",
         "Entoloma incanum",
@@ -11436,6 +11448,7 @@
         "Discina perlata",
         "Dumontinia tuberosa",
         "Echinoderma asperum",
+        "Echinoderma perplexum",
         "Elaphomyces granulatus",
         "Encoelia furfuracea",
         "Entoloma bloxamii",

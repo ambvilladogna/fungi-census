@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-14T00:14:27.696Z",
-  "totalSpecies": 577,
-  "totalSamples": 1810,
+  "generatedAt": "2026-10-15T00:14:46.923Z",
+  "totalSpecies": 578,
+  "totalSamples": 1812,
   "species": [
     {
       "genus": "Abortiporus",
@@ -1483,6 +1483,13 @@
       "fullName": "Dumontinia tuberosa",
       "lineage": "regno: Fungi > phylum: Ascomycota > classe: Leotiomycetes > ordine: Helotiales > famiglia: Sclerotiniaceae",
       "authority": "(Bull.) L.M. Kohn 1979"
+    },
+    {
+      "genus": "Echinoderma",
+      "species": "perplexum",
+      "fullName": "Echinoderma perplexum",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
+      "authority": "(Knudsen) Bon 1991"
     },
     {
       "genus": "Elaphomyces",
