@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T00:14:47.193Z",
+  "generatedAt": "2026-10-16T00:14:44.697Z",
   "corpus": [
     {
       "type": "genus",
@@ -1888,6 +1888,7 @@
       "value": "Psathyrella",
       "matchSpecies": [
         "Candolleomyces candolleanus",
+        "Psathyrella bipellis",
         "Psathyrella candolleana",
         "Psathyrella corrugis",
         "Psathyrella piluliformis"
@@ -2288,6 +2289,7 @@
         "Tricholoma pardinum",
         "Tricholoma pessundatum",
         "Tricholoma portentosum",
+        "Tricholoma pseudonictitans",
         "Tricholoma saponaceum",
         "Tricholoma saponaceum var. squamosum",
         "Tricholoma sejunctum",
@@ -6337,6 +6339,13 @@
     },
     {
       "type": "species",
+      "value": "Psathyrella bipellis",
+      "matchSpecies": [
+        "Psathyrella bipellis"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Psathyrella candolleana",
       "matchSpecies": [
         "Candolleomyces candolleanus",
@@ -7347,6 +7356,13 @@
       "value": "Tricholoma portentosum",
       "matchSpecies": [
         "Tricholoma portentosum"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Tricholoma pseudonictitans",
+      "matchSpecies": [
+        "Tricholoma pseudonictitans"
       ]
     },
     {
@@ -8535,6 +8551,7 @@
         "Coprinus micaceus",
         "Coprinus plicatilis",
         "Parasola plicatilis",
+        "Psathyrella bipellis",
         "Psathyrella candolleana",
         "Psathyrella corrugis",
         "Psathyrella piluliformis"
@@ -8812,6 +8829,7 @@
         "Tricholoma pardinum",
         "Tricholoma pessundatum",
         "Tricholoma portentosum",
+        "Tricholoma pseudonictitans",
         "Tricholoma saponaceum",
         "Tricholoma saponaceum var. squamosum",
         "Tricholoma sejunctum",
@@ -9204,6 +9222,7 @@
         "Prunulus pearsonianus",
         "Prunulus pelianthinus",
         "Prunulus roseus",
+        "Psathyrella bipellis",
         "Psathyrella candolleana",
         "Psathyrella corrugis",
         "Psathyrella piluliformis",
@@ -9236,6 +9255,7 @@
         "Tricholoma pardinum",
         "Tricholoma pessundatum",
         "Tricholoma portentosum",
+        "Tricholoma pseudonictitans",
         "Tricholoma saponaceum",
         "Tricholoma saponaceum var. squamosum",
         "Tricholoma sejunctum",
@@ -10213,6 +10233,7 @@
         "Prunulus pearsonianus",
         "Prunulus pelianthinus",
         "Prunulus roseus",
+        "Psathyrella bipellis",
         "Psathyrella candolleana",
         "Psathyrella corrugis",
         "Psathyrella piluliformis",
@@ -10342,6 +10363,7 @@
         "Tricholoma pardinum",
         "Tricholoma pessundatum",
         "Tricholoma portentosum",
+        "Tricholoma pseudonictitans",
         "Tricholoma saponaceum",
         "Tricholoma saponaceum var. squamosum",
         "Tricholoma sejunctum",
@@ -11039,6 +11061,7 @@
         "Prunulus pearsonianus",
         "Prunulus pelianthinus",
         "Prunulus roseus",
+        "Psathyrella bipellis",
         "Psathyrella candolleana",
         "Psathyrella corrugis",
         "Psathyrella piluliformis",
@@ -11169,6 +11192,7 @@
         "Tricholoma pardinum",
         "Tricholoma pessundatum",
         "Tricholoma portentosum",
+        "Tricholoma pseudonictitans",
         "Tricholoma saponaceum",
         "Tricholoma saponaceum var. squamosum",
         "Tricholoma sejunctum",
@@ -11730,6 +11754,7 @@
         "Prunulus pearsonianus",
         "Prunulus pelianthinus",
         "Prunulus roseus",
+        "Psathyrella bipellis",
         "Psathyrella candolleana",
         "Psathyrella corrugis",
         "Psathyrella piluliformis",
@@ -11868,6 +11893,7 @@
         "Tricholoma pardinum",
         "Tricholoma pessundatum",
         "Tricholoma portentosum",
+        "Tricholoma pseudonictitans",
         "Tricholoma saponaceum",
         "Tricholoma saponaceum var. squamosum",
         "Tricholoma sejunctum",

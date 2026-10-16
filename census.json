@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-15T00:14:46.923Z",
-  "totalSpecies": 578,
-  "totalSamples": 1812,
+  "generatedAt": "2026-10-16T00:14:44.400Z",
+  "totalSpecies": 580,
+  "totalSamples": 1816,
   "species": [
     {
       "genus": "Abortiporus",
@@ -3294,6 +3294,13 @@
     },
     {
       "genus": "Psathyrella",
+      "species": "bipellis",
+      "fullName": "Psathyrella bipellis",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Psathyrellaceae",
+      "authority": "(Quél.) A.H. Sm. 1946"
+    },
+    {
+      "genus": "Psathyrella",
       "species": "candolleana",
       "fullName": "Psathyrella candolleana",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Psathyrellaceae",
@@ -4172,6 +4179,13 @@
       "fullName": "Tricholoma portentosum",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Tricholomataceae",
       "authority": "(Fr.) Quél. 1873"
+    },
+    {
+      "genus": "Tricholoma",
+      "species": "pseudonictitans",
+      "fullName": "Tricholoma pseudonictitans",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Tricholomataceae",
+      "authority": "Bon 1983"
     },
     {
       "genus": "Tricholoma",

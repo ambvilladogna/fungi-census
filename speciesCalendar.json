@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-15T00:14:47.015Z",
-  "totalSpecies": 578,
-  "totalSamples": 2001,
+  "generatedAt": "2026-10-16T00:14:44.509Z",
+  "totalSpecies": 580,
+  "totalSamples": 2005,
   "species": [
     {
       "genus": "Flammulina",
@@ -2943,7 +2943,7 @@
       "fullName": "Hypholoma fasciculare",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Strophariaceae",
       "authority": "(Huds.) P. Kumm. 1871",
-      "totalSamples": 14,
+      "totalSamples": 15,
       "monthlyCount": [
         0,
         0,
@@ -2954,7 +2954,7 @@
         0,
         2,
         3,
-        4,
+        5,
         1,
         1
       ],
@@ -10387,7 +10387,7 @@
       "fullName": "Entoloma nitidum",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Entolomataceae",
       "authority": "Quél. 1883",
-      "totalSamples": 2,
+      "totalSamples": 3,
       "monthlyCount": [
         0,
         0,
@@ -10398,7 +10398,7 @@
         0,
         1,
         1,
-        0,
+        1,
         0,
         0
       ],
@@ -10413,15 +10413,15 @@
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       },
-      "latestDate": "09-08",
-      "latestDayOfYear": 251,
+      "latestDate": "10-14",
+      "latestDayOfYear": 287,
       "latestSample": {
-        "collectionDate": "2025-09-08",
-        "collector": "Fabio Locatelli",
-        "locality": "Ripa, Gromo",
-        "localityCoordinates": "45.976347, 9.928513",
-        "habitat": "Faggio",
-        "determiner": "Pierino Bigoni",
+        "collectionDate": "2026-10-14",
+        "collector": "Pietro Centenari",
+        "locality": "Zenier, Rovetta",
+        "localityCoordinates": "45.900307, 9.985730",
+        "habitat": "Bosco misto abete rosso e castagno",
+        "determiner": "Pietro Centenari",
         "_tipo": "raccolto"
       }
     },
@@ -24137,6 +24137,94 @@
         "locality": "Villa d'Ogna",
         "localityCoordinates": "45.907398, 9.931126",
         "habitat": "A margine sentiero",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Psathyrella",
+      "species": "bipellis",
+      "fullName": "Psathyrella bipellis",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Psathyrellaceae",
+      "authority": "(Quél.) A.H. Sm. 1946",
+      "totalSamples": 1,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "earliestDate": "10-13",
+      "earliestDayOfYear": 286,
+      "earliestSample": {
+        "collectionDate": "2026-10-13",
+        "collector": "Pierino Bigoni",
+        "locality": "Villa d'Ogna",
+        "localityCoordinates": "45.894253, 9.921372",
+        "habitat": "A margine sentiero",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "10-13",
+      "latestDayOfYear": 286,
+      "latestSample": {
+        "collectionDate": "2026-10-13",
+        "collector": "Pierino Bigoni",
+        "locality": "Villa d'Ogna",
+        "localityCoordinates": "45.894253, 9.921372",
+        "habitat": "A margine sentiero",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Tricholoma",
+      "species": "pseudonictitans",
+      "fullName": "Tricholoma pseudonictitans",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Tricholomataceae",
+      "authority": "Bon 1983",
+      "totalSamples": 1,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "earliestDate": "10-13",
+      "earliestDayOfYear": 286,
+      "earliestSample": {
+        "collectionDate": "2026-10-13",
+        "collector": "Pierino Bigoni",
+        "locality": "Spiazzi, Gromo",
+        "localityCoordinates": "45.970802, 9.963785",
+        "habitat": "Bosco misto abete bianco e abete rosso",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "10-13",
+      "latestDayOfYear": 286,
+      "latestSample": {
+        "collectionDate": "2026-10-13",
+        "collector": "Pierino Bigoni",
+        "locality": "Spiazzi, Gromo",
+        "localityCoordinates": "45.970802, 9.963785",
+        "habitat": "Bosco misto abete bianco e abete rosso",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }

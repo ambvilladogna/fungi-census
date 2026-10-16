@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-10-14",
+      "collector": "Pietro Centenari",
+      "locality": "Zenier, Rovetta",
+      "localityCoordinates": "45.900291, 9.985703",
+      "habitat": "Bosco misto abete rosso e castagno",
+      "determiner": "Pietro Centenari"
+    },
+    {
       "collectionDate": "2026-10-05",
       "collector": "Antonio Guana",
       "locality": "Cardeto, Gandellino",
@@ -151,7 +159,7 @@
         "set": 3
       },
       {
-        "ott": 4
+        "ott": 5
       },
       {
         "nov": 1
@@ -162,8 +170,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 14,
-    "campioniRaccolti": 14,
+    "totaleCampioni": 15,
+    "campioniRaccolti": 15,
     "campioniExsiccata": 0
   }
 }
