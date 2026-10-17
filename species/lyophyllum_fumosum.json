@@ -6,6 +6,14 @@
   "autoreCorrente": "(Fr.) Singer 1951",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-10-16",
+      "collector": "Fabio Locatelli",
+      "locality": "Maschere, Gromo",
+      "localityCoordinates": "45.907651, 9.962218",
+      "habitat": "Faggeta",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2026-09-20",
       "collector": "Pierino Bigoni",
       "locality": "M.Poieto",
@@ -95,7 +103,7 @@
         "set": 5
       },
       {
-        "ott": 0
+        "ott": 1
       },
       {
         "nov": 0
@@ -106,8 +114,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 7,
-    "campioniRaccolti": 7,
+    "totaleCampioni": 8,
+    "campioniRaccolti": 8,
     "campioniExsiccata": 0
   }
 }

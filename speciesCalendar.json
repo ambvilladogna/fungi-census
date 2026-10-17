@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-16T00:14:44.509Z",
+  "generatedAt": "2026-10-17T00:13:13.971Z",
   "totalSpecies": 580,
-  "totalSamples": 2005,
+  "totalSamples": 2011,
   "species": [
     {
       "genus": "Flammulina",
@@ -4863,7 +4863,7 @@
       "fullName": "Amanita excelsa",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
       "authority": "(Fr.) Bertill. 1866",
-      "totalSamples": 12,
+      "totalSamples": 13,
       "monthlyCount": [
         0,
         0,
@@ -4874,7 +4874,7 @@
         0,
         1,
         7,
-        1,
+        2,
         0,
         0
       ],
@@ -4889,15 +4889,15 @@
         "determiner": "Pietro Centenari",
         "_tipo": "raccolto"
       },
-      "latestDate": "10-12",
-      "latestDayOfYear": 285,
+      "latestDate": "10-16",
+      "latestDayOfYear": 289,
       "latestSample": {
-        "collectionDate": "2026-10-12",
-        "collector": "Pierino Bigoni",
-        "locality": "Pineta della Selva, Clusone",
-        "localityCoordinates": "45.88196, 9.91806",
-        "habitat": "Bosco misto",
-        "determiner": "Pierino Bigoni",
+        "collectionDate": "2026-10-16",
+        "collector": "Fabio Locatelli",
+        "locality": "Maschere, Gromo",
+        "localityCoordinates": "45.907651, 9.962218",
+        "habitat": "Faggeta",
+        "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
     },
@@ -4909,7 +4909,7 @@
       "authority": "(Fr.) Opiz 1852",
       "currentName": "Amanita excelsa",
       "currentAuthority": "(Fr.) Bertill. 1866",
-      "totalSamples": 12,
+      "totalSamples": 13,
       "monthlyCount": [
         0,
         0,
@@ -4920,7 +4920,7 @@
         0,
         1,
         7,
-        1,
+        2,
         0,
         0
       ],
@@ -4935,15 +4935,15 @@
         "determiner": "Pietro Centenari",
         "_tipo": "raccolto"
       },
-      "latestDate": "10-12",
-      "latestDayOfYear": 285,
+      "latestDate": "10-16",
+      "latestDayOfYear": 289,
       "latestSample": {
-        "collectionDate": "2026-10-12",
-        "collector": "Pierino Bigoni",
-        "locality": "Pineta della Selva, Clusone",
-        "localityCoordinates": "45.88196, 9.91806",
-        "habitat": "Bosco misto",
-        "determiner": "Pierino Bigoni",
+        "collectionDate": "2026-10-16",
+        "collector": "Fabio Locatelli",
+        "locality": "Maschere, Gromo",
+        "localityCoordinates": "45.907651, 9.962218",
+        "habitat": "Faggeta",
+        "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
     },
@@ -8291,7 +8291,7 @@
       "fullName": "Lyophyllum decastes",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Lyophyllaceae",
       "authority": "(Fr.) Singer 1951",
-      "totalSamples": 7,
+      "totalSamples": 8,
       "monthlyCount": [
         0,
         0,
@@ -8302,7 +8302,7 @@
         1,
         0,
         5,
-        0,
+        1,
         0,
         1
       ],
@@ -8337,7 +8337,7 @@
       "authority": "(Pers.) P.D. Orton 1960",
       "currentName": "Lyophyllum decastes",
       "currentAuthority": "(Fr.) Singer 1951",
-      "totalSamples": 7,
+      "totalSamples": 8,
       "monthlyCount": [
         0,
         0,
@@ -8348,7 +8348,7 @@
         1,
         0,
         5,
-        0,
+        1,
         0,
         1
       ],
@@ -8695,7 +8695,7 @@
       "fullName": "Craterellus cornucopioides",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Cantharellales > famiglia: Hydnaceae",
       "authority": "(L.) Pers. 1825",
-      "totalSamples": 7,
+      "totalSamples": 8,
       "monthlyCount": [
         0,
         0,
@@ -8706,7 +8706,7 @@
         0,
         3,
         2,
-        2,
+        3,
         0,
         0
       ],
@@ -8721,13 +8721,13 @@
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       },
-      "latestDate": "10-08",
-      "latestDayOfYear": 281,
+      "latestDate": "10-16",
+      "latestDayOfYear": 289,
       "latestSample": {
-        "collectionDate": "2025-10-08",
+        "collectionDate": "2026-10-16",
         "collector": "Fabio Locatelli",
-        "locality": "Ripa, Gromo",
-        "localityCoordinates": "45.976347, 9.928513",
+        "locality": "Maschere, Gromo",
+        "localityCoordinates": "45.907651, 9.962218",
         "habitat": "Faggeta",
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
@@ -21261,7 +21261,7 @@
       "fullName": "Paxillus involutus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Paxillaceae",
       "authority": "(Batsch) Fr. 1838",
-      "totalSamples": 3,
+      "totalSamples": 4,
       "monthlyCount": [
         0,
         0,
@@ -21272,7 +21272,7 @@
         0,
         0,
         2,
-        1,
+        2,
         0,
         0
       ],
@@ -21287,15 +21287,15 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "10-12",
-      "latestDayOfYear": 285,
+      "latestDate": "10-16",
+      "latestDayOfYear": 289,
       "latestSample": {
-        "collectionDate": "2026-10-12",
-        "collector": "Pierino Bigoni",
-        "locality": "Pineta della Selva, Clusone",
-        "localityCoordinates": "45.88196, 9.91806",
-        "habitat": "Bosco misto",
-        "determiner": "Pierino Bigoni",
+        "collectionDate": "2026-10-16",
+        "collector": "Fabio Locatelli",
+        "locality": "Maschere, Gromo",
+        "localityCoordinates": "45.907651, 9.962218",
+        "habitat": "Abete rosso",
+        "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
     },
