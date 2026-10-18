@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-10-16",
+      "collector": "Fabio Locatelli",
+      "locality": "Maschere, Gromo",
+      "localityCoordinates": "45.907651, 9.962218",
+      "habitat": "Faggeta",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2026-08-18",
       "collector": "Fabio Locatelli",
       "locality": "Schilpario, pista di fondo",
@@ -25,7 +33,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "08-09",
-    "raccoltaPiuTarda": "08-18",
+    "raccoltaPiuTarda": "10-16",
     "campioniPerMese": [
       {
         "gen": 0
@@ -55,7 +63,7 @@
         "set": 0
       },
       {
-        "ott": 0
+        "ott": 1
       },
       {
         "nov": 0
@@ -66,8 +74,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 2,
-    "campioniRaccolti": 2,
+    "totaleCampioni": 3,
+    "campioniRaccolti": 3,
     "campioniExsiccata": 0
   }
 }

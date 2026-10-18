@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-10-14",
+      "collector": "Fabio Locatelli",
+      "locality": "Parviná, Schilpario",
+      "localityCoordinates": "45.907651, 9.962218",
+      "habitat": "Pino silvestre",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2026-10-12",
       "collector": "Pierino Bigoni",
       "locality": "Pineta della Selva, Clusone",
@@ -25,7 +33,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "10-05",
-    "raccoltaPiuTarda": "10-12",
+    "raccoltaPiuTarda": "10-14",
     "campioniPerMese": [
       {
         "gen": 0
@@ -55,7 +63,7 @@
         "set": 0
       },
       {
-        "ott": 2
+        "ott": 3
       },
       {
         "nov": 0
@@ -66,8 +74,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 2,
-    "campioniRaccolti": 2,
+    "totaleCampioni": 3,
+    "campioniRaccolti": 3,
     "campioniExsiccata": 0
   }
 }
