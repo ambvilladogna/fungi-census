@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-10-16",
+      "collector": "Pietro Centenari",
+      "locality": "Val Righenzuolo, Onore",
+      "localityCoordinates": "45.87806, 10.02910",
+      "habitat": "Pino silvestre",
+      "determiner": "Pietro Centenari"
+    },
+    {
       "collectionDate": "2026-10-09",
       "collector": "Pietro Centenari",
       "locality": "Sent. Alto Serio (Verso i monti Parè e Blum - strada), Rovetta, Comunità Montana della Valle Seriana, Bergamo",
@@ -71,7 +79,7 @@
         "set": 1
       },
       {
-        "ott": 2
+        "ott": 3
       },
       {
         "nov": 1
@@ -82,8 +90,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 4,
-    "campioniRaccolti": 4,
+    "totaleCampioni": 5,
+    "campioniRaccolti": 5,
     "campioniExsiccata": 0
   }
 }
