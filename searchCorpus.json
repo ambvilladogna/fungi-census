@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T00:14:44.697Z",
+  "generatedAt": "2026-10-20T00:14:00.276Z",
   "corpus": [
     {
       "type": "genus",
@@ -245,6 +245,14 @@
       "matchSpecies": [
         "Bovistella utriformis",
         "Calvatia utriformis"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Britzelmayria",
+      "matchSpecies": [
+        "Britzelmayria multipedata",
+        "Psathyrella multipedata"
       ]
     },
     {
@@ -507,6 +515,7 @@
         "Collybia confluens",
         "Collybia distorta",
         "Collybia dryophila",
+        "Collybia erythropus",
         "Collybia fusipes",
         "Collybia hariolorum",
         "Collybia irina",
@@ -622,6 +631,7 @@
         "Calonarius odorifer",
         "Calonarius saporatus",
         "Calonarius splendens",
+        "Cortinarius anomalus",
         "Cortinarius atrovirens",
         "Cortinarius bolaris",
         "Cortinarius brunneus",
@@ -979,6 +989,7 @@
       "matchSpecies": [
         "Collybia aquosa",
         "Collybia dryophila",
+        "Collybia erythropus",
         "Collybia fusipes",
         "Collybia hariolorum",
         "Collybia kuehneriana",
@@ -1301,6 +1312,13 @@
     },
     {
       "type": "genus",
+      "value": "Laetiporus",
+      "matchSpecies": [
+        "Laetiporus sulphureus"
+      ]
+    },
+    {
+      "type": "genus",
       "value": "Lanzia",
       "matchSpecies": [
         "Lanzia echinophila",
@@ -1575,6 +1593,7 @@
         "Mycena eburnea",
         "Mycena epipterygia",
         "Mycena galericulata",
+        "Mycena inclinata",
         "Mycena pearsoniana",
         "Mycena pelianthina",
         "Mycena pura",
@@ -1837,7 +1856,8 @@
         "Picipes badius",
         "Polyporus badius",
         "Polyporus mori",
-        "Polyporus squamosus"
+        "Polyporus squamosus",
+        "Polyporus tuberaster"
       ]
     },
     {
@@ -1887,10 +1907,12 @@
       "type": "genus",
       "value": "Psathyrella",
       "matchSpecies": [
+        "Britzelmayria multipedata",
         "Candolleomyces candolleanus",
         "Psathyrella bipellis",
         "Psathyrella candolleana",
         "Psathyrella corrugis",
+        "Psathyrella multipedata",
         "Psathyrella piluliformis"
       ]
     },
@@ -1899,7 +1921,8 @@
       "value": "Pseudohydnum",
       "matchSpecies": [
         "Pseudohydnum gelatinosum",
-        "Pseudohydnum gelatinosum f. album"
+        "Pseudohydnum gelatinosum f. album",
+        "Pseudohydnum gelatinosum f. fuscum"
       ]
     },
     {
@@ -2011,6 +2034,7 @@
         "Russula amara",
         "Russula amarissima",
         "Russula amethystina",
+        "Russula amoena",
         "Russula aurea",
         "Russula aurora",
         "Russula azurea",
@@ -2169,6 +2193,7 @@
         "Protostropharia semiglobata",
         "Stropharia aeruginosa",
         "Stropharia coronilla",
+        "Stropharia cyanea",
         "Stropharia rugosoannulata",
         "Stropharia rugosoannulata f. lutea",
         "Stropharia semiglobata"
@@ -2291,10 +2316,12 @@
         "Tricholoma portentosum",
         "Tricholoma pseudonictitans",
         "Tricholoma saponaceum",
+        "Tricholoma saponaceum var. lavedanum",
         "Tricholoma saponaceum var. squamosum",
         "Tricholoma sejunctum",
         "Tricholoma sulphureum",
         "Tricholoma terreum",
+        "Tricholoma ustale",
         "Tricholoma ustaloides",
         "Tricholoma vaccinum",
         "Tricholoma virgatum"
@@ -3036,6 +3063,14 @@
     },
     {
       "type": "species",
+      "value": "Britzelmayria multipedata",
+      "matchSpecies": [
+        "Britzelmayria multipedata",
+        "Psathyrella multipedata"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Butyriboletus fechtneri",
       "matchSpecies": [
         "Boletus fechtneri",
@@ -3514,6 +3549,14 @@
     },
     {
       "type": "species",
+      "value": "Collybia erythropus",
+      "matchSpecies": [
+        "Collybia erythropus",
+        "Gymnopus erythropus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Collybia fusipes",
       "matchSpecies": [
         "Collybia fusipes",
@@ -3754,6 +3797,13 @@
       "matchSpecies": [
         "Cordyceps capitata",
         "Tolypocladium capitatum"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Cortinarius anomalus",
+      "matchSpecies": [
+        "Cortinarius anomalus"
       ]
     },
     {
@@ -4527,6 +4577,7 @@
       "type": "species",
       "value": "Gymnopus erythropus",
       "matchSpecies": [
+        "Collybia erythropus",
         "Collybia kuehneriana",
         "Gymnopus erythropus"
       ]
@@ -5242,6 +5293,13 @@
     },
     {
       "type": "species",
+      "value": "Laetiporus sulphureus",
+      "matchSpecies": [
+        "Laetiporus sulphureus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Lanzia echinophila",
       "matchSpecies": [
         "Lanzia echinophila",
@@ -5845,6 +5903,13 @@
     },
     {
       "type": "species",
+      "value": "Mycena inclinata",
+      "matchSpecies": [
+        "Mycena inclinata"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Mycena pearsoniana",
       "matchSpecies": [
         "Mycena pearsoniana",
@@ -6284,6 +6349,13 @@
     },
     {
       "type": "species",
+      "value": "Polyporus tuberaster",
+      "matchSpecies": [
+        "Polyporus tuberaster"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Porphyrellus porphyrosporus",
       "matchSpecies": [
         "Porphyrellus porphyrosporus"
@@ -6361,6 +6433,14 @@
     },
     {
       "type": "species",
+      "value": "Psathyrella multipedata",
+      "matchSpecies": [
+        "Britzelmayria multipedata",
+        "Psathyrella multipedata"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Psathyrella piluliformis",
       "matchSpecies": [
         "Psathyrella piluliformis"
@@ -6378,6 +6458,13 @@
       "value": "Pseudohydnum gelatinosum f. album",
       "matchSpecies": [
         "Pseudohydnum gelatinosum f. album"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Pseudohydnum gelatinosum f. fuscum",
+      "matchSpecies": [
+        "Pseudohydnum gelatinosum f. fuscum"
       ]
     },
     {
@@ -6593,6 +6680,13 @@
       "value": "Russula amethystina",
       "matchSpecies": [
         "Russula amethystina"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Russula amoena",
+      "matchSpecies": [
+        "Russula amoena"
       ]
     },
     {
@@ -7104,6 +7198,13 @@
     },
     {
       "type": "species",
+      "value": "Stropharia cyanea",
+      "matchSpecies": [
+        "Stropharia cyanea"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Stropharia rugosoannulata",
       "matchSpecies": [
         "Stropharia rugosoannulata"
@@ -7374,6 +7475,13 @@
     },
     {
       "type": "species",
+      "value": "Tricholoma saponaceum var. lavedanum",
+      "matchSpecies": [
+        "Tricholoma saponaceum var. lavedanum"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Tricholoma saponaceum var. squamosum",
       "matchSpecies": [
         "Tricholoma saponaceum var. squamosum"
@@ -7399,6 +7507,13 @@
       "matchSpecies": [
         "Tricholoma myomyces",
         "Tricholoma terreum"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Tricholoma ustale",
+      "matchSpecies": [
+        "Tricholoma ustale"
       ]
     },
     {
@@ -7900,6 +8015,7 @@
         "Calonarius odorifer",
         "Calonarius saporatus",
         "Calonarius splendens",
+        "Cortinarius anomalus",
         "Cortinarius atrovirens",
         "Cortinarius bolaris",
         "Cortinarius brunneus",
@@ -8261,6 +8377,7 @@
       "type": "famiglia",
       "value": "Laetiporaceae",
       "matchSpecies": [
+        "Laetiporus sulphureus",
         "Phaeolus schweinitzii"
       ]
     },
@@ -8345,6 +8462,7 @@
         "Mycena eburnea",
         "Mycena epipterygia",
         "Mycena galericulata",
+        "Mycena inclinata",
         "Mycena pearsoniana",
         "Mycena pelianthina",
         "Mycena pura",
@@ -8368,6 +8486,7 @@
         "Collybia confluens",
         "Collybia distorta",
         "Collybia dryophila",
+        "Collybia erythropus",
         "Collybia fusipes",
         "Collybia hariolorum",
         "Collybia kuehneriana",
@@ -8528,6 +8647,7 @@
         "Picipes badius",
         "Polyporus badius",
         "Polyporus squamosus",
+        "Polyporus tuberaster",
         "Postia caesia",
         "Pycnoporus cinnabarinus",
         "Trametes cinnabarina",
@@ -8539,6 +8659,7 @@
       "type": "famiglia",
       "value": "Psathyrellaceae",
       "matchSpecies": [
+        "Britzelmayria multipedata",
         "Candolleomyces candolleanus",
         "Coprinellus disseminatus",
         "Coprinellus domesticus",
@@ -8554,6 +8675,7 @@
         "Psathyrella bipellis",
         "Psathyrella candolleana",
         "Psathyrella corrugis",
+        "Psathyrella multipedata",
         "Psathyrella piluliformis"
       ]
     },
@@ -8633,6 +8755,7 @@
         "Russula amara",
         "Russula amarissima",
         "Russula amethystina",
+        "Russula amoena",
         "Russula aurea",
         "Russula aurora",
         "Russula azurea",
@@ -8754,6 +8877,7 @@
         "Pyrrhulomyces astragalinus",
         "Stropharia aeruginosa",
         "Stropharia coronilla",
+        "Stropharia cyanea",
         "Stropharia rugosoannulata",
         "Stropharia rugosoannulata f. lutea",
         "Stropharia semiglobata"
@@ -8831,10 +8955,12 @@
         "Tricholoma portentosum",
         "Tricholoma pseudonictitans",
         "Tricholoma saponaceum",
+        "Tricholoma saponaceum var. lavedanum",
         "Tricholoma saponaceum var. squamosum",
         "Tricholoma sejunctum",
         "Tricholoma sulphureum",
         "Tricholoma terreum",
+        "Tricholoma ustale",
         "Tricholoma ustaloides",
         "Tricholoma vaccinum",
         "Tricholoma virgatum"
@@ -8935,6 +9061,7 @@
         "Bolbitius vitellinus",
         "Bovista plumbea",
         "Bovistella utriformis",
+        "Britzelmayria multipedata",
         "Calocybe gambosa",
         "Calonarius atrovirens",
         "Calonarius elegantior",
@@ -8971,6 +9098,7 @@
         "Collybia confluens",
         "Collybia distorta",
         "Collybia dryophila",
+        "Collybia erythropus",
         "Collybia fusipes",
         "Collybia hariolorum",
         "Collybia irina",
@@ -9001,6 +9129,7 @@
         "Coprinus lagopus",
         "Coprinus micaceus",
         "Coprinus plicatilis",
+        "Cortinarius anomalus",
         "Cortinarius atrovirens",
         "Cortinarius bolaris",
         "Cortinarius brunneus",
@@ -9180,6 +9309,7 @@
         "Mycena eburnea",
         "Mycena epipterygia",
         "Mycena galericulata",
+        "Mycena inclinata",
         "Mycena pearsoniana",
         "Mycena pelianthina",
         "Mycena pura",
@@ -9225,6 +9355,7 @@
         "Psathyrella bipellis",
         "Psathyrella candolleana",
         "Psathyrella corrugis",
+        "Psathyrella multipedata",
         "Psathyrella piluliformis",
         "Pseudosperma rimosum",
         "Pyrrhulomyces astragalinus",
@@ -9240,6 +9371,7 @@
         "Strobilurus esculentus",
         "Stropharia aeruginosa",
         "Stropharia coronilla",
+        "Stropharia cyanea",
         "Stropharia rugosoannulata",
         "Stropharia rugosoannulata f. lutea",
         "Stropharia semiglobata",
@@ -9257,10 +9389,12 @@
         "Tricholoma portentosum",
         "Tricholoma pseudonictitans",
         "Tricholoma saponaceum",
+        "Tricholoma saponaceum var. lavedanum",
         "Tricholoma saponaceum var. squamosum",
         "Tricholoma sejunctum",
         "Tricholoma sulphureum",
         "Tricholoma terreum",
+        "Tricholoma ustale",
         "Tricholoma ustaloides",
         "Tricholoma vaccinum",
         "Tricholoma virgatum",
@@ -9288,6 +9422,7 @@
         "Hirneola auricula-judae",
         "Pseudohydnum gelatinosum",
         "Pseudohydnum gelatinosum f. album",
+        "Pseudohydnum gelatinosum f. fuscum",
         "Tremiscus helvelloides"
       ]
     },
@@ -9566,6 +9701,7 @@
         "Hapalopilus rutilans",
         "Irpex lacteus",
         "Ischnoderma benzoinum",
+        "Laetiporus sulphureus",
         "Laricifomes officinalis",
         "Lentinus tigrinus",
         "Neofavolus alveolaris",
@@ -9577,6 +9713,7 @@
         "Polyporus badius",
         "Polyporus mori",
         "Polyporus squamosus",
+        "Polyporus tuberaster",
         "Postia caesia",
         "Pycnoporus cinnabarinus",
         "Trametes cinnabarina",
@@ -9644,6 +9781,7 @@
         "Russula amara",
         "Russula amarissima",
         "Russula amethystina",
+        "Russula amoena",
         "Russula aurea",
         "Russula aurora",
         "Russula azurea",
@@ -9823,6 +9961,7 @@
         "Boletus satanas",
         "Bovista plumbea",
         "Bovistella utriformis",
+        "Britzelmayria multipedata",
         "Butyriboletus fechtneri",
         "Caloboletus calopus",
         "Caloboletus radicans",
@@ -9880,6 +10019,7 @@
         "Collybia confluens",
         "Collybia distorta",
         "Collybia dryophila",
+        "Collybia erythropus",
         "Collybia fusipes",
         "Collybia hariolorum",
         "Collybia irina",
@@ -9910,6 +10050,7 @@
         "Coprinus lagopus",
         "Coprinus micaceus",
         "Coprinus plicatilis",
+        "Cortinarius anomalus",
         "Cortinarius atrovirens",
         "Cortinarius bolaris",
         "Cortinarius brunneus",
@@ -10093,6 +10234,7 @@
         "Lactifluus piperatus",
         "Lactifluus volemus",
         "Laeticutis cristata",
+        "Laetiporus sulphureus",
         "Laricifomes officinalis",
         "Leccinellum pseudoscabrum",
         "Leccinum aurantiacum",
@@ -10168,6 +10310,7 @@
         "Mycena eburnea",
         "Mycena epipterygia",
         "Mycena galericulata",
+        "Mycena inclinata",
         "Mycena pearsoniana",
         "Mycena pelianthina",
         "Mycena pura",
@@ -10226,6 +10369,7 @@
         "Polyporus badius",
         "Polyporus mori",
         "Polyporus squamosus",
+        "Polyporus tuberaster",
         "Porphyrellus porphyrosporus",
         "Porpolomopsis calyptriformis",
         "Postia caesia",
@@ -10236,9 +10380,11 @@
         "Psathyrella bipellis",
         "Psathyrella candolleana",
         "Psathyrella corrugis",
+        "Psathyrella multipedata",
         "Psathyrella piluliformis",
         "Pseudohydnum gelatinosum",
         "Pseudohydnum gelatinosum f. album",
+        "Pseudohydnum gelatinosum f. fuscum",
         "Pseudosperma rimosum",
         "Pycnoporus cinnabarinus",
         "Pyrrhulomyces astragalinus",
@@ -10268,6 +10414,7 @@
         "Russula amara",
         "Russula amarissima",
         "Russula amethystina",
+        "Russula amoena",
         "Russula aurea",
         "Russula aurora",
         "Russula azurea",
@@ -10333,6 +10480,7 @@
         "Strobilurus esculentus",
         "Stropharia aeruginosa",
         "Stropharia coronilla",
+        "Stropharia cyanea",
         "Stropharia rugosoannulata",
         "Stropharia rugosoannulata f. lutea",
         "Stropharia semiglobata",
@@ -10365,10 +10513,12 @@
         "Tricholoma portentosum",
         "Tricholoma pseudonictitans",
         "Tricholoma saponaceum",
+        "Tricholoma saponaceum var. lavedanum",
         "Tricholoma saponaceum var. squamosum",
         "Tricholoma sejunctum",
         "Tricholoma sulphureum",
         "Tricholoma terreum",
+        "Tricholoma ustale",
         "Tricholoma ustaloides",
         "Tricholoma vaccinum",
         "Tricholoma virgatum",
@@ -10647,6 +10797,7 @@
         "Boletus satanas",
         "Bovista plumbea",
         "Bovistella utriformis",
+        "Britzelmayria multipedata",
         "Butyriboletus fechtneri",
         "Caloboletus calopus",
         "Caloboletus radicans",
@@ -10706,6 +10857,7 @@
         "Collybia confluens",
         "Collybia distorta",
         "Collybia dryophila",
+        "Collybia erythropus",
         "Collybia fusipes",
         "Collybia hariolorum",
         "Collybia irina",
@@ -10736,6 +10888,7 @@
         "Coprinus lagopus",
         "Coprinus micaceus",
         "Coprinus plicatilis",
+        "Cortinarius anomalus",
         "Cortinarius atrovirens",
         "Cortinarius bolaris",
         "Cortinarius brunneus",
@@ -10921,6 +11074,7 @@
         "Lactifluus piperatus",
         "Lactifluus volemus",
         "Laeticutis cristata",
+        "Laetiporus sulphureus",
         "Laricifomes officinalis",
         "Leccinellum pseudoscabrum",
         "Leccinum aurantiacum",
@@ -10996,6 +11150,7 @@
         "Mycena eburnea",
         "Mycena epipterygia",
         "Mycena galericulata",
+        "Mycena inclinata",
         "Mycena pearsoniana",
         "Mycena pelianthina",
         "Mycena pura",
@@ -11054,6 +11209,7 @@
         "Polyporus badius",
         "Polyporus mori",
         "Polyporus squamosus",
+        "Polyporus tuberaster",
         "Porphyrellus porphyrosporus",
         "Porpolomopsis calyptriformis",
         "Postia caesia",
@@ -11064,9 +11220,11 @@
         "Psathyrella bipellis",
         "Psathyrella candolleana",
         "Psathyrella corrugis",
+        "Psathyrella multipedata",
         "Psathyrella piluliformis",
         "Pseudohydnum gelatinosum",
         "Pseudohydnum gelatinosum f. album",
+        "Pseudohydnum gelatinosum f. fuscum",
         "Pseudosperma rimosum",
         "Pycnoporus cinnabarinus",
         "Pyrrhulomyces astragalinus",
@@ -11096,6 +11254,7 @@
         "Russula amara",
         "Russula amarissima",
         "Russula amethystina",
+        "Russula amoena",
         "Russula aurea",
         "Russula aurora",
         "Russula azurea",
@@ -11161,6 +11320,7 @@
         "Strobilurus esculentus",
         "Stropharia aeruginosa",
         "Stropharia coronilla",
+        "Stropharia cyanea",
         "Stropharia rugosoannulata",
         "Stropharia rugosoannulata f. lutea",
         "Stropharia semiglobata",
@@ -11194,10 +11354,12 @@
         "Tricholoma portentosum",
         "Tricholoma pseudonictitans",
         "Tricholoma saponaceum",
+        "Tricholoma saponaceum var. lavedanum",
         "Tricholoma saponaceum var. squamosum",
         "Tricholoma sejunctum",
         "Tricholoma sulphureum",
         "Tricholoma terreum",
+        "Tricholoma ustale",
         "Tricholoma ustaloides",
         "Tricholoma vaccinum",
         "Tricholoma virgatum",
@@ -11317,6 +11479,7 @@
         "Boletus satanas",
         "Bovista plumbea",
         "Bovistella utriformis",
+        "Britzelmayria multipedata",
         "Butyriboletus fechtneri",
         "Caloboletus calopus",
         "Caloboletus radicans",
@@ -11380,6 +11543,7 @@
         "Collybia confluens",
         "Collybia distorta",
         "Collybia dryophila",
+        "Collybia erythropus",
         "Collybia fusipes",
         "Collybia hariolorum",
         "Collybia irina",
@@ -11411,6 +11575,7 @@
         "Coprinus micaceus",
         "Coprinus plicatilis",
         "Cordyceps capitata",
+        "Cortinarius anomalus",
         "Cortinarius atrovirens",
         "Cortinarius bolaris",
         "Cortinarius brunneus",
@@ -11609,6 +11774,7 @@
         "Lactifluus piperatus",
         "Lactifluus volemus",
         "Laeticutis cristata",
+        "Laetiporus sulphureus",
         "Lanzia echinophila",
         "Laricifomes officinalis",
         "Leccinellum pseudoscabrum",
@@ -11688,6 +11854,7 @@
         "Mycena eburnea",
         "Mycena epipterygia",
         "Mycena galericulata",
+        "Mycena inclinata",
         "Mycena pearsoniana",
         "Mycena pelianthina",
         "Mycena pura",
@@ -11747,6 +11914,7 @@
         "Polyporus badius",
         "Polyporus mori",
         "Polyporus squamosus",
+        "Polyporus tuberaster",
         "Porphyrellus porphyrosporus",
         "Porpolomopsis calyptriformis",
         "Postia caesia",
@@ -11757,9 +11925,11 @@
         "Psathyrella bipellis",
         "Psathyrella candolleana",
         "Psathyrella corrugis",
+        "Psathyrella multipedata",
         "Psathyrella piluliformis",
         "Pseudohydnum gelatinosum",
         "Pseudohydnum gelatinosum f. album",
+        "Pseudohydnum gelatinosum f. fuscum",
         "Pseudosperma rimosum",
         "Pycnoporus cinnabarinus",
         "Pyrrhulomyces astragalinus",
@@ -11789,6 +11959,7 @@
         "Russula amara",
         "Russula amarissima",
         "Russula amethystina",
+        "Russula amoena",
         "Russula aurea",
         "Russula aurora",
         "Russula azurea",
@@ -11859,6 +12030,7 @@
         "Strobilurus esculentus",
         "Stropharia aeruginosa",
         "Stropharia coronilla",
+        "Stropharia cyanea",
         "Stropharia rugosoannulata",
         "Stropharia rugosoannulata f. lutea",
         "Stropharia semiglobata",
@@ -11895,10 +12067,12 @@
         "Tricholoma portentosum",
         "Tricholoma pseudonictitans",
         "Tricholoma saponaceum",
+        "Tricholoma saponaceum var. lavedanum",
         "Tricholoma saponaceum var. squamosum",
         "Tricholoma sejunctum",
         "Tricholoma sulphureum",
         "Tricholoma terreum",
+        "Tricholoma ustale",
         "Tricholoma ustaloides",
         "Tricholoma vaccinum",
         "Tricholoma virgatum",

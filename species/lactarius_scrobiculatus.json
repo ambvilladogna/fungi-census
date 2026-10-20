@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-10-19",
+      "collector": "Fabio Locatelli",
+      "locality": "Pineta della Selva, Clusone",
+      "localityCoordinates": "45.88196, 9.91806",
+      "habitat": "Bosco misto",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-10-09",
       "collector": "Pietro Centenari",
       "locality": "Campos, Rovetta",
@@ -81,7 +89,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "08-25",
-    "raccoltaPiuTarda": "10-09",
+    "raccoltaPiuTarda": "10-19",
     "campioniPerMese": [
       {
         "gen": 0
@@ -111,7 +119,7 @@
         "set": 5
       },
       {
-        "ott": 2
+        "ott": 3
       },
       {
         "nov": 0
@@ -122,8 +130,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 9,
-    "campioniRaccolti": 9,
+    "totaleCampioni": 10,
+    "campioniRaccolti": 10,
     "campioniExsiccata": 0
   }
 }

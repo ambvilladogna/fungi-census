@@ -6,6 +6,14 @@
   "autoreCorrente": "Fr. 1838",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-10-19",
+      "collector": "Pierino Bigoni",
+      "locality": "Pineta della Selva, Clusone",
+      "localityCoordinates": "45.88196, 9.91806",
+      "habitat": "Bosco misto",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-10-12",
       "collector": "Pierino Bigoni",
       "locality": "Pineta della Selva, Clusone",
@@ -79,7 +87,7 @@
         "set": 1
       },
       {
-        "ott": 2
+        "ott": 3
       },
       {
         "nov": 1
@@ -90,8 +98,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 5,
-    "campioniRaccolti": 5,
+    "totaleCampioni": 6,
+    "campioniRaccolti": 6,
     "campioniExsiccata": 0
   }
 }

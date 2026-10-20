@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-19T00:13:23.493Z",
-  "totalSpecies": 580,
-  "totalSamples": 1828,
+  "generatedAt": "2026-10-20T00:14:00.035Z",
+  "totalSpecies": 591,
+  "totalSamples": 1906,
   "species": [
     {
       "genus": "Abortiporus",
@@ -917,6 +917,15 @@
     },
     {
       "genus": "Collybia",
+      "species": "erythropus",
+      "fullName": "Collybia erythropus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Omphalotaceae",
+      "authority": "(Pers.) P. Kumm. 1871",
+      "currentName": "Gymnopus erythropus",
+      "currentAuthority": "(Pers.) Antonín, Halling & Noordel. 1997"
+    },
+    {
+      "genus": "Collybia",
       "species": "fusipes",
       "fullName": "Collybia fusipes",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Omphalotaceae",
@@ -1059,6 +1068,13 @@
       "authority": "(Holmsk.) Fr. 1818",
       "currentName": "Tolypocladium capitatum",
       "currentAuthority": "(Holmsk.) C.A. Quandt, Kepler & Spatafora 2014"
+    },
+    {
+      "genus": "Cortinarius",
+      "species": "anomalus",
+      "fullName": "Cortinarius anomalus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
+      "authority": "(Fr.) Fr. 1838"
     },
     {
       "genus": "Cortinarius",
@@ -2374,6 +2390,13 @@
       "authority": "(L.) Roussel 1806"
     },
     {
+      "genus": "Laetiporus",
+      "species": "sulphureus",
+      "fullName": "Laetiporus sulphureus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Polyporales > famiglia: Laetiporaceae",
+      "authority": "(Bull.) Murrill 1920"
+    },
+    {
       "genus": "Laricifomes",
       "species": "officinalis",
       "fullName": "Laricifomes officinalis",
@@ -2898,6 +2921,13 @@
     },
     {
       "genus": "Mycena",
+      "species": "inclinata",
+      "fullName": "Mycena inclinata",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Mycenaceae",
+      "authority": "(Fr.) Quél. 1872"
+    },
+    {
+      "genus": "Mycena",
       "species": "pearsoniana",
       "fullName": "Mycena pearsoniana",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Mycenaceae",
@@ -3277,6 +3307,13 @@
       "currentAuthority": "(Huds.) Quél. 1886"
     },
     {
+      "genus": "Polyporus",
+      "species": "tuberaster",
+      "fullName": "Polyporus tuberaster",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Polyporales > famiglia: Polyporaceae",
+      "authority": "(Jacq. ex Pers.) Fr. 1821"
+    },
+    {
       "genus": "Porphyrellus",
       "species": "porphyrosporus",
       "fullName": "Porphyrellus porphyrosporus",
@@ -3317,6 +3354,15 @@
     },
     {
       "genus": "Psathyrella",
+      "species": "multipedata",
+      "fullName": "Psathyrella multipedata",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Psathyrellaceae",
+      "authority": "(Peck) A.H. Sm. 1941",
+      "currentName": "Britzelmayria multipedata",
+      "currentAuthority": "(Peck) D. Wächt. & A. Melzer 2020"
+    },
+    {
+      "genus": "Psathyrella",
       "species": "piluliformis",
       "fullName": "Psathyrella piluliformis",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Psathyrellaceae",
@@ -3333,6 +3379,13 @@
       "genus": "Pseudohydnum",
       "species": "gelatinosum f. album",
       "fullName": "Pseudohydnum gelatinosum f. album",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Auriculariales",
+      "authority": "(Bres.) Kobayasi 1954"
+    },
+    {
+      "genus": "Pseudohydnum",
+      "species": "gelatinosum f. fuscum",
+      "fullName": "Pseudohydnum gelatinosum f. fuscum",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Auriculariales",
       "authority": "(Bres.) Kobayasi 1954"
     },
@@ -3502,6 +3555,13 @@
       "fullName": "Russula amethystina",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
       "authority": "Quél. 1898"
+    },
+    {
+      "genus": "Russula",
+      "species": "amoena",
+      "fullName": "Russula amoena",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
+      "authority": "Quél. 1881"
     },
     {
       "genus": "Russula",
@@ -3964,6 +4024,13 @@
     },
     {
       "genus": "Stropharia",
+      "species": "cyanea",
+      "fullName": "Stropharia cyanea",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Strophariaceae",
+      "authority": "(Bull.) Tuomik. 1953"
+    },
+    {
+      "genus": "Stropharia",
       "species": "rugosoannulata",
       "fullName": "Stropharia rugosoannulata",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Strophariaceae",
@@ -4196,6 +4263,13 @@
     },
     {
       "genus": "Tricholoma",
+      "species": "saponaceum var. lavedanum",
+      "fullName": "Tricholoma saponaceum var. lavedanum",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Tricholomataceae",
+      "authority": "Rolland 1891"
+    },
+    {
+      "genus": "Tricholoma",
       "species": "saponaceum var. squamosum",
       "fullName": "Tricholoma saponaceum var. squamosum",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Tricholomataceae",
@@ -4214,6 +4288,13 @@
       "fullName": "Tricholoma sulphureum",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Tricholomataceae",
       "authority": "(Bull.) P. Kumm. 1871"
+    },
+    {
+      "genus": "Tricholoma",
+      "species": "ustale",
+      "fullName": "Tricholoma ustale",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Tricholomataceae",
+      "authority": "(Fr.) P. Kumm. 1871"
     },
     {
       "genus": "Tricholoma",

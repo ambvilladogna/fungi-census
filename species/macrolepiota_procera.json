@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-10-19",
+      "collector": "Pietro Centenari",
+      "locality": "Zenier, Rovetta",
+      "localityCoordinates": "45.900993, 9.986360",
+      "habitat": "Abete rosso",
+      "determiner": "Pietro Centenari"
+    },
+    {
       "collectionDate": "2026-10-12",
       "collector": "Pierino Bigoni",
       "locality": "Pineta della Selva, Clusone",
@@ -76,14 +84,6 @@
       "localityCoordinates": "45.906748, 9.980383",
       "habitat": "Bordo pascolo",
       "determiner": "Pietro Centenari"
-    },
-    {
-      "collectionDate": "2026-08-30",
-      "collector": "Pierino Bigoni",
-      "locality": "Cà de Spì, Monte Poieto, Gazzaniga",
-      "localityCoordinates": "45.801245, 9.788662",
-      "habitat": "Bosco rado di Betulla e Faggio",
-      "determiner": "Pierino Bigoni"
     },
     {
       "collectionDate": "2026-08-29",
@@ -209,7 +209,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "05-21",
-    "raccoltaPiuTarda": "10-12",
+    "raccoltaPiuTarda": "10-19",
     "campioniPerMese": [
       {
         "gen": 0
@@ -233,13 +233,13 @@
         "lug": 6
       },
       {
-        "ago": 6
+        "ago": 5
       },
       {
         "set": 5
       },
       {
-        "ott": 5
+        "ott": 6
       },
       {
         "nov": 0

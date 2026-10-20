@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-10-19",
+      "collector": "Pierino Bigoni",
+      "locality": "Cà de Spì, Monte Poieto, Gazzaniga",
+      "localityCoordinates": "45.801245, 9.788662",
+      "habitat": "Bosco misto",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-09-20",
       "collector": "Fabio Locatelli",
       "locality": "Valcanale, Ardesio",
@@ -105,7 +113,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "07-18",
-    "raccoltaPiuTarda": "10-09",
+    "raccoltaPiuTarda": "10-19",
     "campioniPerMese": [
       {
         "gen": 0
@@ -135,7 +143,7 @@
         "set": 7
       },
       {
-        "ott": 1
+        "ott": 2
       },
       {
         "nov": 0
@@ -146,8 +154,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 12,
-    "campioniRaccolti": 12,
+    "totaleCampioni": 13,
+    "campioniRaccolti": 13,
     "campioniExsiccata": 0
   }
 }

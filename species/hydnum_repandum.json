@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-10-19",
+      "collector": "Pietro Centenari",
+      "locality": "Zenier, Rovetta",
+      "localityCoordinates": "45.898619, 9.984853",
+      "habitat": "Bosco misto abete rosso e castagno",
+      "determiner": "Pietro Centenari"
+    },
+    {
       "collectionDate": "2026-10-16",
       "collector": "Pietro Centenari",
       "locality": "Val Righenzuolo, Onore",
@@ -175,7 +183,7 @@
         "set": 5
       },
       {
-        "ott": 4
+        "ott": 5
       },
       {
         "nov": 0
@@ -186,8 +194,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 17,
-    "campioniRaccolti": 17,
+    "totaleCampioni": 18,
+    "campioniRaccolti": 18,
     "campioniExsiccata": 0
   }
 }

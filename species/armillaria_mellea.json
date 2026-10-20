@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-10-19",
+      "collector": "Pietro Centenari",
+      "locality": "Zenier, Rovetta",
+      "localityCoordinates": "45.898619, 9.984853",
+      "habitat": "Su radice di conifera",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2025-10-09",
       "collector": "Pierino Bigoni",
       "locality": "Pineta della Selva, Clusone",
@@ -41,7 +49,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "10-02",
-    "raccoltaPiuTarda": "10-09",
+    "raccoltaPiuTarda": "10-19",
     "campioniPerMese": [
       {
         "gen": 0
@@ -71,7 +79,7 @@
         "set": 0
       },
       {
-        "ott": 4
+        "ott": 5
       },
       {
         "nov": 0
@@ -82,8 +90,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 4,
-    "campioniRaccolti": 4,
+    "totaleCampioni": 5,
+    "campioniRaccolti": 5,
     "campioniExsiccata": 0
   }
 }

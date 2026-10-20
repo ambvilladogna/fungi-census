@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-10-19",
+      "collector": "Pierino Bigoni",
+      "locality": "Cà de Spì, Monte Poieto, Gazzaniga",
+      "localityCoordinates": "45.801245, 9.788662",
+      "habitat": "Abete rosso",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-10-16",
       "collector": "Pietro Centenari",
       "locality": "Val Righenzuolo, Onore",
@@ -143,7 +151,7 @@
         "set": 9
       },
       {
-        "ott": 4
+        "ott": 5
       },
       {
         "nov": 0
@@ -154,8 +162,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 13,
-    "campioniRaccolti": 13,
+    "totaleCampioni": 14,
+    "campioniRaccolti": 14,
     "campioniExsiccata": 0
   }
 }

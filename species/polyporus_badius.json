@@ -6,6 +6,14 @@
   "autoreCorrente": "(Pers.) Zmitr. & Kovalenko 2016",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-10-19",
+      "collector": "Pierino Bigoni",
+      "locality": "Roccolo Sparpaì, Piario",
+      "localityCoordinates": "45.882983, 9.918480",
+      "habitat": "Bosco misto",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-10-06",
       "collector": "Pierino Bigoni",
       "locality": "Ardesio",
@@ -17,7 +25,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "10-06",
-    "raccoltaPiuTarda": "10-06",
+    "raccoltaPiuTarda": "10-19",
     "campioniPerMese": [
       {
         "gen": 0
@@ -47,7 +55,7 @@
         "set": 0
       },
       {
-        "ott": 1
+        "ott": 2
       },
       {
         "nov": 0
@@ -58,8 +66,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 1,
-    "campioniRaccolti": 1,
+    "totaleCampioni": 2,
+    "campioniRaccolti": 2,
     "campioniExsiccata": 0
   }
 }

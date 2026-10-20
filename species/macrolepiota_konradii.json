@@ -6,6 +6,22 @@
   "autoreCorrente": "(Fr.) Singer 1951",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-10-19",
+      "collector": "Luigi Rossi",
+      "locality": "Fogarolo, Rovetta",
+      "localityCoordinates": "45.845982, 9.960523",
+      "habitat": "Pascolo",
+      "determiner": "Pierino Bigoni"
+    },
+    {
+      "collectionDate": "2026-10-19",
+      "collector": "Pierino Bigoni",
+      "locality": "Cà de Spì, Monte Poieto, Gazzaniga",
+      "localityCoordinates": "45.801245, 9.788662",
+      "habitat": "Bosco misto",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-10-05",
       "collector": "Fabio Locatelli",
       "locality": "Prat del sul, Clusone",
@@ -41,7 +57,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "08-04",
-    "raccoltaPiuTarda": "10-05",
+    "raccoltaPiuTarda": "10-19",
     "campioniPerMese": [
       {
         "gen": 0
@@ -71,7 +87,7 @@
         "set": 2
       },
       {
-        "ott": 1
+        "ott": 3
       },
       {
         "nov": 0
@@ -82,8 +98,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 4,
-    "campioniRaccolti": 4,
+    "totaleCampioni": 6,
+    "campioniRaccolti": 6,
     "campioniExsiccata": 0
   }
 }

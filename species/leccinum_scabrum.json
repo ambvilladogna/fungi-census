@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-10-19",
+      "collector": "Pierino Bigoni",
+      "locality": "Cà de Spì, Monte Poieto, Gazzaniga",
+      "localityCoordinates": "45.801245, 9.788662",
+      "habitat": "Betulla",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-09-20",
       "collector": "Fabio Locatelli",
       "locality": "Busgarina, Clusone",
@@ -81,7 +89,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "06-25",
-    "raccoltaPiuTarda": "10-02",
+    "raccoltaPiuTarda": "10-19",
     "campioniPerMese": [
       {
         "gen": 0
@@ -111,7 +119,7 @@
         "set": 5
       },
       {
-        "ott": 1
+        "ott": 2
       },
       {
         "nov": 0
@@ -122,8 +130,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 9,
-    "campioniRaccolti": 9,
+    "totaleCampioni": 10,
+    "campioniRaccolti": 10,
     "campioniExsiccata": 0
   }
 }

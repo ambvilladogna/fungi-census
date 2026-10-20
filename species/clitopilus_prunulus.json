@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-10-19",
+      "collector": "Fabio Locatelli",
+      "locality": "Pineta della Selva, Clusone",
+      "localityCoordinates": "45.88196, 9.91806",
+      "habitat": "Bosco misto",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-10-09",
       "collector": "Pietro Centenari",
       "locality": "Sent. Alto Serio (Verso i monti Parè e Blum - strada), Rovetta, Comunità Montana della Valle Seriana, Bergamo",
@@ -223,7 +231,7 @@
         "set": 9
       },
       {
-        "ott": 3
+        "ott": 4
       },
       {
         "nov": 0
@@ -234,8 +242,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 23,
-    "campioniRaccolti": 23,
+    "totaleCampioni": 24,
+    "campioniRaccolti": 24,
     "campioniExsiccata": 0
   }
 }
