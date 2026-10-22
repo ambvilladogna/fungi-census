@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-22T00:13:55.109Z",
-  "totalSpecies": 591,
-  "totalSamples": 1908,
+  "generatedAt": "2026-10-22T10:24:09.689Z",
+  "totalSpecies": 592,
+  "totalSamples": 1909,
   "species": [
     {
       "genus": "Abortiporus",
@@ -1527,6 +1527,13 @@
       "fullName": "Entoloma bloxamii",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Entolomataceae",
       "authority": "(Berk. & Broome) Sacc. 1887"
+    },
+    {
+      "genus": "Entoloma",
+      "species": "chalybeum var. lazulinum",
+      "fullName": "Entoloma chalybeum var. lazulinum",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Entolomataceae",
+      "authority": "(Fr.) Noordel. 1984"
     },
     {
       "genus": "Entoloma",

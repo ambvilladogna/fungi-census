@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T00:14:00.291Z",
+  "generatedAt": "2026-10-22T10:24:10.040Z",
   "corpus": [
     {
       "type": "genus",
@@ -84,8 +84,14 @@
       "type": "genus",
       "value": "Boletus",
       "matchSpecies": [
+        "Boletus calopus",
+        "Boletus depilatus",
         "Boletus erythropus",
         "Boletus luridus",
+        "Boletus pulverulentus",
+        "Caloboletus calopus",
+        "Cyanoboletus pulverulentus",
+        "Hemileccinum depilatum",
         "Neoboletus erythropus",
         "Suillellus luridus"
       ]
@@ -100,10 +106,25 @@
     },
     {
       "type": "genus",
+      "value": "Caloboletus",
+      "matchSpecies": [
+        "Boletus calopus",
+        "Caloboletus calopus"
+      ]
+    },
+    {
+      "type": "genus",
       "value": "Calonarius",
       "matchSpecies": [
         "Calonarius saporatus",
         "Cortinarius saporatus"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Calvatia",
+      "matchSpecies": [
+        "Calvatia gigantea"
       ]
     },
     {
@@ -253,6 +274,14 @@
     },
     {
       "type": "genus",
+      "value": "Cyanoboletus",
+      "matchSpecies": [
+        "Boletus pulverulentus",
+        "Cyanoboletus pulverulentus"
+      ]
+    },
+    {
+      "type": "genus",
       "value": "Cyanosporus",
       "matchSpecies": [
         "Cyanosporus caesius",
@@ -261,10 +290,25 @@
     },
     {
       "type": "genus",
+      "value": "Dumontinia",
+      "matchSpecies": [
+        "Dumontinia tuberosa"
+      ]
+    },
+    {
+      "type": "genus",
       "value": "Echinoderma",
       "matchSpecies": [
         "Echinoderma asperum",
         "Lepiota aspera"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Entoloma",
+      "matchSpecies": [
+        "Entoloma chalybeum var. lazulinum",
+        "Entoloma incanum"
       ]
     },
     {
@@ -304,6 +348,13 @@
     },
     {
       "type": "genus",
+      "value": "Gomphus",
+      "matchSpecies": [
+        "Gomphus clavatus"
+      ]
+    },
+    {
+      "type": "genus",
       "value": "Gymnopus",
       "matchSpecies": [
         "Collybia erythropus",
@@ -326,6 +377,14 @@
         "Helvella crispa",
         "Helvella elastica",
         "Helvella monachella"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Hemileccinum",
+      "matchSpecies": [
+        "Boletus depilatus",
+        "Hemileccinum depilatum"
       ]
     },
     {
@@ -627,6 +686,13 @@
     },
     {
       "type": "genus",
+      "value": "Pleurotus",
+      "matchSpecies": [
+        "Pleurotus ostreatus"
+      ]
+    },
+    {
+      "type": "genus",
       "value": "Pluteus",
       "matchSpecies": [
         "Pluteus atromarginatus",
@@ -681,6 +747,7 @@
       "value": "Psathyrella",
       "matchSpecies": [
         "Britzelmayria multipedata",
+        "Psathyrella bipellis",
         "Psathyrella corrugis",
         "Psathyrella multipedata"
       ]
@@ -1026,6 +1093,22 @@
     },
     {
       "type": "species",
+      "value": "Boletus calopus",
+      "matchSpecies": [
+        "Boletus calopus",
+        "Caloboletus calopus"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Boletus depilatus",
+      "matchSpecies": [
+        "Boletus depilatus",
+        "Hemileccinum depilatum"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Boletus erythropus",
       "matchSpecies": [
         "Boletus erythropus",
@@ -1042,6 +1125,14 @@
     },
     {
       "type": "species",
+      "value": "Boletus pulverulentus",
+      "matchSpecies": [
+        "Boletus pulverulentus",
+        "Cyanoboletus pulverulentus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Britzelmayria multipedata",
       "matchSpecies": [
         "Britzelmayria multipedata",
@@ -1050,10 +1141,25 @@
     },
     {
       "type": "species",
+      "value": "Caloboletus calopus",
+      "matchSpecies": [
+        "Boletus calopus",
+        "Caloboletus calopus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Calonarius saporatus",
       "matchSpecies": [
         "Calonarius saporatus",
         "Cortinarius saporatus"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Calvatia gigantea",
+      "matchSpecies": [
+        "Calvatia gigantea"
       ]
     },
     {
@@ -1341,6 +1447,14 @@
     },
     {
       "type": "species",
+      "value": "Cyanoboletus pulverulentus",
+      "matchSpecies": [
+        "Boletus pulverulentus",
+        "Cyanoboletus pulverulentus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Cyanosporus caesius",
       "matchSpecies": [
         "Cyanosporus caesius",
@@ -1349,10 +1463,31 @@
     },
     {
       "type": "species",
+      "value": "Dumontinia tuberosa",
+      "matchSpecies": [
+        "Dumontinia tuberosa"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Echinoderma asperum",
       "matchSpecies": [
         "Echinoderma asperum",
         "Lepiota aspera"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Entoloma chalybeum var. lazulinum",
+      "matchSpecies": [
+        "Entoloma chalybeum var. lazulinum"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Entoloma incanum",
+      "matchSpecies": [
+        "Entoloma incanum"
       ]
     },
     {
@@ -1388,6 +1523,13 @@
       "value": "Gomphidius glutinosus",
       "matchSpecies": [
         "Gomphidius glutinosus"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Gomphus clavatus",
+      "matchSpecies": [
+        "Gomphus clavatus"
       ]
     },
     {
@@ -1432,6 +1574,14 @@
       "value": "Helvella monachella",
       "matchSpecies": [
         "Helvella monachella"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Hemileccinum depilatum",
+      "matchSpecies": [
+        "Boletus depilatus",
+        "Hemileccinum depilatum"
       ]
     },
     {
@@ -1927,6 +2077,13 @@
     },
     {
       "type": "species",
+      "value": "Pleurotus ostreatus",
+      "matchSpecies": [
+        "Pleurotus ostreatus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Pluteus atromarginatus",
       "matchSpecies": [
         "Pluteus atromarginatus"
@@ -1998,6 +2155,13 @@
       "matchSpecies": [
         "Mycena rosea",
         "Prunulus roseus"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Psathyrella bipellis",
+      "matchSpecies": [
+        "Psathyrella bipellis"
       ]
     },
     {
@@ -2409,8 +2573,14 @@
       "type": "famiglia",
       "value": "Boletaceae",
       "matchSpecies": [
+        "Boletus calopus",
+        "Boletus depilatus",
         "Boletus erythropus",
         "Boletus luridus",
+        "Boletus pulverulentus",
+        "Caloboletus calopus",
+        "Cyanoboletus pulverulentus",
+        "Hemileccinum depilatum",
         "Imleria badia",
         "Neoboletus erythropus",
         "Porphyrellus porphyrosporus",
@@ -2458,6 +2628,8 @@
       "value": "Entolomataceae",
       "matchSpecies": [
         "Clitopilus prunulus",
+        "Entoloma chalybeum var. lazulinum",
+        "Entoloma incanum",
         "Rhodocybe gemina"
       ]
     },
@@ -2472,6 +2644,7 @@
       "type": "famiglia",
       "value": "Gomphaceae",
       "matchSpecies": [
+        "Gomphus clavatus",
         "Ramaria sanguinea"
       ]
     },
@@ -2574,6 +2747,7 @@
       "value": "Lycoperdaceae",
       "matchSpecies": [
         "Apioperdon pyriforme",
+        "Calvatia gigantea",
         "Lycoperdon echinatum",
         "Lycoperdon perlatum",
         "Lycoperdon pyriforme"
@@ -2667,6 +2841,13 @@
     },
     {
       "type": "famiglia",
+      "value": "Pleurotaceae",
+      "matchSpecies": [
+        "Pleurotus ostreatus"
+      ]
+    },
+    {
+      "type": "famiglia",
       "value": "Pluteaceae",
       "matchSpecies": [
         "Pluteus atromarginatus",
@@ -2704,6 +2885,7 @@
         "Coprinus disseminatus",
         "Coprinus lagopus",
         "Coprinus micaceus",
+        "Psathyrella bipellis",
         "Psathyrella corrugis",
         "Psathyrella multipedata"
       ]
@@ -2750,6 +2932,13 @@
       "value": "Sclerodermataceae",
       "matchSpecies": [
         "Scleroderma verrucosum"
+      ]
+    },
+    {
+      "type": "famiglia",
+      "value": "Sclerotiniaceae",
+      "matchSpecies": [
+        "Dumontinia tuberosa"
       ]
     },
     {
@@ -2816,6 +3005,7 @@
         "Baeospora myosura",
         "Britzelmayria multipedata",
         "Calonarius saporatus",
+        "Calvatia gigantea",
         "Chlorophyllum rhacodes",
         "Clavulinopsis corniculata",
         "Clitocybe clavipes",
@@ -2845,6 +3035,8 @@
         "Cortinarius violaceus",
         "Crucibulum laeve",
         "Echinoderma asperum",
+        "Entoloma chalybeum var. lazulinum",
+        "Entoloma incanum",
         "Flammulina velutipes",
         "Gymnopus erythropus",
         "Gymnopus fusipes",
@@ -2896,11 +3088,13 @@
         "Mycetinis scorodonius",
         "Omphalina pyxidata",
         "Pholiota lenta",
+        "Pleurotus ostreatus",
         "Pluteus atromarginatus",
         "Pluteus cervinus",
         "Pluteus exiguus",
         "Porpolomopsis calyptriformis",
         "Prunulus roseus",
+        "Psathyrella bipellis",
         "Psathyrella corrugis",
         "Psathyrella multipedata",
         "Pseudosperma rimosum",
@@ -2932,10 +3126,16 @@
       "value": "Boletales",
       "matchSpecies": [
         "Boletinus cavipes",
+        "Boletus calopus",
+        "Boletus depilatus",
         "Boletus erythropus",
         "Boletus luridus",
+        "Boletus pulverulentus",
+        "Caloboletus calopus",
         "Chroogomphus rutilus",
+        "Cyanoboletus pulverulentus",
         "Gomphidius glutinosus",
+        "Hemileccinum depilatum",
         "Imleria badia",
         "Neoboletus erythropus",
         "Paxillus involutus",
@@ -2977,7 +3177,15 @@
       "type": "ordine",
       "value": "Gomphales",
       "matchSpecies": [
+        "Gomphus clavatus",
         "Ramaria sanguinea"
+      ]
+    },
+    {
+      "type": "ordine",
+      "value": "Helotiales",
+      "matchSpecies": [
+        "Dumontinia tuberosa"
       ]
     },
     {
@@ -3096,10 +3304,15 @@
         "Auriscalpium vulgare",
         "Baeospora myosura",
         "Boletinus cavipes",
+        "Boletus calopus",
+        "Boletus depilatus",
         "Boletus erythropus",
         "Boletus luridus",
+        "Boletus pulverulentus",
         "Britzelmayria multipedata",
+        "Caloboletus calopus",
         "Calonarius saporatus",
+        "Calvatia gigantea",
         "Cantharellus amethysteus",
         "Cantharellus romagnesianus",
         "Cantharellus tubaeformis",
@@ -3137,15 +3350,20 @@
         "Cortinarius violaceus",
         "Craterellus tubaeformis",
         "Crucibulum laeve",
+        "Cyanoboletus pulverulentus",
         "Cyanosporus caesius",
         "Echinoderma asperum",
+        "Entoloma chalybeum var. lazulinum",
+        "Entoloma incanum",
         "Flammulina velutipes",
         "Ganoderma adspersum",
         "Gloeophyllum odoratum",
         "Gomphidius glutinosus",
+        "Gomphus clavatus",
         "Gymnopus erythropus",
         "Gymnopus fusipes",
         "Hebeloma sinapizans",
+        "Hemileccinum depilatum",
         "Hirneola auricula-judae",
         "Hydnum repandum",
         "Hydnum rufescens",
@@ -3210,6 +3428,7 @@
         "Phaeolus schweinitzii",
         "Pholiota lenta",
         "Picipes badius",
+        "Pleurotus ostreatus",
         "Pluteus atromarginatus",
         "Pluteus cervinus",
         "Pluteus exiguus",
@@ -3220,6 +3439,7 @@
         "Porpolomopsis calyptriformis",
         "Postia caesia",
         "Prunulus roseus",
+        "Psathyrella bipellis",
         "Psathyrella corrugis",
         "Psathyrella multipedata",
         "Pseudohydnum gelatinosum f. fuscum",
@@ -3271,6 +3491,13 @@
     },
     {
       "type": "classe",
+      "value": "Leotiomycetes",
+      "matchSpecies": [
+        "Dumontinia tuberosa"
+      ]
+    },
+    {
+      "type": "classe",
       "value": "Mucoromycetes",
       "matchSpecies": [
         "Spinellus fusiger"
@@ -3312,6 +3539,7 @@
       "type": "phylum",
       "value": "Ascomycota",
       "matchSpecies": [
+        "Dumontinia tuberosa",
         "Helvella crispa",
         "Helvella elastica",
         "Helvella monachella",
@@ -3344,10 +3572,15 @@
         "Auriscalpium vulgare",
         "Baeospora myosura",
         "Boletinus cavipes",
+        "Boletus calopus",
+        "Boletus depilatus",
         "Boletus erythropus",
         "Boletus luridus",
+        "Boletus pulverulentus",
         "Britzelmayria multipedata",
+        "Caloboletus calopus",
         "Calonarius saporatus",
+        "Calvatia gigantea",
         "Cantharellus amethysteus",
         "Cantharellus romagnesianus",
         "Cantharellus tubaeformis",
@@ -3385,15 +3618,20 @@
         "Cortinarius violaceus",
         "Craterellus tubaeformis",
         "Crucibulum laeve",
+        "Cyanoboletus pulverulentus",
         "Cyanosporus caesius",
         "Echinoderma asperum",
+        "Entoloma chalybeum var. lazulinum",
+        "Entoloma incanum",
         "Flammulina velutipes",
         "Ganoderma adspersum",
         "Gloeophyllum odoratum",
         "Gomphidius glutinosus",
+        "Gomphus clavatus",
         "Gymnopus erythropus",
         "Gymnopus fusipes",
         "Hebeloma sinapizans",
+        "Hemileccinum depilatum",
         "Hirneola auricula-judae",
         "Hydnum repandum",
         "Hydnum rufescens",
@@ -3458,6 +3696,7 @@
         "Phaeolus schweinitzii",
         "Pholiota lenta",
         "Picipes badius",
+        "Pleurotus ostreatus",
         "Pluteus atromarginatus",
         "Pluteus cervinus",
         "Pluteus exiguus",
@@ -3468,6 +3707,7 @@
         "Porpolomopsis calyptriformis",
         "Postia caesia",
         "Prunulus roseus",
+        "Psathyrella bipellis",
         "Psathyrella corrugis",
         "Psathyrella multipedata",
         "Pseudohydnum gelatinosum f. fuscum",
@@ -3550,10 +3790,15 @@
         "Auriscalpium vulgare",
         "Baeospora myosura",
         "Boletinus cavipes",
+        "Boletus calopus",
+        "Boletus depilatus",
         "Boletus erythropus",
         "Boletus luridus",
+        "Boletus pulverulentus",
         "Britzelmayria multipedata",
+        "Caloboletus calopus",
         "Calonarius saporatus",
+        "Calvatia gigantea",
         "Cantharellus amethysteus",
         "Cantharellus romagnesianus",
         "Cantharellus tubaeformis",
@@ -3591,18 +3836,24 @@
         "Cortinarius violaceus",
         "Craterellus tubaeformis",
         "Crucibulum laeve",
+        "Cyanoboletus pulverulentus",
         "Cyanosporus caesius",
+        "Dumontinia tuberosa",
         "Echinoderma asperum",
+        "Entoloma chalybeum var. lazulinum",
+        "Entoloma incanum",
         "Flammulina velutipes",
         "Ganoderma adspersum",
         "Gloeophyllum odoratum",
         "Gomphidius glutinosus",
+        "Gomphus clavatus",
         "Gymnopus erythropus",
         "Gymnopus fusipes",
         "Hebeloma sinapizans",
         "Helvella crispa",
         "Helvella elastica",
         "Helvella monachella",
+        "Hemileccinum depilatum",
         "Hirneola auricula-judae",
         "Hydnum repandum",
         "Hydnum rufescens",
@@ -3668,6 +3919,7 @@
         "Phaeolus schweinitzii",
         "Pholiota lenta",
         "Picipes badius",
+        "Pleurotus ostreatus",
         "Pluteus atromarginatus",
         "Pluteus cervinus",
         "Pluteus exiguus",
@@ -3678,6 +3930,7 @@
         "Porpolomopsis calyptriformis",
         "Postia caesia",
         "Prunulus roseus",
+        "Psathyrella bipellis",
         "Psathyrella corrugis",
         "Psathyrella multipedata",
         "Pseudohydnum gelatinosum f. fuscum",

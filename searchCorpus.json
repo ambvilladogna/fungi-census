@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T00:14:00.276Z",
+  "generatedAt": "2026-10-22T10:24:10.017Z",
   "corpus": [
     {
       "type": "genus",
@@ -831,6 +831,7 @@
       "value": "Entoloma",
       "matchSpecies": [
         "Entoloma bloxamii",
+        "Entoloma chalybeum var. lazulinum",
         "Entoloma hirtipes",
         "Entoloma incanum",
         "Entoloma mougeotii",
@@ -4287,6 +4288,13 @@
       "value": "Entoloma bloxamii",
       "matchSpecies": [
         "Entoloma bloxamii"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Entoloma chalybeum var. lazulinum",
+      "matchSpecies": [
+        "Entoloma chalybeum var. lazulinum"
       ]
     },
     {
@@ -8104,6 +8112,7 @@
       "matchSpecies": [
         "Clitopilus prunulus",
         "Entoloma bloxamii",
+        "Entoloma chalybeum var. lazulinum",
         "Entoloma hirtipes",
         "Entoloma incanum",
         "Entoloma mougeotii",
@@ -9180,6 +9189,7 @@
         "Echinoderma asperum",
         "Echinoderma perplexum",
         "Entoloma bloxamii",
+        "Entoloma chalybeum var. lazulinum",
         "Entoloma hirtipes",
         "Entoloma incanum",
         "Entoloma mougeotii",
@@ -10110,6 +10120,7 @@
         "Echinoderma asperum",
         "Echinoderma perplexum",
         "Entoloma bloxamii",
+        "Entoloma chalybeum var. lazulinum",
         "Entoloma hirtipes",
         "Entoloma incanum",
         "Entoloma mougeotii",
@@ -10949,6 +10960,7 @@
         "Echinoderma asperum",
         "Echinoderma perplexum",
         "Entoloma bloxamii",
+        "Entoloma chalybeum var. lazulinum",
         "Entoloma hirtipes",
         "Entoloma incanum",
         "Entoloma mougeotii",
@@ -11641,6 +11653,7 @@
         "Elaphomyces granulatus",
         "Encoelia furfuracea",
         "Entoloma bloxamii",
+        "Entoloma chalybeum var. lazulinum",
         "Entoloma hirtipes",
         "Entoloma incanum",
         "Entoloma mougeotii",

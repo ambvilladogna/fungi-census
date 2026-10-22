@@ -1,8 +1,8 @@
 {
   "title": "Pineta della Selva",
-  "generatedAt": "2026-10-20T00:14:00.253Z",
-  "totalSpecies": 168,
-  "totalSamples": 282,
+  "generatedAt": "2026-10-22T10:24:09.993Z",
+  "totalSpecies": 180,
+  "totalSamples": 296,
   "species": [
     {
       "genus": "Agaricus",
@@ -145,6 +145,24 @@
     },
     {
       "genus": "Boletus",
+      "species": "calopus",
+      "fullName": "Boletus calopus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
+      "authority": "Pers. 1801",
+      "currentName": "Caloboletus calopus",
+      "currentAuthority": "(Pers.) Vizzini 2014"
+    },
+    {
+      "genus": "Boletus",
+      "species": "depilatus",
+      "fullName": "Boletus depilatus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
+      "authority": "Redeuilh 1986",
+      "currentName": "Hemileccinum depilatum",
+      "currentAuthority": "(Redeuilh) Šutara 2008"
+    },
+    {
+      "genus": "Boletus",
       "species": "erythropus",
       "fullName": "Boletus erythropus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
@@ -160,6 +178,29 @@
       "authority": "Schaeff. 1774",
       "currentName": "Suillellus luridus",
       "currentAuthority": "(Schaeff.) Murrill 1909"
+    },
+    {
+      "genus": "Boletus",
+      "species": "pulverulentus",
+      "fullName": "Boletus pulverulentus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
+      "authority": "Opat. 1836",
+      "currentName": "Cyanoboletus pulverulentus",
+      "currentAuthority": "(Opat.) Gelardi, Vizzini & Simonini 2014"
+    },
+    {
+      "genus": "Caloboletus",
+      "species": "calopus",
+      "fullName": "Caloboletus calopus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
+      "authority": "(Pers.) Vizzini 2014"
+    },
+    {
+      "genus": "Calvatia",
+      "species": "gigantea",
+      "fullName": "Calvatia gigantea",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Lycoperdaceae",
+      "authority": "(Batsch) Lloyd 1904"
     },
     {
       "genus": "Cantharellus",
@@ -416,6 +457,27 @@
       "authority": "(Huds.) Kambly 1936"
     },
     {
+      "genus": "Dumontinia",
+      "species": "tuberosa",
+      "fullName": "Dumontinia tuberosa",
+      "lineage": "regno: Fungi > phylum: Ascomycota > classe: Leotiomycetes > ordine: Helotiales > famiglia: Sclerotiniaceae",
+      "authority": "(Bull.) L.M. Kohn 1979"
+    },
+    {
+      "genus": "Entoloma",
+      "species": "chalybeum var. lazulinum",
+      "fullName": "Entoloma chalybeum var. lazulinum",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Entolomataceae",
+      "authority": "(Fr.) Noordel. 1984"
+    },
+    {
+      "genus": "Entoloma",
+      "species": "incanum",
+      "fullName": "Entoloma incanum",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Entolomataceae",
+      "authority": "(Fr.) Hesler 1967"
+    },
+    {
       "genus": "Flammulina",
       "species": "velutipes",
       "fullName": "Flammulina velutipes",
@@ -451,6 +513,13 @@
       "authority": "(Schaeff.) Fr. 1838"
     },
     {
+      "genus": "Gomphus",
+      "species": "clavatus",
+      "fullName": "Gomphus clavatus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Gomphales > famiglia: Gomphaceae",
+      "authority": "(Pers.) Gray 1821"
+    },
+    {
       "genus": "Gymnopus",
       "species": "fusipes",
       "fullName": "Gymnopus fusipes",
@@ -484,6 +553,13 @@
       "fullName": "Helvella monachella",
       "lineage": "regno: Fungi > phylum: Ascomycota > classe: Pezizomycetes > ordine: Pezizales > famiglia: Helvellaceae",
       "authority": "(Scop.) Fr. 1822"
+    },
+    {
+      "genus": "Hemileccinum",
+      "species": "depilatum",
+      "fullName": "Hemileccinum depilatum",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
+      "authority": "(Redeuilh) Šutara 2008"
     },
     {
       "genus": "Hirneola",
@@ -924,6 +1000,13 @@
       "authority": "(Pers.) Singer 1951"
     },
     {
+      "genus": "Pleurotus",
+      "species": "ostreatus",
+      "fullName": "Pleurotus ostreatus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Pleurotaceae",
+      "authority": "(Jacq.) P. Kumm. 1871"
+    },
+    {
       "genus": "Pluteus",
       "species": "atromarginatus",
       "fullName": "Pluteus atromarginatus",
@@ -984,6 +1067,13 @@
       "authority": "(Schrad.) P. Karst. 1881",
       "currentName": "Cyanosporus caesius",
       "currentAuthority": "(Schrad.) McGinty 1909"
+    },
+    {
+      "genus": "Psathyrella",
+      "species": "bipellis",
+      "fullName": "Psathyrella bipellis",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Psathyrellaceae",
+      "authority": "(Quél.) A.H. Sm. 1946"
     },
     {
       "genus": "Psathyrella",
