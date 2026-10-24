@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-22T10:24:09.809Z",
+  "generatedAt": "2026-10-24T00:14:28.872Z",
   "totalSpecies": 592,
-  "totalSamples": 2105,
+  "totalSamples": 2106,
   "species": [
     {
       "genus": "Flammulina",
@@ -23345,7 +23345,7 @@
       "fullName": "Baeospora myosura",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales",
       "authority": "(Fr.) Singer 1938",
-      "totalSamples": 4,
+      "totalSamples": 5,
       "monthlyCount": [
         0,
         0,
@@ -23356,7 +23356,7 @@
         0,
         0,
         0,
-        3,
+        4,
         0,
         1
       ],

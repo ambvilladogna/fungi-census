@@ -22,6 +22,14 @@
       "determiner": "Pierino Bigoni"
     },
     {
+      "collectionDate": "2026-10-10",
+      "collector": "Angelo Ballabeni",
+      "locality": "Costa Pù, Onore",
+      "localityCoordinates": "45.894179, 10.017453",
+      "habitat": "Su strobili di abete rosso",
+      "determiner": "Angelo Ballabeni"
+    },
+    {
       "collectionDate": "2025-12-08",
       "collector": "Pierino Bigoni",
       "locality": "Parco avventura in Pineta, Clusone",
@@ -71,7 +79,7 @@
         "set": 0
       },
       {
-        "ott": 3
+        "ott": 4
       },
       {
         "nov": 0
@@ -82,8 +90,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 4,
-    "campioniRaccolti": 4,
+    "totaleCampioni": 5,
+    "campioniRaccolti": 5,
     "campioniExsiccata": 0
   }
 }
