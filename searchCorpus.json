@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T01:14:54.835Z",
+  "generatedAt": "2026-10-27T16:57:30.740Z",
   "corpus": [
     {
       "type": "genus",
@@ -444,6 +444,7 @@
         "Clavulina cinerea",
         "Clavulina coralloides",
         "Clavulina cristata",
+        "Clavulina reae",
         "Clavulina rugosa"
       ]
     },
@@ -3389,6 +3390,13 @@
       "matchSpecies": [
         "Clavulina coralloides",
         "Clavulina cristata"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Clavulina reae",
+      "matchSpecies": [
+        "Clavulina reae"
       ]
     },
     {
@@ -8347,6 +8355,7 @@
         "Clavulina cinerea",
         "Clavulina coralloides",
         "Clavulina cristata",
+        "Clavulina reae",
         "Clavulina rugosa",
         "Craterellus cinereus",
         "Craterellus cornucopioides",
@@ -9625,6 +9634,7 @@
         "Clavulina cinerea",
         "Clavulina coralloides",
         "Clavulina cristata",
+        "Clavulina reae",
         "Clavulina rugosa",
         "Craterellus cinereus",
         "Craterellus cornucopioides",
@@ -10114,6 +10124,7 @@
         "Clavulina cinerea",
         "Clavulina coralloides",
         "Clavulina cristata",
+        "Clavulina reae",
         "Clavulina rugosa",
         "Clavulinopsis corniculata",
         "Climacocystis borealis",
@@ -10961,6 +10972,7 @@
         "Clavulina cinerea",
         "Clavulina coralloides",
         "Clavulina cristata",
+        "Clavulina reae",
         "Clavulina rugosa",
         "Clavulinopsis corniculata",
         "Climacocystis borealis",
@@ -11656,6 +11668,7 @@
         "Clavulina cinerea",
         "Clavulina coralloides",
         "Clavulina cristata",
+        "Clavulina reae",
         "Clavulina rugosa",
         "Clavulinopsis corniculata",
         "Climacocystis borealis",

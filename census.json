@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-27T01:14:54.566Z",
-  "totalSpecies": 599,
-  "totalSamples": 1939,
+  "generatedAt": "2026-10-27T16:57:30.447Z",
+  "totalSpecies": 600,
+  "totalSamples": 1940,
   "species": [
     {
       "genus": "Abortiporus",
@@ -730,6 +730,13 @@
       "authority": "(Holmsk.) J. Schröt. 1888",
       "currentName": "Clavulina coralloides",
       "currentAuthority": "(L.) J. Schröt. 1888"
+    },
+    {
+      "genus": "Clavulina",
+      "species": "reae",
+      "fullName": "Clavulina reae",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Cantharellales > famiglia: Hydnaceae",
+      "authority": "Olariaga 2013"
     },
     {
       "genus": "Clavulina",

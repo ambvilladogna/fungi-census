@@ -4,7 +4,16 @@
   "filogenesi": "regno: Fungi > phylum: Ascomycota > classe: Pezizomycetes > ordine: Pezizales > famiglia: Helvellaceae",
   "nomeCorrente": null,
   "autoreCorrente": null,
-  "campioniRaccolti": [],
+  "campioniRaccolti": [
+    {
+      "collectionDate": "2026-10-27",
+      "collector": "Pierino Bigoni",
+      "locality": "Oratorio dei Morti Vecchi, Fiorine, Clusone",
+      "localityCoordinates": "45.883982, 9.922592",
+      "habitat": "Pino silvestre a latifoglie",
+      "determiner": "Pierino Bigoni"
+    }
+  ],
   "campioniExsiccata": [
     {
       "collectionDate": "2024-11-01",
@@ -17,7 +26,7 @@
     }
   ],
   "fenologia": {
-    "raccoltaPiuPrecoce": "11-01",
+    "raccoltaPiuPrecoce": "10-27",
     "raccoltaPiuTarda": "11-01",
     "campioniPerMese": [
       {
@@ -48,7 +57,7 @@
         "set": 0
       },
       {
-        "ott": 0
+        "ott": 1
       },
       {
         "nov": 1
@@ -59,8 +68,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 1,
-    "campioniRaccolti": 0,
+    "totaleCampioni": 2,
+    "campioniRaccolti": 1,
     "campioniExsiccata": 1
   }
 }
