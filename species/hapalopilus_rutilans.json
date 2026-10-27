@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-10-26",
+      "collector": "Angelo Ballabeni",
+      "locality": "Campos, Rovetta",
+      "localityCoordinates": "45.903515, 9.983604",
+      "habitat": "Su tronco di betulla",
+      "determiner": "Angelo Ballabeni"
+    },
+    {
       "collectionDate": "2026-10-05",
       "collector": "Pietro Centenari",
       "locality": "Cappella Alpini San Lorenzo, Vogno, Rovetta",
@@ -17,7 +25,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "10-05",
-    "raccoltaPiuTarda": "10-05",
+    "raccoltaPiuTarda": "10-26",
     "campioniPerMese": [
       {
         "gen": 0
@@ -47,7 +55,7 @@
         "set": 0
       },
       {
-        "ott": 1
+        "ott": 2
       },
       {
         "nov": 0
@@ -58,8 +66,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 1,
-    "campioniRaccolti": 1,
+    "totaleCampioni": 2,
+    "campioniRaccolti": 2,
     "campioniExsiccata": 0
   }
 }

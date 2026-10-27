@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-10-26",
+      "collector": "Pietro Centenari",
+      "locality": "Zenier, Rovetta",
+      "localityCoordinates": "45.898619, 9.984853",
+      "habitat": "Bosco misto conifere e latifoglie",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2025-10-20",
       "collector": "Angelo Fraschina",
       "locality": "Spiazzi, Gromo",
@@ -25,7 +33,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "10-09",
-    "raccoltaPiuTarda": "10-20",
+    "raccoltaPiuTarda": "10-26",
     "campioniPerMese": [
       {
         "gen": 0
@@ -55,7 +63,7 @@
         "set": 0
       },
       {
-        "ott": 2
+        "ott": 3
       },
       {
         "nov": 0
@@ -66,8 +74,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 2,
-    "campioniRaccolti": 2,
+    "totaleCampioni": 3,
+    "campioniRaccolti": 3,
     "campioniExsiccata": 0
   }
 }

@@ -6,6 +6,14 @@
   "autoreCorrente": "(Schaeff.) P. Kumm. 1871",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-10-26",
+      "collector": "Pietro Centenari",
+      "locality": "Sentiero 'del Bot', Rovetta",
+      "localityCoordinates": "45.903819, 9.981142",
+      "habitat": "Bosco misto conifere e latifoglie",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2025-11-03",
       "collector": "Angelo Ballabeni",
       "locality": "Percorso vita, Rovetta",
@@ -55,7 +63,7 @@
         "set": 0
       },
       {
-        "ott": 1
+        "ott": 2
       },
       {
         "nov": 1
@@ -66,8 +74,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 2,
-    "campioniRaccolti": 2,
+    "totaleCampioni": 3,
+    "campioniRaccolti": 3,
     "campioniExsiccata": 0
   }
 }

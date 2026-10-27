@@ -1,0 +1,65 @@
+{
+  "nomeCompleto": "Hygrophoropsis aurantiaca",
+  "autore": "(Wulfen) Maire ex Martin-Sans 1929",
+  "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Hygrophoropsidaceae",
+  "nomeCorrente": null,
+  "autoreCorrente": null,
+  "campioniRaccolti": [
+    {
+      "collectionDate": "2026-10-26",
+      "collector": "Angelo Ballabeni",
+      "locality": "Campos, Rovetta",
+      "localityCoordinates": "45.903515, 9.983604",
+      "habitat": "Bosco misto conifere e latifoglie",
+      "determiner": "Angelo Ballabeni"
+    }
+  ],
+  "campioniExsiccata": [],
+  "fenologia": {
+    "raccoltaPiuPrecoce": "10-26",
+    "raccoltaPiuTarda": "10-26",
+    "campioniPerMese": [
+      {
+        "gen": 0
+      },
+      {
+        "feb": 0
+      },
+      {
+        "mar": 0
+      },
+      {
+        "apr": 0
+      },
+      {
+        "mag": 0
+      },
+      {
+        "giu": 0
+      },
+      {
+        "lug": 0
+      },
+      {
+        "ago": 0
+      },
+      {
+        "set": 0
+      },
+      {
+        "ott": 1
+      },
+      {
+        "nov": 0
+      },
+      {
+        "dic": 0
+      }
+    ]
+  },
+  "statistiche": {
+    "totaleCampioni": 1,
+    "campioniRaccolti": 1,
+    "campioniExsiccata": 0
+  }
+}

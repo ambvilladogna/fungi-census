@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-10-26",
+      "collector": "Angelo Ballabeni",
+      "locality": "Campos, Rovetta",
+      "localityCoordinates": "45.903515, 9.983604",
+      "habitat": "Su tronco di betulla",
+      "determiner": "Angelo Ballabeni"
+    },
+    {
       "collectionDate": "2026-10-19",
       "collector": "Fabio Locatelli",
       "locality": "Pineta della Selva, Clusone",
@@ -231,7 +239,7 @@
         "set": 9
       },
       {
-        "ott": 4
+        "ott": 5
       },
       {
         "nov": 0
@@ -242,8 +250,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 24,
-    "campioniRaccolti": 24,
+    "totaleCampioni": 25,
+    "campioniRaccolti": 25,
     "campioniExsiccata": 0
   }
 }

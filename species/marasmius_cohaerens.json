@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-10-26",
+      "collector": "Angelo Ballabeni",
+      "locality": "Campos, Rovetta",
+      "localityCoordinates": "45.903515, 9.983604",
+      "habitat": "Su tronco di betulla",
+      "determiner": "Angelo Ballabeni"
+    },
+    {
       "collectionDate": "2026-10-12",
       "collector": "Pierino Bigoni",
       "locality": "Pineta della Selva, Clusone",
@@ -49,7 +57,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "08-27",
-    "raccoltaPiuTarda": "10-12",
+    "raccoltaPiuTarda": "10-26",
     "campioniPerMese": [
       {
         "gen": 0
@@ -79,7 +87,7 @@
         "set": 1
       },
       {
-        "ott": 1
+        "ott": 2
       },
       {
         "nov": 0
@@ -90,8 +98,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 5,
-    "campioniRaccolti": 5,
+    "totaleCampioni": 6,
+    "campioniRaccolti": 6,
     "campioniExsiccata": 0
   }
 }

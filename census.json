@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-25T00:14:32.275Z",
-  "totalSpecies": 592,
-  "totalSamples": 1912,
+  "generatedAt": "2026-10-27T01:14:54.566Z",
+  "totalSpecies": 599,
+  "totalSamples": 1939,
   "species": [
     {
       "genus": "Abortiporus",
@@ -1786,6 +1786,15 @@
     },
     {
       "genus": "Hapalopilus",
+      "species": "nidulans",
+      "fullName": "Hapalopilus nidulans",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Polyporales > famiglia: Phanerochaetaceae",
+      "authority": "(Fr.) P. Karst. 1881",
+      "currentName": "Hapalopilus rutilans",
+      "currentAuthority": "(Pers.) Murrill 1904"
+    },
+    {
+      "genus": "Hapalopilus",
       "species": "rutilans",
       "fullName": "Hapalopilus rutilans",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Polyporales > famiglia: Phanerochaetaceae",
@@ -1804,6 +1813,15 @@
       "fullName": "Hebeloma radicosum",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Strophariaceae",
       "authority": "(Bull.) Ricken 1911"
+    },
+    {
+      "genus": "Hebeloma",
+      "species": "senescens",
+      "fullName": "Hebeloma senescens",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Strophariaceae",
+      "authority": "Berk. & Broome 1882",
+      "currentName": "Hebeloma laterinum",
+      "currentAuthority": "(Batsch) Vesterh. 2005"
     },
     {
       "genus": "Hebeloma",
@@ -1952,6 +1970,13 @@
       "authority": "(Fr.) P. Kumm. 1871"
     },
     {
+      "genus": "Hygrophoropsis",
+      "species": "aurantiaca",
+      "fullName": "Hygrophoropsis aurantiaca",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Hygrophoropsidaceae",
+      "authority": "(Wulfen) Maire ex Martin-Sans 1929"
+    },
+    {
       "genus": "Hygrophorus",
       "species": "agathosmus",
       "fullName": "Hygrophorus agathosmus",
@@ -2027,6 +2052,13 @@
       "fullName": "Hygrophorus pudorinus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Hygrophoraceae",
       "authority": "(Fr.) Fr. 1836"
+    },
+    {
+      "genus": "Hygrophorus",
+      "species": "pustulatus",
+      "fullName": "Hygrophorus pustulatus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Hygrophoraceae",
+      "authority": "(Pers.) Fr. 1838"
     },
     {
       "genus": "Hymenochaete",
@@ -2388,6 +2420,13 @@
       "authority": "(Fr.) Fr. 1838",
       "currentName": "Lactifluus volemus",
       "currentAuthority": "(Fr.) Kuntze 1891"
+    },
+    {
+      "genus": "Lactarius",
+      "species": "zonarioides",
+      "fullName": "Lactarius zonarioides",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
+      "authority": "Kühner & Romagn. 1953"
     },
     {
       "genus": "Lactifluus",
@@ -3981,6 +4020,13 @@
       "authority": "(P.D. Orton) Singer 1962"
     },
     {
+      "genus": "Sparassis",
+      "species": "crispa",
+      "fullName": "Sparassis crispa",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Polyporales > famiglia: Sparassidaceae",
+      "authority": "(Wulfen) Fr. 1821"
+    },
+    {
       "genus": "Spathularia",
       "species": "flavida",
       "fullName": "Spathularia flavida",
@@ -4200,6 +4246,13 @@
       "fullName": "Tricholoma bufonium",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Tricholomataceae",
       "authority": "(Pers.) Gillet 1874"
+    },
+    {
+      "genus": "Tricholoma",
+      "species": "fracticum",
+      "fullName": "Tricholoma fracticum",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Tricholomataceae",
+      "authority": "(Britzelm.) Kreisel 1984"
     },
     {
       "genus": "Tricholoma",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T10:24:10.017Z",
+  "generatedAt": "2026-10-27T01:14:54.835Z",
   "corpus": [
     {
       "type": "genus",
@@ -1013,6 +1013,7 @@
       "type": "genus",
       "value": "Hapalopilus",
       "matchSpecies": [
+        "Hapalopilus nidulans",
         "Hapalopilus rutilans"
       ]
     },
@@ -1021,7 +1022,9 @@
       "value": "Hebeloma",
       "matchSpecies": [
         "Hebeloma crustuliniforme",
+        "Hebeloma laterinum",
         "Hebeloma radicosum",
+        "Hebeloma senescens",
         "Hebeloma sinapizans"
       ]
     },
@@ -1112,6 +1115,13 @@
     },
     {
       "type": "genus",
+      "value": "Hygrophoropsis",
+      "matchSpecies": [
+        "Hygrophoropsis aurantiaca"
+      ]
+    },
+    {
+      "type": "genus",
       "value": "Hygrophorus",
       "matchSpecies": [
         "Hygrophorus agathosmus",
@@ -1124,7 +1134,8 @@
         "Hygrophorus lucorum",
         "Hygrophorus marzuolus",
         "Hygrophorus poetarum",
-        "Hygrophorus pudorinus"
+        "Hygrophorus pudorinus",
+        "Hygrophorus pustulatus"
       ]
     },
     {
@@ -1286,6 +1297,7 @@
         "Lactarius turpis",
         "Lactarius violascens",
         "Lactarius volemus",
+        "Lactarius zonarioides",
         "Lactifluus glaucescens",
         "Lactifluus piperatus",
         "Lactifluus volemus"
@@ -2154,6 +2166,13 @@
     },
     {
       "type": "genus",
+      "value": "Sparassis",
+      "matchSpecies": [
+        "Sparassis crispa"
+      ]
+    },
+    {
+      "type": "genus",
       "value": "Spathularia",
       "matchSpecies": [
         "Spathularia flavida"
@@ -2307,6 +2326,7 @@
         "Tricholoma album",
         "Tricholoma aurantium",
         "Tricholoma bufonium",
+        "Tricholoma fracticum",
         "Tricholoma inamoenum",
         "Tricholoma matsutake",
         "Tricholoma myomyces",
@@ -4622,8 +4642,17 @@
     },
     {
       "type": "species",
+      "value": "Hapalopilus nidulans",
+      "matchSpecies": [
+        "Hapalopilus nidulans",
+        "Hapalopilus rutilans"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Hapalopilus rutilans",
       "matchSpecies": [
+        "Hapalopilus nidulans",
         "Hapalopilus rutilans"
       ]
     },
@@ -4636,9 +4665,25 @@
     },
     {
       "type": "species",
+      "value": "Hebeloma laterinum",
+      "matchSpecies": [
+        "Hebeloma laterinum",
+        "Hebeloma senescens"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Hebeloma radicosum",
       "matchSpecies": [
         "Hebeloma radicosum"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Hebeloma senescens",
+      "matchSpecies": [
+        "Hebeloma laterinum",
+        "Hebeloma senescens"
       ]
     },
     {
@@ -4795,6 +4840,13 @@
     },
     {
       "type": "species",
+      "value": "Hygrophoropsis aurantiaca",
+      "matchSpecies": [
+        "Hygrophoropsis aurantiaca"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Hygrophorus agathosmus",
       "matchSpecies": [
         "Hygrophorus agathosmus"
@@ -4868,6 +4920,13 @@
       "value": "Hygrophorus pudorinus",
       "matchSpecies": [
         "Hygrophorus pudorinus"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Hygrophorus pustulatus",
+      "matchSpecies": [
+        "Hygrophorus pustulatus"
       ]
     },
     {
@@ -5265,6 +5324,13 @@
       "matchSpecies": [
         "Lactarius volemus",
         "Lactifluus volemus"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Lactarius zonarioides",
+      "matchSpecies": [
+        "Lactarius zonarioides"
       ]
     },
     {
@@ -7157,6 +7223,13 @@
     },
     {
       "type": "species",
+      "value": "Sparassis crispa",
+      "matchSpecies": [
+        "Sparassis crispa"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Spathularia flavida",
       "matchSpecies": [
         "Spathularia flavida"
@@ -7406,6 +7479,13 @@
       "value": "Tricholoma bufonium",
       "matchSpecies": [
         "Tricholoma bufonium"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Tricholoma fracticum",
+      "matchSpecies": [
+        "Tricholoma fracticum"
       ]
     },
     {
@@ -8315,7 +8395,15 @@
         "Hygrophorus marzuolus",
         "Hygrophorus poetarum",
         "Hygrophorus pudorinus",
+        "Hygrophorus pustulatus",
         "Porpolomopsis calyptriformis"
+      ]
+    },
+    {
+      "type": "famiglia",
+      "value": "Hygrophoropsidaceae",
+      "matchSpecies": [
+        "Hygrophoropsis aurantiaca"
       ]
     },
     {
@@ -8572,6 +8660,7 @@
       "value": "Phanerochaetaceae",
       "matchSpecies": [
         "Bjerkandera adusta",
+        "Hapalopilus nidulans",
         "Hapalopilus rutilans"
       ]
     },
@@ -8755,6 +8844,7 @@
         "Lactarius turpis",
         "Lactarius violascens",
         "Lactarius volemus",
+        "Lactarius zonarioides",
         "Lactifluus glaucescens",
         "Lactifluus piperatus",
         "Lactifluus volemus",
@@ -8854,6 +8944,13 @@
     },
     {
       "type": "famiglia",
+      "value": "Sparassidaceae",
+      "matchSpecies": [
+        "Sparassis crispa"
+      ]
+    },
+    {
+      "type": "famiglia",
       "value": "Squamanitaceae",
       "matchSpecies": [
         "Cystoderma amianthinum"
@@ -8871,7 +8968,9 @@
       "value": "Strophariaceae",
       "matchSpecies": [
         "Hebeloma crustuliniforme",
+        "Hebeloma laterinum",
         "Hebeloma radicosum",
+        "Hebeloma senescens",
         "Hebeloma sinapizans",
         "Hypholoma capnoides",
         "Hypholoma fasciculare",
@@ -8954,6 +9053,7 @@
         "Tricholoma album",
         "Tricholoma aurantium",
         "Tricholoma bufonium",
+        "Tricholoma fracticum",
         "Tricholoma inamoenum",
         "Tricholoma matsutake",
         "Tricholoma myomyces",
@@ -9210,7 +9310,9 @@
         "Gymnopus hariolorum",
         "Gymnopus ocior",
         "Hebeloma crustuliniforme",
+        "Hebeloma laterinum",
         "Hebeloma radicosum",
+        "Hebeloma senescens",
         "Hebeloma sinapizans",
         "Hygrocybe calyptriformis",
         "Hygrocybe citrina",
@@ -9229,6 +9331,7 @@
         "Hygrophorus marzuolus",
         "Hygrophorus poetarum",
         "Hygrophorus pudorinus",
+        "Hygrophorus pustulatus",
         "Hymenopellis radicata",
         "Hypholoma capnoides",
         "Hypholoma fasciculare",
@@ -9389,6 +9492,7 @@
         "Tricholoma album",
         "Tricholoma aurantium",
         "Tricholoma bufonium",
+        "Tricholoma fracticum",
         "Tricholoma inamoenum",
         "Tricholoma matsutake",
         "Tricholoma myomyces",
@@ -9463,6 +9567,7 @@
         "Gomphidius maculatus",
         "Gyroporus castaneus",
         "Hemileccinum depilatum",
+        "Hygrophoropsis aurantiaca",
         "Imleria badia",
         "Imperator torosus",
         "Leccinellum pseudoscabrum",
@@ -9708,6 +9813,7 @@
         "Ganoderma lucidum",
         "Ganoderma resinaceum",
         "Grifola frondosa",
+        "Hapalopilus nidulans",
         "Hapalopilus rutilans",
         "Irpex lacteus",
         "Ischnoderma benzoinum",
@@ -9726,6 +9832,7 @@
         "Polyporus tuberaster",
         "Postia caesia",
         "Pycnoporus cinnabarinus",
+        "Sparassis crispa",
         "Trametes cinnabarina",
         "Trametes versicolor",
         "Vanderbylia fraxinea"
@@ -9780,6 +9887,7 @@
         "Lactarius turpis",
         "Lactarius violascens",
         "Lactarius volemus",
+        "Lactarius zonarioides",
         "Lactifluus glaucescens",
         "Lactifluus piperatus",
         "Lactifluus volemus",
@@ -10161,9 +10269,12 @@
         "Gymnopus hariolorum",
         "Gymnopus ocior",
         "Gyroporus castaneus",
+        "Hapalopilus nidulans",
         "Hapalopilus rutilans",
         "Hebeloma crustuliniforme",
+        "Hebeloma laterinum",
         "Hebeloma radicosum",
+        "Hebeloma senescens",
         "Hebeloma sinapizans",
         "Hemileccinum depilatum",
         "Hericium erinaceus",
@@ -10179,6 +10290,7 @@
         "Hygrocybe conica",
         "Hygrocybe punicea",
         "Hygronarius renidens",
+        "Hygrophoropsis aurantiaca",
         "Hygrophorus agathosmus",
         "Hygrophorus atramentosus",
         "Hygrophorus capreolarius",
@@ -10190,6 +10302,7 @@
         "Hygrophorus marzuolus",
         "Hygrophorus poetarum",
         "Hygrophorus pudorinus",
+        "Hygrophorus pustulatus",
         "Hymenochaete cruenta",
         "Hymenopellis radicata",
         "Hypholoma capnoides",
@@ -10241,6 +10354,7 @@
         "Lactarius turpis",
         "Lactarius violascens",
         "Lactarius volemus",
+        "Lactarius zonarioides",
         "Lactifluus glaucescens",
         "Lactifluus piperatus",
         "Lactifluus volemus",
@@ -10486,6 +10600,7 @@
         "Scleroderma verrucosum",
         "Simocybe sumptuosa",
         "Singerocybe phaeophthalma",
+        "Sparassis crispa",
         "Stereum hirsutum",
         "Strobilomyces strobilaceus",
         "Strobilurus esculentus",
@@ -10514,6 +10629,7 @@
         "Tricholoma album",
         "Tricholoma aurantium",
         "Tricholoma bufonium",
+        "Tricholoma fracticum",
         "Tricholoma inamoenum",
         "Tricholoma matsutake",
         "Tricholoma myomyces",
@@ -11002,9 +11118,12 @@
         "Gymnopus hariolorum",
         "Gymnopus ocior",
         "Gyroporus castaneus",
+        "Hapalopilus nidulans",
         "Hapalopilus rutilans",
         "Hebeloma crustuliniforme",
+        "Hebeloma laterinum",
         "Hebeloma radicosum",
+        "Hebeloma senescens",
         "Hebeloma sinapizans",
         "Hemileccinum depilatum",
         "Hericium erinaceus",
@@ -11020,6 +11139,7 @@
         "Hygrocybe conica",
         "Hygrocybe punicea",
         "Hygronarius renidens",
+        "Hygrophoropsis aurantiaca",
         "Hygrophorus agathosmus",
         "Hygrophorus atramentosus",
         "Hygrophorus capreolarius",
@@ -11031,6 +11151,7 @@
         "Hygrophorus marzuolus",
         "Hygrophorus poetarum",
         "Hygrophorus pudorinus",
+        "Hygrophorus pustulatus",
         "Hymenochaete cruenta",
         "Hymenopellis radicata",
         "Hypholoma capnoides",
@@ -11082,6 +11203,7 @@
         "Lactarius turpis",
         "Lactarius violascens",
         "Lactarius volemus",
+        "Lactarius zonarioides",
         "Lactifluus glaucescens",
         "Lactifluus piperatus",
         "Lactifluus volemus",
@@ -11327,6 +11449,7 @@
         "Scleroderma verrucosum",
         "Simocybe sumptuosa",
         "Singerocybe phaeophthalma",
+        "Sparassis crispa",
         "Stereum hirsutum",
         "Strobilomyces strobilaceus",
         "Strobilurus esculentus",
@@ -11356,6 +11479,7 @@
         "Tricholoma album",
         "Tricholoma aurantium",
         "Tricholoma bufonium",
+        "Tricholoma fracticum",
         "Tricholoma inamoenum",
         "Tricholoma matsutake",
         "Tricholoma myomyces",
@@ -11696,9 +11820,12 @@
         "Gymnopus hariolorum",
         "Gymnopus ocior",
         "Gyroporus castaneus",
+        "Hapalopilus nidulans",
         "Hapalopilus rutilans",
         "Hebeloma crustuliniforme",
+        "Hebeloma laterinum",
         "Hebeloma radicosum",
+        "Hebeloma senescens",
         "Hebeloma sinapizans",
         "Helvella crispa",
         "Helvella elastica",
@@ -11718,6 +11845,7 @@
         "Hygrocybe conica",
         "Hygrocybe punicea",
         "Hygronarius renidens",
+        "Hygrophoropsis aurantiaca",
         "Hygrophorus agathosmus",
         "Hygrophorus atramentosus",
         "Hygrophorus capreolarius",
@@ -11729,6 +11857,7 @@
         "Hygrophorus marzuolus",
         "Hygrophorus poetarum",
         "Hygrophorus pudorinus",
+        "Hygrophorus pustulatus",
         "Hymenochaete cruenta",
         "Hymenopellis radicata",
         "Hymenoscyphus scutula",
@@ -11783,6 +11912,7 @@
         "Lactarius turpis",
         "Lactarius violascens",
         "Lactarius volemus",
+        "Lactarius zonarioides",
         "Lactifluus glaucescens",
         "Lactifluus piperatus",
         "Lactifluus volemus",
@@ -12036,6 +12166,7 @@
         "Sepultaria sumneriana",
         "Simocybe sumptuosa",
         "Singerocybe phaeophthalma",
+        "Sparassis crispa",
         "Spathularia flavida",
         "Spinellus fusiger",
         "Stereum hirsutum",
@@ -12070,6 +12201,7 @@
         "Tricholoma album",
         "Tricholoma aurantium",
         "Tricholoma bufonium",
+        "Tricholoma fracticum",
         "Tricholoma inamoenum",
         "Tricholoma matsutake",
         "Tricholoma myomyces",

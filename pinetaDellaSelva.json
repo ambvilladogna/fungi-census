@@ -1,8 +1,8 @@
 {
   "title": "Pineta della Selva",
-  "generatedAt": "2026-10-22T10:24:09.993Z",
-  "totalSpecies": 180,
-  "totalSamples": 296,
+  "generatedAt": "2026-10-27T01:14:54.813Z",
+  "totalSpecies": 181,
+  "totalSamples": 298,
   "species": [
     {
       "genus": "Agaricus",
@@ -476,6 +476,13 @@
       "fullName": "Entoloma incanum",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Entolomataceae",
       "authority": "(Fr.) Hesler 1967"
+    },
+    {
+      "genus": "Entoloma",
+      "species": "nitidum",
+      "fullName": "Entoloma nitidum",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Entolomataceae",
+      "authority": "Quél. 1883"
     },
     {
       "genus": "Flammulina",
