@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-10-27",
+      "collector": "Pierino Bigoni",
+      "locality": "San Rocco, Piario",
+      "localityCoordinates": "45.891091, 9.924699",
+      "habitat": "Prato",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2025-11-10",
       "collector": "Angelo Fraschina",
       "locality": "Spiazzi, Gromo",
@@ -71,7 +79,7 @@
         "set": 2
       },
       {
-        "ott": 0
+        "ott": 1
       },
       {
         "nov": 2
@@ -82,8 +90,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 4,
-    "campioniRaccolti": 4,
+    "totaleCampioni": 5,
+    "campioniRaccolti": 5,
     "campioniExsiccata": 0
   }
 }
