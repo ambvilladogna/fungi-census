@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T16:57:30.740Z",
+  "generatedAt": "2026-11-02T01:14:43.627Z",
   "corpus": [
     {
       "type": "genus",
@@ -2327,6 +2327,7 @@
         "Tricholoma album",
         "Tricholoma aurantium",
         "Tricholoma bufonium",
+        "Tricholoma colossus",
         "Tricholoma fracticum",
         "Tricholoma inamoenum",
         "Tricholoma matsutake",
@@ -7491,6 +7492,13 @@
     },
     {
       "type": "species",
+      "value": "Tricholoma colossus",
+      "matchSpecies": [
+        "Tricholoma colossus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Tricholoma fracticum",
       "matchSpecies": [
         "Tricholoma fracticum"
@@ -9062,6 +9070,7 @@
         "Tricholoma album",
         "Tricholoma aurantium",
         "Tricholoma bufonium",
+        "Tricholoma colossus",
         "Tricholoma fracticum",
         "Tricholoma inamoenum",
         "Tricholoma matsutake",
@@ -9501,6 +9510,7 @@
         "Tricholoma album",
         "Tricholoma aurantium",
         "Tricholoma bufonium",
+        "Tricholoma colossus",
         "Tricholoma fracticum",
         "Tricholoma inamoenum",
         "Tricholoma matsutake",
@@ -10640,6 +10650,7 @@
         "Tricholoma album",
         "Tricholoma aurantium",
         "Tricholoma bufonium",
+        "Tricholoma colossus",
         "Tricholoma fracticum",
         "Tricholoma inamoenum",
         "Tricholoma matsutake",
@@ -11491,6 +11502,7 @@
         "Tricholoma album",
         "Tricholoma aurantium",
         "Tricholoma bufonium",
+        "Tricholoma colossus",
         "Tricholoma fracticum",
         "Tricholoma inamoenum",
         "Tricholoma matsutake",
@@ -12214,6 +12226,7 @@
         "Tricholoma album",
         "Tricholoma aurantium",
         "Tricholoma bufonium",
+        "Tricholoma colossus",
         "Tricholoma fracticum",
         "Tricholoma inamoenum",
         "Tricholoma matsutake",

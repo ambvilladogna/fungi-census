@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-28T01:14:20.517Z",
-  "totalSpecies": 600,
-  "totalSamples": 2148,
+  "generatedAt": "2026-11-02T01:14:43.470Z",
+  "totalSpecies": 601,
+  "totalSamples": 2149,
   "species": [
     {
       "genus": "Flammulina",
@@ -25913,6 +25913,50 @@
         "localityCoordinates": "45.880916, 9.919919",
         "habitat": "Bosco misto pino abete e latifoglie",
         "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Tricholoma",
+      "species": "colossus",
+      "fullName": "Tricholoma colossus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Tricholomataceae",
+      "authority": "(Fr.) Quél. 1872",
+      "totalSamples": 1,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "earliestDate": "11-01",
+      "earliestDayOfYear": 306,
+      "earliestSample": {
+        "collectionDate": "2026-11-01",
+        "collector": "Fabio Locatelli",
+        "locality": "Sentiero La Linea, Ronco, Schilpario, Comunità Montana di Scalve, Bergamo",
+        "localityCoordinates": "46.015386, 10.149032",
+        "habitat": "Pineta acida e sabbiosa di pino silvestre",
+        "determiner": "Fabio Locatelli",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "11-01",
+      "latestDayOfYear": 306,
+      "latestSample": {
+        "collectionDate": "2026-11-01",
+        "collector": "Fabio Locatelli",
+        "locality": "Sentiero La Linea, Ronco, Schilpario, Comunità Montana di Scalve, Bergamo",
+        "localityCoordinates": "46.015386, 10.149032",
+        "habitat": "Pineta acida e sabbiosa di pino silvestre",
+        "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
     },

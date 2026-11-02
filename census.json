@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-28T01:14:20.421Z",
-  "totalSpecies": 600,
-  "totalSamples": 1946,
+  "generatedAt": "2026-11-02T01:14:43.401Z",
+  "totalSpecies": 601,
+  "totalSamples": 1947,
   "species": [
     {
       "genus": "Abortiporus",
@@ -4253,6 +4253,13 @@
       "fullName": "Tricholoma bufonium",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Tricholomataceae",
       "authority": "(Pers.) Gillet 1874"
+    },
+    {
+      "genus": "Tricholoma",
+      "species": "colossus",
+      "fullName": "Tricholoma colossus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Tricholomataceae",
+      "authority": "(Fr.) Quél. 1872"
     },
     {
       "genus": "Tricholoma",
