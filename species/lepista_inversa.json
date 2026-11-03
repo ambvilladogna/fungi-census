@@ -6,6 +6,14 @@
   "autoreCorrente": "(Sowerby) Vizzini 2012",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-11-02",
+      "collector": "Luigi Rossi",
+      "locality": "Fogarolo, Rovetta",
+      "localityCoordinates": "45.845982, 9.960523",
+      "habitat": "Bosco misto",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2025-11-03",
       "collector": "Angelo Ballabeni",
       "locality": "Percorso vita, Rovetta",
@@ -58,7 +66,7 @@
         "ott": 0
       },
       {
-        "nov": 1
+        "nov": 2
       },
       {
         "dic": 0
@@ -66,8 +74,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 2,
-    "campioniRaccolti": 2,
+    "totaleCampioni": 3,
+    "campioniRaccolti": 3,
     "campioniExsiccata": 0
   }
 }

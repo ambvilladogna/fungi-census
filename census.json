@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-02T01:14:43.401Z",
-  "totalSpecies": 601,
-  "totalSamples": 1947,
+  "generatedAt": "2026-11-03T01:14:37.803Z",
+  "totalSpecies": 604,
+  "totalSamples": 1980,
   "species": [
     {
       "genus": "Abortiporus",
@@ -2068,6 +2068,13 @@
       "authority": "(Pers.) Fr. 1838"
     },
     {
+      "genus": "Hygrophorus",
+      "species": "speciosus",
+      "fullName": "Hygrophorus speciosus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Hygrophoraceae",
+      "authority": "Peck 1878"
+    },
+    {
       "genus": "Hymenochaete",
       "species": "cruenta",
       "fullName": "Hymenochaete cruenta",
@@ -3618,6 +3625,13 @@
     },
     {
       "genus": "Russula",
+      "species": "amoenicolor",
+      "fullName": "Russula amoenicolor",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
+      "authority": "Romagn. 1962"
+    },
+    {
+      "genus": "Russula",
       "species": "aurea",
       "fullName": "Russula aurea",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
@@ -4260,6 +4274,13 @@
       "fullName": "Tricholoma colossus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Tricholomataceae",
       "authority": "(Fr.) Quél. 1872"
+    },
+    {
+      "genus": "Tricholoma",
+      "species": "columbetta",
+      "fullName": "Tricholoma columbetta",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Tricholomataceae",
+      "authority": "(Fr.) P. Kumm. 1871"
     },
     {
       "genus": "Tricholoma",

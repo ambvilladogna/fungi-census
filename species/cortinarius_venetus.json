@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-11-02",
+      "collector": "Fabio Locatelli",
+      "locality": "Schilpario",
+      "localityCoordinates": "46.009394, 10.154059",
+      "habitat": "Abete rosso",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-10-05",
       "collector": "Pietro Centenari",
       "locality": "Cappella Alpini San Lorenzo, Vogno, Rovetta",
@@ -41,7 +49,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "08-27",
-    "raccoltaPiuTarda": "10-09",
+    "raccoltaPiuTarda": "11-02",
     "campioniPerMese": [
       {
         "gen": 0
@@ -74,7 +82,7 @@
         "ott": 2
       },
       {
-        "nov": 0
+        "nov": 1
       },
       {
         "dic": 0
@@ -82,8 +90,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 4,
-    "campioniRaccolti": 4,
+    "totaleCampioni": 5,
+    "campioniRaccolti": 5,
     "campioniExsiccata": 0
   }
 }

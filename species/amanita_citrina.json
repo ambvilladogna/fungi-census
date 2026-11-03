@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-11-02",
+      "collector": "Fabio Locatelli",
+      "locality": "Schilpario",
+      "localityCoordinates": "46.009394, 10.154059",
+      "habitat": "Abete rosso",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2026-10-19",
       "collector": "Pierino Bigoni",
       "locality": "Roccolo Sparpaì, Piario",
@@ -161,7 +169,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "08-01",
-    "raccoltaPiuTarda": "10-19",
+    "raccoltaPiuTarda": "11-02",
     "campioniPerMese": [
       {
         "gen": 0
@@ -194,7 +202,7 @@
         "ott": 7
       },
       {
-        "nov": 0
+        "nov": 1
       },
       {
         "dic": 0
@@ -202,8 +210,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 19,
-    "campioniRaccolti": 19,
+    "totaleCampioni": 20,
+    "campioniRaccolti": 20,
     "campioniExsiccata": 0
   }
 }

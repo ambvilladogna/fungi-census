@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-11-02",
+      "collector": "Fabio Locatelli",
+      "locality": "Brugai, Onore, Bergamo",
+      "localityCoordinates": "45.899692, 10.014690",
+      "habitat": "Pioppo tremulo e betulle",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2026-10-10",
       "collector": "Fabio Locatelli",
       "locality": "Rasga, Clusone",
@@ -33,7 +41,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "09-06",
-    "raccoltaPiuTarda": "10-10",
+    "raccoltaPiuTarda": "11-02",
     "campioniPerMese": [
       {
         "gen": 0
@@ -66,7 +74,7 @@
         "ott": 1
       },
       {
-        "nov": 0
+        "nov": 1
       },
       {
         "dic": 0
@@ -74,8 +82,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 3,
-    "campioniRaccolti": 3,
+    "totaleCampioni": 4,
+    "campioniRaccolti": 4,
     "campioniExsiccata": 0
   }
 }

@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-11-02",
+      "collector": "Fabio Locatelli",
+      "locality": "Brugai, Onore, Bergamo",
+      "localityCoordinates": "45.899692, 10.014690",
+      "habitat": "Bosco misto",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-09-28",
       "collector": "Pierino Bigoni",
       "locality": "Valzelli, Monte Pora, Castione della Presolana",
@@ -73,7 +81,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "08-25",
-    "raccoltaPiuTarda": "10-20",
+    "raccoltaPiuTarda": "11-02",
     "campioniPerMese": [
       {
         "gen": 0
@@ -106,7 +114,7 @@
         "ott": 2
       },
       {
-        "nov": 0
+        "nov": 1
       },
       {
         "dic": 0
@@ -114,8 +122,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 8,
-    "campioniRaccolti": 8,
+    "totaleCampioni": 9,
+    "campioniRaccolti": 9,
     "campioniExsiccata": 0
   }
 }

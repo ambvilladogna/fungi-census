@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T01:14:43.627Z",
+  "generatedAt": "2026-11-03T01:14:38.015Z",
   "corpus": [
     {
       "type": "genus",
@@ -1136,7 +1136,8 @@
         "Hygrophorus marzuolus",
         "Hygrophorus poetarum",
         "Hygrophorus pudorinus",
-        "Hygrophorus pustulatus"
+        "Hygrophorus pustulatus",
+        "Hygrophorus speciosus"
       ]
     },
     {
@@ -2049,6 +2050,7 @@
         "Russula amarissima",
         "Russula amethystina",
         "Russula amoena",
+        "Russula amoenicolor",
         "Russula aurea",
         "Russula aurora",
         "Russula azurea",
@@ -2328,6 +2330,7 @@
         "Tricholoma aurantium",
         "Tricholoma bufonium",
         "Tricholoma colossus",
+        "Tricholoma columbetta",
         "Tricholoma fracticum",
         "Tricholoma inamoenum",
         "Tricholoma matsutake",
@@ -4940,6 +4943,13 @@
     },
     {
       "type": "species",
+      "value": "Hygrophorus speciosus",
+      "matchSpecies": [
+        "Hygrophorus speciosus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Hymenochaete cruenta",
       "matchSpecies": [
         "Hymenochaete cruenta"
@@ -6774,6 +6784,13 @@
     },
     {
       "type": "species",
+      "value": "Russula amoenicolor",
+      "matchSpecies": [
+        "Russula amoenicolor"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Russula aurea",
       "matchSpecies": [
         "Russula aurea"
@@ -7495,6 +7512,13 @@
       "value": "Tricholoma colossus",
       "matchSpecies": [
         "Tricholoma colossus"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Tricholoma columbetta",
+      "matchSpecies": [
+        "Tricholoma columbetta"
       ]
     },
     {
@@ -8413,6 +8437,7 @@
         "Hygrophorus poetarum",
         "Hygrophorus pudorinus",
         "Hygrophorus pustulatus",
+        "Hygrophorus speciosus",
         "Porpolomopsis calyptriformis"
       ]
     },
@@ -8872,6 +8897,7 @@
         "Russula amarissima",
         "Russula amethystina",
         "Russula amoena",
+        "Russula amoenicolor",
         "Russula aurea",
         "Russula aurora",
         "Russula azurea",
@@ -9071,6 +9097,7 @@
         "Tricholoma aurantium",
         "Tricholoma bufonium",
         "Tricholoma colossus",
+        "Tricholoma columbetta",
         "Tricholoma fracticum",
         "Tricholoma inamoenum",
         "Tricholoma matsutake",
@@ -9350,6 +9377,7 @@
         "Hygrophorus poetarum",
         "Hygrophorus pudorinus",
         "Hygrophorus pustulatus",
+        "Hygrophorus speciosus",
         "Hymenopellis radicata",
         "Hypholoma capnoides",
         "Hypholoma fasciculare",
@@ -9511,6 +9539,7 @@
         "Tricholoma aurantium",
         "Tricholoma bufonium",
         "Tricholoma colossus",
+        "Tricholoma columbetta",
         "Tricholoma fracticum",
         "Tricholoma inamoenum",
         "Tricholoma matsutake",
@@ -9920,6 +9949,7 @@
         "Russula amarissima",
         "Russula amethystina",
         "Russula amoena",
+        "Russula amoenicolor",
         "Russula aurea",
         "Russula aurora",
         "Russula azurea",
@@ -10324,6 +10354,7 @@
         "Hygrophorus poetarum",
         "Hygrophorus pudorinus",
         "Hygrophorus pustulatus",
+        "Hygrophorus speciosus",
         "Hymenochaete cruenta",
         "Hymenopellis radicata",
         "Hypholoma capnoides",
@@ -10561,6 +10592,7 @@
         "Russula amarissima",
         "Russula amethystina",
         "Russula amoena",
+        "Russula amoenicolor",
         "Russula aurea",
         "Russula aurora",
         "Russula azurea",
@@ -10651,6 +10683,7 @@
         "Tricholoma aurantium",
         "Tricholoma bufonium",
         "Tricholoma colossus",
+        "Tricholoma columbetta",
         "Tricholoma fracticum",
         "Tricholoma inamoenum",
         "Tricholoma matsutake",
@@ -11175,6 +11208,7 @@
         "Hygrophorus poetarum",
         "Hygrophorus pudorinus",
         "Hygrophorus pustulatus",
+        "Hygrophorus speciosus",
         "Hymenochaete cruenta",
         "Hymenopellis radicata",
         "Hypholoma capnoides",
@@ -11412,6 +11446,7 @@
         "Russula amarissima",
         "Russula amethystina",
         "Russula amoena",
+        "Russula amoenicolor",
         "Russula aurea",
         "Russula aurora",
         "Russula azurea",
@@ -11503,6 +11538,7 @@
         "Tricholoma aurantium",
         "Tricholoma bufonium",
         "Tricholoma colossus",
+        "Tricholoma columbetta",
         "Tricholoma fracticum",
         "Tricholoma inamoenum",
         "Tricholoma matsutake",
@@ -11883,6 +11919,7 @@
         "Hygrophorus poetarum",
         "Hygrophorus pudorinus",
         "Hygrophorus pustulatus",
+        "Hygrophorus speciosus",
         "Hymenochaete cruenta",
         "Hymenopellis radicata",
         "Hymenoscyphus scutula",
@@ -12128,6 +12165,7 @@
         "Russula amarissima",
         "Russula amethystina",
         "Russula amoena",
+        "Russula amoenicolor",
         "Russula aurea",
         "Russula aurora",
         "Russula azurea",
@@ -12227,6 +12265,7 @@
         "Tricholoma aurantium",
         "Tricholoma bufonium",
         "Tricholoma colossus",
+        "Tricholoma columbetta",
         "Tricholoma fracticum",
         "Tricholoma inamoenum",
         "Tricholoma matsutake",

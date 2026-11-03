@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-11-02",
+      "collector": "Fabio Locatelli",
+      "locality": "Brugai, Onore, Bergamo",
+      "localityCoordinates": "45.899692, 10.014690",
+      "habitat": "Abete rosso",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-10-19",
       "collector": "Pierino Bigoni",
       "locality": "Roccolo Sparpaì, Piario",
@@ -185,7 +193,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "06-16",
-    "raccoltaPiuTarda": "10-19",
+    "raccoltaPiuTarda": "11-02",
     "campioniPerMese": [
       {
         "gen": 0
@@ -218,7 +226,7 @@
         "ott": 3
       },
       {
-        "nov": 0
+        "nov": 1
       },
       {
         "dic": 0
@@ -226,8 +234,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 22,
-    "campioniRaccolti": 22,
+    "totaleCampioni": 23,
+    "campioniRaccolti": 23,
     "campioniExsiccata": 0
   }
 }
