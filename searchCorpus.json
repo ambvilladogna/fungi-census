@@ -1,11 +1,19 @@
 {
-  "generatedAt": "2026-11-03T01:14:38.015Z",
+  "generatedAt": "2026-11-04T01:14:36.011Z",
   "corpus": [
     {
       "type": "genus",
       "value": "Abortiporus",
       "matchSpecies": [
         "Abortiporus biennis"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Aethaliopsis",
+      "matchSpecies": [
+        "Aethaliopsis melanospora",
+        "Badhamia melanospora"
       ]
     },
     {
@@ -84,7 +92,6 @@
         "Amanita pantherina",
         "Amanita phalloides",
         "Amanita porphyria",
-        "Amanita romagnesiana",
         "Amanita rubescens",
         "Amanita rubescens f. annulosulphurea",
         "Amanita simulans",
@@ -165,6 +172,7 @@
       "type": "genus",
       "value": "Badhamia",
       "matchSpecies": [
+        "Aethaliopsis melanospora",
         "Badhamia melanospora"
       ]
     },
@@ -202,7 +210,8 @@
       "type": "genus",
       "value": "Boletinus",
       "matchSpecies": [
-        "Boletinus cavipes"
+        "Boletinus cavipes",
+        "Suillus cavipes"
       ]
     },
     {
@@ -227,9 +236,9 @@
         "Cyanoboletus pulverulentus",
         "Hemileccinum depilatum",
         "Neoboletus erythropus",
+        "Rubroboletus rubrosanguineus",
         "Rubroboletus satanas",
-        "Suillellus luridus",
-        "Suillellus rubrosanguineus"
+        "Suillellus luridus"
       ]
     },
     {
@@ -2035,7 +2044,9 @@
       "type": "genus",
       "value": "Rubroboletus",
       "matchSpecies": [
+        "Boletus rubrosanguineus",
         "Boletus satanas",
+        "Rubroboletus rubrosanguineus",
         "Rubroboletus satanas"
       ]
     },
@@ -2227,7 +2238,6 @@
       "value": "Suillellus",
       "matchSpecies": [
         "Boletus luridus",
-        "Boletus rubrosanguineus",
         "Suillellus luridus",
         "Suillellus rubrosanguineus"
       ]
@@ -2236,7 +2246,9 @@
       "type": "genus",
       "value": "Suillus",
       "matchSpecies": [
+        "Boletinus cavipes",
         "Suillus bovinus",
+        "Suillus cavipes",
         "Suillus granulatus",
         "Suillus grevillei",
         "Suillus luteus",
@@ -2486,6 +2498,14 @@
       "value": "Abortiporus biennis",
       "matchSpecies": [
         "Abortiporus biennis"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Aethaliopsis melanospora",
+      "matchSpecies": [
+        "Aethaliopsis melanospora",
+        "Badhamia melanospora"
       ]
     },
     {
@@ -2770,14 +2790,6 @@
     },
     {
       "type": "species",
-      "value": "Amanita romagnesiana",
-      "matchSpecies": [
-        "Amanita romagnesiana",
-        "Amanita vaginata"
-      ]
-    },
-    {
-      "type": "species",
       "value": "Amanita rubescens",
       "matchSpecies": [
         "Amanita rubescens"
@@ -2824,7 +2836,6 @@
       "type": "species",
       "value": "Amanita vaginata",
       "matchSpecies": [
-        "Amanita romagnesiana",
         "Amanita vaginata"
       ]
     },
@@ -2929,6 +2940,7 @@
       "type": "species",
       "value": "Badhamia melanospora",
       "matchSpecies": [
+        "Aethaliopsis melanospora",
         "Badhamia melanospora"
       ]
     },
@@ -2974,7 +2986,8 @@
       "type": "species",
       "value": "Boletinus cavipes",
       "matchSpecies": [
-        "Boletinus cavipes"
+        "Boletinus cavipes",
+        "Suillus cavipes"
       ]
     },
     {
@@ -3061,7 +3074,7 @@
       "value": "Boletus rubrosanguineus",
       "matchSpecies": [
         "Boletus rubrosanguineus",
-        "Suillellus rubrosanguineus"
+        "Rubroboletus rubrosanguineus"
       ]
     },
     {
@@ -6725,6 +6738,14 @@
     },
     {
       "type": "species",
+      "value": "Rubroboletus rubrosanguineus",
+      "matchSpecies": [
+        "Boletus rubrosanguineus",
+        "Rubroboletus rubrosanguineus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Rubroboletus satanas",
       "matchSpecies": [
         "Boletus satanas",
@@ -7344,7 +7365,6 @@
       "type": "species",
       "value": "Suillellus rubrosanguineus",
       "matchSpecies": [
-        "Boletus rubrosanguineus",
         "Suillellus rubrosanguineus"
       ]
     },
@@ -7353,6 +7373,14 @@
       "value": "Suillus bovinus",
       "matchSpecies": [
         "Suillus bovinus"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Suillus cavipes",
+      "matchSpecies": [
+        "Boletinus cavipes",
+        "Suillus cavipes"
       ]
     },
     {
@@ -7875,7 +7903,8 @@
         "Agaricus praeclaresquamosus",
         "Agaricus sylvaticus",
         "Agaricus sylvicola",
-        "Chamaemyces fracidus",
+        "Amanita vaginata",
+        "Amanita vaginata var. alba",
         "Chlorophyllum brunneum",
         "Chlorophyllum rhacodes",
         "Coprinus comatus",
@@ -7884,7 +7913,6 @@
         "Lepiota aspera",
         "Lepiota clypeolaria",
         "Lepiota cristata",
-        "Lepiota fracida",
         "Lepiota ignivolvata",
         "Lepiota magnispora",
         "Lepiota ventriosospora",
@@ -7947,15 +7975,12 @@
         "Amanita pantherina",
         "Amanita phalloides",
         "Amanita porphyria",
-        "Amanita romagnesiana",
         "Amanita rubescens",
         "Amanita rubescens f. annulosulphurea",
         "Amanita simulans",
         "Amanita spissa",
         "Amanita submembranacea",
         "Amanita umbrinolutea",
-        "Amanita vaginata",
-        "Amanita vaginata var. alba",
         "Amanita virosa",
         "Limacella delicata",
         "Limacella glioderma",
@@ -8046,6 +8071,7 @@
         "Neoboletus erythropus",
         "Phylloporus rhodoxanthus",
         "Porphyrellus porphyrosporus",
+        "Rubroboletus rubrosanguineus",
         "Rubroboletus satanas",
         "Strobilomyces strobilaceus",
         "Suillellus luridus",
@@ -8618,6 +8644,19 @@
     },
     {
       "type": "famiglia",
+      "value": "Omphalinaceae",
+      "matchSpecies": [
+        "Clitocybe costata",
+        "Clitocybe geotropa",
+        "Clitocybe gibba",
+        "Clitocybe maxima",
+        "Infundibulicybe costata",
+        "Infundibulicybe geotropa",
+        "Infundibulicybe gibba"
+      ]
+    },
+    {
+      "type": "famiglia",
       "value": "Omphalotaceae",
       "matchSpecies": [
         "Collybia aquosa",
@@ -8732,9 +8771,16 @@
     },
     {
       "type": "famiglia",
+      "value": "Physaraceae",
+      "matchSpecies": [
+        "Aethaliopsis melanospora",
+        "Badhamia melanospora"
+      ]
+    },
+    {
+      "type": "famiglia",
       "value": "Physaridae",
       "matchSpecies": [
-        "Badhamia melanospora",
         "Fuligo candida",
         "Fuligo septica"
       ]
@@ -9040,6 +9086,7 @@
       "matchSpecies": [
         "Boletinus cavipes",
         "Suillus bovinus",
+        "Suillus cavipes",
         "Suillus granulatus",
         "Suillus grevillei",
         "Suillus luteus",
@@ -9137,6 +9184,14 @@
     },
     {
       "type": "famiglia",
+      "value": "Verrucosporaceae",
+      "matchSpecies": [
+        "Chamaemyces fracidus",
+        "Lepiota fracida"
+      ]
+    },
+    {
+      "type": "famiglia",
       "value": "Volvariellaceae",
       "matchSpecies": [
         "Volvariella murinella"
@@ -9192,7 +9247,6 @@
         "Amanita pantherina",
         "Amanita phalloides",
         "Amanita porphyria",
-        "Amanita romagnesiana",
         "Amanita rubescens",
         "Amanita rubescens f. annulosulphurea",
         "Amanita simulans",
@@ -9631,6 +9685,7 @@
         "Phylloporus rhodoxanthus",
         "Porphyrellus porphyrosporus",
         "Rhizopogon roseolus",
+        "Rubroboletus rubrosanguineus",
         "Rubroboletus satanas",
         "Scleroderma citrinum",
         "Scleroderma polyrhizum",
@@ -9639,6 +9694,7 @@
         "Suillellus luridus",
         "Suillellus rubrosanguineus",
         "Suillus bovinus",
+        "Suillus cavipes",
         "Suillus granulatus",
         "Suillus grevillei",
         "Suillus luteus",
@@ -9834,9 +9890,16 @@
     },
     {
       "type": "ordine",
+      "value": "Physarales",
+      "matchSpecies": [
+        "Aethaliopsis melanospora",
+        "Badhamia melanospora"
+      ]
+    },
+    {
+      "type": "ordine",
       "value": "Physarida",
       "matchSpecies": [
-        "Badhamia melanospora",
         "Fuligo candida",
         "Fuligo septica"
       ]
@@ -10089,7 +10152,6 @@
         "Amanita pantherina",
         "Amanita phalloides",
         "Amanita porphyria",
-        "Amanita romagnesiana",
         "Amanita rubescens",
         "Amanita rubescens f. annulosulphurea",
         "Amanita simulans",
@@ -10584,6 +10646,7 @@
         "Rhodocybe gemina",
         "Rickenella fibula",
         "Rozites caperatus",
+        "Rubroboletus rubrosanguineus",
         "Rubroboletus satanas",
         "Russula adusta",
         "Russula albonigra",
@@ -10666,6 +10729,7 @@
         "Suillellus luridus",
         "Suillellus rubrosanguineus",
         "Suillus bovinus",
+        "Suillus cavipes",
         "Suillus granulatus",
         "Suillus grevillei",
         "Suillus luteus",
@@ -10778,7 +10842,6 @@
       "type": "classe",
       "value": "Myxogastrea",
       "matchSpecies": [
-        "Badhamia melanospora",
         "Fuligo candida",
         "Fuligo septica",
         "Hemitrichia clavata",
@@ -10786,6 +10849,14 @@
         "Lycogala epidendrum",
         "Trichia scabra",
         "Tubifera ferruginosa"
+      ]
+    },
+    {
+      "type": "classe",
+      "value": "Myxomycetes",
+      "matchSpecies": [
+        "Aethaliopsis melanospora",
+        "Badhamia melanospora"
       ]
     },
     {
@@ -10847,7 +10918,6 @@
       "type": "phylum",
       "value": "Amoebozoa",
       "matchSpecies": [
-        "Badhamia melanospora",
         "Fuligo candida",
         "Fuligo septica",
         "Hemitrichia clavata",
@@ -10939,7 +11009,6 @@
         "Amanita pantherina",
         "Amanita phalloides",
         "Amanita porphyria",
-        "Amanita romagnesiana",
         "Amanita rubescens",
         "Amanita rubescens f. annulosulphurea",
         "Amanita simulans",
@@ -11438,6 +11507,7 @@
         "Rhodocybe gemina",
         "Rickenella fibula",
         "Rozites caperatus",
+        "Rubroboletus rubrosanguineus",
         "Rubroboletus satanas",
         "Russula adusta",
         "Russula albonigra",
@@ -11520,6 +11590,7 @@
         "Suillellus luridus",
         "Suillellus rubrosanguineus",
         "Suillus bovinus",
+        "Suillus cavipes",
         "Suillus granulatus",
         "Suillus grevillei",
         "Suillus luteus",
@@ -11592,6 +11663,14 @@
       ]
     },
     {
+      "type": "phylum",
+      "value": "Myxomycota",
+      "matchSpecies": [
+        "Aethaliopsis melanospora",
+        "Badhamia melanospora"
+      ]
+    },
+    {
       "type": "regno",
       "value": "Fungi",
       "matchSpecies": [
@@ -11634,7 +11713,6 @@
         "Amanita pantherina",
         "Amanita phalloides",
         "Amanita porphyria",
-        "Amanita romagnesiana",
         "Amanita rubescens",
         "Amanita rubescens f. annulosulphurea",
         "Amanita simulans",
@@ -12157,6 +12235,7 @@
         "Rhodocybe gemina",
         "Rickenella fibula",
         "Rozites caperatus",
+        "Rubroboletus rubrosanguineus",
         "Rubroboletus satanas",
         "Russula adusta",
         "Russula albonigra",
@@ -12244,6 +12323,7 @@
         "Suillellus luridus",
         "Suillellus rubrosanguineus",
         "Suillus bovinus",
+        "Suillus cavipes",
         "Suillus granulatus",
         "Suillus grevillei",
         "Suillus luteus",
@@ -12317,6 +12397,7 @@
       "type": "regno",
       "value": "Protozoa",
       "matchSpecies": [
+        "Aethaliopsis melanospora",
         "Badhamia melanospora",
         "Fuligo candida",
         "Fuligo septica",

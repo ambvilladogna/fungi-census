@@ -1,9 +1,9 @@
 {
   "nomeCompleto": "Amanita vaginata",
   "autore": "(Bull.) Lam. 1783",
-  "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
-  "nomeCorrente": "Amanita romagnesiana",
-  "autoreCorrente": "Tulloss 2000",
+  "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
+  "nomeCorrente": null,
+  "autoreCorrente": null,
   "campioniRaccolti": [
     {
       "collectionDate": "2026-09-11",

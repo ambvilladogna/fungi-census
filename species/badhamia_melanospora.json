@@ -1,9 +1,9 @@
 {
   "nomeCompleto": "Badhamia melanospora",
   "autore": "Speg. 1880",
-  "filogenesi": "regno: Protozoa > phylum: Amoebozoa > classe: Myxogastrea > ordine: Physarida > famiglia: Physaridae",
-  "nomeCorrente": null,
-  "autoreCorrente": null,
+  "filogenesi": "regno: Protozoa > phylum: Myxomycota > classe: Myxomycetes > ordine: Physarales > famiglia: Physaraceae",
+  "nomeCorrente": "Aethaliopsis melanospora",
+  "autoreCorrente": "(Speg.) Shchepin, Prikh., Gmosh. & Schnittler 2026",
   "campioniRaccolti": [
     {
       "collectionDate": "2025-12-03",

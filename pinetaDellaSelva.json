@@ -1,6 +1,6 @@
 {
   "title": "Pineta della Selva",
-  "generatedAt": "2026-10-28T01:14:20.660Z",
+  "generatedAt": "2026-11-04T01:14:35.983Z",
   "totalSpecies": 181,
   "totalSamples": 307,
   "species": [
@@ -141,7 +141,9 @@
       "species": "cavipes",
       "fullName": "Boletinus cavipes",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Suillaceae",
-      "authority": "(Klotzsch) Kalchbr. 1867"
+      "authority": "(Klotzsch) Kalchbr. 1867",
+      "currentName": "Suillus cavipes",
+      "currentAuthority": "(Klotzsch) A.H. Sm. & Thiers 1964"
     },
     {
       "genus": "Boletus",
@@ -275,7 +277,7 @@
       "genus": "Clitocybe",
       "species": "geotropa",
       "fullName": "Clitocybe geotropa",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Omphalinaceae",
       "authority": "(Bull.) Quél. 1872",
       "currentName": "Infundibulicybe geotropa",
       "currentAuthority": "(Bull.) Harmaja 2003"

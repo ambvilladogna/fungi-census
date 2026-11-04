@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T01:14:37.803Z",
+  "generatedAt": "2026-11-04T01:14:35.822Z",
   "totalSpecies": 604,
   "totalSamples": 1980,
   "species": [
@@ -305,16 +305,14 @@
       "genus": "Amanita",
       "species": "vaginata",
       "fullName": "Amanita vaginata",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
-      "authority": "(Bull.) Lam. 1783",
-      "currentName": "Amanita romagnesiana",
-      "currentAuthority": "Tulloss 2000"
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
+      "authority": "(Bull.) Lam. 1783"
     },
     {
       "genus": "Amanita",
       "species": "vaginata var. alba",
       "fullName": "Amanita vaginata var. alba",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
       "authority": "(De Seynes) Gillet 1874"
     },
     {
@@ -370,8 +368,10 @@
       "genus": "Badhamia",
       "species": "melanospora",
       "fullName": "Badhamia melanospora",
-      "lineage": "regno: Protozoa > phylum: Amoebozoa > classe: Myxogastrea > ordine: Physarida > famiglia: Physaridae",
-      "authority": "Speg. 1880"
+      "lineage": "regno: Protozoa > phylum: Myxomycota > classe: Myxomycetes > ordine: Physarales > famiglia: Physaraceae",
+      "authority": "Speg. 1880",
+      "currentName": "Aethaliopsis melanospora",
+      "currentAuthority": "(Speg.) Shchepin, Prikh., Gmosh. & Schnittler 2026"
     },
     {
       "genus": "Baeospora",
@@ -410,7 +410,9 @@
       "species": "cavipes",
       "fullName": "Boletinus cavipes",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Suillaceae",
-      "authority": "(Klotzsch) Kalchbr. 1867"
+      "authority": "(Klotzsch) Kalchbr. 1867",
+      "currentName": "Suillus cavipes",
+      "currentAuthority": "(Klotzsch) A.H. Sm. & Thiers 1964"
     },
     {
       "genus": "Boletus",
@@ -504,8 +506,8 @@
       "fullName": "Boletus rubrosanguineus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
       "authority": "Cheype 1983",
-      "currentName": "Suillellus rubrosanguineus",
-      "currentAuthority": "(Cheype) Blanco-Dios 2015"
+      "currentName": "Rubroboletus rubrosanguineus",
+      "currentAuthority": "(Cheype) Kuan Zhao & Zhu L. Yang 2014"
     },
     {
       "genus": "Boletus",
@@ -654,7 +656,7 @@
       "genus": "Chamaemyces",
       "species": "fracidus",
       "fullName": "Chamaemyces fracidus",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Verrucosporaceae",
       "authority": "(Fr.) Donk 1962",
       "currentName": "Lepiota fracida",
       "currentAuthority": "(Fr.) R.L. Zhao & J.Xin Li 2025"
@@ -790,7 +792,7 @@
       "genus": "Clitocybe",
       "species": "costata",
       "fullName": "Clitocybe costata",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Omphalinaceae",
       "authority": "Kühner & Romagn. 1954",
       "currentName": "Infundibulicybe costata",
       "currentAuthority": "(Kühner & Romagn.) Harmaja 2003"
@@ -799,7 +801,7 @@
       "genus": "Clitocybe",
       "species": "geotropa",
       "fullName": "Clitocybe geotropa",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Omphalinaceae",
       "authority": "(Bull.) Quél. 1872",
       "currentName": "Infundibulicybe geotropa",
       "currentAuthority": "(Bull.) Harmaja 2003"
@@ -808,7 +810,7 @@
       "genus": "Clitocybe",
       "species": "gibba",
       "fullName": "Clitocybe gibba",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Omphalinaceae",
       "authority": "(Pers.) P. Kumm. 1871",
       "currentName": "Infundibulicybe gibba",
       "currentAuthority": "(Pers.) Harmaja 2003"
@@ -817,7 +819,7 @@
       "genus": "Clitocybe",
       "species": "maxima",
       "fullName": "Clitocybe maxima",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Omphalinaceae",
       "authority": "(P. Gaertn., B. Mey. & Scherb.) P. Kumm. 1871",
       "currentName": "Infundibulicybe gibba",
       "currentAuthority": "(Pers.) Harmaja 2003"
