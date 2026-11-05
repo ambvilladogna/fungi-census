@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-11-03",
+      "collector": "Fabio Locatelli",
+      "locality": "Val cadregú, Clusone",
+      "localityCoordinates": "",
+      "habitat": "Bosco misto",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2026-11-02",
       "collector": "Antonio Guana",
       "locality": "Piazzolo, Ardesio",
@@ -41,7 +49,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "10-09",
-    "raccoltaPiuTarda": "11-02",
+    "raccoltaPiuTarda": "11-03",
     "campioniPerMese": [
       {
         "gen": 0
@@ -74,7 +82,7 @@
         "ott": 3
       },
       {
-        "nov": 1
+        "nov": 2
       },
       {
         "dic": 0
@@ -82,8 +90,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 4,
-    "campioniRaccolti": 4,
+    "totaleCampioni": 5,
+    "campioniRaccolti": 5,
     "campioniExsiccata": 0
   }
 }

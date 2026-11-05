@@ -1,9 +1,9 @@
 {
   "nomeCompleto": "Fuligo candida",
   "autore": "Pers. 1796",
-  "filogenesi": "regno: Protozoa > phylum: Amoebozoa > classe: Myxogastrea > ordine: Physarida > famiglia: Physaridae",
-  "nomeCorrente": null,
-  "autoreCorrente": null,
+  "filogenesi": "regno: Protozoa > phylum: Myxomycota > classe: Myxomycetes > ordine: Physarales > famiglia: Physaraceae",
+  "nomeCorrente": "Erionema candidum",
+  "autoreCorrente": "(Pers.) Shchepin, Prikh., Gmosh., Schnittler & Novozh. 2026",
   "campioniRaccolti": [
     {
       "collectionDate": "2026-06-28",

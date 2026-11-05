@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T01:14:36.011Z",
+  "generatedAt": "2026-11-05T01:14:42.060Z",
   "corpus": [
     {
       "type": "genus",
@@ -852,6 +852,14 @@
     },
     {
       "type": "genus",
+      "value": "Erionema",
+      "matchSpecies": [
+        "Erionema candidum",
+        "Fuligo candida"
+      ]
+    },
+    {
+      "type": "genus",
       "value": "Exidia",
       "matchSpecies": [
         "Exidia glandulosa"
@@ -911,6 +919,7 @@
       "type": "genus",
       "value": "Fuligo",
       "matchSpecies": [
+        "Erionema candidum",
         "Fuligo candida",
         "Fuligo septica"
       ]
@@ -1032,6 +1041,7 @@
       "value": "Hebeloma",
       "matchSpecies": [
         "Hebeloma crustuliniforme",
+        "Hebeloma edurum",
         "Hebeloma laterinum",
         "Hebeloma radicosum",
         "Hebeloma senescens",
@@ -1046,7 +1056,7 @@
         "Helvella elastica",
         "Helvella monachella",
         "Helvella silvicola",
-        "Wynnella silvicola"
+        "Midotis lingua"
       ]
     },
     {
@@ -1592,6 +1602,14 @@
       "matchSpecies": [
         "Micromphale perforans",
         "Paragymnopus perforans"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Midotis",
+      "matchSpecies": [
+        "Helvella silvicola",
+        "Midotis lingua"
       ]
     },
     {
@@ -2433,14 +2451,6 @@
       "value": "Volvariella",
       "matchSpecies": [
         "Volvariella murinella"
-      ]
-    },
-    {
-      "type": "genus",
-      "value": "Wynnella",
-      "matchSpecies": [
-        "Helvella silvicola",
-        "Wynnella silvicola"
       ]
     },
     {
@@ -4388,6 +4398,14 @@
     },
     {
       "type": "species",
+      "value": "Erionema candidum",
+      "matchSpecies": [
+        "Erionema candidum",
+        "Fuligo candida"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Exidia glandulosa",
       "matchSpecies": [
         "Exidia glandulosa"
@@ -4477,6 +4495,7 @@
       "type": "species",
       "value": "Fuligo candida",
       "matchSpecies": [
+        "Erionema candidum",
         "Fuligo candida"
       ]
     },
@@ -4690,8 +4709,17 @@
     },
     {
       "type": "species",
+      "value": "Hebeloma edurum",
+      "matchSpecies": [
+        "Hebeloma edurum",
+        "Hebeloma laterinum"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Hebeloma laterinum",
       "matchSpecies": [
+        "Hebeloma edurum",
         "Hebeloma laterinum",
         "Hebeloma senescens"
       ]
@@ -4744,7 +4772,7 @@
       "value": "Helvella silvicola",
       "matchSpecies": [
         "Helvella silvicola",
-        "Wynnella silvicola"
+        "Midotis lingua"
       ]
     },
     {
@@ -5954,6 +5982,14 @@
       "matchSpecies": [
         "Micromphale perforans",
         "Paragymnopus perforans"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Midotis lingua",
+      "matchSpecies": [
+        "Helvella silvicola",
+        "Midotis lingua"
       ]
     },
     {
@@ -7785,14 +7821,6 @@
     },
     {
       "type": "species",
-      "value": "Wynnella silvicola",
-      "matchSpecies": [
-        "Helvella silvicola",
-        "Wynnella silvicola"
-      ]
-    },
-    {
-      "type": "species",
       "value": "Xerocomellus armeniacus",
       "matchSpecies": [
         "Xerocomellus armeniacus",
@@ -7909,7 +7937,6 @@
         "Chlorophyllum rhacodes",
         "Coprinus comatus",
         "Echinoderma asperum",
-        "Echinoderma perplexum",
         "Lepiota aspera",
         "Lepiota clypeolaria",
         "Lepiota cristata",
@@ -8381,7 +8408,7 @@
         "Helvella elastica",
         "Helvella monachella",
         "Helvella silvicola",
-        "Wynnella silvicola"
+        "Midotis lingua"
       ]
     },
     {
@@ -8774,13 +8801,8 @@
       "value": "Physaraceae",
       "matchSpecies": [
         "Aethaliopsis melanospora",
-        "Badhamia melanospora"
-      ]
-    },
-    {
-      "type": "famiglia",
-      "value": "Physaridae",
-      "matchSpecies": [
+        "Badhamia melanospora",
+        "Erionema candidum",
         "Fuligo candida",
         "Fuligo septica"
       ]
@@ -9057,6 +9079,7 @@
       "value": "Strophariaceae",
       "matchSpecies": [
         "Hebeloma crustuliniforme",
+        "Hebeloma edurum",
         "Hebeloma laterinum",
         "Hebeloma radicosum",
         "Hebeloma senescens",
@@ -9187,6 +9210,7 @@
       "value": "Verrucosporaceae",
       "matchSpecies": [
         "Chamaemyces fracidus",
+        "Echinoderma perplexum",
         "Lepiota fracida"
       ]
     },
@@ -9409,6 +9433,7 @@
         "Gymnopus hariolorum",
         "Gymnopus ocior",
         "Hebeloma crustuliniforme",
+        "Hebeloma edurum",
         "Hebeloma laterinum",
         "Hebeloma radicosum",
         "Hebeloma senescens",
@@ -9873,11 +9898,11 @@
         "Helvella elastica",
         "Helvella monachella",
         "Helvella silvicola",
+        "Midotis lingua",
         "Morchella elata",
         "Morchella esculenta",
         "Scutellinia superba",
-        "Sepultaria sumneriana",
-        "Wynnella silvicola"
+        "Sepultaria sumneriana"
       ]
     },
     {
@@ -9893,13 +9918,8 @@
       "value": "Physarales",
       "matchSpecies": [
         "Aethaliopsis melanospora",
-        "Badhamia melanospora"
-      ]
-    },
-    {
-      "type": "ordine",
-      "value": "Physarida",
-      "matchSpecies": [
+        "Badhamia melanospora",
+        "Erionema candidum",
         "Fuligo candida",
         "Fuligo septica"
       ]
@@ -10385,6 +10405,7 @@
         "Hapalopilus nidulans",
         "Hapalopilus rutilans",
         "Hebeloma crustuliniforme",
+        "Hebeloma edurum",
         "Hebeloma laterinum",
         "Hebeloma radicosum",
         "Hebeloma senescens",
@@ -10842,8 +10863,6 @@
       "type": "classe",
       "value": "Myxogastrea",
       "matchSpecies": [
-        "Fuligo candida",
-        "Fuligo septica",
         "Hemitrichia clavata",
         "Hemitrichia serpula",
         "Lycogala epidendrum",
@@ -10856,7 +10875,10 @@
       "value": "Myxomycetes",
       "matchSpecies": [
         "Aethaliopsis melanospora",
-        "Badhamia melanospora"
+        "Badhamia melanospora",
+        "Erionema candidum",
+        "Fuligo candida",
+        "Fuligo septica"
       ]
     },
     {
@@ -10872,12 +10894,12 @@
         "Helvella elastica",
         "Helvella monachella",
         "Helvella silvicola",
+        "Midotis lingua",
         "Morchella elata",
         "Morchella esculenta",
         "Scutellinia superba",
         "Sepultaria sumneriana",
-        "Tarzetta cupularis",
-        "Wynnella silvicola"
+        "Tarzetta cupularis"
       ]
     },
     {
@@ -10918,8 +10940,6 @@
       "type": "phylum",
       "value": "Amoebozoa",
       "matchSpecies": [
-        "Fuligo candida",
-        "Fuligo septica",
         "Hemitrichia clavata",
         "Hemitrichia serpula",
         "Lycogala epidendrum",
@@ -10953,6 +10973,7 @@
         "Hypoxylon fragiforme",
         "Lanzia echinophila",
         "Leotia lubrica",
+        "Midotis lingua",
         "Morchella elata",
         "Morchella esculenta",
         "Podostroma alutaceum",
@@ -10963,7 +10984,6 @@
         "Tarzetta cupularis",
         "Tolypocladium capitatum",
         "Trichoderma alutaceum",
-        "Wynnella silvicola",
         "Xylaria polymorpha"
       ]
     },
@@ -11246,6 +11266,7 @@
         "Hapalopilus nidulans",
         "Hapalopilus rutilans",
         "Hebeloma crustuliniforme",
+        "Hebeloma edurum",
         "Hebeloma laterinum",
         "Hebeloma radicosum",
         "Hebeloma senescens",
@@ -11667,7 +11688,10 @@
       "value": "Myxomycota",
       "matchSpecies": [
         "Aethaliopsis melanospora",
-        "Badhamia melanospora"
+        "Badhamia melanospora",
+        "Erionema candidum",
+        "Fuligo candida",
+        "Fuligo septica"
       ]
     },
     {
@@ -11962,6 +11986,7 @@
         "Hapalopilus nidulans",
         "Hapalopilus rutilans",
         "Hebeloma crustuliniforme",
+        "Hebeloma edurum",
         "Hebeloma laterinum",
         "Hebeloma radicosum",
         "Hebeloma senescens",
@@ -12130,6 +12155,7 @@
         "Melanoleuca melaleuca",
         "Melanoleuca subalpina",
         "Micromphale perforans",
+        "Midotis lingua",
         "Morchella elata",
         "Morchella esculenta",
         "Mucidula mucida",
@@ -12377,7 +12403,6 @@
         "Vanderbylia fraxinea",
         "Vascellum pratense",
         "Volvariella murinella",
-        "Wynnella silvicola",
         "Xerocomellus armeniacus",
         "Xerocomellus chrysenteron",
         "Xerocomellus pruinatus",
@@ -12399,6 +12424,7 @@
       "matchSpecies": [
         "Aethaliopsis melanospora",
         "Badhamia melanospora",
+        "Erionema candidum",
         "Fuligo candida",
         "Fuligo septica",
         "Hemitrichia clavata",

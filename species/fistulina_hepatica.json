@@ -1,10 +1,18 @@
 {
   "nomeCompleto": "Fistulina hepatica",
-  "autore": "(Schaeff.) With. 1801",
+  "autore": "(Schaeff.) With. 1792",
   "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales",
   "nomeCorrente": null,
   "autoreCorrente": null,
   "campioniRaccolti": [
+    {
+      "collectionDate": "2026-11-03",
+      "collector": "Fabio Locatelli",
+      "locality": "Cadrega, Clusone",
+      "localityCoordinates": "45.8965854N, 9.9651656E",
+      "habitat": "Castagno",
+      "determiner": "Fabio Locatelli"
+    },
     {
       "collectionDate": "2026-09-18",
       "collector": "Pierino Bigoni",
@@ -41,7 +49,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "09-01",
-    "raccoltaPiuTarda": "09-18",
+    "raccoltaPiuTarda": "11-03",
     "campioniPerMese": [
       {
         "gen": 0
@@ -74,7 +82,7 @@
         "ott": 0
       },
       {
-        "nov": 0
+        "nov": 1
       },
       {
         "dic": 0
@@ -82,8 +90,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 4,
-    "campioniRaccolti": 4,
+    "totaleCampioni": 5,
+    "campioniRaccolti": 5,
     "campioniExsiccata": 0
   }
 }

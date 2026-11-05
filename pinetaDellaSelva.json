@@ -1,6 +1,6 @@
 {
   "title": "Pineta della Selva",
-  "generatedAt": "2026-11-04T01:14:35.983Z",
+  "generatedAt": "2026-11-05T01:14:42.036Z",
   "totalSpecies": 181,
   "totalSamples": 307,
   "species": [
@@ -497,7 +497,7 @@
       "genus": "Fuligo",
       "species": "septica",
       "fullName": "Fuligo septica",
-      "lineage": "regno: Protozoa > phylum: Amoebozoa > classe: Myxogastrea > ordine: Physarida > famiglia: Physaridae",
+      "lineage": "regno: Protozoa > phylum: Myxomycota > classe: Myxomycetes > ordine: Physarales > famiglia: Physaraceae",
       "authority": "(L.) F.H. Wigg. 1780"
     },
     {

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-04T01:14:35.822Z",
-  "totalSpecies": 604,
-  "totalSamples": 1980,
+  "generatedAt": "2026-11-05T01:14:41.865Z",
+  "totalSpecies": 605,
+  "totalSamples": 1988,
   "species": [
     {
       "genus": "Abortiporus",
@@ -1513,7 +1513,7 @@
       "genus": "Echinoderma",
       "species": "perplexum",
       "fullName": "Echinoderma perplexum",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Verrucosporaceae",
       "authority": "(Knudsen) Bon 1991"
     },
     {
@@ -1607,7 +1607,7 @@
       "species": "hepatica",
       "fullName": "Fistulina hepatica",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales",
-      "authority": "(Schaeff.) With. 1801"
+      "authority": "(Schaeff.) With. 1792"
     },
     {
       "genus": "Flammulina",
@@ -1648,14 +1648,16 @@
       "genus": "Fuligo",
       "species": "candida",
       "fullName": "Fuligo candida",
-      "lineage": "regno: Protozoa > phylum: Amoebozoa > classe: Myxogastrea > ordine: Physarida > famiglia: Physaridae",
-      "authority": "Pers. 1796"
+      "lineage": "regno: Protozoa > phylum: Myxomycota > classe: Myxomycetes > ordine: Physarales > famiglia: Physaraceae",
+      "authority": "Pers. 1796",
+      "currentName": "Erionema candidum",
+      "currentAuthority": "(Pers.) Shchepin, Prikh., Gmosh., Schnittler & Novozh. 2026"
     },
     {
       "genus": "Fuligo",
       "species": "septica",
       "fullName": "Fuligo septica",
-      "lineage": "regno: Protozoa > phylum: Amoebozoa > classe: Myxogastrea > ordine: Physarida > famiglia: Physaridae",
+      "lineage": "regno: Protozoa > phylum: Myxomycota > classe: Myxomycetes > ordine: Physarales > famiglia: Physaraceae",
       "authority": "(L.) F.H. Wigg. 1780"
     },
     {
@@ -1818,6 +1820,15 @@
     },
     {
       "genus": "Hebeloma",
+      "species": "edurum",
+      "fullName": "Hebeloma edurum",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Strophariaceae",
+      "authority": "Métrod ex Bon 1985",
+      "currentName": "Hebeloma laterinum",
+      "currentAuthority": "(Batsch) Vesterh. 2005"
+    },
+    {
+      "genus": "Hebeloma",
       "species": "radicosum",
       "fullName": "Hebeloma radicosum",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Strophariaceae",
@@ -1866,8 +1877,8 @@
       "fullName": "Helvella silvicola",
       "lineage": "regno: Fungi > phylum: Ascomycota > classe: Pezizomycetes > ordine: Pezizales > famiglia: Helvellaceae",
       "authority": "(Nannf.) Harmaja 1974",
-      "currentName": "Wynnella silvicola",
-      "currentAuthority": "Nannf. 1966"
+      "currentName": "Midotis lingua",
+      "currentAuthority": "Fr. 1828"
     },
     {
       "genus": "Hemileccinum",
