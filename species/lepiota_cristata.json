@@ -1,15 +1,15 @@
 {
   "nomeCompleto": "Lepiota cristata",
   "autore": "(Bolton) P. Kumm. 1871",
-  "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
+  "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Verrucosporaceae",
   "nomeCorrente": null,
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
       "collectionDate": "2026-11-03",
       "collector": "Fabio Locatelli",
-      "locality": "Val cadregú, Clusone",
-      "localityCoordinates": "",
+      "locality": "Val Cadregú, Clusone",
+      "localityCoordinates": "45.897460, 9.963130",
       "habitat": "Bosco misto",
       "determiner": "Fabio Locatelli"
     },

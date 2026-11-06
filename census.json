@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-05T01:14:41.865Z",
+  "generatedAt": "2026-11-06T01:14:33.347Z",
   "totalSpecies": 605,
-  "totalSamples": 1988,
+  "totalSamples": 1991,
   "species": [
     {
       "genus": "Abortiporus",
@@ -2156,14 +2156,14 @@
       "genus": "Infundibulicybe",
       "species": "geotropa",
       "fullName": "Infundibulicybe geotropa",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Omphalinaceae",
       "authority": "(Bull.) Harmaja 2003"
     },
     {
       "genus": "Infundibulicybe",
       "species": "gibba",
       "fullName": "Infundibulicybe gibba",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Omphalinaceae",
       "authority": "(Pers.) Harmaja 2003"
     },
     {
@@ -2533,7 +2533,7 @@
       "genus": "Lepiota",
       "species": "aspera",
       "fullName": "Lepiota aspera",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Verrucosporaceae",
       "authority": "(Pers.) Quél. 1886",
       "currentName": "Echinoderma asperum",
       "currentAuthority": "(Pers.) Bon 1991"
@@ -2542,35 +2542,35 @@
       "genus": "Lepiota",
       "species": "clypeolaria",
       "fullName": "Lepiota clypeolaria",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Verrucosporaceae",
       "authority": "(Bull.) P. Kumm. 1871"
     },
     {
       "genus": "Lepiota",
       "species": "cristata",
       "fullName": "Lepiota cristata",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Verrucosporaceae",
       "authority": "(Bolton) P. Kumm. 1871"
     },
     {
       "genus": "Lepiota",
       "species": "ignivolvata",
       "fullName": "Lepiota ignivolvata",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Verrucosporaceae",
       "authority": "Bousset & Joss. ex Joss. 1990"
     },
     {
       "genus": "Lepiota",
       "species": "magnispora",
       "fullName": "Lepiota magnispora",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Verrucosporaceae",
       "authority": "Murrill 1912"
     },
     {
       "genus": "Lepiota",
       "species": "ventriosospora",
       "fullName": "Lepiota ventriosospora",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Verrucosporaceae",
       "authority": "D.A. Reid 1958",
       "currentName": "Lepiota magnispora",
       "currentAuthority": "Murrill 1912"
@@ -3079,7 +3079,7 @@
       "genus": "Omphalina",
       "species": "pyxidata",
       "fullName": "Omphalina pyxidata",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Omphalinaceae",
       "authority": "(Bull.) Quél. 1886"
     },
     {
@@ -3246,9 +3246,7 @@
       "species": "aporos",
       "fullName": "Pholiotina aporos",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Bolbitiaceae",
-      "authority": "(Kits van Wav.) Clémençon 1976",
-      "currentName": "Conocybe aporos",
-      "currentAuthority": "Kits van Wav. 1970"
+      "authority": "(Kits van Wav.) Clémençon 1976"
     },
     {
       "genus": "Pholiotina",

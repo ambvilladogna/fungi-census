@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-05T01:14:41.915Z",
+  "generatedAt": "2026-11-06T01:14:33.410Z",
   "totalSpecies": 605,
-  "totalSamples": 2189,
+  "totalSamples": 2192,
   "species": [
     {
       "genus": "Flammulina",
@@ -2365,8 +2365,6 @@
       "fullName": "Pholiotina aporos",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Bolbitiaceae",
       "authority": "(Kits van Wav.) Clémençon 1976",
-      "currentName": "Conocybe aporos",
-      "currentAuthority": "Kits van Wav. 1970",
       "totalSamples": 1,
       "monthlyCount": [
         0,
@@ -4507,7 +4505,7 @@
       "genus": "Infundibulicybe",
       "species": "gibba",
       "fullName": "Infundibulicybe gibba",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Omphalinaceae",
       "authority": "(Pers.) Harmaja 2003",
       "totalSamples": 16,
       "monthlyCount": [
@@ -7759,7 +7757,7 @@
       "authority": "Bon 1983",
       "currentName": "Agaricus sylvicola",
       "currentAuthority": "(Vittad.) Peck 1872",
-      "totalSamples": 4,
+      "totalSamples": 5,
       "monthlyCount": [
         0,
         0,
@@ -7771,7 +7769,7 @@
         2,
         1,
         0,
-        0,
+        1,
         0
       ],
       "earliestDate": "07-25",
@@ -7785,14 +7783,14 @@
         "determiner": "Pietro Centenari",
         "_tipo": "raccolto"
       },
-      "latestDate": "09-14",
-      "latestDayOfYear": 257,
+      "latestDate": "11-03",
+      "latestDayOfYear": 308,
       "latestSample": {
-        "collectionDate": "2025-09-14",
-        "collector": "Pietro Centenari",
-        "locality": "Piazza di Golla, Premolo",
-        "localityCoordinates": "45.885467, 9.846477",
-        "habitat": "Bosco misto",
+        "collectionDate": "2026-11-03",
+        "collector": "Pierino Bigoni",
+        "locality": "Pineta della Selva, Clusone",
+        "localityCoordinates": "45.88196, 9.91806",
+        "habitat": "Abete rosso",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
@@ -11363,7 +11361,7 @@
       "genus": "Lepiota",
       "species": "aspera",
       "fullName": "Lepiota aspera",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Verrucosporaceae",
       "authority": "(Pers.) Quél. 1886",
       "currentName": "Echinoderma asperum",
       "currentAuthority": "(Pers.) Bon 1991",
@@ -11622,8 +11620,8 @@
       "latestSample": {
         "collectionDate": "2026-11-03",
         "collector": "Fabio Locatelli",
-        "locality": "Val cadregú, Clusone",
-        "localityCoordinates": "",
+        "locality": "Val Cadregú, Clusone",
+        "localityCoordinates": "45.897460, 9.963130",
         "habitat": "Bosco misto",
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
@@ -13233,7 +13231,7 @@
       "genus": "Lepiota",
       "species": "clypeolaria",
       "fullName": "Lepiota clypeolaria",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Verrucosporaceae",
       "authority": "(Bull.) P. Kumm. 1871",
       "totalSamples": 2,
       "monthlyCount": [
@@ -13277,7 +13275,7 @@
       "genus": "Lepiota",
       "species": "cristata",
       "fullName": "Lepiota cristata",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Verrucosporaceae",
       "authority": "(Bolton) P. Kumm. 1871",
       "totalSamples": 6,
       "monthlyCount": [
@@ -13310,8 +13308,8 @@
       "latestSample": {
         "collectionDate": "2026-11-03",
         "collector": "Fabio Locatelli",
-        "locality": "Val cadregú, Clusone",
-        "localityCoordinates": "",
+        "locality": "Val Cadregú, Clusone",
+        "localityCoordinates": "45.897460, 9.963130",
         "habitat": "Bosco misto",
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
@@ -14303,7 +14301,7 @@
       "genus": "Lepiota",
       "species": "magnispora",
       "fullName": "Lepiota magnispora",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Verrucosporaceae",
       "authority": "Murrill 1912",
       "totalSamples": 5,
       "monthlyCount": [
@@ -14347,7 +14345,7 @@
       "genus": "Lepiota",
       "species": "ventriosospora",
       "fullName": "Lepiota ventriosospora",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Verrucosporaceae",
       "authority": "D.A. Reid 1958",
       "currentName": "Lepiota magnispora",
       "currentAuthority": "Murrill 1912",
@@ -15645,7 +15643,7 @@
       "authority": "(Fr.) E.-J. Gilbert 1931",
       "currentName": "Imleria badia",
       "currentAuthority": "(Fr.) Vizzini 2014",
-      "totalSamples": 16,
+      "totalSamples": 17,
       "monthlyCount": [
         0,
         0,
@@ -15657,7 +15655,7 @@
         1,
         9,
         4,
-        2,
+        3,
         0
       ],
       "earliestDate": "08-31",
@@ -18759,7 +18757,7 @@
       "genus": "Lepiota",
       "species": "ignivolvata",
       "fullName": "Lepiota ignivolvata",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Verrucosporaceae",
       "authority": "Bousset & Joss. ex Joss. 1990",
       "totalSamples": 4,
       "monthlyCount": [
@@ -22404,8 +22402,8 @@
       "latestSample": {
         "collectionDate": "2026-11-03",
         "collector": "Fabio Locatelli",
-        "locality": "Val cadregú, Clusone",
-        "localityCoordinates": "",
+        "locality": "Val Cadregú, Clusone",
+        "localityCoordinates": "45.897460, 9.963130",
         "habitat": "Bosco misto",
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
@@ -23692,8 +23690,8 @@
       "latestSample": {
         "collectionDate": "2026-11-03",
         "collector": "Fabio Locatelli",
-        "locality": "Val cadregú, Clusone",
-        "localityCoordinates": "",
+        "locality": "Val Cadregú, Clusone",
+        "localityCoordinates": "45.897460, 9.963130",
         "habitat": "Bosco misto",
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
@@ -23795,7 +23793,7 @@
       "genus": "Infundibulicybe",
       "species": "geotropa",
       "fullName": "Infundibulicybe geotropa",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Omphalinaceae",
       "authority": "(Bull.) Harmaja 2003",
       "totalSamples": 6,
       "monthlyCount": [
@@ -25660,7 +25658,7 @@
       "fullName": "Tricholoma portentosum",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Tricholomataceae",
       "authority": "(Fr.) Quél. 1873",
-      "totalSamples": 5,
+      "totalSamples": 6,
       "monthlyCount": [
         0,
         0,
@@ -25672,7 +25670,7 @@
         0,
         0,
         1,
-        3,
+        4,
         1
       ],
       "earliestDate": "10-27",
@@ -26122,8 +26120,8 @@
       "earliestSample": {
         "collectionDate": "2026-11-03",
         "collector": "Fabio Locatelli",
-        "locality": "Val cadregú, Clusone",
-        "localityCoordinates": "",
+        "locality": "Val Cadregú, Clusone",
+        "localityCoordinates": "45.897460, 9.963130",
         "habitat": "Bosco misto",
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
@@ -26133,8 +26131,8 @@
       "latestSample": {
         "collectionDate": "2026-11-03",
         "collector": "Fabio Locatelli",
-        "locality": "Val cadregú, Clusone",
-        "localityCoordinates": "",
+        "locality": "Val Cadregú, Clusone",
+        "localityCoordinates": "45.897460, 9.963130",
         "habitat": "Bosco misto",
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
@@ -26860,7 +26858,7 @@
       "genus": "Omphalina",
       "species": "pyxidata",
       "fullName": "Omphalina pyxidata",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Omphalinaceae",
       "authority": "(Bull.) Quél. 1886",
       "totalSamples": 1,
       "monthlyCount": [

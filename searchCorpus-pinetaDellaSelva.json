@@ -1,11 +1,13 @@
 {
-  "generatedAt": "2026-11-05T01:14:42.073Z",
+  "generatedAt": "2026-11-06T01:14:33.562Z",
   "corpus": [
     {
       "type": "genus",
       "value": "Agaricus",
       "matchSpecies": [
-        "Agaricus sylvaticus"
+        "Agaricus essettei",
+        "Agaricus sylvaticus",
+        "Agaricus sylvicola"
       ]
     },
     {
@@ -934,9 +936,25 @@
     },
     {
       "type": "species",
+      "value": "Agaricus essettei",
+      "matchSpecies": [
+        "Agaricus essettei",
+        "Agaricus sylvicola"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Agaricus sylvaticus",
       "matchSpecies": [
         "Agaricus sylvaticus"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Agaricus sylvicola",
+      "matchSpecies": [
+        "Agaricus essettei",
+        "Agaricus sylvicola"
       ]
     },
     {
@@ -2541,14 +2559,11 @@
       "type": "famiglia",
       "value": "Agaricaceae",
       "matchSpecies": [
+        "Agaricus essettei",
         "Agaricus sylvaticus",
+        "Agaricus sylvicola",
         "Chlorophyllum rhacodes",
         "Coprinus comatus",
-        "Echinoderma asperum",
-        "Lepiota aspera",
-        "Lepiota cristata",
-        "Lepiota magnispora",
-        "Lepiota ventriosospora",
         "Leucoagaricus bresadolae",
         "Macrolepiota procera",
         "Macrolepiota rhacodes",
@@ -2814,7 +2829,8 @@
       "value": "Omphalinaceae",
       "matchSpecies": [
         "Clitocybe geotropa",
-        "Infundibulicybe geotropa"
+        "Infundibulicybe geotropa",
+        "Omphalina pyxidata"
       ]
     },
     {
@@ -3006,6 +3022,17 @@
     },
     {
       "type": "famiglia",
+      "value": "Verrucosporaceae",
+      "matchSpecies": [
+        "Echinoderma asperum",
+        "Lepiota aspera",
+        "Lepiota cristata",
+        "Lepiota magnispora",
+        "Lepiota ventriosospora"
+      ]
+    },
+    {
+      "type": "famiglia",
       "value": "Volvariellaceae",
       "matchSpecies": [
         "Volvariella murinella"
@@ -3015,7 +3042,9 @@
       "type": "ordine",
       "value": "Agaricales",
       "matchSpecies": [
+        "Agaricus essettei",
         "Agaricus sylvaticus",
+        "Agaricus sylvicola",
         "Amanita battarrae",
         "Amanita citrina",
         "Amanita excelsa",
@@ -3314,7 +3343,9 @@
       "type": "classe",
       "value": "Agaricomycetes",
       "matchSpecies": [
+        "Agaricus essettei",
         "Agaricus sylvaticus",
+        "Agaricus sylvicola",
         "Amanita battarrae",
         "Amanita citrina",
         "Amanita excelsa",
@@ -3589,7 +3620,9 @@
       "type": "phylum",
       "value": "Basidiomycota",
       "matchSpecies": [
+        "Agaricus essettei",
         "Agaricus sylvaticus",
+        "Agaricus sylvicola",
         "Amanita battarrae",
         "Amanita citrina",
         "Amanita excelsa",
@@ -3816,7 +3849,9 @@
       "type": "regno",
       "value": "Fungi",
       "matchSpecies": [
+        "Agaricus essettei",
         "Agaricus sylvaticus",
+        "Agaricus sylvicola",
         "Amanita battarrae",
         "Amanita citrina",
         "Amanita excelsa",

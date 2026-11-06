@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T01:14:42.060Z",
+  "generatedAt": "2026-11-06T01:14:33.546Z",
   "corpus": [
     {
       "type": "genus",
@@ -565,14 +565,12 @@
       "type": "genus",
       "value": "Conocybe",
       "matchSpecies": [
-        "Conocybe aporos",
         "Conocybe coprophila",
         "Conocybe juniana",
         "Conocybe magnicapitata",
         "Conocybe siennophylla",
         "Conocybe tenera",
-        "Conocybula coprophila",
-        "Pholiotina aporos"
+        "Conocybula coprophila"
       ]
     },
     {
@@ -1823,7 +1821,6 @@
       "type": "genus",
       "value": "Pholiotina",
       "matchSpecies": [
-        "Conocybe aporos",
         "Pholiotina aporos",
         "Pholiotina teneroides"
       ]
@@ -3705,14 +3702,6 @@
       "matchSpecies": [
         "Collybia peronata",
         "Collybiopsis peronata"
-      ]
-    },
-    {
-      "type": "species",
-      "value": "Conocybe aporos",
-      "matchSpecies": [
-        "Conocybe aporos",
-        "Pholiotina aporos"
       ]
     },
     {
@@ -6345,7 +6334,6 @@
       "type": "species",
       "value": "Pholiotina aporos",
       "matchSpecies": [
-        "Conocybe aporos",
         "Pholiotina aporos"
       ]
     },
@@ -7936,13 +7924,6 @@
         "Chlorophyllum brunneum",
         "Chlorophyllum rhacodes",
         "Coprinus comatus",
-        "Echinoderma asperum",
-        "Lepiota aspera",
-        "Lepiota clypeolaria",
-        "Lepiota cristata",
-        "Lepiota ignivolvata",
-        "Lepiota magnispora",
-        "Lepiota ventriosospora",
         "Leucoagaricus bresadolae",
         "Leucoagaricus leucothites",
         "Leucocoprinus leucothites",
@@ -8055,7 +8036,6 @@
       "matchSpecies": [
         "Bolbitius titubans",
         "Bolbitius vitellinus",
-        "Conocybe aporos",
         "Conocybe coprophila",
         "Conocybe juniana",
         "Conocybe magnicapitata",
@@ -8679,7 +8659,8 @@
         "Clitocybe maxima",
         "Infundibulicybe costata",
         "Infundibulicybe geotropa",
-        "Infundibulicybe gibba"
+        "Infundibulicybe gibba",
+        "Omphalina pyxidata"
       ]
     },
     {
@@ -9210,8 +9191,15 @@
       "value": "Verrucosporaceae",
       "matchSpecies": [
         "Chamaemyces fracidus",
+        "Echinoderma asperum",
         "Echinoderma perplexum",
-        "Lepiota fracida"
+        "Lepiota aspera",
+        "Lepiota clypeolaria",
+        "Lepiota cristata",
+        "Lepiota fracida",
+        "Lepiota ignivolvata",
+        "Lepiota magnispora",
+        "Lepiota ventriosospora"
       ]
     },
     {
@@ -9343,7 +9331,6 @@
         "Collybia sordida",
         "Collybiopsis confluens",
         "Collybiopsis peronata",
-        "Conocybe aporos",
         "Conocybe coprophila",
         "Conocybe juniana",
         "Conocybe magnicapitata",
@@ -10283,7 +10270,6 @@
         "Collybia sordida",
         "Collybiopsis confluens",
         "Collybiopsis peronata",
-        "Conocybe aporos",
         "Conocybe coprophila",
         "Conocybe juniana",
         "Conocybe magnicapitata",
@@ -11142,7 +11128,6 @@
         "Collybia sordida",
         "Collybiopsis confluens",
         "Collybiopsis peronata",
-        "Conocybe aporos",
         "Conocybe coprophila",
         "Conocybe juniana",
         "Conocybe magnicapitata",
@@ -11855,7 +11840,6 @@
         "Collybia sordida",
         "Collybiopsis confluens",
         "Collybiopsis peronata",
-        "Conocybe aporos",
         "Conocybe coprophila",
         "Conocybe juniana",
         "Conocybe magnicapitata",

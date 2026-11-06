@@ -1,9 +1,18 @@
 {
   "title": "Pineta della Selva",
-  "generatedAt": "2026-11-05T01:14:42.036Z",
-  "totalSpecies": 181,
-  "totalSamples": 307,
+  "generatedAt": "2026-11-06T01:14:33.523Z",
+  "totalSpecies": 182,
+  "totalSamples": 310,
   "species": [
+    {
+      "genus": "Agaricus",
+      "species": "essettei",
+      "fullName": "Agaricus essettei",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
+      "authority": "Bon 1983",
+      "currentName": "Agaricus sylvicola",
+      "currentAuthority": "(Vittad.) Peck 1872"
+    },
     {
       "genus": "Agaricus",
       "species": "sylvaticus",
@@ -664,7 +673,7 @@
       "genus": "Infundibulicybe",
       "species": "geotropa",
       "fullName": "Infundibulicybe geotropa",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Omphalinaceae",
       "authority": "(Bull.) Harmaja 2003"
     },
     {
@@ -782,7 +791,7 @@
       "genus": "Lepiota",
       "species": "aspera",
       "fullName": "Lepiota aspera",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Verrucosporaceae",
       "authority": "(Pers.) Quél. 1886",
       "currentName": "Echinoderma asperum",
       "currentAuthority": "(Pers.) Bon 1991"
@@ -791,21 +800,21 @@
       "genus": "Lepiota",
       "species": "cristata",
       "fullName": "Lepiota cristata",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Verrucosporaceae",
       "authority": "(Bolton) P. Kumm. 1871"
     },
     {
       "genus": "Lepiota",
       "species": "magnispora",
       "fullName": "Lepiota magnispora",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Verrucosporaceae",
       "authority": "Murrill 1912"
     },
     {
       "genus": "Lepiota",
       "species": "ventriosospora",
       "fullName": "Lepiota ventriosospora",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Verrucosporaceae",
       "authority": "D.A. Reid 1958",
       "currentName": "Lepiota magnispora",
       "currentAuthority": "Murrill 1912"
@@ -968,7 +977,7 @@
       "genus": "Omphalina",
       "species": "pyxidata",
       "fullName": "Omphalina pyxidata",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Omphalinaceae",
       "authority": "(Bull.) Quél. 1886"
     },
     {

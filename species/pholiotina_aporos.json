@@ -2,8 +2,8 @@
   "nomeCompleto": "Pholiotina aporos",
   "autore": "(Kits van Wav.) Clémençon 1976",
   "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Bolbitiaceae",
-  "nomeCorrente": "Conocybe aporos",
-  "autoreCorrente": "Kits van Wav. 1970",
+  "nomeCorrente": null,
+  "autoreCorrente": null,
   "campioniRaccolti": [
     {
       "collectionDate": "2026-05-18",
