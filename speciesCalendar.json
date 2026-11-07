@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-06T01:14:33.410Z",
-  "totalSpecies": 605,
-  "totalSamples": 2192,
+  "generatedAt": "2026-11-07T01:14:30.593Z",
+  "totalSpecies": 606,
+  "totalSamples": 2203,
   "species": [
     {
       "genus": "Flammulina",
@@ -5219,7 +5219,7 @@
       "fullName": "Cantharellus cibarius",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Cantharellales > famiglia: Hydnaceae",
       "authority": "Fr. 1821",
-      "totalSamples": 14,
+      "totalSamples": 15,
       "monthlyCount": [
         0,
         0,
@@ -5231,7 +5231,7 @@
         6,
         3,
         0,
-        1,
+        2,
         0
       ],
       "earliestDate": "07-01",
@@ -5621,6 +5621,8 @@
       "fullName": "Suillellus rubrosanguineus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
       "authority": "(Cheype) Blanco-Dios 2015",
+      "currentName": "Rubroboletus rubrosanguineus",
+      "currentAuthority": "(Cheype) Kuan Zhao & Zhu L. Yang 2014",
       "totalSamples": 1,
       "monthlyCount": [
         0,
@@ -9137,7 +9139,7 @@
       "fullName": "Cantharellus romagnesianus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Cantharellales > famiglia: Hydnaceae",
       "authority": "Eyssart. & Buyck 1999",
-      "totalSamples": 5,
+      "totalSamples": 6,
       "monthlyCount": [
         0,
         0,
@@ -9149,7 +9151,7 @@
         1,
         0,
         2,
-        2,
+        3,
         0
       ],
       "earliestDate": "08-04",
@@ -15287,7 +15289,7 @@
       "genus": "Pseudohydnum",
       "species": "gelatinosum f. album",
       "fullName": "Pseudohydnum gelatinosum f. album",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Auriculariales",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Auriculariales > famiglia: Exidiaceae",
       "authority": "(Bres.) Kobayasi 1954",
       "totalSamples": 1,
       "monthlyCount": [
@@ -17735,7 +17737,7 @@
       "fullName": "Hebeloma sinapizans",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Strophariaceae",
       "authority": "(Paulet) Gillet 1876",
-      "totalSamples": 4,
+      "totalSamples": 5,
       "monthlyCount": [
         0,
         0,
@@ -17747,7 +17749,7 @@
         0,
         3,
         1,
-        0,
+        1,
         0
       ],
       "earliestDate": "09-13",
@@ -17761,15 +17763,15 @@
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       },
-      "latestDate": "10-19",
-      "latestDayOfYear": 292,
+      "latestDate": "11-04",
+      "latestDayOfYear": 309,
       "latestSample": {
-        "collectionDate": "2026-10-19",
-        "collector": "Pierino Bigoni",
-        "locality": "Roccolo Sparpaì, Piario",
-        "localityCoordinates": "45.887066, 9.921201",
-        "habitat": "Bosco misto",
-        "determiner": "Pierino Bigoni",
+        "collectionDate": "2026-11-04",
+        "collector": "Fabio Locatelli",
+        "locality": "Pineta della Selva, Clusone",
+        "localityCoordinates": "45.88196, 9.91806",
+        "habitat": "Pineta",
+        "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
     },
@@ -20591,7 +20593,7 @@
       "authority": "(Scop.) Pat. 1887",
       "currentName": "Paralepista flaccida",
       "currentAuthority": "(Sowerby) Vizzini 2012",
-      "totalSamples": 3,
+      "totalSamples": 4,
       "monthlyCount": [
         0,
         0,
@@ -20603,7 +20605,7 @@
         0,
         1,
         0,
-        2,
+        3,
         0
       ],
       "earliestDate": "09-17",
@@ -20617,15 +20619,15 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "11-03",
-      "latestDayOfYear": 308,
+      "latestDate": "11-04",
+      "latestDayOfYear": 309,
       "latestSample": {
-        "collectionDate": "2025-11-03",
-        "collector": "Angelo Ballabeni",
-        "locality": "Percorso vita, Rovetta",
-        "localityCoordinates": "45.89368, 9.97672",
-        "habitat": "Bosco misto",
-        "determiner": "Angelo Ballabeni",
+        "collectionDate": "2026-11-04",
+        "collector": "Fabio Locatelli",
+        "locality": "Pineta della Selva, Clusone",
+        "localityCoordinates": "45.88196, 9.91806",
+        "habitat": "Pino silvestre",
+        "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
     },
@@ -21523,7 +21525,7 @@
       "genus": "Pseudohydnum",
       "species": "gelatinosum",
       "fullName": "Pseudohydnum gelatinosum",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Auriculariales",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Auriculariales > famiglia: Exidiaceae",
       "authority": "(Scop.) P. Karst. 1868",
       "totalSamples": 1,
       "monthlyCount": [
@@ -21703,8 +21705,6 @@
       "fullName": "Xerocomus armeniacus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
       "authority": "(Quél.) Quél. 1888",
-      "currentName": "Xerocomellus armeniacus",
-      "currentAuthority": "(Quél.) M. Ullah, Saba, Asif & Karun. 2026",
       "totalSamples": 3,
       "monthlyCount": [
         0,
@@ -23705,7 +23705,7 @@
       "authority": "(Bull.) Quél. 1872",
       "currentName": "Infundibulicybe geotropa",
       "currentAuthority": "(Bull.) Harmaja 2003",
-      "totalSamples": 6,
+      "totalSamples": 7,
       "monthlyCount": [
         0,
         0,
@@ -23717,7 +23717,7 @@
         0,
         0,
         2,
-        3,
+        4,
         1
       ],
       "earliestDate": "10-10",
@@ -23795,7 +23795,7 @@
       "fullName": "Infundibulicybe geotropa",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Omphalinaceae",
       "authority": "(Bull.) Harmaja 2003",
-      "totalSamples": 6,
+      "totalSamples": 7,
       "monthlyCount": [
         0,
         0,
@@ -23807,7 +23807,7 @@
         0,
         0,
         2,
-        3,
+        4,
         1
       ],
       "earliestDate": "10-10",
@@ -24679,7 +24679,7 @@
       "genus": "Pseudohydnum",
       "species": "gelatinosum f. fuscum",
       "fullName": "Pseudohydnum gelatinosum f. fuscum",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Auriculariales",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Auriculariales > famiglia: Exidiaceae",
       "authority": "(Bres.) Kobayasi 1954",
       "totalSamples": 1,
       "monthlyCount": [
@@ -25079,7 +25079,7 @@
       "authority": "(Pers.) J.E. Lange 1933",
       "currentName": "Tricholoma terreum",
       "currentAuthority": "(Schaeff.) P. Kumm. 1871",
-      "totalSamples": 3,
+      "totalSamples": 4,
       "monthlyCount": [
         0,
         0,
@@ -25091,7 +25091,7 @@
         0,
         0,
         2,
-        1,
+        2,
         0
       ],
       "earliestDate": "10-20",
@@ -25105,15 +25105,59 @@
         "determiner": "Angelo Ballabeni",
         "_tipo": "raccolto"
       },
-      "latestDate": "11-03",
-      "latestDayOfYear": 308,
+      "latestDate": "11-04",
+      "latestDayOfYear": 309,
       "latestSample": {
-        "collectionDate": "2025-11-03",
-        "collector": "Angelo Ballabeni",
-        "locality": "Percorso vita, Rovetta",
-        "localityCoordinates": "45.89368, 9.97672",
-        "habitat": "Pino",
+        "collectionDate": "2026-11-04",
+        "collector": "Fabio Locatelli",
+        "locality": "Pineta della Selva, Clusone",
+        "localityCoordinates": "45.88196, 9.91806",
+        "habitat": "Pino silvestre",
+        "determiner": "Fabio Locatelli",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Tricholoma",
+      "species": "terreum",
+      "fullName": "Tricholoma terreum",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Tricholomataceae",
+      "authority": "(Schaeff.) P. Kumm. 1871",
+      "totalSamples": 4,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        0
+      ],
+      "earliestDate": "10-20",
+      "earliestDayOfYear": 293,
+      "earliestSample": {
+        "collectionDate": "2025-10-20",
+        "collector": "Angelo Fraschina",
+        "locality": "Spiazzi, Gromo",
+        "localityCoordinates": "45.970802, 9.963785",
+        "habitat": "Bosco misto abete bianco e abete rosso",
         "determiner": "Angelo Ballabeni",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "11-04",
+      "latestDayOfYear": 309,
+      "latestSample": {
+        "collectionDate": "2026-11-04",
+        "collector": "Fabio Locatelli",
+        "locality": "Pineta della Selva, Clusone",
+        "localityCoordinates": "45.88196, 9.91806",
+        "habitat": "Pino silvestre",
+        "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
     },

@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-11-04",
+      "collector": "Fabio Locatelli",
+      "locality": "Pineta della Selva, Clusone",
+      "localityCoordinates": "45.88196, 9.91806",
+      "habitat": "Pineta",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2026-09-20",
       "collector": "Fabio Locatelli",
       "locality": "Valcanale, Ardesio",
@@ -154,7 +162,7 @@
         "ott": 0
       },
       {
-        "nov": 1
+        "nov": 2
       },
       {
         "dic": 0
@@ -162,8 +170,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 14,
-    "campioniRaccolti": 14,
+    "totaleCampioni": 15,
+    "campioniRaccolti": 15,
     "campioniExsiccata": 0
   }
 }

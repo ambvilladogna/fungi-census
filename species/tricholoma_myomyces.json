@@ -6,6 +6,14 @@
   "autoreCorrente": "(Schaeff.) P. Kumm. 1871",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-11-04",
+      "collector": "Fabio Locatelli",
+      "locality": "Pineta della Selva, Clusone",
+      "localityCoordinates": "45.88196, 9.91806",
+      "habitat": "Pino silvestre",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2026-10-26",
       "collector": "Pietro Centenari",
       "locality": "Sentiero 'del Bot', Rovetta",
@@ -33,7 +41,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "10-20",
-    "raccoltaPiuTarda": "11-03",
+    "raccoltaPiuTarda": "11-04",
     "campioniPerMese": [
       {
         "gen": 0
@@ -66,7 +74,7 @@
         "ott": 2
       },
       {
-        "nov": 1
+        "nov": 2
       },
       {
         "dic": 0
@@ -74,8 +82,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 3,
-    "campioniRaccolti": 3,
+    "totaleCampioni": 4,
+    "campioniRaccolti": 4,
     "campioniExsiccata": 0
   }
 }

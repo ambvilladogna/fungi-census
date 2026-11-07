@@ -1,0 +1,89 @@
+{
+  "nomeCompleto": "Tricholoma terreum",
+  "autore": "(Schaeff.) P. Kumm. 1871",
+  "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Tricholomataceae",
+  "nomeCorrente": null,
+  "autoreCorrente": null,
+  "campioniRaccolti": [
+    {
+      "collectionDate": "2026-11-04",
+      "collector": "Fabio Locatelli",
+      "locality": "Pineta della Selva, Clusone",
+      "localityCoordinates": "45.88196, 9.91806",
+      "habitat": "Pino silvestre",
+      "determiner": "Fabio Locatelli"
+    },
+    {
+      "collectionDate": "2026-10-26",
+      "collector": "Pietro Centenari",
+      "locality": "Sentiero 'del Bot', Rovetta",
+      "localityCoordinates": "45.903819, 9.981142",
+      "habitat": "Bosco misto conifere e latifoglie",
+      "determiner": "Pierino Bigoni"
+    },
+    {
+      "collectionDate": "2025-11-03",
+      "collector": "Angelo Ballabeni",
+      "locality": "Percorso vita, Rovetta",
+      "localityCoordinates": "45.89368, 9.97672",
+      "habitat": "Pino",
+      "determiner": "Angelo Ballabeni"
+    },
+    {
+      "collectionDate": "2025-10-20",
+      "collector": "Angelo Fraschina",
+      "locality": "Spiazzi, Gromo",
+      "localityCoordinates": "45.970802, 9.963785",
+      "habitat": "Bosco misto abete bianco e abete rosso",
+      "determiner": "Angelo Ballabeni"
+    }
+  ],
+  "campioniExsiccata": [],
+  "fenologia": {
+    "raccoltaPiuPrecoce": "10-20",
+    "raccoltaPiuTarda": "11-04",
+    "campioniPerMese": [
+      {
+        "gen": 0
+      },
+      {
+        "feb": 0
+      },
+      {
+        "mar": 0
+      },
+      {
+        "apr": 0
+      },
+      {
+        "mag": 0
+      },
+      {
+        "giu": 0
+      },
+      {
+        "lug": 0
+      },
+      {
+        "ago": 0
+      },
+      {
+        "set": 0
+      },
+      {
+        "ott": 2
+      },
+      {
+        "nov": 2
+      },
+      {
+        "dic": 0
+      }
+    ]
+  },
+  "statistiche": {
+    "totaleCampioni": 4,
+    "campioniRaccolti": 4,
+    "campioniExsiccata": 0
+  }
+}

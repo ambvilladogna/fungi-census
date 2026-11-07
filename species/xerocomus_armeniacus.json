@@ -2,8 +2,8 @@
   "nomeCompleto": "Xerocomus armeniacus",
   "autore": "(Quél.) Quél. 1888",
   "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
-  "nomeCorrente": "Xerocomellus armeniacus",
-  "autoreCorrente": "(Quél.) M. Ullah, Saba, Asif & Karun. 2026",
+  "nomeCorrente": null,
+  "autoreCorrente": null,
   "campioniRaccolti": [
     {
       "collectionDate": "2026-10-12",

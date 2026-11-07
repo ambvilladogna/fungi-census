@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-06T01:14:33.347Z",
-  "totalSpecies": 605,
-  "totalSamples": 1991,
+  "generatedAt": "2026-11-07T01:14:30.531Z",
+  "totalSpecies": 606,
+  "totalSamples": 1997,
   "species": [
     {
       "genus": "Abortiporus",
@@ -3443,21 +3443,21 @@
       "genus": "Pseudohydnum",
       "species": "gelatinosum",
       "fullName": "Pseudohydnum gelatinosum",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Auriculariales",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Auriculariales > famiglia: Exidiaceae",
       "authority": "(Scop.) P. Karst. 1868"
     },
     {
       "genus": "Pseudohydnum",
       "species": "gelatinosum f. album",
       "fullName": "Pseudohydnum gelatinosum f. album",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Auriculariales",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Auriculariales > famiglia: Exidiaceae",
       "authority": "(Bres.) Kobayasi 1954"
     },
     {
       "genus": "Pseudohydnum",
       "species": "gelatinosum f. fuscum",
       "fullName": "Pseudohydnum gelatinosum f. fuscum",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Auriculariales",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Auriculariales > famiglia: Exidiaceae",
       "authority": "(Bres.) Kobayasi 1954"
     },
     {
@@ -4142,7 +4142,9 @@
       "species": "rubrosanguineus",
       "fullName": "Suillellus rubrosanguineus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
-      "authority": "(Cheype) Blanco-Dios 2015"
+      "authority": "(Cheype) Blanco-Dios 2015",
+      "currentName": "Rubroboletus rubrosanguineus",
+      "currentAuthority": "(Cheype) Kuan Zhao & Zhu L. Yang 2014"
     },
     {
       "genus": "Suillus",
@@ -4397,6 +4399,13 @@
     },
     {
       "genus": "Tricholoma",
+      "species": "terreum",
+      "fullName": "Tricholoma terreum",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Tricholomataceae",
+      "authority": "(Schaeff.) P. Kumm. 1871"
+    },
+    {
+      "genus": "Tricholoma",
       "species": "ustale",
       "fullName": "Tricholoma ustale",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Tricholomataceae",
@@ -4488,9 +4497,7 @@
       "species": "armeniacus",
       "fullName": "Xerocomus armeniacus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
-      "authority": "(Quél.) Quél. 1888",
-      "currentName": "Xerocomellus armeniacus",
-      "currentAuthority": "(Quél.) M. Ullah, Saba, Asif & Karun. 2026"
+      "authority": "(Quél.) Quél. 1888"
     },
     {
       "genus": "Xerocomus",

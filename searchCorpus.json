@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T01:14:33.546Z",
+  "generatedAt": "2026-11-07T01:14:30.737Z",
   "corpus": [
     {
       "type": "genus",
@@ -2062,7 +2062,8 @@
         "Boletus rubrosanguineus",
         "Boletus satanas",
         "Rubroboletus rubrosanguineus",
-        "Rubroboletus satanas"
+        "Rubroboletus satanas",
+        "Suillellus rubrosanguineus"
       ]
     },
     {
@@ -2253,6 +2254,7 @@
       "value": "Suillellus",
       "matchSpecies": [
         "Boletus luridus",
+        "Rubroboletus rubrosanguineus",
         "Suillellus luridus",
         "Suillellus rubrosanguineus"
       ]
@@ -2454,10 +2456,8 @@
       "type": "genus",
       "value": "Xerocomellus",
       "matchSpecies": [
-        "Xerocomellus armeniacus",
         "Xerocomellus chrysenteron",
         "Xerocomellus pruinatus",
-        "Xerocomus armeniacus",
         "Xerocomus chrysenteron",
         "Xerocomus pruinatus"
       ]
@@ -2467,7 +2467,6 @@
       "value": "Xerocomus",
       "matchSpecies": [
         "Imleria badia",
-        "Xerocomellus armeniacus",
         "Xerocomellus chrysenteron",
         "Xerocomellus pruinatus",
         "Xerocomus armeniacus",
@@ -6765,7 +6764,8 @@
       "value": "Rubroboletus rubrosanguineus",
       "matchSpecies": [
         "Boletus rubrosanguineus",
-        "Rubroboletus rubrosanguineus"
+        "Rubroboletus rubrosanguineus",
+        "Suillellus rubrosanguineus"
       ]
     },
     {
@@ -7389,6 +7389,7 @@
       "type": "species",
       "value": "Suillellus rubrosanguineus",
       "matchSpecies": [
+        "Rubroboletus rubrosanguineus",
         "Suillellus rubrosanguineus"
       ]
     },
@@ -7809,14 +7810,6 @@
     },
     {
       "type": "species",
-      "value": "Xerocomellus armeniacus",
-      "matchSpecies": [
-        "Xerocomellus armeniacus",
-        "Xerocomus armeniacus"
-      ]
-    },
-    {
-      "type": "species",
       "value": "Xerocomellus chrysenteron",
       "matchSpecies": [
         "Xerocomellus chrysenteron",
@@ -7835,7 +7828,6 @@
       "type": "species",
       "value": "Xerocomus armeniacus",
       "matchSpecies": [
-        "Xerocomellus armeniacus",
         "Xerocomus armeniacus"
       ]
     },
@@ -8084,7 +8076,6 @@
         "Suillellus luridus",
         "Suillellus rubrosanguineus",
         "Tylopilus felleus",
-        "Xerocomellus armeniacus",
         "Xerocomellus chrysenteron",
         "Xerocomellus pruinatus",
         "Xerocomus armeniacus",
@@ -8273,6 +8264,15 @@
         "Entoloma nitidum",
         "Entoloma rhodopolium",
         "Rhodocybe gemina"
+      ]
+    },
+    {
+      "type": "famiglia",
+      "value": "Exidiaceae",
+      "matchSpecies": [
+        "Pseudohydnum gelatinosum",
+        "Pseudohydnum gelatinosum f. album",
+        "Pseudohydnum gelatinosum f. fuscum"
       ]
     },
     {
@@ -9716,7 +9716,6 @@
         "Suillus viscidus",
         "Tapinella atrotomentosa",
         "Tylopilus felleus",
-        "Xerocomellus armeniacus",
         "Xerocomellus chrysenteron",
         "Xerocomellus pruinatus",
         "Xerocomus armeniacus",
@@ -10785,7 +10784,6 @@
         "Vanderbylia fraxinea",
         "Vascellum pratense",
         "Volvariella murinella",
-        "Xerocomellus armeniacus",
         "Xerocomellus chrysenteron",
         "Xerocomellus pruinatus",
         "Xerocomus armeniacus",
@@ -11647,7 +11645,6 @@
         "Vanderbylia fraxinea",
         "Vascellum pratense",
         "Volvariella murinella",
-        "Xerocomellus armeniacus",
         "Xerocomellus chrysenteron",
         "Xerocomellus pruinatus",
         "Xerocomus armeniacus",
@@ -12387,7 +12384,6 @@
         "Vanderbylia fraxinea",
         "Vascellum pratense",
         "Volvariella murinella",
-        "Xerocomellus armeniacus",
         "Xerocomellus chrysenteron",
         "Xerocomellus pruinatus",
         "Xerocomus armeniacus",

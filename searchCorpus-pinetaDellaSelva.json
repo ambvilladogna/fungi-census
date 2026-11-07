@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T01:14:33.562Z",
+  "generatedAt": "2026-11-07T01:14:30.750Z",
   "corpus": [
     {
       "type": "genus",
@@ -135,6 +135,7 @@
       "value": "Cantharellus",
       "matchSpecies": [
         "Cantharellus amethysteus",
+        "Cantharellus cibarius",
         "Cantharellus romagnesianus",
         "Cantharellus tubaeformis",
         "Craterellus tubaeformis"
@@ -529,7 +530,9 @@
       "type": "genus",
       "value": "Lepista",
       "matchSpecies": [
-        "Lepista glaucocana"
+        "Lepista glaucocana",
+        "Lepista inversa",
+        "Paralepista flaccida"
       ]
     },
     {
@@ -649,6 +652,14 @@
       "value": "Panus",
       "matchSpecies": [
         "Panus conchatus"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Paralepista",
+      "matchSpecies": [
+        "Lepista inversa",
+        "Paralepista flaccida"
       ]
     },
     {
@@ -887,8 +898,10 @@
       "type": "genus",
       "value": "Tricholoma",
       "matchSpecies": [
+        "Tricholoma myomyces",
         "Tricholoma portentosum",
         "Tricholoma saponaceum",
+        "Tricholoma terreum",
         "Tricholoma vaccinum"
       ]
     },
@@ -917,18 +930,9 @@
     },
     {
       "type": "genus",
-      "value": "Xerocomellus",
-      "matchSpecies": [
-        "Xerocomellus armeniacus",
-        "Xerocomus armeniacus"
-      ]
-    },
-    {
-      "type": "genus",
       "value": "Xerocomus",
       "matchSpecies": [
         "Imleria badia",
-        "Xerocomellus armeniacus",
         "Xerocomus armeniacus",
         "Xerocomus badius",
         "Xerocomus ferrugineus"
@@ -1190,6 +1194,13 @@
       "value": "Cantharellus amethysteus",
       "matchSpecies": [
         "Cantharellus amethysteus"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Cantharellus cibarius",
+      "matchSpecies": [
+        "Cantharellus cibarius"
       ]
     },
     {
@@ -1883,6 +1894,14 @@
     },
     {
       "type": "species",
+      "value": "Lepista inversa",
+      "matchSpecies": [
+        "Lepista inversa",
+        "Paralepista flaccida"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Leucoagaricus bresadolae",
       "matchSpecies": [
         "Leucoagaricus bresadolae",
@@ -2066,6 +2085,14 @@
       "value": "Panus conchatus",
       "matchSpecies": [
         "Panus conchatus"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Paralepista flaccida",
+      "matchSpecies": [
+        "Lepista inversa",
+        "Paralepista flaccida"
       ]
     },
     {
@@ -2476,6 +2503,14 @@
     },
     {
       "type": "species",
+      "value": "Tricholoma myomyces",
+      "matchSpecies": [
+        "Tricholoma myomyces",
+        "Tricholoma terreum"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Tricholoma portentosum",
       "matchSpecies": [
         "Tricholoma portentosum"
@@ -2486,6 +2521,14 @@
       "value": "Tricholoma saponaceum",
       "matchSpecies": [
         "Tricholoma saponaceum"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Tricholoma terreum",
+      "matchSpecies": [
+        "Tricholoma myomyces",
+        "Tricholoma terreum"
       ]
     },
     {
@@ -2526,17 +2569,8 @@
     },
     {
       "type": "species",
-      "value": "Xerocomellus armeniacus",
-      "matchSpecies": [
-        "Xerocomellus armeniacus",
-        "Xerocomus armeniacus"
-      ]
-    },
-    {
-      "type": "species",
       "value": "Xerocomus armeniacus",
       "matchSpecies": [
-        "Xerocomellus armeniacus",
         "Xerocomus armeniacus"
       ]
     },
@@ -2620,7 +2654,6 @@
         "Neoboletus erythropus",
         "Porphyrellus porphyrosporus",
         "Suillellus luridus",
-        "Xerocomellus armeniacus",
         "Xerocomus armeniacus",
         "Xerocomus badius",
         "Xerocomus ferrugineus"
@@ -2671,6 +2704,13 @@
     },
     {
       "type": "famiglia",
+      "value": "Exidiaceae",
+      "matchSpecies": [
+        "Pseudohydnum gelatinosum f. fuscum"
+      ]
+    },
+    {
+      "type": "famiglia",
       "value": "Gloeophyllaceae",
       "matchSpecies": [
         "Gloeophyllum odoratum"
@@ -2706,6 +2746,7 @@
       "value": "Hydnaceae",
       "matchSpecies": [
         "Cantharellus amethysteus",
+        "Cantharellus cibarius",
         "Cantharellus romagnesianus",
         "Cantharellus tubaeformis",
         "Clavulina coralloides",
@@ -2852,6 +2893,14 @@
       "value": "Panaceae",
       "matchSpecies": [
         "Panus conchatus"
+      ]
+    },
+    {
+      "type": "famiglia",
+      "value": "Paralepistaceae",
+      "matchSpecies": [
+        "Lepista inversa",
+        "Paralepista flaccida"
       ]
     },
     {
@@ -3015,8 +3064,10 @@
       "type": "famiglia",
       "value": "Tricholomataceae",
       "matchSpecies": [
+        "Tricholoma myomyces",
         "Tricholoma portentosum",
         "Tricholoma saponaceum",
+        "Tricholoma terreum",
         "Tricholoma vaccinum"
       ]
     },
@@ -3125,6 +3176,7 @@
         "Lepiota magnispora",
         "Lepiota ventriosospora",
         "Lepista glaucocana",
+        "Lepista inversa",
         "Leucoagaricus bresadolae",
         "Leucocybe connata",
         "Lycoperdon echinatum",
@@ -3147,6 +3199,7 @@
         "Mycena zephirus",
         "Mycetinis scorodonius",
         "Omphalina pyxidata",
+        "Paralepista flaccida",
         "Pholiota lenta",
         "Pleurotus ostreatus",
         "Pluteus atromarginatus",
@@ -3163,8 +3216,10 @@
         "Singerocybe phaeophthalma",
         "Stropharia aeruginosa",
         "Stropharia cyanea",
+        "Tricholoma myomyces",
         "Tricholoma portentosum",
         "Tricholoma saponaceum",
+        "Tricholoma terreum",
         "Tricholoma vaccinum",
         "Tricholomopsis decora",
         "Tricholomopsis rutilans",
@@ -3206,7 +3261,6 @@
         "Suillus cavipes",
         "Suillus grevillei",
         "Suillus viscidus",
-        "Xerocomellus armeniacus",
         "Xerocomus armeniacus",
         "Xerocomus badius",
         "Xerocomus ferrugineus"
@@ -3217,6 +3271,7 @@
       "value": "Cantharellales",
       "matchSpecies": [
         "Cantharellus amethysteus",
+        "Cantharellus cibarius",
         "Cantharellus romagnesianus",
         "Cantharellus tubaeformis",
         "Clavulina coralloides",
@@ -3377,6 +3432,7 @@
         "Calonarius saporatus",
         "Calvatia gigantea",
         "Cantharellus amethysteus",
+        "Cantharellus cibarius",
         "Cantharellus romagnesianus",
         "Cantharellus tubaeformis",
         "Cerioporus squamosus",
@@ -3463,6 +3519,7 @@
         "Lepiota magnispora",
         "Lepiota ventriosospora",
         "Lepista glaucocana",
+        "Lepista inversa",
         "Leucoagaricus bresadolae",
         "Leucocybe connata",
         "Lycoperdon echinatum",
@@ -3487,6 +3544,7 @@
         "Neoboletus erythropus",
         "Omphalina pyxidata",
         "Panus conchatus",
+        "Paralepista flaccida",
         "Paxillus involutus",
         "Perenniporia fraxinea",
         "Phaeolus schweinitzii",
@@ -3541,14 +3599,15 @@
         "Suillus viscidus",
         "Trametes cinnabarina",
         "Trametes versicolor",
+        "Tricholoma myomyces",
         "Tricholoma portentosum",
         "Tricholoma saponaceum",
+        "Tricholoma terreum",
         "Tricholoma vaccinum",
         "Tricholomopsis decora",
         "Tricholomopsis rutilans",
         "Vanderbylia fraxinea",
         "Volvariella murinella",
-        "Xerocomellus armeniacus",
         "Xerocomus armeniacus",
         "Xerocomus badius",
         "Xerocomus ferrugineus"
@@ -3654,6 +3713,7 @@
         "Calonarius saporatus",
         "Calvatia gigantea",
         "Cantharellus amethysteus",
+        "Cantharellus cibarius",
         "Cantharellus romagnesianus",
         "Cantharellus tubaeformis",
         "Cerioporus squamosus",
@@ -3740,6 +3800,7 @@
         "Lepiota magnispora",
         "Lepiota ventriosospora",
         "Lepista glaucocana",
+        "Lepista inversa",
         "Leucoagaricus bresadolae",
         "Leucocybe connata",
         "Lycoperdon echinatum",
@@ -3764,6 +3825,7 @@
         "Neoboletus erythropus",
         "Omphalina pyxidata",
         "Panus conchatus",
+        "Paralepista flaccida",
         "Paxillus involutus",
         "Perenniporia fraxinea",
         "Phaeolus schweinitzii",
@@ -3818,14 +3880,15 @@
         "Suillus viscidus",
         "Trametes cinnabarina",
         "Trametes versicolor",
+        "Tricholoma myomyces",
         "Tricholoma portentosum",
         "Tricholoma saponaceum",
+        "Tricholoma terreum",
         "Tricholoma vaccinum",
         "Tricholomopsis decora",
         "Tricholomopsis rutilans",
         "Vanderbylia fraxinea",
         "Volvariella murinella",
-        "Xerocomellus armeniacus",
         "Xerocomus armeniacus",
         "Xerocomus badius",
         "Xerocomus ferrugineus"
@@ -3883,6 +3946,7 @@
         "Calonarius saporatus",
         "Calvatia gigantea",
         "Cantharellus amethysteus",
+        "Cantharellus cibarius",
         "Cantharellus romagnesianus",
         "Cantharellus tubaeformis",
         "Cerioporus squamosus",
@@ -3974,6 +4038,7 @@
         "Lepiota magnispora",
         "Lepiota ventriosospora",
         "Lepista glaucocana",
+        "Lepista inversa",
         "Leucoagaricus bresadolae",
         "Leucocybe connata",
         "Lycoperdon echinatum",
@@ -3998,6 +4063,7 @@
         "Neoboletus erythropus",
         "Omphalina pyxidata",
         "Panus conchatus",
+        "Paralepista flaccida",
         "Paxillus involutus",
         "Perenniporia fraxinea",
         "Phaeolus schweinitzii",
@@ -4053,14 +4119,15 @@
         "Suillus viscidus",
         "Trametes cinnabarina",
         "Trametes versicolor",
+        "Tricholoma myomyces",
         "Tricholoma portentosum",
         "Tricholoma saponaceum",
+        "Tricholoma terreum",
         "Tricholoma vaccinum",
         "Tricholomopsis decora",
         "Tricholomopsis rutilans",
         "Vanderbylia fraxinea",
         "Volvariella murinella",
-        "Xerocomellus armeniacus",
         "Xerocomus armeniacus",
         "Xerocomus badius",
         "Xerocomus ferrugineus"

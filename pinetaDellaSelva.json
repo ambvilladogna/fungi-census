@@ -1,8 +1,8 @@
 {
   "title": "Pineta della Selva",
-  "generatedAt": "2026-11-06T01:14:33.523Z",
-  "totalSpecies": 182,
-  "totalSamples": 310,
+  "generatedAt": "2026-11-07T01:14:30.708Z",
+  "totalSpecies": 186,
+  "totalSamples": 318,
   "species": [
     {
       "genus": "Agaricus",
@@ -219,6 +219,13 @@
       "fullName": "Cantharellus amethysteus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Cantharellales > famiglia: Hydnaceae",
       "authority": "(Quél.) Sacc. 1887"
+    },
+    {
+      "genus": "Cantharellus",
+      "species": "cibarius",
+      "fullName": "Cantharellus cibarius",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Cantharellales > famiglia: Hydnaceae",
+      "authority": "Fr. 1821"
     },
     {
       "genus": "Cantharellus",
@@ -827,6 +834,15 @@
       "authority": "(Bres.) Singer 1951"
     },
     {
+      "genus": "Lepista",
+      "species": "inversa",
+      "fullName": "Lepista inversa",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Paralepistaceae",
+      "authority": "(Scop.) Pat. 1887",
+      "currentName": "Paralepista flaccida",
+      "currentAuthority": "(Sowerby) Vizzini 2012"
+    },
+    {
       "genus": "Leucoagaricus",
       "species": "bresadolae",
       "fullName": "Leucoagaricus bresadolae",
@@ -1113,7 +1129,7 @@
       "genus": "Pseudohydnum",
       "species": "gelatinosum f. fuscum",
       "fullName": "Pseudohydnum gelatinosum f. fuscum",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Auriculariales",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Auriculariales > famiglia: Exidiaceae",
       "authority": "(Bres.) Kobayasi 1954"
     },
     {
@@ -1315,6 +1331,15 @@
     },
     {
       "genus": "Tricholoma",
+      "species": "myomyces",
+      "fullName": "Tricholoma myomyces",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Tricholomataceae",
+      "authority": "(Pers.) J.E. Lange 1933",
+      "currentName": "Tricholoma terreum",
+      "currentAuthority": "(Schaeff.) P. Kumm. 1871"
+    },
+    {
+      "genus": "Tricholoma",
       "species": "portentosum",
       "fullName": "Tricholoma portentosum",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Tricholomataceae",
@@ -1326,6 +1351,13 @@
       "fullName": "Tricholoma saponaceum",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Tricholomataceae",
       "authority": "(Fr.) P. Kumm. 1871"
+    },
+    {
+      "genus": "Tricholoma",
+      "species": "terreum",
+      "fullName": "Tricholoma terreum",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Tricholomataceae",
+      "authority": "(Schaeff.) P. Kumm. 1871"
     },
     {
       "genus": "Tricholoma",
@@ -1360,9 +1392,7 @@
       "species": "armeniacus",
       "fullName": "Xerocomus armeniacus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
-      "authority": "(Quél.) Quél. 1888",
-      "currentName": "Xerocomellus armeniacus",
-      "currentAuthority": "(Quél.) M. Ullah, Saba, Asif & Karun. 2026"
+      "authority": "(Quél.) Quél. 1888"
     },
     {
       "genus": "Xerocomus",
