@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-11-08",
+      "collector": "Pietro Centenari",
+      "locality": "Val Righenzuolo, Onore",
+      "localityCoordinates": "45.87806, 10.02910",
+      "habitat": "Bosco misto conifere e latifoglie",
+      "determiner": "Pietro Centenari"
+    },
+    {
       "collectionDate": "2026-10-19",
       "collector": "Pietro Centenari",
       "locality": "Zenier, Rovetta",
@@ -153,7 +161,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "07-14",
-    "raccoltaPiuTarda": "10-24",
+    "raccoltaPiuTarda": "11-08",
     "campioniPerMese": [
       {
         "gen": 0
@@ -186,7 +194,7 @@
         "ott": 5
       },
       {
-        "nov": 0
+        "nov": 1
       },
       {
         "dic": 0
@@ -194,8 +202,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 18,
-    "campioniRaccolti": 18,
+    "totaleCampioni": 19,
+    "campioniRaccolti": 19,
     "campioniExsiccata": 0
   }
 }

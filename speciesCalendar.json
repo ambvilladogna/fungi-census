@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-07T01:14:30.593Z",
-  "totalSpecies": 606,
-  "totalSamples": 2203,
+  "generatedAt": "2026-11-09T01:14:37.158Z",
+  "totalSpecies": 607,
+  "totalSamples": 2208,
   "species": [
     {
       "genus": "Flammulina",
@@ -6465,7 +6465,7 @@
       "fullName": "Hydnum repandum",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Cantharellales > famiglia: Hydnaceae",
       "authority": "L. 1753",
-      "totalSamples": 18,
+      "totalSamples": 19,
       "monthlyCount": [
         0,
         0,
@@ -6477,7 +6477,7 @@
         7,
         5,
         5,
-        0,
+        1,
         0
       ],
       "earliestDate": "07-14",
@@ -6491,14 +6491,14 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "10-24",
-      "latestDayOfYear": 297,
+      "latestDate": "11-08",
+      "latestDayOfYear": 313,
       "latestSample": {
-        "collectionDate": "2025-10-24",
+        "collectionDate": "2026-11-08",
         "collector": "Pietro Centenari",
-        "locality": "Blum, Rovetta",
-        "localityCoordinates": "45.909548, 9.973256",
-        "habitat": "Abete rosso",
+        "locality": "Val Righenzuolo, Onore",
+        "localityCoordinates": "45.87806, 10.02910",
+        "habitat": "Bosco misto conifere e latifoglie",
         "determiner": "Pietro Centenari",
         "_tipo": "raccolto"
       }
@@ -16667,7 +16667,7 @@
       "fullName": "Lactarius deterrimus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
       "authority": "Gröger 1968",
-      "totalSamples": 14,
+      "totalSamples": 15,
       "monthlyCount": [
         0,
         0,
@@ -16679,7 +16679,7 @@
         0,
         9,
         5,
-        0,
+        1,
         0
       ],
       "earliestDate": "09-06",
@@ -16693,15 +16693,15 @@
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       },
-      "latestDate": "10-27",
-      "latestDayOfYear": 300,
+      "latestDate": "11-08",
+      "latestDayOfYear": 313,
       "latestSample": {
-        "collectionDate": "2025-10-27",
-        "collector": "Pierino Bigoni",
-        "locality": "Pineta della Selva, Clusone",
-        "localityCoordinates": "45.88196, 9.91806",
+        "collectionDate": "2026-11-08",
+        "collector": "Pietro Centenari",
+        "locality": "Val Righenzuolo, Onore",
+        "localityCoordinates": "45.87806, 10.02910",
         "habitat": "Abete rosso",
-        "determiner": "Pierino Bigoni",
+        "determiner": "Pietro Centenari",
         "_tipo": "raccolto"
       }
     },
@@ -20547,7 +20547,7 @@
       "fullName": "Lactarius deliciosus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
       "authority": "(L.) Gray 1821",
-      "totalSamples": 7,
+      "totalSamples": 8,
       "monthlyCount": [
         0,
         0,
@@ -20559,7 +20559,7 @@
         0,
         1,
         4,
-        2,
+        3,
         0
       ],
       "earliestDate": "09-17",
@@ -20573,15 +20573,15 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "11-05",
-      "latestDayOfYear": 310,
+      "latestDate": "11-08",
+      "latestDayOfYear": 313,
       "latestSample": {
-        "collectionDate": "2025-11-05",
-        "collector": "Pierino Bigoni",
-        "locality": "Roccolo Sparpaì, Piario",
-        "localityCoordinates": "45.887066, 9.921201",
-        "habitat": "Bosco misto abete e pino silvestre",
-        "determiner": "Pierino Bigoni",
+        "collectionDate": "2026-11-08",
+        "collector": "Pietro Centenari",
+        "locality": "Val Righenzuolo, Onore",
+        "localityCoordinates": "45.87806, 10.02910",
+        "habitat": "Pino silvestre",
+        "determiner": "Pietro Centenari",
         "_tipo": "raccolto"
       }
     },
@@ -23659,7 +23659,7 @@
       "fullName": "Lepista glaucocana",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales",
       "authority": "(Bres.) Singer 1951",
-      "totalSamples": 5,
+      "totalSamples": 6,
       "monthlyCount": [
         0,
         0,
@@ -23671,7 +23671,7 @@
         0,
         0,
         3,
-        2,
+        3,
         0
       ],
       "earliestDate": "10-09",
@@ -23685,14 +23685,14 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "11-03",
-      "latestDayOfYear": 308,
+      "latestDate": "11-08",
+      "latestDayOfYear": 313,
       "latestSample": {
-        "collectionDate": "2026-11-03",
-        "collector": "Fabio Locatelli",
-        "locality": "Val Cadregú, Clusone",
-        "localityCoordinates": "45.897460, 9.963130",
-        "habitat": "Bosco misto",
+        "collectionDate": "2026-11-08",
+        "collector": "Pietro Centenari",
+        "locality": "Val Righenzuolo, Songavazzo",
+        "localityCoordinates": "45.864929, 10.038462",
+        "habitat": "Bosco misto conifere e latifoglie",
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
@@ -26311,6 +26311,50 @@
         "localityCoordinates": "45.970802, 9.963785",
         "habitat": "Bosco misto abete bianco e abete rosso",
         "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Hydnum",
+      "species": "albidum",
+      "fullName": "Hydnum albidum",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Cantharellales > famiglia: Hydnaceae",
+      "authority": "Peck 1887",
+      "totalSamples": 1,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "earliestDate": "11-08",
+      "earliestDayOfYear": 313,
+      "earliestSample": {
+        "collectionDate": "2026-11-08",
+        "collector": "Pietro Centenari",
+        "locality": "Val Righenzuolo, Onore",
+        "localityCoordinates": "45.87806, 10.02910",
+        "habitat": "Bosco misto conifere e latifoglie",
+        "determiner": "Pietro Centenari",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "11-08",
+      "latestDayOfYear": 313,
+      "latestSample": {
+        "collectionDate": "2026-11-08",
+        "collector": "Pietro Centenari",
+        "locality": "Val Righenzuolo, Onore",
+        "localityCoordinates": "45.87806, 10.02910",
+        "habitat": "Bosco misto conifere e latifoglie",
+        "determiner": "Pietro Centenari",
         "_tipo": "raccolto"
       }
     },

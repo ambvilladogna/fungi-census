@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-07T01:14:30.531Z",
-  "totalSpecies": 606,
-  "totalSamples": 1997,
+  "generatedAt": "2026-11-09T01:14:37.104Z",
+  "totalSpecies": 607,
+  "totalSamples": 2002,
   "species": [
     {
       "genus": "Abortiporus",
@@ -1937,6 +1937,13 @@
       "fullName": "Hydnellum scrobiculatum",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Thelephorales > famiglia: Bankeraceae",
       "authority": "(Fr.) P. Karst. 1879"
+    },
+    {
+      "genus": "Hydnum",
+      "species": "albidum",
+      "fullName": "Hydnum albidum",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Cantharellales > famiglia: Hydnaceae",
+      "authority": "Peck 1887"
     },
     {
       "genus": "Hydnum",

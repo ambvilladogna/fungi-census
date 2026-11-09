@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-11-08",
+      "collector": "Pietro Centenari",
+      "locality": "Val Righenzuolo, Songavazzo",
+      "localityCoordinates": "45.864929, 10.038462",
+      "habitat": "Bosco misto conifere e latifoglie",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2026-11-03",
       "collector": "Fabio Locatelli",
       "locality": "Val Cadregú, Clusone",
@@ -49,7 +57,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "10-09",
-    "raccoltaPiuTarda": "11-03",
+    "raccoltaPiuTarda": "11-08",
     "campioniPerMese": [
       {
         "gen": 0
@@ -82,7 +90,7 @@
         "ott": 3
       },
       {
-        "nov": 2
+        "nov": 3
       },
       {
         "dic": 0
@@ -90,8 +98,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 5,
-    "campioniRaccolti": 5,
+    "totaleCampioni": 6,
+    "campioniRaccolti": 6,
     "campioniExsiccata": 0
   }
 }

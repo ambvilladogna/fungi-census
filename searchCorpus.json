@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T01:14:30.737Z",
+  "generatedAt": "2026-11-09T01:14:37.281Z",
   "corpus": [
     {
       "type": "genus",
@@ -1107,6 +1107,7 @@
       "type": "genus",
       "value": "Hydnum",
       "matchSpecies": [
+        "Hydnum albidum",
         "Hydnum repandum",
         "Hydnum rufescens"
       ]
@@ -4823,6 +4824,13 @@
     },
     {
       "type": "species",
+      "value": "Hydnum albidum",
+      "matchSpecies": [
+        "Hydnum albidum"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Hydnum repandum",
       "matchSpecies": [
         "Hydnum repandum"
@@ -8427,6 +8435,7 @@
         "Craterellus lutescens",
         "Craterellus melanoxeros",
         "Craterellus tubaeformis",
+        "Hydnum albidum",
         "Hydnum repandum",
         "Hydnum rufescens"
       ]
@@ -9747,6 +9756,7 @@
         "Craterellus lutescens",
         "Craterellus melanoxeros",
         "Craterellus tubaeformis",
+        "Hydnum albidum",
         "Hydnum repandum",
         "Hydnum rufescens"
       ]
@@ -10401,6 +10411,7 @@
         "Hirneola auricula-judae",
         "Hydnellum peckii",
         "Hydnellum scrobiculatum",
+        "Hydnum albidum",
         "Hydnum repandum",
         "Hydnum rufescens",
         "Hygrocybe calyptriformis",
@@ -11260,6 +11271,7 @@
         "Hirneola auricula-judae",
         "Hydnellum peckii",
         "Hydnellum scrobiculatum",
+        "Hydnum albidum",
         "Hydnum repandum",
         "Hydnum rufescens",
         "Hygrocybe calyptriformis",
@@ -11982,6 +11994,7 @@
         "Hirneola auricula-judae",
         "Hydnellum peckii",
         "Hydnellum scrobiculatum",
+        "Hydnum albidum",
         "Hydnum repandum",
         "Hydnum rufescens",
         "Hygrocybe calyptriformis",
