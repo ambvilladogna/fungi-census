@@ -6,6 +6,22 @@
   "autoreCorrente": "(Bull.) Lennox 1979",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-11-08",
+      "collector": "Fabio Locatelli",
+      "locality": "Busgarina, Clusone",
+      "localityCoordinates": "45.873024, 9.916009",
+      "habitat": "Bosco misto",
+      "determiner": "Pierino Bigoni"
+    },
+    {
+      "collectionDate": "2026-11-08",
+      "collector": "Pierino Bigoni",
+      "locality": "Pineta della Selva, Clusone",
+      "localityCoordinates": "45.88196, 9.91806",
+      "habitat": "Bosco misto conifere e latifoglie",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-11-02",
       "collector": "Fabio Locatelli",
       "locality": "Brugai, Onore, Bergamo",
@@ -41,7 +57,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "09-14",
-    "raccoltaPiuTarda": "11-02",
+    "raccoltaPiuTarda": "11-08",
     "campioniPerMese": [
       {
         "gen": 0
@@ -74,7 +90,7 @@
         "ott": 0
       },
       {
-        "nov": 1
+        "nov": 3
       },
       {
         "dic": 0
@@ -82,8 +98,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 4,
-    "campioniRaccolti": 4,
+    "totaleCampioni": 6,
+    "campioniRaccolti": 6,
     "campioniExsiccata": 0
   }
 }

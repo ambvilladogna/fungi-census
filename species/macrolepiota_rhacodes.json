@@ -6,6 +6,22 @@
   "autoreCorrente": "(Vittad.) Vellinga 2002",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-11-08",
+      "collector": "Fabio Locatelli",
+      "locality": "Busgarina, Clusone",
+      "localityCoordinates": "45.873024, 9.916009",
+      "habitat": "Bosco misto",
+      "determiner": "Pierino Bigoni"
+    },
+    {
+      "collectionDate": "2026-11-08",
+      "collector": "Pierino Bigoni",
+      "locality": "Pineta della Selva, Clusone",
+      "localityCoordinates": "45.88196, 9.91806",
+      "habitat": "Bosco misto conifere e latifoglie",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-10-12",
       "collector": "Pierino Bigoni",
       "locality": "Pineta della Selva, Clusone",
@@ -57,7 +73,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "09-13",
-    "raccoltaPiuTarda": "10-12",
+    "raccoltaPiuTarda": "11-08",
     "campioniPerMese": [
       {
         "gen": 0
@@ -90,7 +106,7 @@
         "ott": 2
       },
       {
-        "nov": 0
+        "nov": 2
       },
       {
         "dic": 0
@@ -98,8 +114,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 6,
-    "campioniRaccolti": 6,
+    "totaleCampioni": 8,
+    "campioniRaccolti": 8,
     "campioniExsiccata": 0
   }
 }

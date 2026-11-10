@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T01:14:37.281Z",
+  "generatedAt": "2026-11-10T01:14:59.918Z",
   "corpus": [
     {
       "type": "genus",
@@ -301,12 +301,14 @@
       "value": "Calonarius",
       "matchSpecies": [
         "Calonarius atrovirens",
+        "Calonarius callochrous",
         "Calonarius elegantior",
         "Calonarius meinhardii",
         "Calonarius odorifer",
         "Calonarius saporatus",
         "Calonarius splendens",
         "Cortinarius atrovirens",
+        "Cortinarius callochrous",
         "Cortinarius elegantior",
         "Cortinarius odorifer",
         "Cortinarius saporatus",
@@ -634,6 +636,7 @@
         "Aureonarius callisteus",
         "Aureonarius limonius",
         "Calonarius atrovirens",
+        "Calonarius callochrous",
         "Calonarius elegantior",
         "Calonarius meinhardii",
         "Calonarius odorifer",
@@ -645,6 +648,7 @@
         "Cortinarius brunneus",
         "Cortinarius bulliardii",
         "Cortinarius callisteus",
+        "Cortinarius callochrous",
         "Cortinarius caninus",
         "Cortinarius caperatus",
         "Cortinarius collinitus",
@@ -755,7 +759,9 @@
       "value": "Cystoderma",
       "matchSpecies": [
         "Cystoderma amianthinum",
+        "Cystoderma granulosum",
         "Cystoderma terryi",
+        "Cystodermella granulosa",
         "Cystodermella terryi"
       ]
     },
@@ -763,7 +769,9 @@
       "type": "genus",
       "value": "Cystodermella",
       "matchSpecies": [
+        "Cystoderma granulosum",
         "Cystoderma terryi",
+        "Cystodermella granulosa",
         "Cystodermella terryi"
       ]
     },
@@ -1107,7 +1115,6 @@
       "type": "genus",
       "value": "Hydnum",
       "matchSpecies": [
-        "Hydnum albidum",
         "Hydnum repandum",
         "Hydnum rufescens"
       ]
@@ -1381,6 +1388,7 @@
         "Leccinellum pseudoscabrum",
         "Leccinum aurantiacum",
         "Leccinum carpini",
+        "Leccinum cyaneobasileucum var. brunneogriseolum",
         "Leccinum scabrum",
         "Leccinum vulpinum"
       ]
@@ -2272,6 +2280,7 @@
         "Suillus luteus",
         "Suillus placidus",
         "Suillus plorans",
+        "Suillus tridentinus",
         "Suillus variegatus",
         "Suillus viscidus"
       ]
@@ -3163,6 +3172,14 @@
     },
     {
       "type": "species",
+      "value": "Calonarius callochrous",
+      "matchSpecies": [
+        "Calonarius callochrous",
+        "Cortinarius callochrous"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Calonarius elegantior",
       "matchSpecies": [
         "Calonarius elegantior",
@@ -3890,6 +3907,14 @@
     },
     {
       "type": "species",
+      "value": "Cortinarius callochrous",
+      "matchSpecies": [
+        "Calonarius callochrous",
+        "Cortinarius callochrous"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Cortinarius caninus",
       "matchSpecies": [
         "Cortinarius caninus"
@@ -4226,10 +4251,26 @@
     },
     {
       "type": "species",
+      "value": "Cystoderma granulosum",
+      "matchSpecies": [
+        "Cystoderma granulosum",
+        "Cystodermella granulosa"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Cystoderma terryi",
       "matchSpecies": [
         "Cystoderma terryi",
         "Cystodermella terryi"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Cystodermella granulosa",
+      "matchSpecies": [
+        "Cystoderma granulosum",
+        "Cystodermella granulosa"
       ]
     },
     {
@@ -4820,13 +4861,6 @@
       "value": "Hydnellum scrobiculatum",
       "matchSpecies": [
         "Hydnellum scrobiculatum"
-      ]
-    },
-    {
-      "type": "species",
-      "value": "Hydnum albidum",
-      "matchSpecies": [
-        "Hydnum albidum"
       ]
     },
     {
@@ -5465,6 +5499,13 @@
       "matchSpecies": [
         "Leccinellum pseudoscabrum",
         "Leccinum carpini"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Leccinum cyaneobasileucum var. brunneogriseolum",
+      "matchSpecies": [
+        "Leccinum cyaneobasileucum var. brunneogriseolum"
       ]
     },
     {
@@ -7453,6 +7494,13 @@
     },
     {
       "type": "species",
+      "value": "Suillus tridentinus",
+      "matchSpecies": [
+        "Suillus tridentinus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Suillus variegatus",
       "matchSpecies": [
         "Suillus variegatus"
@@ -8073,6 +8121,7 @@
         "Leccinellum pseudoscabrum",
         "Leccinum aurantiacum",
         "Leccinum carpini",
+        "Leccinum cyaneobasileucum var. brunneogriseolum",
         "Leccinum scabrum",
         "Leccinum vulpinum",
         "Neoboletus erythropus",
@@ -8170,6 +8219,7 @@
         "Aureonarius callisteus",
         "Aureonarius limonius",
         "Calonarius atrovirens",
+        "Calonarius callochrous",
         "Calonarius elegantior",
         "Calonarius meinhardii",
         "Calonarius odorifer",
@@ -8181,6 +8231,7 @@
         "Cortinarius brunneus",
         "Cortinarius bulliardii",
         "Cortinarius callisteus",
+        "Cortinarius callochrous",
         "Cortinarius caninus",
         "Cortinarius caperatus",
         "Cortinarius collinitus",
@@ -8435,7 +8486,6 @@
         "Craterellus lutescens",
         "Craterellus melanoxeros",
         "Craterellus tubaeformis",
-        "Hydnum albidum",
         "Hydnum repandum",
         "Hydnum rufescens"
       ]
@@ -9105,6 +9155,7 @@
         "Suillus luteus",
         "Suillus placidus",
         "Suillus plorans",
+        "Suillus tridentinus",
         "Suillus variegatus",
         "Suillus viscidus"
       ]
@@ -9293,6 +9344,7 @@
         "Britzelmayria multipedata",
         "Calocybe gambosa",
         "Calonarius atrovirens",
+        "Calonarius callochrous",
         "Calonarius elegantior",
         "Calonarius meinhardii",
         "Calonarius odorifer",
@@ -9363,6 +9415,7 @@
         "Cortinarius brunneus",
         "Cortinarius bulliardii",
         "Cortinarius callisteus",
+        "Cortinarius callochrous",
         "Cortinarius caninus",
         "Cortinarius caperatus",
         "Cortinarius collinitus",
@@ -9401,7 +9454,9 @@
         "Cyclocybe cylindracea",
         "Cystinarius crassus",
         "Cystoderma amianthinum",
+        "Cystoderma granulosum",
         "Cystoderma terryi",
+        "Cystodermella granulosa",
         "Cystodermella terryi",
         "Deconica coprophila",
         "Delicatula integrella",
@@ -9696,6 +9751,7 @@
         "Leccinellum pseudoscabrum",
         "Leccinum aurantiacum",
         "Leccinum carpini",
+        "Leccinum cyaneobasileucum var. brunneogriseolum",
         "Leccinum scabrum",
         "Leccinum vulpinum",
         "Neoboletus erythropus",
@@ -9721,6 +9777,7 @@
         "Suillus luteus",
         "Suillus placidus",
         "Suillus plorans",
+        "Suillus tridentinus",
         "Suillus variegatus",
         "Suillus viscidus",
         "Tapinella atrotomentosa",
@@ -9756,7 +9813,6 @@
         "Craterellus lutescens",
         "Craterellus melanoxeros",
         "Craterellus tubaeformis",
-        "Hydnum albidum",
         "Hydnum repandum",
         "Hydnum rufescens"
       ]
@@ -10213,6 +10269,7 @@
         "Caloboletus radicans",
         "Calocybe gambosa",
         "Calonarius atrovirens",
+        "Calonarius callochrous",
         "Calonarius elegantior",
         "Calonarius meinhardii",
         "Calonarius odorifer",
@@ -10302,6 +10359,7 @@
         "Cortinarius brunneus",
         "Cortinarius bulliardii",
         "Cortinarius callisteus",
+        "Cortinarius callochrous",
         "Cortinarius caninus",
         "Cortinarius caperatus",
         "Cortinarius collinitus",
@@ -10347,7 +10405,9 @@
         "Cyclocybe cylindracea",
         "Cystinarius crassus",
         "Cystoderma amianthinum",
+        "Cystoderma granulosum",
         "Cystoderma terryi",
+        "Cystodermella granulosa",
         "Cystodermella terryi",
         "Daedaleopsis confragosa",
         "Daedaleopsis tricolor",
@@ -10411,7 +10471,6 @@
         "Hirneola auricula-judae",
         "Hydnellum peckii",
         "Hydnellum scrobiculatum",
-        "Hydnum albidum",
         "Hydnum repandum",
         "Hydnum rufescens",
         "Hygrocybe calyptriformis",
@@ -10495,6 +10554,7 @@
         "Leccinellum pseudoscabrum",
         "Leccinum aurantiacum",
         "Leccinum carpini",
+        "Leccinum cyaneobasileucum var. brunneogriseolum",
         "Leccinum scabrum",
         "Leccinum vulpinum",
         "Lentinellus cochleatus",
@@ -10752,6 +10812,7 @@
         "Suillus luteus",
         "Suillus placidus",
         "Suillus plorans",
+        "Suillus tridentinus",
         "Suillus variegatus",
         "Suillus viscidus",
         "Tapinella atrotomentosa",
@@ -11070,6 +11131,7 @@
         "Calocera viscosa",
         "Calocybe gambosa",
         "Calonarius atrovirens",
+        "Calonarius callochrous",
         "Calonarius elegantior",
         "Calonarius meinhardii",
         "Calonarius odorifer",
@@ -11160,6 +11222,7 @@
         "Cortinarius brunneus",
         "Cortinarius bulliardii",
         "Cortinarius callisteus",
+        "Cortinarius callochrous",
         "Cortinarius caninus",
         "Cortinarius caperatus",
         "Cortinarius collinitus",
@@ -11205,7 +11268,9 @@
         "Cyclocybe cylindracea",
         "Cystinarius crassus",
         "Cystoderma amianthinum",
+        "Cystoderma granulosum",
         "Cystoderma terryi",
+        "Cystodermella granulosa",
         "Cystodermella terryi",
         "Dacrymyces chrysospermus",
         "Daedaleopsis confragosa",
@@ -11271,7 +11336,6 @@
         "Hirneola auricula-judae",
         "Hydnellum peckii",
         "Hydnellum scrobiculatum",
-        "Hydnum albidum",
         "Hydnum repandum",
         "Hydnum rufescens",
         "Hygrocybe calyptriformis",
@@ -11355,6 +11419,7 @@
         "Leccinellum pseudoscabrum",
         "Leccinum aurantiacum",
         "Leccinum carpini",
+        "Leccinum cyaneobasileucum var. brunneogriseolum",
         "Leccinum scabrum",
         "Leccinum vulpinum",
         "Lentinellus cochleatus",
@@ -11612,6 +11677,7 @@
         "Suillus luteus",
         "Suillus placidus",
         "Suillus plorans",
+        "Suillus tridentinus",
         "Suillus variegatus",
         "Suillus viscidus",
         "Tapinella atrotomentosa",
@@ -11778,6 +11844,7 @@
         "Calocera viscosa",
         "Calocybe gambosa",
         "Calonarius atrovirens",
+        "Calonarius callochrous",
         "Calonarius elegantior",
         "Calonarius meinhardii",
         "Calonarius odorifer",
@@ -11873,6 +11940,7 @@
         "Cortinarius brunneus",
         "Cortinarius bulliardii",
         "Cortinarius callisteus",
+        "Cortinarius callochrous",
         "Cortinarius caninus",
         "Cortinarius caperatus",
         "Cortinarius collinitus",
@@ -11918,7 +11986,9 @@
         "Cyclocybe cylindracea",
         "Cystinarius crassus",
         "Cystoderma amianthinum",
+        "Cystoderma granulosum",
         "Cystoderma terryi",
+        "Cystodermella granulosa",
         "Cystodermella terryi",
         "Dacrymyces chrysospermus",
         "Daedaleopsis confragosa",
@@ -11994,7 +12064,6 @@
         "Hirneola auricula-judae",
         "Hydnellum peckii",
         "Hydnellum scrobiculatum",
-        "Hydnum albidum",
         "Hydnum repandum",
         "Hydnum rufescens",
         "Hygrocybe calyptriformis",
@@ -12082,6 +12151,7 @@
         "Leccinellum pseudoscabrum",
         "Leccinum aurantiacum",
         "Leccinum carpini",
+        "Leccinum cyaneobasileucum var. brunneogriseolum",
         "Leccinum scabrum",
         "Leccinum vulpinum",
         "Lentinellus cochleatus",
@@ -12349,6 +12419,7 @@
         "Suillus luteus",
         "Suillus placidus",
         "Suillus plorans",
+        "Suillus tridentinus",
         "Suillus variegatus",
         "Suillus viscidus",
         "Tapinella atrotomentosa",

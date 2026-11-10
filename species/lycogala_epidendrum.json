@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-11-08",
+      "collector": "Pierino Bigoni",
+      "locality": "Pineta della Selva, Clusone",
+      "localityCoordinates": "45.88196, 9.91806",
+      "habitat": "Legno degradato",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-06-12",
       "collector": "Pierino Bigoni",
       "locality": "Pineta della Selva, Clusone",
@@ -73,7 +81,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "05-19",
-    "raccoltaPiuTarda": "11-01",
+    "raccoltaPiuTarda": "11-08",
     "campioniPerMese": [
       {
         "gen": 0
@@ -106,7 +114,7 @@
         "ott": 1
       },
       {
-        "nov": 1
+        "nov": 2
       },
       {
         "dic": 0
@@ -114,8 +122,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 8,
-    "campioniRaccolti": 8,
+    "totaleCampioni": 9,
+    "campioniRaccolti": 9,
     "campioniExsiccata": 0
   }
 }

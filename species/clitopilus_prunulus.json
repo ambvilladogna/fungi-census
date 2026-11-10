@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-11-08",
+      "collector": "Pierino Bigoni",
+      "locality": "Pineta della Selva, Clusone",
+      "localityCoordinates": "45.88196, 9.91806",
+      "habitat": "Bosco misto conifere e latifoglie",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-11-02",
       "collector": "Luigi Rossi",
       "locality": "Fogarolo, Rovetta",
@@ -28,14 +36,6 @@
       "localityCoordinates": "45.88196, 9.91806",
       "habitat": "Bosco misto",
       "determiner": "Pierino Bigoni"
-    },
-    {
-      "collectionDate": "2026-10-09",
-      "collector": "Pietro Centenari",
-      "locality": "Sent. Alto Serio (Verso i monti Parè e Blum - strada), Rovetta, Comunità Montana della Valle Seriana, Bergamo",
-      "localityCoordinates": "45.908087, 9.967027",
-      "habitat": "Abete rosso",
-      "determiner": "Pietro Centenari"
     },
     {
       "collectionDate": "2026-09-30",
@@ -209,7 +209,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "07-14",
-    "raccoltaPiuTarda": "11-02",
+    "raccoltaPiuTarda": "11-08",
     "campioniPerMese": [
       {
         "gen": 0
@@ -239,10 +239,10 @@
         "set": 9
       },
       {
-        "ott": 5
+        "ott": 4
       },
       {
-        "nov": 1
+        "nov": 2
       },
       {
         "dic": 0

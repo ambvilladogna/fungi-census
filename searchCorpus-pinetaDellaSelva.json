@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T01:14:30.750Z",
+  "generatedAt": "2026-11-10T01:14:59.929Z",
   "corpus": [
     {
       "type": "genus",
@@ -204,11 +204,13 @@
       "type": "genus",
       "value": "Collybia",
       "matchSpecies": [
+        "Collybia butyracea",
         "Collybia distorta",
         "Collybia erythropus",
         "Collybia fusipes",
         "Gymnopus erythropus",
         "Gymnopus fusipes",
+        "Rhodocollybia butyracea",
         "Rhodocollybia prolixa"
       ]
     },
@@ -294,6 +296,22 @@
     },
     {
       "type": "genus",
+      "value": "Cystoderma",
+      "matchSpecies": [
+        "Cystoderma granulosum",
+        "Cystodermella granulosa"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Cystodermella",
+      "matchSpecies": [
+        "Cystoderma granulosum",
+        "Cystodermella granulosa"
+      ]
+    },
+    {
+      "type": "genus",
       "value": "Dumontinia",
       "matchSpecies": [
         "Dumontinia tuberosa"
@@ -328,6 +346,13 @@
       "value": "Fuligo",
       "matchSpecies": [
         "Fuligo septica"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Galerina",
+      "matchSpecies": [
+        "Galerina stylifera"
       ]
     },
     {
@@ -372,6 +397,7 @@
       "type": "genus",
       "value": "Hebeloma",
       "matchSpecies": [
+        "Hebeloma crustuliniforme",
         "Hebeloma sinapizans"
       ]
     },
@@ -801,7 +827,9 @@
       "type": "genus",
       "value": "Rhodocollybia",
       "matchSpecies": [
+        "Collybia butyracea",
         "Collybia distorta",
+        "Rhodocollybia butyracea",
         "Rhodocollybia prolixa"
       ]
     },
@@ -1311,6 +1339,14 @@
     },
     {
       "type": "species",
+      "value": "Collybia butyracea",
+      "matchSpecies": [
+        "Collybia butyracea",
+        "Rhodocollybia butyracea"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Collybia distorta",
       "matchSpecies": [
         "Collybia distorta",
@@ -1497,6 +1533,22 @@
     },
     {
       "type": "species",
+      "value": "Cystoderma granulosum",
+      "matchSpecies": [
+        "Cystoderma granulosum",
+        "Cystodermella granulosa"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Cystodermella granulosa",
+      "matchSpecies": [
+        "Cystoderma granulosum",
+        "Cystodermella granulosa"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Dumontinia tuberosa",
       "matchSpecies": [
         "Dumontinia tuberosa"
@@ -1547,6 +1599,13 @@
     },
     {
       "type": "species",
+      "value": "Galerina stylifera",
+      "matchSpecies": [
+        "Galerina stylifera"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Ganoderma adspersum",
       "matchSpecies": [
         "Ganoderma adspersum"
@@ -1587,6 +1646,13 @@
       "matchSpecies": [
         "Collybia fusipes",
         "Gymnopus fusipes"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Hebeloma crustuliniforme",
+      "matchSpecies": [
+        "Hebeloma crustuliniforme"
       ]
     },
     {
@@ -2268,6 +2334,14 @@
     },
     {
       "type": "species",
+      "value": "Rhodocollybia butyracea",
+      "matchSpecies": [
+        "Collybia butyracea",
+        "Rhodocollybia butyracea"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Rhodocollybia prolixa",
       "matchSpecies": [
         "Collybia distorta",
@@ -2711,6 +2785,13 @@
     },
     {
       "type": "famiglia",
+      "value": "Galerinaceae",
+      "matchSpecies": [
+        "Galerina stylifera"
+      ]
+    },
+    {
+      "type": "famiglia",
       "value": "Gloeophyllaceae",
       "matchSpecies": [
         "Gloeophyllum odoratum"
@@ -2878,6 +2959,7 @@
       "type": "famiglia",
       "value": "Omphalotaceae",
       "matchSpecies": [
+        "Collybia butyracea",
         "Collybia distorta",
         "Collybia erythropus",
         "Collybia fusipes",
@@ -2885,6 +2967,7 @@
         "Gymnopus fusipes",
         "Marasmius scorodonius",
         "Mycetinis scorodonius",
+        "Rhodocollybia butyracea",
         "Rhodocollybia prolixa"
       ]
     },
@@ -3039,6 +3122,7 @@
       "type": "famiglia",
       "value": "Strophariaceae",
       "matchSpecies": [
+        "Hebeloma crustuliniforme",
         "Hebeloma sinapizans",
         "Hypholoma capnoides",
         "Hypholoma fasciculare",
@@ -3123,6 +3207,7 @@
         "Clitocybe nebularis",
         "Clitocybe phaeophthalma",
         "Clitopilus prunulus",
+        "Collybia butyracea",
         "Collybia distorta",
         "Collybia erythropus",
         "Collybia fusipes",
@@ -3144,13 +3229,17 @@
         "Cortinarius venetus",
         "Cortinarius violaceus",
         "Crucibulum laeve",
+        "Cystoderma granulosum",
+        "Cystodermella granulosa",
         "Echinoderma asperum",
         "Entoloma chalybeum var. lazulinum",
         "Entoloma incanum",
         "Entoloma nitidum",
         "Flammulina velutipes",
+        "Galerina stylifera",
         "Gymnopus erythropus",
         "Gymnopus fusipes",
+        "Hebeloma crustuliniforme",
         "Hebeloma sinapizans",
         "Hygrocybe calyptriformis",
         "Hygrocybe conica",
@@ -3211,6 +3300,7 @@
         "Psathyrella corrugis",
         "Psathyrella multipedata",
         "Pseudosperma rimosum",
+        "Rhodocollybia butyracea",
         "Rhodocollybia prolixa",
         "Rhodocybe gemina",
         "Singerocybe phaeophthalma",
@@ -3447,6 +3537,7 @@
         "Clitocybe nebularis",
         "Clitocybe phaeophthalma",
         "Clitopilus prunulus",
+        "Collybia butyracea",
         "Collybia distorta",
         "Collybia erythropus",
         "Collybia fusipes",
@@ -3471,17 +3562,21 @@
         "Crucibulum laeve",
         "Cyanoboletus pulverulentus",
         "Cyanosporus caesius",
+        "Cystoderma granulosum",
+        "Cystodermella granulosa",
         "Echinoderma asperum",
         "Entoloma chalybeum var. lazulinum",
         "Entoloma incanum",
         "Entoloma nitidum",
         "Flammulina velutipes",
+        "Galerina stylifera",
         "Ganoderma adspersum",
         "Gloeophyllum odoratum",
         "Gomphidius glutinosus",
         "Gomphus clavatus",
         "Gymnopus erythropus",
         "Gymnopus fusipes",
+        "Hebeloma crustuliniforme",
         "Hebeloma sinapizans",
         "Hemileccinum depilatum",
         "Hirneola auricula-judae",
@@ -3568,6 +3663,7 @@
         "Pseudosperma rimosum",
         "Pycnoporus cinnabarinus",
         "Ramaria sanguinea",
+        "Rhodocollybia butyracea",
         "Rhodocollybia prolixa",
         "Rhodocybe gemina",
         "Russula alutacea",
@@ -3728,6 +3824,7 @@
         "Clitocybe nebularis",
         "Clitocybe phaeophthalma",
         "Clitopilus prunulus",
+        "Collybia butyracea",
         "Collybia distorta",
         "Collybia erythropus",
         "Collybia fusipes",
@@ -3752,17 +3849,21 @@
         "Crucibulum laeve",
         "Cyanoboletus pulverulentus",
         "Cyanosporus caesius",
+        "Cystoderma granulosum",
+        "Cystodermella granulosa",
         "Echinoderma asperum",
         "Entoloma chalybeum var. lazulinum",
         "Entoloma incanum",
         "Entoloma nitidum",
         "Flammulina velutipes",
+        "Galerina stylifera",
         "Ganoderma adspersum",
         "Gloeophyllum odoratum",
         "Gomphidius glutinosus",
         "Gomphus clavatus",
         "Gymnopus erythropus",
         "Gymnopus fusipes",
+        "Hebeloma crustuliniforme",
         "Hebeloma sinapizans",
         "Hemileccinum depilatum",
         "Hirneola auricula-judae",
@@ -3849,6 +3950,7 @@
         "Pseudosperma rimosum",
         "Pycnoporus cinnabarinus",
         "Ramaria sanguinea",
+        "Rhodocollybia butyracea",
         "Rhodocollybia prolixa",
         "Rhodocybe gemina",
         "Russula alutacea",
@@ -3961,6 +4063,7 @@
         "Clitocybe nebularis",
         "Clitocybe phaeophthalma",
         "Clitopilus prunulus",
+        "Collybia butyracea",
         "Collybia distorta",
         "Collybia erythropus",
         "Collybia fusipes",
@@ -3985,18 +4088,22 @@
         "Crucibulum laeve",
         "Cyanoboletus pulverulentus",
         "Cyanosporus caesius",
+        "Cystoderma granulosum",
+        "Cystodermella granulosa",
         "Dumontinia tuberosa",
         "Echinoderma asperum",
         "Entoloma chalybeum var. lazulinum",
         "Entoloma incanum",
         "Entoloma nitidum",
         "Flammulina velutipes",
+        "Galerina stylifera",
         "Ganoderma adspersum",
         "Gloeophyllum odoratum",
         "Gomphidius glutinosus",
         "Gomphus clavatus",
         "Gymnopus erythropus",
         "Gymnopus fusipes",
+        "Hebeloma crustuliniforme",
         "Hebeloma sinapizans",
         "Helvella crispa",
         "Helvella elastica",
@@ -4087,6 +4194,7 @@
         "Pseudosperma rimosum",
         "Pycnoporus cinnabarinus",
         "Ramaria sanguinea",
+        "Rhodocollybia butyracea",
         "Rhodocollybia prolixa",
         "Rhodocybe gemina",
         "Russula alutacea",

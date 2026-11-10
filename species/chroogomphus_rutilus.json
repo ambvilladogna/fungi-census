@@ -6,6 +6,22 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-11-08",
+      "collector": "Pietro Centenari",
+      "locality": "Val Righenzuolo, Onore",
+      "localityCoordinates": "45.87806, 10.02910",
+      "habitat": "Pino silvestre",
+      "determiner": "Pierino Bigoni"
+    },
+    {
+      "collectionDate": "2026-11-08",
+      "collector": "Pierino Bigoni",
+      "locality": "Pineta della Selva, Clusone",
+      "localityCoordinates": "45.88196, 9.91806",
+      "habitat": "Bosco misto conifere e latifoglie",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-10-19",
       "collector": "Pietro Centenari",
       "locality": "Zenier, Rovetta",
@@ -33,7 +49,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "10-12",
-    "raccoltaPiuTarda": "11-03",
+    "raccoltaPiuTarda": "11-08",
     "campioniPerMese": [
       {
         "gen": 0
@@ -66,7 +82,7 @@
         "ott": 2
       },
       {
-        "nov": 1
+        "nov": 3
       },
       {
         "dic": 0
@@ -74,8 +90,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 3,
-    "campioniRaccolti": 3,
+    "totaleCampioni": 5,
+    "campioniRaccolti": 5,
     "campioniExsiccata": 0
   }
 }

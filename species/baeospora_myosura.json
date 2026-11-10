@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-11-08",
+      "collector": "Pierino Bigoni",
+      "locality": "Pineta della Selva, Clusone",
+      "localityCoordinates": "45.88196, 9.91806",
+      "habitat": "Su pigna di pino silvestre",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-10-19",
       "collector": "Pierino Bigoni",
       "locality": "Pineta della Selva, Clusone",
@@ -82,7 +90,7 @@
         "ott": 4
       },
       {
-        "nov": 0
+        "nov": 1
       },
       {
         "dic": 1
@@ -90,8 +98,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 5,
-    "campioniRaccolti": 5,
+    "totaleCampioni": 6,
+    "campioniRaccolti": 6,
     "campioniExsiccata": 0
   }
 }

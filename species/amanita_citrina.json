@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-11-08",
+      "collector": "Pietro Centenari",
+      "locality": "Val Righenzuolo, Onore",
+      "localityCoordinates": "45.87806, 10.02910",
+      "habitat": "Bosco misto conifere e latifoglie",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-11-02",
       "collector": "Fabio Locatelli",
       "locality": "Schilpario",
@@ -169,7 +177,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "08-01",
-    "raccoltaPiuTarda": "11-02",
+    "raccoltaPiuTarda": "11-08",
     "campioniPerMese": [
       {
         "gen": 0
@@ -202,7 +210,7 @@
         "ott": 7
       },
       {
-        "nov": 1
+        "nov": 2
       },
       {
         "dic": 0
@@ -210,8 +218,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 20,
-    "campioniRaccolti": 20,
+    "totaleCampioni": 21,
+    "campioniRaccolti": 21,
     "campioniExsiccata": 0
   }
 }

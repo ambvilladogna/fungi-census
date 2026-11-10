@@ -14,6 +14,14 @@
       "determiner": "Pietro Centenari"
     },
     {
+      "collectionDate": "2026-11-08",
+      "collector": "Fabio Locatelli",
+      "locality": "Busgarina, Clusone",
+      "localityCoordinates": "45.873024, 9.916009",
+      "habitat": "Bosco misto",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-10-19",
       "collector": "Pierino Bigoni",
       "locality": "Cà de Spì, Monte Poieto, Gazzaniga",
@@ -162,7 +170,7 @@
         "ott": 5
       },
       {
-        "nov": 1
+        "nov": 2
       },
       {
         "dic": 0
@@ -170,8 +178,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 15,
-    "campioniRaccolti": 15,
+    "totaleCampioni": 16,
+    "campioniRaccolti": 16,
     "campioniExsiccata": 0
   }
 }

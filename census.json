@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-09T01:14:37.104Z",
-  "totalSpecies": 607,
-  "totalSamples": 2002,
+  "generatedAt": "2026-11-10T01:14:59.726Z",
+  "totalSpecies": 610,
+  "totalSamples": 2063,
   "species": [
     {
       "genus": "Abortiporus",
@@ -1126,6 +1126,15 @@
     },
     {
       "genus": "Cortinarius",
+      "species": "callochrous",
+      "fullName": "Cortinarius callochrous",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
+      "authority": "(Pers.) Gray 1821",
+      "currentName": "Calonarius callochrous",
+      "currentAuthority": "(Pers.) Niskanen & Liimat. 2022"
+    },
+    {
+      "genus": "Cortinarius",
       "species": "caninus",
       "fullName": "Cortinarius caninus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
@@ -1441,6 +1450,15 @@
       "fullName": "Cystoderma amianthinum",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Squamanitaceae",
       "authority": "(Scop.) Fayod 1889"
+    },
+    {
+      "genus": "Cystoderma",
+      "species": "granulosum",
+      "fullName": "Cystoderma granulosum",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales",
+      "authority": "(Batsch) Fayod 1889",
+      "currentName": "Cystodermella granulosa",
+      "currentAuthority": "(Batsch) Harmaja 2002"
     },
     {
       "genus": "Cystoderma",
@@ -1937,13 +1955,6 @@
       "fullName": "Hydnellum scrobiculatum",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Thelephorales > famiglia: Bankeraceae",
       "authority": "(Fr.) P. Karst. 1879"
-    },
-    {
-      "genus": "Hydnum",
-      "species": "albidum",
-      "fullName": "Hydnum albidum",
-      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Cantharellales > famiglia: Hydnaceae",
-      "authority": "Peck 1887"
     },
     {
       "genus": "Hydnum",
@@ -2500,6 +2511,13 @@
       "authority": "(R. Schulz) M.M. Moser ex D.A. Reid 1965",
       "currentName": "Leccinellum pseudoscabrum",
       "currentAuthority": "(Kallenb.) Mikšík 2017"
+    },
+    {
+      "genus": "Leccinum",
+      "species": "cyaneobasileucum var. brunneogriseolum",
+      "fullName": "Leccinum cyaneobasileucum var. brunneogriseolum",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
+      "authority": "(Lannoy & Estadès) Lannoy & Estadès 2008"
     },
     {
       "genus": "Leccinum",
@@ -4194,6 +4212,13 @@
       "fullName": "Suillus plorans",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Suillaceae",
       "authority": "(Rolland) Kuntze 1898"
+    },
+    {
+      "genus": "Suillus",
+      "species": "tridentinus",
+      "fullName": "Suillus tridentinus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Suillaceae",
+      "authority": "(Bres.) Singer 1945"
     },
     {
       "genus": "Suillus",

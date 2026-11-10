@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-11-08",
+      "collector": "Pierino Bigoni",
+      "locality": "Pineta della Selva, Clusone",
+      "localityCoordinates": "45.88196, 9.91806",
+      "habitat": "Bosco misto conifere e latifoglie",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-11-02",
       "collector": "Fabio Locatelli",
       "locality": "Brugai, Onore, Bergamo",
@@ -193,7 +201,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "06-16",
-    "raccoltaPiuTarda": "11-02",
+    "raccoltaPiuTarda": "11-08",
     "campioniPerMese": [
       {
         "gen": 0
@@ -226,7 +234,7 @@
         "ott": 3
       },
       {
-        "nov": 1
+        "nov": 2
       },
       {
         "dic": 0
@@ -234,8 +242,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 23,
-    "campioniRaccolti": 23,
+    "totaleCampioni": 24,
+    "campioniRaccolti": 24,
     "campioniExsiccata": 0
   }
 }

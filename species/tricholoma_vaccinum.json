@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-11-09",
+      "collector": "Fabio Locatelli",
+      "locality": "Brugai, Onore, Bergamo",
+      "localityCoordinates": "45.899692, 10.014690",
+      "habitat": "Bosco misto",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-11-02",
       "collector": "Fabio Locatelli",
       "locality": "Brugai, Onore, Bergamo",
@@ -98,7 +106,7 @@
         "ott": 3
       },
       {
-        "nov": 2
+        "nov": 3
       },
       {
         "dic": 0
@@ -106,8 +114,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 7,
-    "campioniRaccolti": 7,
+    "totaleCampioni": 8,
+    "campioniRaccolti": 8,
     "campioniExsiccata": 0
   }
 }

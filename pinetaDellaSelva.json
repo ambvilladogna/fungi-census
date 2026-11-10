@@ -1,8 +1,8 @@
 {
   "title": "Pineta della Selva",
-  "generatedAt": "2026-11-07T01:14:30.708Z",
-  "totalSpecies": 186,
-  "totalSamples": 318,
+  "generatedAt": "2026-11-10T01:14:59.893Z",
+  "totalSpecies": 190,
+  "totalSamples": 341,
   "species": [
     {
       "genus": "Agaricus",
@@ -323,6 +323,15 @@
     },
     {
       "genus": "Collybia",
+      "species": "butyracea",
+      "fullName": "Collybia butyracea",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Omphalotaceae",
+      "authority": "(Bull.) P. Kumm. 1871",
+      "currentName": "Rhodocollybia butyracea",
+      "currentAuthority": "(Bull.) Lennox 1979"
+    },
+    {
+      "genus": "Collybia",
       "species": "distorta",
       "fullName": "Collybia distorta",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Omphalotaceae",
@@ -475,6 +484,15 @@
       "authority": "(Huds.) Kambly 1936"
     },
     {
+      "genus": "Cystoderma",
+      "species": "granulosum",
+      "fullName": "Cystoderma granulosum",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales",
+      "authority": "(Batsch) Fayod 1889",
+      "currentName": "Cystodermella granulosa",
+      "currentAuthority": "(Batsch) Harmaja 2002"
+    },
+    {
       "genus": "Dumontinia",
       "species": "tuberosa",
       "fullName": "Dumontinia tuberosa",
@@ -517,6 +535,13 @@
       "authority": "(L.) F.H. Wigg. 1780"
     },
     {
+      "genus": "Galerina",
+      "species": "stylifera",
+      "fullName": "Galerina stylifera",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Galerinaceae",
+      "authority": "(G.F. Atk.) A.H. Sm. & Singer 1958"
+    },
+    {
       "genus": "Ganoderma",
       "species": "adspersum",
       "fullName": "Ganoderma adspersum",
@@ -550,6 +575,13 @@
       "fullName": "Gymnopus fusipes",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Omphalotaceae",
       "authority": "(Bull.) Gray 1821"
+    },
+    {
+      "genus": "Hebeloma",
+      "species": "crustuliniforme",
+      "fullName": "Hebeloma crustuliniforme",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Strophariaceae",
+      "authority": "(Bull.) Quél. 1872"
     },
     {
       "genus": "Hebeloma",

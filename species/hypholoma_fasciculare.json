@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-11-08",
+      "collector": "Pierino Bigoni",
+      "locality": "Pineta della Selva, Clusone",
+      "localityCoordinates": "45.88196, 9.91806",
+      "habitat": "Bosco misto conifere e latifoglie",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-10-19",
       "collector": "Pierino Bigoni",
       "locality": "Roccolo Sparpaì, Piario",
@@ -170,7 +178,7 @@
         "ott": 6
       },
       {
-        "nov": 1
+        "nov": 2
       },
       {
         "dic": 1
@@ -178,8 +186,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 16,
-    "campioniRaccolti": 16,
+    "totaleCampioni": 17,
+    "campioniRaccolti": 17,
     "campioniExsiccata": 0
   }
 }
