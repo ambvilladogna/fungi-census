@@ -1,0 +1,790 @@
+{
+  "generatedAt": "2026-11-10T15:25:54.019Z",
+  "corpus": [
+    {
+      "type": "genus",
+      "value": "Armillaria",
+      "matchSpecies": [
+        "Armillaria ostoyae"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Baeospora",
+      "matchSpecies": [
+        "Baeospora myosura"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Boletus",
+      "matchSpecies": [
+        "Boletus erythropus",
+        "Neoboletus erythropus"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Chlorophyllum",
+      "matchSpecies": [
+        "Chlorophyllum rhacodes",
+        "Macrolepiota rhacodes"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Chroogomphus",
+      "matchSpecies": [
+        "Chroogomphus rutilus"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Clitopilus",
+      "matchSpecies": [
+        "Clitopilus prunulus"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Collybia",
+      "matchSpecies": [
+        "Collybia butyracea",
+        "Rhodocollybia butyracea"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Coprinopsis",
+      "matchSpecies": [
+        "Coprinopsis lagopus",
+        "Coprinus lagopus"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Coprinus",
+      "matchSpecies": [
+        "Coprinopsis lagopus",
+        "Coprinus lagopus"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Cortinarius",
+      "matchSpecies": [
+        "Cortinarius venetus"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Cystoderma",
+      "matchSpecies": [
+        "Cystoderma granulosum",
+        "Cystodermella granulosa"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Cystodermella",
+      "matchSpecies": [
+        "Cystoderma granulosum",
+        "Cystodermella granulosa"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Galerina",
+      "matchSpecies": [
+        "Galerina stylifera"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Hebeloma",
+      "matchSpecies": [
+        "Hebeloma crustuliniforme"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Hypholoma",
+      "matchSpecies": [
+        "Hypholoma capnoides",
+        "Hypholoma fasciculare"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Laccaria",
+      "matchSpecies": [
+        "Laccaria affinis",
+        "Laccaria laccata"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Lycogala",
+      "matchSpecies": [
+        "Lycogala epidendrum"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Lycoperdon",
+      "matchSpecies": [
+        "Lycoperdon perlatum"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Macrolepiota",
+      "matchSpecies": [
+        "Chlorophyllum rhacodes",
+        "Macrolepiota rhacodes"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Mycena",
+      "matchSpecies": [
+        "Mycena epipterygia"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Neoboletus",
+      "matchSpecies": [
+        "Boletus erythropus",
+        "Neoboletus erythropus"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Omphalina",
+      "matchSpecies": [
+        "Omphalina pyxidata"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Pluteus",
+      "matchSpecies": [
+        "Pluteus atromarginatus",
+        "Pluteus cervinus"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Psathyrella",
+      "matchSpecies": [
+        "Psathyrella corrugis"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Rhodocollybia",
+      "matchSpecies": [
+        "Collybia butyracea",
+        "Rhodocollybia butyracea"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Russula",
+      "matchSpecies": [
+        "Russula amara",
+        "Russula caerulea",
+        "Russula integra"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Tricholoma",
+      "matchSpecies": [
+        "Tricholoma portentosum"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Tricholomopsis",
+      "matchSpecies": [
+        "Tricholomopsis rutilans"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Armillaria ostoyae",
+      "matchSpecies": [
+        "Armillaria ostoyae"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Baeospora myosura",
+      "matchSpecies": [
+        "Baeospora myosura"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Boletus erythropus",
+      "matchSpecies": [
+        "Boletus erythropus",
+        "Neoboletus erythropus"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Chlorophyllum rhacodes",
+      "matchSpecies": [
+        "Chlorophyllum rhacodes",
+        "Macrolepiota rhacodes"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Chroogomphus rutilus",
+      "matchSpecies": [
+        "Chroogomphus rutilus"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Clitopilus prunulus",
+      "matchSpecies": [
+        "Clitopilus prunulus"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Collybia butyracea",
+      "matchSpecies": [
+        "Collybia butyracea",
+        "Rhodocollybia butyracea"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Coprinopsis lagopus",
+      "matchSpecies": [
+        "Coprinopsis lagopus",
+        "Coprinus lagopus"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Coprinus lagopus",
+      "matchSpecies": [
+        "Coprinopsis lagopus",
+        "Coprinus lagopus"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Cortinarius venetus",
+      "matchSpecies": [
+        "Cortinarius venetus"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Cystoderma granulosum",
+      "matchSpecies": [
+        "Cystoderma granulosum",
+        "Cystodermella granulosa"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Cystodermella granulosa",
+      "matchSpecies": [
+        "Cystoderma granulosum",
+        "Cystodermella granulosa"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Galerina stylifera",
+      "matchSpecies": [
+        "Galerina stylifera"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Hebeloma crustuliniforme",
+      "matchSpecies": [
+        "Hebeloma crustuliniforme"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Hypholoma capnoides",
+      "matchSpecies": [
+        "Hypholoma capnoides"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Hypholoma fasciculare",
+      "matchSpecies": [
+        "Hypholoma fasciculare"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Laccaria affinis",
+      "matchSpecies": [
+        "Laccaria affinis",
+        "Laccaria laccata"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Laccaria laccata",
+      "matchSpecies": [
+        "Laccaria affinis",
+        "Laccaria laccata"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Lycogala epidendrum",
+      "matchSpecies": [
+        "Lycogala epidendrum"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Lycoperdon perlatum",
+      "matchSpecies": [
+        "Lycoperdon perlatum"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Macrolepiota rhacodes",
+      "matchSpecies": [
+        "Chlorophyllum rhacodes",
+        "Macrolepiota rhacodes"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Mycena epipterygia",
+      "matchSpecies": [
+        "Mycena epipterygia"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Neoboletus erythropus",
+      "matchSpecies": [
+        "Boletus erythropus",
+        "Neoboletus erythropus"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Omphalina pyxidata",
+      "matchSpecies": [
+        "Omphalina pyxidata"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Pluteus atromarginatus",
+      "matchSpecies": [
+        "Pluteus atromarginatus"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Pluteus cervinus",
+      "matchSpecies": [
+        "Pluteus cervinus"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Psathyrella corrugis",
+      "matchSpecies": [
+        "Psathyrella corrugis"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Rhodocollybia butyracea",
+      "matchSpecies": [
+        "Collybia butyracea",
+        "Rhodocollybia butyracea"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Russula amara",
+      "matchSpecies": [
+        "Russula amara",
+        "Russula caerulea"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Russula caerulea",
+      "matchSpecies": [
+        "Russula amara",
+        "Russula caerulea"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Russula integra",
+      "matchSpecies": [
+        "Russula integra"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Tricholoma portentosum",
+      "matchSpecies": [
+        "Tricholoma portentosum"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Tricholomopsis rutilans",
+      "matchSpecies": [
+        "Tricholomopsis rutilans"
+      ]
+    },
+    {
+      "type": "famiglia",
+      "value": "Agaricaceae",
+      "matchSpecies": [
+        "Chlorophyllum rhacodes",
+        "Macrolepiota rhacodes"
+      ]
+    },
+    {
+      "type": "famiglia",
+      "value": "Boletaceae",
+      "matchSpecies": [
+        "Boletus erythropus",
+        "Neoboletus erythropus"
+      ]
+    },
+    {
+      "type": "famiglia",
+      "value": "Cortinariaceae",
+      "matchSpecies": [
+        "Cortinarius venetus"
+      ]
+    },
+    {
+      "type": "famiglia",
+      "value": "Entolomataceae",
+      "matchSpecies": [
+        "Clitopilus prunulus"
+      ]
+    },
+    {
+      "type": "famiglia",
+      "value": "Galerinaceae",
+      "matchSpecies": [
+        "Galerina stylifera"
+      ]
+    },
+    {
+      "type": "famiglia",
+      "value": "Gomphidiaceae",
+      "matchSpecies": [
+        "Chroogomphus rutilus"
+      ]
+    },
+    {
+      "type": "famiglia",
+      "value": "Hydnangiaceae",
+      "matchSpecies": [
+        "Laccaria affinis",
+        "Laccaria laccata"
+      ]
+    },
+    {
+      "type": "famiglia",
+      "value": "Lycoperdaceae",
+      "matchSpecies": [
+        "Lycoperdon perlatum"
+      ]
+    },
+    {
+      "type": "famiglia",
+      "value": "Mycenaceae",
+      "matchSpecies": [
+        "Mycena epipterygia"
+      ]
+    },
+    {
+      "type": "famiglia",
+      "value": "Omphalinaceae",
+      "matchSpecies": [
+        "Omphalina pyxidata"
+      ]
+    },
+    {
+      "type": "famiglia",
+      "value": "Omphalotaceae",
+      "matchSpecies": [
+        "Collybia butyracea",
+        "Rhodocollybia butyracea"
+      ]
+    },
+    {
+      "type": "famiglia",
+      "value": "Physalacriaceae",
+      "matchSpecies": [
+        "Armillaria ostoyae"
+      ]
+    },
+    {
+      "type": "famiglia",
+      "value": "Pluteaceae",
+      "matchSpecies": [
+        "Pluteus atromarginatus",
+        "Pluteus cervinus"
+      ]
+    },
+    {
+      "type": "famiglia",
+      "value": "Psathyrellaceae",
+      "matchSpecies": [
+        "Coprinopsis lagopus",
+        "Coprinus lagopus",
+        "Psathyrella corrugis"
+      ]
+    },
+    {
+      "type": "famiglia",
+      "value": "Reticulariidae",
+      "matchSpecies": [
+        "Lycogala epidendrum"
+      ]
+    },
+    {
+      "type": "famiglia",
+      "value": "Russulaceae",
+      "matchSpecies": [
+        "Russula amara",
+        "Russula caerulea",
+        "Russula integra"
+      ]
+    },
+    {
+      "type": "famiglia",
+      "value": "Strophariaceae",
+      "matchSpecies": [
+        "Hebeloma crustuliniforme",
+        "Hypholoma capnoides",
+        "Hypholoma fasciculare"
+      ]
+    },
+    {
+      "type": "famiglia",
+      "value": "Tricholomataceae",
+      "matchSpecies": [
+        "Tricholoma portentosum"
+      ]
+    },
+    {
+      "type": "ordine",
+      "value": "Agaricales",
+      "matchSpecies": [
+        "Armillaria ostoyae",
+        "Baeospora myosura",
+        "Chlorophyllum rhacodes",
+        "Clitopilus prunulus",
+        "Collybia butyracea",
+        "Coprinopsis lagopus",
+        "Coprinus lagopus",
+        "Cortinarius venetus",
+        "Cystoderma granulosum",
+        "Cystodermella granulosa",
+        "Galerina stylifera",
+        "Hebeloma crustuliniforme",
+        "Hypholoma capnoides",
+        "Hypholoma fasciculare",
+        "Laccaria affinis",
+        "Laccaria laccata",
+        "Lycoperdon perlatum",
+        "Macrolepiota rhacodes",
+        "Mycena epipterygia",
+        "Omphalina pyxidata",
+        "Pluteus atromarginatus",
+        "Pluteus cervinus",
+        "Psathyrella corrugis",
+        "Rhodocollybia butyracea",
+        "Tricholoma portentosum",
+        "Tricholomopsis rutilans"
+      ]
+    },
+    {
+      "type": "ordine",
+      "value": "Boletales",
+      "matchSpecies": [
+        "Boletus erythropus",
+        "Chroogomphus rutilus",
+        "Neoboletus erythropus"
+      ]
+    },
+    {
+      "type": "ordine",
+      "value": "Liceida",
+      "matchSpecies": [
+        "Lycogala epidendrum"
+      ]
+    },
+    {
+      "type": "ordine",
+      "value": "Russulales",
+      "matchSpecies": [
+        "Russula amara",
+        "Russula caerulea",
+        "Russula integra"
+      ]
+    },
+    {
+      "type": "classe",
+      "value": "Agaricomycetes",
+      "matchSpecies": [
+        "Armillaria ostoyae",
+        "Baeospora myosura",
+        "Boletus erythropus",
+        "Chlorophyllum rhacodes",
+        "Chroogomphus rutilus",
+        "Clitopilus prunulus",
+        "Collybia butyracea",
+        "Coprinopsis lagopus",
+        "Coprinus lagopus",
+        "Cortinarius venetus",
+        "Cystoderma granulosum",
+        "Cystodermella granulosa",
+        "Galerina stylifera",
+        "Hebeloma crustuliniforme",
+        "Hypholoma capnoides",
+        "Hypholoma fasciculare",
+        "Laccaria affinis",
+        "Laccaria laccata",
+        "Lycoperdon perlatum",
+        "Macrolepiota rhacodes",
+        "Mycena epipterygia",
+        "Neoboletus erythropus",
+        "Omphalina pyxidata",
+        "Pluteus atromarginatus",
+        "Pluteus cervinus",
+        "Psathyrella corrugis",
+        "Rhodocollybia butyracea",
+        "Russula amara",
+        "Russula caerulea",
+        "Russula integra",
+        "Tricholoma portentosum",
+        "Tricholomopsis rutilans"
+      ]
+    },
+    {
+      "type": "classe",
+      "value": "Myxogastrea",
+      "matchSpecies": [
+        "Lycogala epidendrum"
+      ]
+    },
+    {
+      "type": "phylum",
+      "value": "Amoebozoa",
+      "matchSpecies": [
+        "Lycogala epidendrum"
+      ]
+    },
+    {
+      "type": "phylum",
+      "value": "Basidiomycota",
+      "matchSpecies": [
+        "Armillaria ostoyae",
+        "Baeospora myosura",
+        "Boletus erythropus",
+        "Chlorophyllum rhacodes",
+        "Chroogomphus rutilus",
+        "Clitopilus prunulus",
+        "Collybia butyracea",
+        "Coprinopsis lagopus",
+        "Coprinus lagopus",
+        "Cortinarius venetus",
+        "Cystoderma granulosum",
+        "Cystodermella granulosa",
+        "Galerina stylifera",
+        "Hebeloma crustuliniforme",
+        "Hypholoma capnoides",
+        "Hypholoma fasciculare",
+        "Laccaria affinis",
+        "Laccaria laccata",
+        "Lycoperdon perlatum",
+        "Macrolepiota rhacodes",
+        "Mycena epipterygia",
+        "Neoboletus erythropus",
+        "Omphalina pyxidata",
+        "Pluteus atromarginatus",
+        "Pluteus cervinus",
+        "Psathyrella corrugis",
+        "Rhodocollybia butyracea",
+        "Russula amara",
+        "Russula caerulea",
+        "Russula integra",
+        "Tricholoma portentosum",
+        "Tricholomopsis rutilans"
+      ]
+    },
+    {
+      "type": "regno",
+      "value": "Fungi",
+      "matchSpecies": [
+        "Armillaria ostoyae",
+        "Baeospora myosura",
+        "Boletus erythropus",
+        "Chlorophyllum rhacodes",
+        "Chroogomphus rutilus",
+        "Clitopilus prunulus",
+        "Collybia butyracea",
+        "Coprinopsis lagopus",
+        "Coprinus lagopus",
+        "Cortinarius venetus",
+        "Cystoderma granulosum",
+        "Cystodermella granulosa",
+        "Galerina stylifera",
+        "Hebeloma crustuliniforme",
+        "Hypholoma capnoides",
+        "Hypholoma fasciculare",
+        "Laccaria affinis",
+        "Laccaria laccata",
+        "Lycoperdon perlatum",
+        "Macrolepiota rhacodes",
+        "Mycena epipterygia",
+        "Neoboletus erythropus",
+        "Omphalina pyxidata",
+        "Pluteus atromarginatus",
+        "Pluteus cervinus",
+        "Psathyrella corrugis",
+        "Rhodocollybia butyracea",
+        "Russula amara",
+        "Russula caerulea",
+        "Russula integra",
+        "Tricholoma portentosum",
+        "Tricholomopsis rutilans"
+      ]
+    },
+    {
+      "type": "regno",
+      "value": "Protozoa",
+      "matchSpecies": [
+        "Lycogala epidendrum"
+      ]
+    }
+  ]
+}

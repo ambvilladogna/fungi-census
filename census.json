@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-10T01:14:59.726Z",
+  "generatedAt": "2026-11-10T15:25:53.731Z",
   "totalSpecies": 610,
-  "totalSamples": 2063,
+  "totalSamples": 2062,
   "species": [
     {
       "genus": "Abortiporus",
@@ -2514,10 +2514,10 @@
     },
     {
       "genus": "Leccinum",
-      "species": "cyaneobasileucum var. brunneogriseolum",
-      "fullName": "Leccinum cyaneobasileucum var. brunneogriseolum",
+      "species": "cyaneobasileucum var. cyaneobasileucum",
+      "fullName": "Leccinum cyaneobasileucum var. cyaneobasileucum",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
-      "authority": "(Lannoy & Estadès) Lannoy & Estadès 2008"
+      "authority": "Lannoy & Estadès 1991"
     },
     {
       "genus": "Leccinum",

@@ -1,0 +1,211 @@
+{
+  "title": "Parco Avventura in Pineta della Selva",
+  "generatedAt": "2026-11-10T15:25:53.937Z",
+  "totalSpecies": 27,
+  "totalSamples": 40,
+  "species": [
+    {
+      "genus": "Armillaria",
+      "species": "ostoyae",
+      "fullName": "Armillaria ostoyae",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Physalacriaceae",
+      "authority": "(Romagn.) Herink 1973"
+    },
+    {
+      "genus": "Baeospora",
+      "species": "myosura",
+      "fullName": "Baeospora myosura",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales",
+      "authority": "(Fr.) Singer 1938"
+    },
+    {
+      "genus": "Boletus",
+      "species": "erythropus",
+      "fullName": "Boletus erythropus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Boletaceae",
+      "authority": "Pers. 1795",
+      "currentName": "Neoboletus erythropus",
+      "currentAuthority": "(Pers.) Bertolini & Papetti 2026"
+    },
+    {
+      "genus": "Chroogomphus",
+      "species": "rutilus",
+      "fullName": "Chroogomphus rutilus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Gomphidiaceae",
+      "authority": "(Schaeff.) O.K. Mill. 1964"
+    },
+    {
+      "genus": "Clitopilus",
+      "species": "prunulus",
+      "fullName": "Clitopilus prunulus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Entolomataceae",
+      "authority": "(Scop.) P. Kumm. 1871"
+    },
+    {
+      "genus": "Collybia",
+      "species": "butyracea",
+      "fullName": "Collybia butyracea",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Omphalotaceae",
+      "authority": "(Bull.) P. Kumm. 1871",
+      "currentName": "Rhodocollybia butyracea",
+      "currentAuthority": "(Bull.) Lennox 1979"
+    },
+    {
+      "genus": "Coprinus",
+      "species": "lagopus",
+      "fullName": "Coprinus lagopus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Psathyrellaceae",
+      "authority": "(Fr.) Fr. 1838",
+      "currentName": "Coprinopsis lagopus",
+      "currentAuthority": "(Fr.) Redhead, Vilgalys & Moncalvo 2001"
+    },
+    {
+      "genus": "Cortinarius",
+      "species": "venetus",
+      "fullName": "Cortinarius venetus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
+      "authority": "(Fr.) Fr. 1838"
+    },
+    {
+      "genus": "Cystoderma",
+      "species": "granulosum",
+      "fullName": "Cystoderma granulosum",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales",
+      "authority": "(Batsch) Fayod 1889",
+      "currentName": "Cystodermella granulosa",
+      "currentAuthority": "(Batsch) Harmaja 2002"
+    },
+    {
+      "genus": "Galerina",
+      "species": "stylifera",
+      "fullName": "Galerina stylifera",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Galerinaceae",
+      "authority": "(G.F. Atk.) A.H. Sm. & Singer 1958"
+    },
+    {
+      "genus": "Hebeloma",
+      "species": "crustuliniforme",
+      "fullName": "Hebeloma crustuliniforme",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Strophariaceae",
+      "authority": "(Bull.) Quél. 1872"
+    },
+    {
+      "genus": "Hypholoma",
+      "species": "capnoides",
+      "fullName": "Hypholoma capnoides",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Strophariaceae",
+      "authority": "(Fr.) P. Kumm. 1871"
+    },
+    {
+      "genus": "Hypholoma",
+      "species": "fasciculare",
+      "fullName": "Hypholoma fasciculare",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Strophariaceae",
+      "authority": "(Huds.) P. Kumm. 1871"
+    },
+    {
+      "genus": "Laccaria",
+      "species": "affinis",
+      "fullName": "Laccaria affinis",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Hydnangiaceae",
+      "authority": "(Singer) Bon 1983",
+      "currentName": "Laccaria laccata",
+      "currentAuthority": "(Scop.) Cooke 1884"
+    },
+    {
+      "genus": "Laccaria",
+      "species": "laccata",
+      "fullName": "Laccaria laccata",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Hydnangiaceae",
+      "authority": "(Scop.) Cooke 1884"
+    },
+    {
+      "genus": "Lycogala",
+      "species": "epidendrum",
+      "fullName": "Lycogala epidendrum",
+      "lineage": "regno: Protozoa > phylum: Amoebozoa > classe: Myxogastrea > ordine: Liceida > famiglia: Reticulariidae",
+      "authority": "(J.C. Buxb. ex L.) Fr. 1829"
+    },
+    {
+      "genus": "Lycoperdon",
+      "species": "perlatum",
+      "fullName": "Lycoperdon perlatum",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Lycoperdaceae",
+      "authority": "Pers. 1796"
+    },
+    {
+      "genus": "Macrolepiota",
+      "species": "rhacodes",
+      "fullName": "Macrolepiota rhacodes",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
+      "authority": "(Vittad.) Singer 1951",
+      "currentName": "Chlorophyllum rhacodes",
+      "currentAuthority": "(Vittad.) Vellinga 2002"
+    },
+    {
+      "genus": "Mycena",
+      "species": "epipterygia",
+      "fullName": "Mycena epipterygia",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Mycenaceae",
+      "authority": "(Scop.) Gray 1821"
+    },
+    {
+      "genus": "Omphalina",
+      "species": "pyxidata",
+      "fullName": "Omphalina pyxidata",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Omphalinaceae",
+      "authority": "(Bull.) Quél. 1886"
+    },
+    {
+      "genus": "Pluteus",
+      "species": "atromarginatus",
+      "fullName": "Pluteus atromarginatus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Pluteaceae",
+      "authority": "(Konrad) Kühner 1935"
+    },
+    {
+      "genus": "Pluteus",
+      "species": "cervinus",
+      "fullName": "Pluteus cervinus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Pluteaceae",
+      "authority": "(Schaeff.) P. Kumm. 1871"
+    },
+    {
+      "genus": "Psathyrella",
+      "species": "corrugis",
+      "fullName": "Psathyrella corrugis",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Psathyrellaceae",
+      "authority": "(Pers.) Konrad & Maubl. 1949"
+    },
+    {
+      "genus": "Russula",
+      "species": "amara",
+      "fullName": "Russula amara",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
+      "authority": "Kučera 1927",
+      "currentName": "Russula caerulea",
+      "currentAuthority": "Fr. 1838"
+    },
+    {
+      "genus": "Russula",
+      "species": "integra",
+      "fullName": "Russula integra",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
+      "authority": "(L.) Fr. 1838"
+    },
+    {
+      "genus": "Tricholoma",
+      "species": "portentosum",
+      "fullName": "Tricholoma portentosum",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Tricholomataceae",
+      "authority": "(Fr.) Quél. 1873"
+    },
+    {
+      "genus": "Tricholomopsis",
+      "species": "rutilans",
+      "fullName": "Tricholomopsis rutilans",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales",
+      "authority": "(Schaeff.) Singer 1939"
+    }
+  ]
+}

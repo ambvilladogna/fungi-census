@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T01:14:59.918Z",
+  "generatedAt": "2026-11-10T15:25:54.004Z",
   "corpus": [
     {
       "type": "genus",
@@ -1388,7 +1388,7 @@
         "Leccinellum pseudoscabrum",
         "Leccinum aurantiacum",
         "Leccinum carpini",
-        "Leccinum cyaneobasileucum var. brunneogriseolum",
+        "Leccinum cyaneobasileucum var. cyaneobasileucum",
         "Leccinum scabrum",
         "Leccinum vulpinum"
       ]
@@ -5503,9 +5503,9 @@
     },
     {
       "type": "species",
-      "value": "Leccinum cyaneobasileucum var. brunneogriseolum",
+      "value": "Leccinum cyaneobasileucum var. cyaneobasileucum",
       "matchSpecies": [
-        "Leccinum cyaneobasileucum var. brunneogriseolum"
+        "Leccinum cyaneobasileucum var. cyaneobasileucum"
       ]
     },
     {
@@ -8121,7 +8121,7 @@
         "Leccinellum pseudoscabrum",
         "Leccinum aurantiacum",
         "Leccinum carpini",
-        "Leccinum cyaneobasileucum var. brunneogriseolum",
+        "Leccinum cyaneobasileucum var. cyaneobasileucum",
         "Leccinum scabrum",
         "Leccinum vulpinum",
         "Neoboletus erythropus",
@@ -9751,7 +9751,7 @@
         "Leccinellum pseudoscabrum",
         "Leccinum aurantiacum",
         "Leccinum carpini",
-        "Leccinum cyaneobasileucum var. brunneogriseolum",
+        "Leccinum cyaneobasileucum var. cyaneobasileucum",
         "Leccinum scabrum",
         "Leccinum vulpinum",
         "Neoboletus erythropus",
@@ -10554,7 +10554,7 @@
         "Leccinellum pseudoscabrum",
         "Leccinum aurantiacum",
         "Leccinum carpini",
-        "Leccinum cyaneobasileucum var. brunneogriseolum",
+        "Leccinum cyaneobasileucum var. cyaneobasileucum",
         "Leccinum scabrum",
         "Leccinum vulpinum",
         "Lentinellus cochleatus",
@@ -11419,7 +11419,7 @@
         "Leccinellum pseudoscabrum",
         "Leccinum aurantiacum",
         "Leccinum carpini",
-        "Leccinum cyaneobasileucum var. brunneogriseolum",
+        "Leccinum cyaneobasileucum var. cyaneobasileucum",
         "Leccinum scabrum",
         "Leccinum vulpinum",
         "Lentinellus cochleatus",
@@ -12151,7 +12151,7 @@
         "Leccinellum pseudoscabrum",
         "Leccinum aurantiacum",
         "Leccinum carpini",
-        "Leccinum cyaneobasileucum var. brunneogriseolum",
+        "Leccinum cyaneobasileucum var. cyaneobasileucum",
         "Leccinum scabrum",
         "Leccinum vulpinum",
         "Lentinellus cochleatus",
