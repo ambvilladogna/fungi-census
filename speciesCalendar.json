@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-10T15:25:53.801Z",
+  "generatedAt": "2026-11-13T01:14:51.119Z",
   "totalSpecies": 610,
-  "totalSamples": 2269,
+  "totalSamples": 2271,
   "species": [
     {
       "genus": "Flammulina",
@@ -9853,7 +9853,7 @@
       "fullName": "Tricholoma saponaceum",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Tricholomataceae",
       "authority": "(Fr.) P. Kumm. 1871",
-      "totalSamples": 6,
+      "totalSamples": 7,
       "monthlyCount": [
         0,
         0,
@@ -9865,7 +9865,7 @@
         1,
         2,
         2,
-        1,
+        2,
         0
       ],
       "earliestDate": "08-07",
@@ -9879,15 +9879,15 @@
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       },
-      "latestDate": "11-05",
-      "latestDayOfYear": 310,
+      "latestDate": "11-08",
+      "latestDayOfYear": 313,
       "latestSample": {
-        "collectionDate": "2025-11-05",
-        "collector": "Pierino Bigoni",
-        "locality": "Pineta della Selva, Clusone",
-        "localityCoordinates": "45.88196, 9.91806",
-        "habitat": "Bosco misto abete e pino silvestre",
-        "determiner": "Pierino Bigoni",
+        "collectionDate": "2026-11-08",
+        "collector": "Fabio Locatelli",
+        "locality": "Busgarina, Clusone",
+        "localityCoordinates": "45.873024, 9.916009",
+        "habitat": "Castagno e abete rosso",
+        "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
     },
@@ -25702,7 +25702,7 @@
       "fullName": "Tricholoma portentosum",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Tricholomataceae",
       "authority": "(Fr.) Quél. 1873",
-      "totalSamples": 7,
+      "totalSamples": 8,
       "monthlyCount": [
         0,
         0,
@@ -25714,7 +25714,7 @@
         0,
         0,
         1,
-        5,
+        6,
         1
       ],
       "earliestDate": "10-27",
