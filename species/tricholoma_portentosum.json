@@ -6,6 +6,22 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-11-14",
+      "collector": "Fabio Locatelli",
+      "locality": "Blum, Valzurio",
+      "localityCoordinates": "",
+      "habitat": "Abete rosso",
+      "determiner": "Fabio Locatelli"
+    },
+    {
+      "collectionDate": "2026-11-14",
+      "collector": "Fabio Locatelli",
+      "locality": "Campos, Rovetta",
+      "localityCoordinates": "45.903515, 9.983604",
+      "habitat": "Pino silvestre",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2026-11-11",
       "collector": "Fabio Locatelli",
       "locality": "Busgarina, Clusone",
@@ -106,7 +122,7 @@
         "ott": 1
       },
       {
-        "nov": 6
+        "nov": 8
       },
       {
         "dic": 1
@@ -114,8 +130,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 8,
-    "campioniRaccolti": 8,
+    "totaleCampioni": 10,
+    "campioniRaccolti": 10,
     "campioniExsiccata": 0
   }
 }

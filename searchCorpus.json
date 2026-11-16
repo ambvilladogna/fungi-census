@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T15:25:54.004Z",
+  "generatedAt": "2026-11-16T01:15:33.213Z",
   "corpus": [
     {
       "type": "genus",
@@ -1632,6 +1632,13 @@
       "value": "Mucidula",
       "matchSpecies": [
         "Mucidula mucida"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Mutinus",
+      "matchSpecies": [
+        "Mutinus elegans"
       ]
     },
     {
@@ -6052,6 +6059,13 @@
     },
     {
       "type": "species",
+      "value": "Mutinus elegans",
+      "matchSpecies": [
+        "Mutinus elegans"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Mycena alcalina",
       "matchSpecies": [
         "Mycena alcalina",
@@ -8800,6 +8814,7 @@
       "value": "Phallaceae",
       "matchSpecies": [
         "Clathrus archeri",
+        "Mutinus elegans",
         "Phallus impudicus"
       ]
     },
@@ -9962,6 +9977,7 @@
       "value": "Phallales",
       "matchSpecies": [
         "Clathrus archeri",
+        "Mutinus elegans",
         "Phallus impudicus"
       ]
     },
@@ -10622,6 +10638,7 @@
         "Melanoleuca subalpina",
         "Micromphale perforans",
         "Mucidula mucida",
+        "Mutinus elegans",
         "Mycena alcalina",
         "Mycena eburnea",
         "Mycena epipterygia",
@@ -11487,6 +11504,7 @@
         "Melanoleuca subalpina",
         "Micromphale perforans",
         "Mucidula mucida",
+        "Mutinus elegans",
         "Mycena alcalina",
         "Mycena eburnea",
         "Mycena epipterygia",
@@ -12223,6 +12241,7 @@
         "Morchella elata",
         "Morchella esculenta",
         "Mucidula mucida",
+        "Mutinus elegans",
         "Mycena alcalina",
         "Mycena eburnea",
         "Mycena epipterygia",

@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-11-15",
+      "collector": "Pietro Centenari",
+      "locality": "Sent. Alto Serio (Verso i monti Parè e Blum - strada), Rovetta, Comunità Montana della Valle Seriana, Bergamo, Lombardia, 24020, Italia",
+      "localityCoordinates": "45.911623, 9.985800",
+      "habitat": "Bordo sentiero",
+      "determiner": "Pietro Centenari"
+    },
+    {
       "collectionDate": "2026-11-08",
       "collector": "Pierino Bigoni",
       "locality": "Parco avventura in Pineta, Clusone",
@@ -121,7 +129,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "07-18",
-    "raccoltaPiuTarda": "11-08",
+    "raccoltaPiuTarda": "11-15",
     "campioniPerMese": [
       {
         "gen": 0
@@ -154,7 +162,7 @@
         "ott": 2
       },
       {
-        "nov": 1
+        "nov": 2
       },
       {
         "dic": 0
@@ -162,8 +170,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 14,
-    "campioniRaccolti": 14,
+    "totaleCampioni": 15,
+    "campioniRaccolti": 15,
     "campioniExsiccata": 0
   }
 }

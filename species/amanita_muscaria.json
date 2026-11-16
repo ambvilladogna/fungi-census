@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-11-15",
+      "collector": "Pietro Centenari",
+      "locality": "Sentiero vipere, Aprico, Fino del Monte, Comunità Montana della Valle Seriana, Bergamo, Lombardia, 24020, Italia",
+      "localityCoordinates": "45.912053, 9.989805",
+      "habitat": "Abete rosso",
+      "determiner": "Pietro Centenari"
+    },
+    {
       "collectionDate": "2026-10-09",
       "collector": "Pietro Centenari",
       "locality": "Sent. Alto Serio (Verso i monti Parè e Blum - strada), Rovetta, Comunità Montana della Valle Seriana, Bergamo",
@@ -129,7 +137,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "08-01",
-    "raccoltaPiuTarda": "11-10",
+    "raccoltaPiuTarda": "11-15",
     "campioniPerMese": [
       {
         "gen": 0
@@ -162,7 +170,7 @@
         "ott": 4
       },
       {
-        "nov": 1
+        "nov": 2
       },
       {
         "dic": 0
@@ -170,8 +178,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 15,
-    "campioniRaccolti": 15,
+    "totaleCampioni": 16,
+    "campioniRaccolti": 16,
     "campioniExsiccata": 0
   }
 }

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-13T01:14:51.055Z",
-  "totalSpecies": 610,
-  "totalSamples": 2064,
+  "generatedAt": "2026-11-16T01:15:32.957Z",
+  "totalSpecies": 611,
+  "totalSamples": 2074,
   "species": [
     {
       "genus": "Abortiporus",
@@ -2993,6 +2993,13 @@
       "fullName": "Mucidula mucida",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Physalacriaceae",
       "authority": "(Schrad.) Pat. 1887"
+    },
+    {
+      "genus": "Mutinus",
+      "species": "elegans",
+      "fullName": "Mutinus elegans",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Phallales > famiglia: Phallaceae",
+      "authority": "(Mont.) E. Fisch. 1888"
     },
     {
       "genus": "Mycena",

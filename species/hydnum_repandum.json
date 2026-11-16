@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-11-15",
+      "collector": "Pietro Centenari",
+      "locality": "Sentiero vipere, Aprico, Fino del Monte, Comunità Montana della Valle Seriana, Bergamo, Lombardia, 24020, Italia",
+      "localityCoordinates": "45.911262, 9.989093",
+      "habitat": "Sentiero a bordo bosco abete rosso",
+      "determiner": "Pietro Centenari"
+    },
+    {
       "collectionDate": "2026-11-08",
       "collector": "Pietro Centenari",
       "locality": "Val Righenzuolo, Onore",
@@ -161,7 +169,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "07-14",
-    "raccoltaPiuTarda": "11-08",
+    "raccoltaPiuTarda": "11-15",
     "campioniPerMese": [
       {
         "gen": 0
@@ -194,7 +202,7 @@
         "ott": 5
       },
       {
-        "nov": 1
+        "nov": 2
       },
       {
         "dic": 0
@@ -202,8 +210,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 19,
-    "campioniRaccolti": 19,
+    "totaleCampioni": 20,
+    "campioniRaccolti": 20,
     "campioniExsiccata": 0
   }
 }
