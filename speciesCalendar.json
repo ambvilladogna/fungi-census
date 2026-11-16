@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-16T01:15:33.029Z",
+  "generatedAt": "2026-11-16T14:09:16.605Z",
   "totalSpecies": 611,
-  "totalSamples": 2281,
+  "totalSamples": 2282,
   "species": [
     {
       "genus": "Flammulina",
@@ -5162,7 +5162,7 @@
       "latestSample": {
         "collectionDate": "2026-11-15",
         "collector": "Pietro Centenari",
-        "locality": "Sentiero vipere, Aprico, Fino del Monte, Comunità Montana della Valle Seriana, Bergamo, Lombardia, 24020, Italia",
+        "locality": "Sentiero dalle baite di Parè alla cappella degli Alpini di Blum, Fino al Monte",
         "localityCoordinates": "45.912122, 9.990140",
         "habitat": "Abete rosso",
         "determiner": "Pietro Centenari",
@@ -6496,7 +6496,7 @@
       "latestSample": {
         "collectionDate": "2026-11-15",
         "collector": "Pietro Centenari",
-        "locality": "Sentiero vipere, Aprico, Fino del Monte, Comunità Montana della Valle Seriana, Bergamo, Lombardia, 24020, Italia",
+        "locality": "Sentiero per le baite di Parè, Fino al Monte",
         "localityCoordinates": "45.911262, 9.989093",
         "habitat": "Sentiero a bordo bosco abete rosso",
         "determiner": "Pietro Centenari",
@@ -7032,7 +7032,7 @@
       "latestSample": {
         "collectionDate": "2026-11-15",
         "collector": "Pietro Centenari",
-        "locality": "Sent. Alto Serio (Verso i monti Parè e Blum - strada), Rovetta, Comunità Montana della Valle Seriana, Bergamo, Lombardia, 24020, Italia",
+        "locality": "Sentiero dalle baite di Parè alla cappella degli Alpini di Blum, Rovetta",
         "localityCoordinates": "45.911623, 9.985800",
         "habitat": "Bordo sentiero",
         "determiner": "Pietro Centenari",
@@ -8546,7 +8546,7 @@
       "latestSample": {
         "collectionDate": "2026-11-15",
         "collector": "Pietro Centenari",
-        "locality": "Sentiero vipere, Aprico, Fino del Monte, Comunità Montana della Valle Seriana, Bergamo, Lombardia, 24020, Italia",
+        "locality": "Sentiero dalle baite di Parè alla cappella degli Alpini di Blum, Fino al Monte",
         "localityCoordinates": "45.912053, 9.989805",
         "habitat": "Abete rosso",
         "determiner": "Pietro Centenari",
@@ -13936,7 +13936,7 @@
       "latestSample": {
         "collectionDate": "2026-11-15",
         "collector": "Pietro Centenari",
-        "locality": "Sentiero vipere, Aprico, Fino del Monte, Comunità Montana della Valle Seriana, Bergamo, Lombardia, 24020, Italia",
+        "locality": "Sentiero dalle baite di Parè alla cappella degli Alpini di Blum, Fino al Monte",
         "localityCoordinates": "45.912007, 9.990068",
         "habitat": "Abete rosso",
         "determiner": "Pietro Centenari",
@@ -25966,7 +25966,7 @@
       "fullName": "Tricholoma colossus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Tricholomataceae",
       "authority": "(Fr.) Quél. 1872",
-      "totalSamples": 1,
+      "totalSamples": 2,
       "monthlyCount": [
         0,
         0,
@@ -25978,7 +25978,7 @@
         0,
         0,
         0,
-        1,
+        2,
         0
       ],
       "earliestDate": "11-01",
@@ -25992,14 +25992,14 @@
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       },
-      "latestDate": "11-01",
-      "latestDayOfYear": 306,
+      "latestDate": "11-15",
+      "latestDayOfYear": 320,
       "latestSample": {
-        "collectionDate": "2026-11-01",
+        "collectionDate": "2026-11-15",
         "collector": "Fabio Locatelli",
-        "locality": "Sentiero La Linea, Ronco, Schilpario, Comunità Montana di Scalve, Bergamo",
-        "localityCoordinates": "46.015386, 10.149032",
-        "habitat": "Pineta acida e sabbiosa di pino silvestre",
+        "locality": "Cima Bassa, Schilpario",
+        "localityCoordinates": "45.99711, 10.14712",
+        "habitat": "Pino silvestre",
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
