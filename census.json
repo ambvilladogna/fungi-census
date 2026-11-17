@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-16T14:09:16.539Z",
-  "totalSpecies": 611,
-  "totalSamples": 2075,
+  "generatedAt": "2026-11-17T01:15:26.806Z",
+  "totalSpecies": 615,
+  "totalSamples": 2119,
   "species": [
     {
       "genus": "Abortiporus",
@@ -860,6 +860,13 @@
     },
     {
       "genus": "Clitocybe",
+      "species": "suaveolens",
+      "fullName": "Clitocybe suaveolens",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Clitocybaceae",
+      "authority": "(Schumach.) P. Kumm. 1871"
+    },
+    {
+      "genus": "Clitocybe",
       "species": "subspadicea",
       "fullName": "Clitocybe subspadicea",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Clitocybaceae",
@@ -1477,6 +1484,13 @@
       "authority": "Berk. & M.A. Curtis 1873"
     },
     {
+      "genus": "Dacrymyces",
+      "species": "stillatus",
+      "fullName": "Dacrymyces stillatus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Dacrymycetes > ordine: Dacrymycetales > famiglia: Dacrymycetaceae",
+      "authority": "Nees 1816"
+    },
+    {
       "genus": "Daedaleopsis",
       "species": "confragosa",
       "fullName": "Daedaleopsis confragosa",
@@ -2034,6 +2048,13 @@
       "fullName": "Hygrophorus capreolarius",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Hygrophoraceae",
       "authority": "(Kalchbr.) Sacc. 1887"
+    },
+    {
+      "genus": "Hygrophorus",
+      "species": "chrysodon",
+      "fullName": "Hygrophorus chrysodon",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Hygrophoraceae",
+      "authority": "(Batsch) Fr. 1838"
     },
     {
       "genus": "Hygrophorus",
@@ -3023,6 +3044,15 @@
       "fullName": "Mycena galericulata",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Mycenaceae",
       "authority": "(Scop.) Gray 1821"
+    },
+    {
+      "genus": "Mycena",
+      "species": "galopus",
+      "fullName": "Mycena galopus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Mycenaceae",
+      "authority": "(Pers.) P. Kumm. 1871",
+      "currentName": "Galactopus galopus",
+      "currentAuthority": "(Pers.) Kun L. Yang & Jia Y. Lin 2026"
     },
     {
       "genus": "Mycena",

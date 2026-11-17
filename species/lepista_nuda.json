@@ -6,6 +6,22 @@
   "autoreCorrente": "(Bull.) Z.M. He & Zhu L. Yang 2023",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-11-16",
+      "collector": "Lisa Gambarini",
+      "locality": "Montagnina, Ponte Selva",
+      "localityCoordinates": "",
+      "habitat": "Bosco misto",
+      "determiner": "Pierino Bigoni"
+    },
+    {
+      "collectionDate": "2026-11-16",
+      "collector": "Fabio Locatelli",
+      "locality": "Schilpario",
+      "localityCoordinates": "46.009394, 10.154059",
+      "habitat": "Bosco misto conifere e latifoglie",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2026-10-10",
       "collector": "Fabio Locatelli",
       "locality": "Rasga, Clusone",
@@ -49,7 +65,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "09-14",
-    "raccoltaPiuTarda": "11-10",
+    "raccoltaPiuTarda": "11-16",
     "campioniPerMese": [
       {
         "gen": 0
@@ -82,7 +98,7 @@
         "ott": 2
       },
       {
-        "nov": 1
+        "nov": 3
       },
       {
         "dic": 0
@@ -90,8 +106,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 5,
-    "campioniRaccolti": 5,
+    "totaleCampioni": 7,
+    "campioniRaccolti": 7,
     "campioniExsiccata": 0
   }
 }

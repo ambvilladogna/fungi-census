@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T01:14:59.929Z",
+  "generatedAt": "2026-11-17T01:15:27.118Z",
   "corpus": [
     {
       "type": "genus",
@@ -312,6 +312,13 @@
     },
     {
       "type": "genus",
+      "value": "Dacrymyces",
+      "matchSpecies": [
+        "Dacrymyces stillatus"
+      ]
+    },
+    {
+      "type": "genus",
       "value": "Dumontinia",
       "matchSpecies": [
         "Dumontinia tuberosa"
@@ -346,6 +353,14 @@
       "value": "Fuligo",
       "matchSpecies": [
         "Fuligo septica"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Galactopus",
+      "matchSpecies": [
+        "Galactopus galopus",
+        "Mycena galopus"
       ]
     },
     {
@@ -456,6 +471,7 @@
       "value": "Hygrophorus",
       "matchSpecies": [
         "Hygrophorus agathosmus",
+        "Hygrophorus chrysodon",
         "Hygrophorus eburneus"
       ]
     },
@@ -641,8 +657,10 @@
       "type": "genus",
       "value": "Mycena",
       "matchSpecies": [
+        "Galactopus galopus",
         "Mycena epipterygia",
         "Mycena galericulata",
+        "Mycena galopus",
         "Mycena pura",
         "Mycena rosea",
         "Mycena rosella",
@@ -859,6 +877,7 @@
         "Russula nigricans",
         "Russula ochroleuca",
         "Russula olivacea",
+        "Russula queletii",
         "Russula sanguinea",
         "Russula solaris",
         "Russula violeipes"
@@ -929,6 +948,8 @@
         "Tricholoma myomyces",
         "Tricholoma portentosum",
         "Tricholoma saponaceum",
+        "Tricholoma sejunctum",
+        "Tricholoma sulphureum",
         "Tricholoma terreum",
         "Tricholoma vaccinum"
       ]
@@ -1549,6 +1570,13 @@
     },
     {
       "type": "species",
+      "value": "Dacrymyces stillatus",
+      "matchSpecies": [
+        "Dacrymyces stillatus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Dumontinia tuberosa",
       "matchSpecies": [
         "Dumontinia tuberosa"
@@ -1595,6 +1623,14 @@
       "value": "Fuligo septica",
       "matchSpecies": [
         "Fuligo septica"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Galactopus galopus",
+      "matchSpecies": [
+        "Galactopus galopus",
+        "Mycena galopus"
       ]
     },
     {
@@ -1741,6 +1777,13 @@
       "value": "Hygrophorus agathosmus",
       "matchSpecies": [
         "Hygrophorus agathosmus"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Hygrophorus chrysodon",
+      "matchSpecies": [
+        "Hygrophorus chrysodon"
       ]
     },
     {
@@ -2092,6 +2135,14 @@
       "value": "Mycena galericulata",
       "matchSpecies": [
         "Mycena galericulata"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Mycena galopus",
+      "matchSpecies": [
+        "Galactopus galopus",
+        "Mycena galopus"
       ]
     },
     {
@@ -2468,6 +2519,13 @@
     },
     {
       "type": "species",
+      "value": "Russula queletii",
+      "matchSpecies": [
+        "Russula queletii"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Russula sanguinea",
       "matchSpecies": [
         "Russula sanguinea"
@@ -2595,6 +2653,20 @@
       "value": "Tricholoma saponaceum",
       "matchSpecies": [
         "Tricholoma saponaceum"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Tricholoma sejunctum",
+      "matchSpecies": [
+        "Tricholoma sejunctum"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Tricholoma sulphureum",
+      "matchSpecies": [
+        "Tricholoma sulphureum"
       ]
     },
     {
@@ -2767,6 +2839,13 @@
     },
     {
       "type": "famiglia",
+      "value": "Dacrymycetaceae",
+      "matchSpecies": [
+        "Dacrymyces stillatus"
+      ]
+    },
+    {
+      "type": "famiglia",
       "value": "Entolomataceae",
       "matchSpecies": [
         "Clitopilus prunulus",
@@ -2863,6 +2942,7 @@
         "Clitocybe clavipes",
         "Hygrocybe calyptriformis",
         "Hygrophorus agathosmus",
+        "Hygrophorus chrysodon",
         "Hygrophorus eburneus",
         "Porpolomopsis calyptriformis"
       ]
@@ -2937,8 +3017,10 @@
       "type": "famiglia",
       "value": "Mycenaceae",
       "matchSpecies": [
+        "Galactopus galopus",
         "Mycena epipterygia",
         "Mycena galericulata",
+        "Mycena galopus",
         "Mycena pura",
         "Mycena rosea",
         "Mycena rosella",
@@ -3099,6 +3181,7 @@
         "Russula nigricans",
         "Russula ochroleuca",
         "Russula olivacea",
+        "Russula queletii",
         "Russula sanguinea",
         "Russula solaris",
         "Russula violeipes"
@@ -3151,6 +3234,8 @@
         "Tricholoma myomyces",
         "Tricholoma portentosum",
         "Tricholoma saponaceum",
+        "Tricholoma sejunctum",
+        "Tricholoma sulphureum",
         "Tricholoma terreum",
         "Tricholoma vaccinum"
       ]
@@ -3236,6 +3321,7 @@
         "Entoloma incanum",
         "Entoloma nitidum",
         "Flammulina velutipes",
+        "Galactopus galopus",
         "Galerina stylifera",
         "Gymnopus erythropus",
         "Gymnopus fusipes",
@@ -3245,6 +3331,7 @@
         "Hygrocybe conica",
         "Hygronarius renidens",
         "Hygrophorus agathosmus",
+        "Hygrophorus chrysodon",
         "Hygrophorus eburneus",
         "Hypholoma capnoides",
         "Hypholoma fasciculare",
@@ -3282,6 +3369,7 @@
         "Melanoleuca subalpina",
         "Mycena epipterygia",
         "Mycena galericulata",
+        "Mycena galopus",
         "Mycena pura",
         "Mycena rosea",
         "Mycena rosella",
@@ -3309,6 +3397,8 @@
         "Tricholoma myomyces",
         "Tricholoma portentosum",
         "Tricholoma saponaceum",
+        "Tricholoma sejunctum",
+        "Tricholoma sulphureum",
         "Tricholoma terreum",
         "Tricholoma vaccinum",
         "Tricholomopsis decora",
@@ -3370,6 +3460,13 @@
         "Craterellus tubaeformis",
         "Hydnum repandum",
         "Hydnum rufescens"
+      ]
+    },
+    {
+      "type": "ordine",
+      "value": "Dacrymycetales",
+      "matchSpecies": [
+        "Dacrymyces stillatus"
       ]
     },
     {
@@ -3472,6 +3569,7 @@
         "Russula nigricans",
         "Russula ochroleuca",
         "Russula olivacea",
+        "Russula queletii",
         "Russula sanguinea",
         "Russula solaris",
         "Russula violeipes"
@@ -3569,6 +3667,7 @@
         "Entoloma incanum",
         "Entoloma nitidum",
         "Flammulina velutipes",
+        "Galactopus galopus",
         "Galerina stylifera",
         "Ganoderma adspersum",
         "Gloeophyllum odoratum",
@@ -3586,6 +3685,7 @@
         "Hygrocybe conica",
         "Hygronarius renidens",
         "Hygrophorus agathosmus",
+        "Hygrophorus chrysodon",
         "Hygrophorus eburneus",
         "Hypholoma capnoides",
         "Hypholoma fasciculare",
@@ -3631,6 +3731,7 @@
         "Melanoleuca subalpina",
         "Mycena epipterygia",
         "Mycena galericulata",
+        "Mycena galopus",
         "Mycena pura",
         "Mycena rosea",
         "Mycena rosella",
@@ -3681,6 +3782,7 @@
         "Russula nigricans",
         "Russula ochroleuca",
         "Russula olivacea",
+        "Russula queletii",
         "Russula sanguinea",
         "Russula solaris",
         "Russula violeipes",
@@ -3698,6 +3800,8 @@
         "Tricholoma myomyces",
         "Tricholoma portentosum",
         "Tricholoma saponaceum",
+        "Tricholoma sejunctum",
+        "Tricholoma sulphureum",
         "Tricholoma terreum",
         "Tricholoma vaccinum",
         "Tricholomopsis decora",
@@ -3707,6 +3811,13 @@
         "Xerocomus armeniacus",
         "Xerocomus badius",
         "Xerocomus ferrugineus"
+      ]
+    },
+    {
+      "type": "classe",
+      "value": "Dacrymycetes",
+      "matchSpecies": [
+        "Dacrymyces stillatus"
       ]
     },
     {
@@ -3851,11 +3962,13 @@
         "Cyanosporus caesius",
         "Cystoderma granulosum",
         "Cystodermella granulosa",
+        "Dacrymyces stillatus",
         "Echinoderma asperum",
         "Entoloma chalybeum var. lazulinum",
         "Entoloma incanum",
         "Entoloma nitidum",
         "Flammulina velutipes",
+        "Galactopus galopus",
         "Galerina stylifera",
         "Ganoderma adspersum",
         "Gloeophyllum odoratum",
@@ -3873,6 +3986,7 @@
         "Hygrocybe conica",
         "Hygronarius renidens",
         "Hygrophorus agathosmus",
+        "Hygrophorus chrysodon",
         "Hygrophorus eburneus",
         "Hypholoma capnoides",
         "Hypholoma fasciculare",
@@ -3918,6 +4032,7 @@
         "Melanoleuca subalpina",
         "Mycena epipterygia",
         "Mycena galericulata",
+        "Mycena galopus",
         "Mycena pura",
         "Mycena rosea",
         "Mycena rosella",
@@ -3968,6 +4083,7 @@
         "Russula nigricans",
         "Russula ochroleuca",
         "Russula olivacea",
+        "Russula queletii",
         "Russula sanguinea",
         "Russula solaris",
         "Russula violeipes",
@@ -3985,6 +4101,8 @@
         "Tricholoma myomyces",
         "Tricholoma portentosum",
         "Tricholoma saponaceum",
+        "Tricholoma sejunctum",
+        "Tricholoma sulphureum",
         "Tricholoma terreum",
         "Tricholoma vaccinum",
         "Tricholomopsis decora",
@@ -4090,12 +4208,14 @@
         "Cyanosporus caesius",
         "Cystoderma granulosum",
         "Cystodermella granulosa",
+        "Dacrymyces stillatus",
         "Dumontinia tuberosa",
         "Echinoderma asperum",
         "Entoloma chalybeum var. lazulinum",
         "Entoloma incanum",
         "Entoloma nitidum",
         "Flammulina velutipes",
+        "Galactopus galopus",
         "Galerina stylifera",
         "Ganoderma adspersum",
         "Gloeophyllum odoratum",
@@ -4116,6 +4236,7 @@
         "Hygrocybe conica",
         "Hygronarius renidens",
         "Hygrophorus agathosmus",
+        "Hygrophorus chrysodon",
         "Hygrophorus eburneus",
         "Hypholoma capnoides",
         "Hypholoma fasciculare",
@@ -4162,6 +4283,7 @@
         "Melanoleuca subalpina",
         "Mycena epipterygia",
         "Mycena galericulata",
+        "Mycena galopus",
         "Mycena pura",
         "Mycena rosea",
         "Mycena rosella",
@@ -4212,6 +4334,7 @@
         "Russula nigricans",
         "Russula ochroleuca",
         "Russula olivacea",
+        "Russula queletii",
         "Russula sanguinea",
         "Russula solaris",
         "Russula violeipes",
@@ -4230,6 +4353,8 @@
         "Tricholoma myomyces",
         "Tricholoma portentosum",
         "Tricholoma saponaceum",
+        "Tricholoma sejunctum",
+        "Tricholoma sulphureum",
         "Tricholoma terreum",
         "Tricholoma vaccinum",
         "Tricholomopsis decora",

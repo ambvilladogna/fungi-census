@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-11-16",
+      "collector": "Giuseppe Bonicelli",
+      "locality": "Selva d'Agnone, Valgoglio",
+      "localityCoordinates": "45.982797, 9.891481",
+      "habitat": "Bosco misto conifere e latifoglie",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-11-15",
       "collector": "Pietro Centenari",
       "locality": "Sentiero dalle baite di Parè alla cappella degli Alpini di Blum, Fino al Monte",
@@ -137,7 +145,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "08-01",
-    "raccoltaPiuTarda": "11-15",
+    "raccoltaPiuTarda": "11-16",
     "campioniPerMese": [
       {
         "gen": 0
@@ -170,7 +178,7 @@
         "ott": 4
       },
       {
-        "nov": 2
+        "nov": 3
       },
       {
         "dic": 0
@@ -178,8 +186,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 16,
-    "campioniRaccolti": 16,
+    "totaleCampioni": 17,
+    "campioniRaccolti": 17,
     "campioniExsiccata": 0
   }
 }

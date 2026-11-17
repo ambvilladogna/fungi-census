@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-11-16",
+      "collector": "Giuseppe Bonicelli",
+      "locality": "Selva d'Agnone, Valgoglio",
+      "localityCoordinates": "45.982797, 9.891481",
+      "habitat": "Bosco misto conifere e latifoglie",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-11-08",
       "collector": "Pierino Bigoni",
       "locality": "Parco avventura in Pineta, Clusone",
@@ -73,7 +81,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "05-18",
-    "raccoltaPiuTarda": "11-10",
+    "raccoltaPiuTarda": "11-16",
     "campioniPerMese": [
       {
         "gen": 0
@@ -106,7 +114,7 @@
         "ott": 0
       },
       {
-        "nov": 4
+        "nov": 5
       },
       {
         "dic": 0
@@ -114,8 +122,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 8,
-    "campioniRaccolti": 8,
+    "totaleCampioni": 9,
+    "campioniRaccolti": 9,
     "campioniExsiccata": 0
   }
 }

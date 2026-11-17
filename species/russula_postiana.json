@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-11-16",
+      "collector": "Antonio Guana",
+      "locality": "Botto Alto, Ardesio",
+      "localityCoordinates": "45.944819, 9.932124",
+      "habitat": "Bosco misto conifere e latifoglie",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2026-08-31",
       "collector": "Pierino Bigoni",
       "locality": "Spiazzi, Gromo",
@@ -25,7 +33,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "07-30",
-    "raccoltaPiuTarda": "08-31",
+    "raccoltaPiuTarda": "11-16",
     "campioniPerMese": [
       {
         "gen": 0
@@ -58,7 +66,7 @@
         "ott": 0
       },
       {
-        "nov": 0
+        "nov": 1
       },
       {
         "dic": 0
@@ -66,8 +74,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 2,
-    "campioniRaccolti": 2,
+    "totaleCampioni": 3,
+    "campioniRaccolti": 3,
     "campioniExsiccata": 0
   }
 }

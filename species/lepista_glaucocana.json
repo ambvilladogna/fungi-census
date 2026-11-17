@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-11-16",
+      "collector": "Pierino Bigoni",
+      "locality": "Roccolo Sparpaì, Piario",
+      "localityCoordinates": "45.887066, 9.921201",
+      "habitat": "Bosco misto conifere e latifoglie",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-11-08",
       "collector": "Pietro Centenari",
       "locality": "Val Righenzuolo, Songavazzo",
@@ -57,7 +65,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "10-09",
-    "raccoltaPiuTarda": "11-08",
+    "raccoltaPiuTarda": "11-16",
     "campioniPerMese": [
       {
         "gen": 0
@@ -90,7 +98,7 @@
         "ott": 3
       },
       {
-        "nov": 3
+        "nov": 4
       },
       {
         "dic": 0
@@ -98,8 +106,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 6,
-    "campioniRaccolti": 6,
+    "totaleCampioni": 7,
+    "campioniRaccolti": 7,
     "campioniExsiccata": 0
   }
 }

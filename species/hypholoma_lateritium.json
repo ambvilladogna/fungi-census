@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-11-16",
+      "collector": "Pierino Bigoni",
+      "locality": "Roccolo Sparpaì, Piario",
+      "localityCoordinates": "45.887066, 9.921201",
+      "habitat": "Bosco misto conifere e latifoglie",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-11-08",
       "collector": "Fabio Locatelli",
       "locality": "Busgarina, Clusone",
@@ -130,7 +138,7 @@
         "ott": 2
       },
       {
-        "nov": 2
+        "nov": 3
       },
       {
         "dic": 1
@@ -138,8 +146,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 11,
-    "campioniRaccolti": 11,
+    "totaleCampioni": 12,
+    "campioniRaccolti": 12,
     "campioniExsiccata": 0
   }
 }

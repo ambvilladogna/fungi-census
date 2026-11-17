@@ -6,14 +6,6 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
-      "collectionDate": "2026-11-15",
-      "collector": "Pietro Centenari",
-      "locality": "Sentiero dalle baite di Parè alla cappella degli Alpini di Blum, Fino al Monte",
-      "localityCoordinates": "45.912122, 9.990140",
-      "habitat": "Abete rosso",
-      "determiner": "Pietro Centenari"
-    },
-    {
       "collectionDate": "2026-10-19",
       "collector": "Pierino Bigoni",
       "locality": "Roccolo Sparpaì, Piario",
@@ -97,7 +89,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "06-29",
-    "raccoltaPiuTarda": "11-15",
+    "raccoltaPiuTarda": "10-19",
     "campioniPerMese": [
       {
         "gen": 0
@@ -130,7 +122,7 @@
         "ott": 3
       },
       {
-        "nov": 1
+        "nov": 0
       },
       {
         "dic": 0
@@ -138,8 +130,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 11,
-    "campioniRaccolti": 11,
+    "totaleCampioni": 10,
+    "campioniRaccolti": 10,
     "campioniExsiccata": 0
   }
 }

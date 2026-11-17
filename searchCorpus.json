@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T01:15:33.213Z",
+  "generatedAt": "2026-11-17T01:15:27.080Z",
   "corpus": [
     {
       "type": "genus",
@@ -489,6 +489,7 @@
         "Clitocybe odora",
         "Clitocybe phaeophthalma",
         "Clitocybe pruinosa",
+        "Clitocybe suaveolens",
         "Clitocybe subspadicea",
         "Clitopaxillus alexandri",
         "Collybia odora",
@@ -779,7 +780,8 @@
       "type": "genus",
       "value": "Dacrymyces",
       "matchSpecies": [
-        "Dacrymyces chrysospermus"
+        "Dacrymyces chrysospermus",
+        "Dacrymyces stillatus"
       ]
     },
     {
@@ -928,6 +930,14 @@
         "Erionema candidum",
         "Fuligo candida",
         "Fuligo septica"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Galactopus",
+      "matchSpecies": [
+        "Galactopus galopus",
+        "Mycena galopus"
       ]
     },
     {
@@ -1153,6 +1163,7 @@
         "Hygrophorus agathosmus",
         "Hygrophorus atramentosus",
         "Hygrophorus capreolarius",
+        "Hygrophorus chrysodon",
         "Hygrophorus cossus",
         "Hygrophorus discoideus",
         "Hygrophorus eburneus",
@@ -1645,10 +1656,12 @@
       "type": "genus",
       "value": "Mycena",
       "matchSpecies": [
+        "Galactopus galopus",
         "Mycena alcalina",
         "Mycena eburnea",
         "Mycena epipterygia",
         "Mycena galericulata",
+        "Mycena galopus",
         "Mycena inclinata",
         "Mycena pearsoniana",
         "Mycena pelianthina",
@@ -3557,6 +3570,13 @@
     },
     {
       "type": "species",
+      "value": "Clitocybe suaveolens",
+      "matchSpecies": [
+        "Clitocybe suaveolens"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Clitocybe subspadicea",
       "matchSpecies": [
         "Clitocybe subspadicea"
@@ -4297,6 +4317,13 @@
     },
     {
       "type": "species",
+      "value": "Dacrymyces stillatus",
+      "matchSpecies": [
+        "Dacrymyces stillatus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Daedaleopsis confragosa",
       "matchSpecies": [
         "Daedaleopsis confragosa"
@@ -4541,6 +4568,14 @@
       "value": "Fuligo septica",
       "matchSpecies": [
         "Fuligo septica"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Galactopus galopus",
+      "matchSpecies": [
+        "Galactopus galopus",
+        "Mycena galopus"
       ]
     },
     {
@@ -4954,6 +4989,13 @@
       "value": "Hygrophorus capreolarius",
       "matchSpecies": [
         "Hygrophorus capreolarius"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Hygrophorus chrysodon",
+      "matchSpecies": [
+        "Hygrophorus chrysodon"
       ]
     },
     {
@@ -6092,6 +6134,14 @@
       "value": "Mycena galericulata",
       "matchSpecies": [
         "Mycena galericulata"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Mycena galopus",
+      "matchSpecies": [
+        "Galactopus galopus",
+        "Mycena galopus"
       ]
     },
     {
@@ -8207,6 +8257,7 @@
         "Clitocybe cerussata",
         "Clitocybe nebularis",
         "Clitocybe odora",
+        "Clitocybe suaveolens",
         "Clitocybe subspadicea",
         "Collybia cirrhata",
         "Collybia irina",
@@ -8305,7 +8356,8 @@
       "value": "Dacrymycetaceae",
       "matchSpecies": [
         "Calocera viscosa",
-        "Dacrymyces chrysospermus"
+        "Dacrymyces chrysospermus",
+        "Dacrymyces stillatus"
       ]
     },
     {
@@ -8534,6 +8586,7 @@
         "Hygrophorus agathosmus",
         "Hygrophorus atramentosus",
         "Hygrophorus capreolarius",
+        "Hygrophorus chrysodon",
         "Hygrophorus cossus",
         "Hygrophorus discoideus",
         "Hygrophorus eburneus",
@@ -8703,10 +8756,12 @@
       "value": "Mycenaceae",
       "matchSpecies": [
         "Favolaschia claudopus",
+        "Galactopus galopus",
         "Mycena alcalina",
         "Mycena eburnea",
         "Mycena epipterygia",
         "Mycena galericulata",
+        "Mycena galopus",
         "Mycena inclinata",
         "Mycena pearsoniana",
         "Mycena pelianthina",
@@ -9385,6 +9440,7 @@
         "Clitocybe odora",
         "Clitocybe phaeophthalma",
         "Clitocybe pruinosa",
+        "Clitocybe suaveolens",
         "Clitocybe subspadicea",
         "Clitopaxillus alexandri",
         "Clitopilus prunulus",
@@ -9490,6 +9546,7 @@
         "Flammulina fennae",
         "Flammulina velutipes",
         "Flammulina velutipes var. lactea",
+        "Galactopus galopus",
         "Galerina stylifera",
         "Gymnopilus penetrans",
         "Gymnopus aquosus",
@@ -9513,6 +9570,7 @@
         "Hygrophorus agathosmus",
         "Hygrophorus atramentosus",
         "Hygrophorus capreolarius",
+        "Hygrophorus chrysodon",
         "Hygrophorus cossus",
         "Hygrophorus discoideus",
         "Hygrophorus eburneus",
@@ -9613,6 +9671,7 @@
         "Mycena eburnea",
         "Mycena epipterygia",
         "Mycena galericulata",
+        "Mycena galopus",
         "Mycena inclinata",
         "Mycena pearsoniana",
         "Mycena pelianthina",
@@ -9837,7 +9896,8 @@
       "value": "Dacrymycetales",
       "matchSpecies": [
         "Calocera viscosa",
-        "Dacrymyces chrysospermus"
+        "Dacrymyces chrysospermus",
+        "Dacrymyces stillatus"
       ]
     },
     {
@@ -10330,6 +10390,7 @@
         "Clitocybe odora",
         "Clitocybe phaeophthalma",
         "Clitocybe pruinosa",
+        "Clitocybe suaveolens",
         "Clitocybe subspadicea",
         "Clitopaxillus alexandri",
         "Clitopilus prunulus",
@@ -10450,6 +10511,7 @@
         "Fomitopsis moritziana",
         "Fomitopsis officinalis",
         "Fomitopsis pinicola",
+        "Galactopus galopus",
         "Galerina stylifera",
         "Ganoderma adspersum",
         "Ganoderma applanatum",
@@ -10499,6 +10561,7 @@
         "Hygrophorus agathosmus",
         "Hygrophorus atramentosus",
         "Hygrophorus capreolarius",
+        "Hygrophorus chrysodon",
         "Hygrophorus cossus",
         "Hygrophorus discoideus",
         "Hygrophorus eburneus",
@@ -10643,6 +10706,7 @@
         "Mycena eburnea",
         "Mycena epipterygia",
         "Mycena galericulata",
+        "Mycena galopus",
         "Mycena inclinata",
         "Mycena pearsoniana",
         "Mycena pelianthina",
@@ -10891,7 +10955,8 @@
       "value": "Dacrymycetes",
       "matchSpecies": [
         "Calocera viscosa",
-        "Dacrymyces chrysospermus"
+        "Dacrymyces chrysospermus",
+        "Dacrymyces stillatus"
       ]
     },
     {
@@ -11194,6 +11259,7 @@
         "Clitocybe odora",
         "Clitocybe phaeophthalma",
         "Clitocybe pruinosa",
+        "Clitocybe suaveolens",
         "Clitocybe subspadicea",
         "Clitopaxillus alexandri",
         "Clitopilus prunulus",
@@ -11290,6 +11356,7 @@
         "Cystodermella granulosa",
         "Cystodermella terryi",
         "Dacrymyces chrysospermus",
+        "Dacrymyces stillatus",
         "Daedaleopsis confragosa",
         "Daedaleopsis tricolor",
         "Deconica coprophila",
@@ -11316,6 +11383,7 @@
         "Fomitopsis moritziana",
         "Fomitopsis officinalis",
         "Fomitopsis pinicola",
+        "Galactopus galopus",
         "Galerina stylifera",
         "Ganoderma adspersum",
         "Ganoderma applanatum",
@@ -11365,6 +11433,7 @@
         "Hygrophorus agathosmus",
         "Hygrophorus atramentosus",
         "Hygrophorus capreolarius",
+        "Hygrophorus chrysodon",
         "Hygrophorus cossus",
         "Hygrophorus discoideus",
         "Hygrophorus eburneus",
@@ -11509,6 +11578,7 @@
         "Mycena eburnea",
         "Mycena epipterygia",
         "Mycena galericulata",
+        "Mycena galopus",
         "Mycena inclinata",
         "Mycena pearsoniana",
         "Mycena pelianthina",
@@ -11912,6 +11982,7 @@
         "Clitocybe odora",
         "Clitocybe phaeophthalma",
         "Clitocybe pruinosa",
+        "Clitocybe suaveolens",
         "Clitocybe subspadicea",
         "Clitopaxillus alexandri",
         "Clitopilus prunulus",
@@ -12009,6 +12080,7 @@
         "Cystodermella granulosa",
         "Cystodermella terryi",
         "Dacrymyces chrysospermus",
+        "Dacrymyces stillatus",
         "Daedaleopsis confragosa",
         "Daedaleopsis tricolor",
         "Deconica coprophila",
@@ -12040,6 +12112,7 @@
         "Fomitopsis moritziana",
         "Fomitopsis officinalis",
         "Fomitopsis pinicola",
+        "Galactopus galopus",
         "Galerina stylifera",
         "Ganoderma adspersum",
         "Ganoderma applanatum",
@@ -12094,6 +12167,7 @@
         "Hygrophorus agathosmus",
         "Hygrophorus atramentosus",
         "Hygrophorus capreolarius",
+        "Hygrophorus chrysodon",
         "Hygrophorus cossus",
         "Hygrophorus discoideus",
         "Hygrophorus eburneus",
@@ -12246,6 +12320,7 @@
         "Mycena eburnea",
         "Mycena epipterygia",
         "Mycena galericulata",
+        "Mycena galopus",
         "Mycena inclinata",
         "Mycena pearsoniana",
         "Mycena pelianthina",

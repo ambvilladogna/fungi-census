@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-11-16",
+      "collector": "Pierino Bigoni",
+      "locality": "Roccolo Sparpaì, Piario",
+      "localityCoordinates": "45.887066, 9.921201",
+      "habitat": "Bosco misto conifere e latifoglie",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-11-15",
       "collector": "Pietro Centenari",
       "locality": "Sentiero per le baite di Parè, Fino al Monte",
@@ -169,7 +177,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "07-14",
-    "raccoltaPiuTarda": "11-15",
+    "raccoltaPiuTarda": "11-16",
     "campioniPerMese": [
       {
         "gen": 0
@@ -202,7 +210,7 @@
         "ott": 5
       },
       {
-        "nov": 2
+        "nov": 3
       },
       {
         "dic": 0
@@ -210,8 +218,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 20,
-    "campioniRaccolti": 20,
+    "totaleCampioni": 21,
+    "campioniRaccolti": 21,
     "campioniExsiccata": 0
   }
 }

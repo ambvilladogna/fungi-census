@@ -1,8 +1,8 @@
 {
   "title": "Pineta della Selva",
-  "generatedAt": "2026-11-10T15:25:53.976Z",
-  "totalSpecies": 190,
-  "totalSamples": 340,
+  "generatedAt": "2026-11-17T01:15:27.054Z",
+  "totalSpecies": 196,
+  "totalSamples": 356,
   "species": [
     {
       "genus": "Agaricus",
@@ -493,6 +493,13 @@
       "currentAuthority": "(Batsch) Harmaja 2002"
     },
     {
+      "genus": "Dacrymyces",
+      "species": "stillatus",
+      "fullName": "Dacrymyces stillatus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Dacrymycetes > ordine: Dacrymycetales > famiglia: Dacrymycetaceae",
+      "authority": "Nees 1816"
+    },
+    {
       "genus": "Dumontinia",
       "species": "tuberosa",
       "fullName": "Dumontinia tuberosa",
@@ -663,6 +670,13 @@
       "fullName": "Hygrophorus agathosmus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Hygrophoraceae",
       "authority": "(Fr.) Fr. 1838"
+    },
+    {
+      "genus": "Hygrophorus",
+      "species": "chrysodon",
+      "fullName": "Hygrophorus chrysodon",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Hygrophoraceae",
+      "authority": "(Batsch) Fr. 1838"
     },
     {
       "genus": "Hygrophorus",
@@ -993,6 +1007,15 @@
     },
     {
       "genus": "Mycena",
+      "species": "galopus",
+      "fullName": "Mycena galopus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Mycenaceae",
+      "authority": "(Pers.) P. Kumm. 1871",
+      "currentName": "Galactopus galopus",
+      "currentAuthority": "(Pers.) Kun L. Yang & Jia Y. Lin 2026"
+    },
+    {
+      "genus": "Mycena",
       "species": "pura",
       "fullName": "Mycena pura",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Mycenaceae",
@@ -1286,6 +1309,13 @@
     },
     {
       "genus": "Russula",
+      "species": "queletii",
+      "fullName": "Russula queletii",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
+      "authority": "Fr. 1872"
+    },
+    {
+      "genus": "Russula",
       "species": "sanguinea",
       "fullName": "Russula sanguinea",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
@@ -1383,6 +1413,20 @@
       "fullName": "Tricholoma saponaceum",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Tricholomataceae",
       "authority": "(Fr.) P. Kumm. 1871"
+    },
+    {
+      "genus": "Tricholoma",
+      "species": "sejunctum",
+      "fullName": "Tricholoma sejunctum",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Tricholomataceae",
+      "authority": "(Sowerby) Quél. 1872"
+    },
+    {
+      "genus": "Tricholoma",
+      "species": "sulphureum",
+      "fullName": "Tricholoma sulphureum",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Tricholomataceae",
+      "authority": "(Bull.) P. Kumm. 1871"
     },
     {
       "genus": "Tricholoma",

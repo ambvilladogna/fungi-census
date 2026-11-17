@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-11-16",
+      "collector": "Fabio Locatelli",
+      "locality": "Schilpario",
+      "localityCoordinates": "46.009394, 10.154059",
+      "habitat": "Bosco misto conifere e latifoglie",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2026-10-16",
       "collector": "Fabio Locatelli",
       "locality": "Maschere, Gromo",
@@ -73,7 +81,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "08-01",
-    "raccoltaPiuTarda": "10-16",
+    "raccoltaPiuTarda": "11-16",
     "campioniPerMese": [
       {
         "gen": 0
@@ -106,7 +114,7 @@
         "ott": 3
       },
       {
-        "nov": 0
+        "nov": 1
       },
       {
         "dic": 0
@@ -114,8 +122,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 8,
-    "campioniRaccolti": 8,
+    "totaleCampioni": 9,
+    "campioniRaccolti": 9,
     "campioniExsiccata": 0
   }
 }

@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-11-16",
+      "collector": "Pierino Bigoni",
+      "locality": "San Rocco, Clusone",
+      "localityCoordinates": "45.885311, 9.924656",
+      "habitat": "Bosco misto conifere e latifoglie",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-03-02",
       "collector": "Antonio Guana",
       "locality": "Piazzolo, Ardesio",
@@ -106,7 +114,7 @@
         "ott": 0
       },
       {
-        "nov": 3
+        "nov": 4
       },
       {
         "dic": 2
@@ -114,8 +122,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 8,
-    "campioniRaccolti": 8,
+    "totaleCampioni": 9,
+    "campioniRaccolti": 9,
     "campioniExsiccata": 0
   }
 }

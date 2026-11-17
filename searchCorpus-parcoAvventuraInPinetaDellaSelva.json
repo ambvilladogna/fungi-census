@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T15:25:54.019Z",
+  "generatedAt": "2026-11-17T01:15:27.102Z",
   "corpus": [
     {
       "type": "genus",
@@ -90,6 +90,13 @@
       "matchSpecies": [
         "Cystoderma granulosum",
         "Cystodermella granulosa"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Dacrymyces",
+      "matchSpecies": [
+        "Dacrymyces stillatus"
       ]
     },
     {
@@ -305,6 +312,13 @@
     },
     {
       "type": "species",
+      "value": "Dacrymyces stillatus",
+      "matchSpecies": [
+        "Dacrymyces stillatus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Galerina stylifera",
       "matchSpecies": [
         "Galerina stylifera"
@@ -482,6 +496,13 @@
     },
     {
       "type": "famiglia",
+      "value": "Dacrymycetaceae",
+      "matchSpecies": [
+        "Dacrymyces stillatus"
+      ]
+    },
+    {
+      "type": "famiglia",
       "value": "Entolomataceae",
       "matchSpecies": [
         "Clitopilus prunulus"
@@ -637,6 +658,13 @@
     },
     {
       "type": "ordine",
+      "value": "Dacrymycetales",
+      "matchSpecies": [
+        "Dacrymyces stillatus"
+      ]
+    },
+    {
+      "type": "ordine",
       "value": "Liceida",
       "matchSpecies": [
         "Lycogala epidendrum"
@@ -691,6 +719,13 @@
     },
     {
       "type": "classe",
+      "value": "Dacrymycetes",
+      "matchSpecies": [
+        "Dacrymyces stillatus"
+      ]
+    },
+    {
+      "type": "classe",
       "value": "Myxogastrea",
       "matchSpecies": [
         "Lycogala epidendrum"
@@ -719,6 +754,7 @@
         "Cortinarius venetus",
         "Cystoderma granulosum",
         "Cystodermella granulosa",
+        "Dacrymyces stillatus",
         "Galerina stylifera",
         "Hebeloma crustuliniforme",
         "Hypholoma capnoides",
@@ -757,6 +793,7 @@
         "Cortinarius venetus",
         "Cystoderma granulosum",
         "Cystodermella granulosa",
+        "Dacrymyces stillatus",
         "Galerina stylifera",
         "Hebeloma crustuliniforme",
         "Hypholoma capnoides",

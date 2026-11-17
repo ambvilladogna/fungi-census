@@ -6,6 +6,14 @@
   "autoreCorrente": "(Bull.) Quél. 1886",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-11-14",
+      "collector": "Pierino Bigoni",
+      "locality": "Cà de Spì, Monte Poieto, Gazzaniga",
+      "localityCoordinates": "45.801245, 9.788662",
+      "habitat": "Bosco misto",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-10-27",
       "collector": "Pierino Bigoni",
       "locality": "Pineta della Selva, Clusone",
@@ -154,7 +162,7 @@
         "ott": 2
       },
       {
-        "nov": 4
+        "nov": 5
       },
       {
         "dic": 1
@@ -162,8 +170,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 14,
-    "campioniRaccolti": 14,
+    "totaleCampioni": 15,
+    "campioniRaccolti": 15,
     "campioniExsiccata": 0
   }
 }
