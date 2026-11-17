@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T01:15:27.080Z",
+  "generatedAt": "2026-11-17T08:11:40.946Z",
   "corpus": [
     {
       "type": "genus",
@@ -2404,6 +2404,7 @@
         "Tricholoma saponaceum var. lavedanum",
         "Tricholoma saponaceum var. squamosum",
         "Tricholoma sejunctum",
+        "Tricholoma sejunctum var. squamuliferum",
         "Tricholoma sulphureum",
         "Tricholoma terreum",
         "Tricholoma ustale",
@@ -7797,6 +7798,13 @@
     },
     {
       "type": "species",
+      "value": "Tricholoma sejunctum var. squamuliferum",
+      "matchSpecies": [
+        "Tricholoma sejunctum var. squamuliferum"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Tricholoma sulphureum",
       "matchSpecies": [
         "Tricholoma sulphureum"
@@ -9293,6 +9301,7 @@
         "Tricholoma saponaceum var. lavedanum",
         "Tricholoma saponaceum var. squamosum",
         "Tricholoma sejunctum",
+        "Tricholoma sejunctum var. squamuliferum",
         "Tricholoma sulphureum",
         "Tricholoma terreum",
         "Tricholoma ustale",
@@ -9758,6 +9767,7 @@
         "Tricholoma saponaceum var. lavedanum",
         "Tricholoma saponaceum var. squamosum",
         "Tricholoma sejunctum",
+        "Tricholoma sejunctum var. squamuliferum",
         "Tricholoma sulphureum",
         "Tricholoma terreum",
         "Tricholoma ustale",
@@ -10921,6 +10931,7 @@
         "Tricholoma saponaceum var. lavedanum",
         "Tricholoma saponaceum var. squamosum",
         "Tricholoma sejunctum",
+        "Tricholoma sejunctum var. squamuliferum",
         "Tricholoma sulphureum",
         "Tricholoma terreum",
         "Tricholoma ustale",
@@ -11794,6 +11805,7 @@
         "Tricholoma saponaceum var. lavedanum",
         "Tricholoma saponaceum var. squamosum",
         "Tricholoma sejunctum",
+        "Tricholoma sejunctum var. squamuliferum",
         "Tricholoma sulphureum",
         "Tricholoma terreum",
         "Tricholoma ustale",
@@ -12545,6 +12557,7 @@
         "Tricholoma saponaceum var. lavedanum",
         "Tricholoma saponaceum var. squamosum",
         "Tricholoma sejunctum",
+        "Tricholoma sejunctum var. squamuliferum",
         "Tricholoma sulphureum",
         "Tricholoma terreum",
         "Tricholoma ustale",

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-17T01:15:26.864Z",
-  "totalSpecies": 615,
-  "totalSamples": 2330,
+  "generatedAt": "2026-11-17T08:11:40.772Z",
+  "totalSpecies": 616,
+  "totalSamples": 2332,
   "species": [
     {
       "genus": "Flammulina",
@@ -1253,7 +1253,7 @@
       "fullName": "Neofavolus alveolaris",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Polyporales > famiglia: Polyporaceae",
       "authority": "(DC.) Sotome & T. Hatt. 2012",
-      "totalSamples": 7,
+      "totalSamples": 8,
       "monthlyCount": [
         0,
         0,
@@ -1265,7 +1265,7 @@
         1,
         0,
         0,
-        1,
+        2,
         0
       ],
       "earliestDate": "03-15",
@@ -1279,13 +1279,13 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "11-02",
-      "latestDayOfYear": 307,
+      "latestDate": "11-16",
+      "latestDayOfYear": 321,
       "latestSample": {
-        "collectionDate": "2026-11-02",
-        "collector": "Antonio Guana",
-        "locality": "Piazzolo, Ardesio",
-        "localityCoordinates": "45.939095, 9.940667",
+        "collectionDate": "2026-11-16",
+        "collector": "Lisa Gambarini",
+        "locality": "Montagnina, Ponte della Selva, Ponte Nossa",
+        "localityCoordinates": "45.86675, 9.89950",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -3598,8 +3598,8 @@
       "latestSample": {
         "collectionDate": "2026-11-16",
         "collector": "Lisa Gambarini",
-        "locality": "Montagnina, Ponte Selva",
-        "localityCoordinates": "",
+        "locality": "Montagnina, Ponte della Selva, Ponte Nossa",
+        "localityCoordinates": "45.86675, 9.89950",
         "habitat": "Bosco misto latifoglie",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -9214,8 +9214,8 @@
       "latestSample": {
         "collectionDate": "2026-11-16",
         "collector": "Lisa Gambarini",
-        "locality": "Montagnina, Ponte Selva",
-        "localityCoordinates": "",
+        "locality": "Montagnina, Ponte della Selva, Ponte Nossa",
+        "localityCoordinates": "45.86675, 9.89950",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -12642,8 +12642,8 @@
       "latestSample": {
         "collectionDate": "2026-11-16",
         "collector": "Lisa Gambarini",
-        "locality": "Montagnina, Ponte Selva",
-        "localityCoordinates": "",
+        "locality": "Montagnina, Ponte della Selva, Ponte Nossa",
+        "localityCoordinates": "45.86675, 9.89950",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -18344,8 +18344,8 @@
       "latestSample": {
         "collectionDate": "2026-11-16",
         "collector": "Lisa Gambarini",
-        "locality": "Montagnina, Ponte Selva",
-        "localityCoordinates": "",
+        "locality": "Montagnina, Ponte della Selva, Ponte Nossa",
+        "localityCoordinates": "45.86675, 9.89950",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -18572,8 +18572,8 @@
       "latestSample": {
         "collectionDate": "2026-11-16",
         "collector": "Lisa Gambarini",
-        "locality": "Montagnina, Ponte Selva",
-        "localityCoordinates": "",
+        "locality": "Montagnina, Ponte della Selva, Ponte Nossa",
+        "localityCoordinates": "45.86675, 9.89950",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -25110,8 +25110,8 @@
       "latestSample": {
         "collectionDate": "2026-11-16",
         "collector": "Lisa Gambarini",
-        "locality": "Montagnina, Ponte Selva",
-        "localityCoordinates": "",
+        "locality": "Montagnina, Ponte della Selva, Ponte Nossa",
+        "localityCoordinates": "45.86675, 9.89950",
         "habitat": "Bosco misto conifere e latifoglie",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -25154,8 +25154,8 @@
       "latestSample": {
         "collectionDate": "2026-11-16",
         "collector": "Lisa Gambarini",
-        "locality": "Montagnina, Ponte Selva",
-        "localityCoordinates": "",
+        "locality": "Montagnina, Ponte della Selva, Ponte Nossa",
+        "localityCoordinates": "45.86675, 9.89950",
         "habitat": "Bosco misto conifere e latifoglie",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -26610,8 +26610,8 @@
       "earliestSample": {
         "collectionDate": "2026-11-16",
         "collector": "Lisa Gambarini",
-        "locality": "Montagnina, Ponte Selva",
-        "localityCoordinates": "",
+        "locality": "Montagnina, Ponte della Selva, Ponte Nossa",
+        "localityCoordinates": "45.86675, 9.89950",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -26621,8 +26621,8 @@
       "latestSample": {
         "collectionDate": "2026-11-16",
         "collector": "Lisa Gambarini",
-        "locality": "Montagnina, Ponte Selva",
-        "localityCoordinates": "",
+        "locality": "Montagnina, Ponte della Selva, Ponte Nossa",
+        "localityCoordinates": "45.86675, 9.89950",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -26698,8 +26698,8 @@
       "earliestSample": {
         "collectionDate": "2026-11-16",
         "collector": "Lisa Gambarini",
-        "locality": "Montagnina, Ponte Selva",
-        "localityCoordinates": "",
+        "locality": "Montagnina, Ponte della Selva, Ponte Nossa",
+        "localityCoordinates": "45.86675, 9.89950",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
@@ -26768,6 +26768,50 @@
       "authority": "(Pers.) P. Kumm. 1871",
       "currentName": "Galactopus galopus",
       "currentAuthority": "(Pers.) Kun L. Yang & Jia Y. Lin 2026",
+      "totalSamples": 1,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "earliestDate": "11-16",
+      "earliestDayOfYear": 321,
+      "earliestSample": {
+        "collectionDate": "2026-11-16",
+        "collector": "Pierino Bigoni",
+        "locality": "Roccolo Sparpaì, Piario",
+        "localityCoordinates": "45.887066, 9.921201",
+        "habitat": "Bosco misto conifere e latifoglie",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "11-16",
+      "latestDayOfYear": 321,
+      "latestSample": {
+        "collectionDate": "2026-11-16",
+        "collector": "Pierino Bigoni",
+        "locality": "Roccolo Sparpaì, Piario",
+        "localityCoordinates": "45.887066, 9.921201",
+        "habitat": "Bosco misto conifere e latifoglie",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Tricholoma",
+      "species": "sejunctum var. squamuliferum",
+      "fullName": "Tricholoma sejunctum var. squamuliferum",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Tricholomataceae",
+      "authority": "Pilát 1961",
       "totalSamples": 1,
       "monthlyCount": [
         0,

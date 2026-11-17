@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-17T01:15:26.806Z",
-  "totalSpecies": 615,
+  "generatedAt": "2026-11-17T08:11:40.717Z",
+  "totalSpecies": 616,
   "totalSamples": 2119,
   "species": [
     {
@@ -4458,6 +4458,13 @@
       "fullName": "Tricholoma sejunctum",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Tricholomataceae",
       "authority": "(Sowerby) Quél. 1872"
+    },
+    {
+      "genus": "Tricholoma",
+      "species": "sejunctum var. squamuliferum",
+      "fullName": "Tricholoma sejunctum var. squamuliferum",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Tricholomataceae",
+      "authority": "Pilát 1961"
     },
     {
       "genus": "Tricholoma",
