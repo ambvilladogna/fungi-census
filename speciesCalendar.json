@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-17T08:11:40.772Z",
-  "totalSpecies": 616,
-  "totalSamples": 2332,
+  "generatedAt": "2026-11-18T01:14:59.204Z",
+  "totalSpecies": 617,
+  "totalSamples": 2333,
   "species": [
     {
       "genus": "Flammulina",
@@ -26625,6 +26625,52 @@
         "localityCoordinates": "45.86675, 9.89950",
         "habitat": "Bosco misto",
         "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Cortinarius",
+      "species": "occidentalis",
+      "fullName": "Cortinarius occidentalis",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
+      "authority": "A.H. Sm. 1939",
+      "currentName": "Thaxterogaster occidentalis",
+      "currentAuthority": "(A.H. Sm.) Niskanen & Liimat. 2022",
+      "totalSamples": 1,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "earliestDate": "11-16",
+      "earliestDayOfYear": 321,
+      "earliestSample": {
+        "collectionDate": "2026-11-16",
+        "collector": "Lisa Gambarini",
+        "locality": "Montagnina, Ponte della Selva, Ponte Nossa",
+        "localityCoordinates": "45.86675, 9.89950",
+        "habitat": "Bosco misto",
+        "determiner": "Flavio Rossi",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "11-16",
+      "latestDayOfYear": 321,
+      "latestSample": {
+        "collectionDate": "2026-11-16",
+        "collector": "Lisa Gambarini",
+        "locality": "Montagnina, Ponte della Selva, Ponte Nossa",
+        "localityCoordinates": "45.86675, 9.89950",
+        "habitat": "Bosco misto",
+        "determiner": "Flavio Rossi",
         "_tipo": "raccolto"
       }
     },

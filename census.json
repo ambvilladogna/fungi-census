@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-17T08:11:40.717Z",
-  "totalSpecies": 616,
-  "totalSamples": 2119,
+  "generatedAt": "2026-11-18T01:14:59.144Z",
+  "totalSpecies": 617,
+  "totalSamples": 2120,
   "species": [
     {
       "genus": "Abortiporus",
@@ -1231,6 +1231,15 @@
       "fullName": "Cortinarius malicorius",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
       "authority": "Fr. 1838"
+    },
+    {
+      "genus": "Cortinarius",
+      "species": "occidentalis",
+      "fullName": "Cortinarius occidentalis",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
+      "authority": "A.H. Sm. 1939",
+      "currentName": "Thaxterogaster occidentalis",
+      "currentAuthority": "(A.H. Sm.) Niskanen & Liimat. 2022"
     },
     {
       "genus": "Cortinarius",

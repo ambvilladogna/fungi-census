@@ -1,0 +1,65 @@
+{
+  "nomeCompleto": "Cortinarius occidentalis",
+  "autore": "A.H. Sm. 1939",
+  "filogenesi": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
+  "nomeCorrente": "Thaxterogaster occidentalis",
+  "autoreCorrente": "(A.H. Sm.) Niskanen & Liimat. 2022",
+  "campioniRaccolti": [
+    {
+      "collectionDate": "2026-11-16",
+      "collector": "Lisa Gambarini",
+      "locality": "Montagnina, Ponte della Selva, Ponte Nossa",
+      "localityCoordinates": "45.86675, 9.89950",
+      "habitat": "Bosco misto",
+      "determiner": "Flavio Rossi"
+    }
+  ],
+  "campioniExsiccata": [],
+  "fenologia": {
+    "raccoltaPiuPrecoce": "11-16",
+    "raccoltaPiuTarda": "11-16",
+    "campioniPerMese": [
+      {
+        "gen": 0
+      },
+      {
+        "feb": 0
+      },
+      {
+        "mar": 0
+      },
+      {
+        "apr": 0
+      },
+      {
+        "mag": 0
+      },
+      {
+        "giu": 0
+      },
+      {
+        "lug": 0
+      },
+      {
+        "ago": 0
+      },
+      {
+        "set": 0
+      },
+      {
+        "ott": 0
+      },
+      {
+        "nov": 1
+      },
+      {
+        "dic": 0
+      }
+    ]
+  },
+  "statistiche": {
+    "totaleCampioni": 1,
+    "campioniRaccolti": 1,
+    "campioniExsiccata": 0
+  }
+}

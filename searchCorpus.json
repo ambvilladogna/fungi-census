@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T08:11:40.946Z",
+  "generatedAt": "2026-11-18T01:14:59.397Z",
   "corpus": [
     {
       "type": "genus",
@@ -662,6 +662,7 @@
         "Cortinarius largus",
         "Cortinarius limonius",
         "Cortinarius malicorius",
+        "Cortinarius occidentalis",
         "Cortinarius odorifer",
         "Cortinarius orellanoides",
         "Cortinarius orellanoides var. speciosissimus",
@@ -686,7 +687,8 @@
         "Hygronarius renidens",
         "Phlegmacium glaucopus",
         "Phlegmacium percome",
-        "Rozites caperatus"
+        "Rozites caperatus",
+        "Thaxterogaster occidentalis"
       ]
     },
     {
@@ -2325,6 +2327,14 @@
       "value": "Tephrocybe",
       "matchSpecies": [
         "Tephrocybe rancida"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Thaxterogaster",
+      "matchSpecies": [
+        "Cortinarius occidentalis",
+        "Thaxterogaster occidentalis"
       ]
     },
     {
@@ -4028,6 +4038,14 @@
       "value": "Cortinarius malicorius",
       "matchSpecies": [
         "Cortinarius malicorius"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Cortinarius occidentalis",
+      "matchSpecies": [
+        "Cortinarius occidentalis",
+        "Thaxterogaster occidentalis"
       ]
     },
     {
@@ -7602,6 +7620,14 @@
     },
     {
       "type": "species",
+      "value": "Thaxterogaster occidentalis",
+      "matchSpecies": [
+        "Cortinarius occidentalis",
+        "Thaxterogaster occidentalis"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Thelephora palmata",
       "matchSpecies": [
         "Thelephora palmata"
@@ -8317,6 +8343,7 @@
         "Cortinarius largus",
         "Cortinarius limonius",
         "Cortinarius malicorius",
+        "Cortinarius occidentalis",
         "Cortinarius odorifer",
         "Cortinarius orellanoides",
         "Cortinarius orellanoides var. speciosissimus",
@@ -8341,7 +8368,8 @@
         "Hygronarius renidens",
         "Phlegmacium glaucopus",
         "Phlegmacium percome",
-        "Rozites caperatus"
+        "Rozites caperatus",
+        "Thaxterogaster occidentalis"
       ]
     },
     {
@@ -9508,6 +9536,7 @@
         "Cortinarius largus",
         "Cortinarius limonius",
         "Cortinarius malicorius",
+        "Cortinarius occidentalis",
         "Cortinarius odorifer",
         "Cortinarius orellanoides",
         "Cortinarius orellanoides var. speciosissimus",
@@ -9748,6 +9777,7 @@
         "Stropharia rugosoannulata f. lutea",
         "Stropharia semiglobata",
         "Tephrocybe rancida",
+        "Thaxterogaster occidentalis",
         "Tricholoma album",
         "Tricholoma aurantium",
         "Tricholoma bufonium",
@@ -10459,6 +10489,7 @@
         "Cortinarius largus",
         "Cortinarius limonius",
         "Cortinarius malicorius",
+        "Cortinarius occidentalis",
         "Cortinarius odorifer",
         "Cortinarius orellanoides",
         "Cortinarius orellanoides var. speciosissimus",
@@ -10908,6 +10939,7 @@
         "Suillus viscidus",
         "Tapinella atrotomentosa",
         "Tephrocybe rancida",
+        "Thaxterogaster occidentalis",
         "Thelephora palmata",
         "Trametes cinnabarina",
         "Trametes versicolor",
@@ -11329,6 +11361,7 @@
         "Cortinarius largus",
         "Cortinarius limonius",
         "Cortinarius malicorius",
+        "Cortinarius occidentalis",
         "Cortinarius odorifer",
         "Cortinarius orellanoides",
         "Cortinarius orellanoides var. speciosissimus",
@@ -11781,6 +11814,7 @@
         "Suillus viscidus",
         "Tapinella atrotomentosa",
         "Tephrocybe rancida",
+        "Thaxterogaster occidentalis",
         "Thelephora palmata",
         "Trametes cinnabarina",
         "Trametes versicolor",
@@ -12054,6 +12088,7 @@
         "Cortinarius largus",
         "Cortinarius limonius",
         "Cortinarius malicorius",
+        "Cortinarius occidentalis",
         "Cortinarius odorifer",
         "Cortinarius orellanoides",
         "Cortinarius orellanoides var. speciosissimus",
@@ -12531,6 +12566,7 @@
         "Tapinella atrotomentosa",
         "Tarzetta cupularis",
         "Tephrocybe rancida",
+        "Thaxterogaster occidentalis",
         "Thelephora palmata",
         "Tolypocladium capitatum",
         "Trametes cinnabarina",
