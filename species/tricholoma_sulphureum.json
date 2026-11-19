@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-11-18",
+      "collector": "Fabio Locatelli",
+      "locality": "Busgarina, Clusone",
+      "localityCoordinates": "45.873024, 9.916009",
+      "habitat": "Salice",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2026-11-16",
       "collector": "Pierino Bigoni",
       "locality": "Roccolo Sparpaì, Piario",
@@ -73,7 +81,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "09-14",
-    "raccoltaPiuTarda": "11-16",
+    "raccoltaPiuTarda": "11-18",
     "campioniPerMese": [
       {
         "gen": 0
@@ -106,7 +114,7 @@
         "ott": 1
       },
       {
-        "nov": 3
+        "nov": 4
       },
       {
         "dic": 0
@@ -114,8 +122,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 8,
-    "campioniRaccolti": 8,
+    "totaleCampioni": 9,
+    "campioniRaccolti": 9,
     "campioniExsiccata": 0
   }
 }

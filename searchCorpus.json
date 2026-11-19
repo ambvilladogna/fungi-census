@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T01:14:59.397Z",
+  "generatedAt": "2026-11-19T01:14:55.851Z",
   "corpus": [
     {
       "type": "genus",
@@ -946,6 +946,7 @@
       "type": "genus",
       "value": "Galerina",
       "matchSpecies": [
+        "Galerina marginata",
         "Galerina stylifera"
       ]
     },
@@ -4595,6 +4596,13 @@
       "matchSpecies": [
         "Galactopus galopus",
         "Mycena galopus"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Galerina marginata",
+      "matchSpecies": [
+        "Galerina marginata"
       ]
     },
     {
@@ -8460,6 +8468,7 @@
       "type": "famiglia",
       "value": "Galerinaceae",
       "matchSpecies": [
+        "Galerina marginata",
         "Galerina stylifera",
         "Gymnopilus penetrans"
       ]
@@ -9585,6 +9594,7 @@
         "Flammulina velutipes",
         "Flammulina velutipes var. lactea",
         "Galactopus galopus",
+        "Galerina marginata",
         "Galerina stylifera",
         "Gymnopilus penetrans",
         "Gymnopus aquosus",
@@ -10553,6 +10563,7 @@
         "Fomitopsis officinalis",
         "Fomitopsis pinicola",
         "Galactopus galopus",
+        "Galerina marginata",
         "Galerina stylifera",
         "Ganoderma adspersum",
         "Ganoderma applanatum",
@@ -11428,6 +11439,7 @@
         "Fomitopsis officinalis",
         "Fomitopsis pinicola",
         "Galactopus galopus",
+        "Galerina marginata",
         "Galerina stylifera",
         "Ganoderma adspersum",
         "Ganoderma applanatum",
@@ -12160,6 +12172,7 @@
         "Fomitopsis officinalis",
         "Fomitopsis pinicola",
         "Galactopus galopus",
+        "Galerina marginata",
         "Galerina stylifera",
         "Ganoderma adspersum",
         "Ganoderma applanatum",

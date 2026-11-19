@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-18T01:14:59.144Z",
-  "totalSpecies": 617,
-  "totalSamples": 2120,
+  "generatedAt": "2026-11-19T01:14:55.612Z",
+  "totalSpecies": 618,
+  "totalSamples": 2126,
   "species": [
     {
       "genus": "Abortiporus",
@@ -1700,6 +1700,13 @@
       "fullName": "Fuligo septica",
       "lineage": "regno: Protozoa > phylum: Myxomycota > classe: Myxomycetes > ordine: Physarales > famiglia: Physaraceae",
       "authority": "(L.) F.H. Wigg. 1780"
+    },
+    {
+      "genus": "Galerina",
+      "species": "marginata",
+      "fullName": "Galerina marginata",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Galerinaceae",
+      "authority": "(Batsch) Kühner 1935"
     },
     {
       "genus": "Galerina",
