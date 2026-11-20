@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-19T01:14:55.671Z",
+  "generatedAt": "2026-11-20T01:14:54.950Z",
   "totalSpecies": 618,
-  "totalSamples": 2339,
+  "totalSamples": 2341,
   "species": [
     {
       "genus": "Flammulina",
@@ -1519,7 +1519,7 @@
       "fullName": "Chlorociboria aeruginascens",
       "lineage": "regno: Fungi > phylum: Ascomycota > classe: Leotiomycetes > ordine: Helotiales > famiglia: Chlorociboriaceae",
       "authority": "(Nyl.) Kanouse 1948",
-      "totalSamples": 2,
+      "totalSamples": 3,
       "monthlyCount": [
         0,
         0,
@@ -1531,7 +1531,7 @@
         0,
         0,
         0,
-        0,
+        1,
         0
       ],
       "earliestDate": "04-20",
@@ -1545,15 +1545,15 @@
         "determiner": "Antonio Guana",
         "_tipo": "raccolto"
       },
-      "latestDate": "07-04",
-      "latestDayOfYear": 185,
+      "latestDate": "11-18",
+      "latestDayOfYear": 323,
       "latestSample": {
-        "collectionDate": "2025-07-04",
-        "collector": "Pierino Bigoni",
-        "locality": "Valsanguigno, Valgoglio",
-        "localityCoordinates": "45.967216, 9.886552",
-        "habitat": "A terra su legno marcescente bosco misto",
-        "determiner": "Pierino Bigoni",
+        "collectionDate": "2026-11-18",
+        "collector": "Fabio Locatelli",
+        "locality": "Busgarina, Clusone",
+        "localityCoordinates": "45.873024, 9.916009",
+        "habitat": "Ceppaia",
+        "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
     },
@@ -3835,7 +3835,7 @@
       "fullName": "Russula integra",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Russulaceae",
       "authority": "(L.) Fr. 1838",
-      "totalSamples": 24,
+      "totalSamples": 25,
       "monthlyCount": [
         0,
         0,
@@ -3847,7 +3847,7 @@
         7,
         5,
         3,
-        2,
+        3,
         0
       ],
       "earliestDate": "06-16",
@@ -3861,15 +3861,15 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "11-08",
-      "latestDayOfYear": 313,
+      "latestDate": "11-18",
+      "latestDayOfYear": 323,
       "latestSample": {
-        "collectionDate": "2026-11-08",
-        "collector": "Pierino Bigoni",
-        "locality": "Parco avventura in Pineta, Clusone",
-        "localityCoordinates": "45.880916, 9.919919",
-        "habitat": "Bosco misto conifere e latifoglie",
-        "determiner": "Pierino Bigoni",
+        "collectionDate": "2026-11-18",
+        "collector": "Fabio Locatelli",
+        "locality": "Busgarina, Clusone",
+        "localityCoordinates": "45.873024, 9.916009",
+        "habitat": "Bosco misto",
+        "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
     },
