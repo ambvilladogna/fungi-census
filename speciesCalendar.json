@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-20T01:14:54.950Z",
+  "generatedAt": "2026-11-22T01:14:41.596Z",
   "totalSpecies": 618,
-  "totalSamples": 2341,
+  "totalSamples": 2343,
   "species": [
     {
       "genus": "Flammulina",
@@ -3969,7 +3969,7 @@
       "fullName": "Amanita phalloides",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
       "authority": "(Vaill. ex Fr.) Link 1833",
-      "totalSamples": 19,
+      "totalSamples": 20,
       "monthlyCount": [
         0,
         0,
@@ -3981,7 +3981,7 @@
         5,
         8,
         4,
-        0,
+        1,
         0
       ],
       "earliestDate": "06-18",
@@ -3995,15 +3995,15 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "10-19",
-      "latestDayOfYear": 292,
+      "latestDate": "11-18",
+      "latestDayOfYear": 323,
       "latestSample": {
-        "collectionDate": "2026-10-19",
-        "collector": "Pierino Bigoni",
-        "locality": "Roccolo Sparpaì, Piario",
-        "localityCoordinates": "45.887066, 9.921201",
+        "collectionDate": "2026-11-18",
+        "collector": "Fabio Locatelli",
+        "locality": "Busgarina, Clusone",
+        "localityCoordinates": "45.873024, 9.916009",
         "habitat": "Bosco misto",
-        "determiner": "Pierino Bigoni",
+        "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
     },
@@ -23259,7 +23259,7 @@
       "fullName": "Tricholoma sejunctum",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Tricholomataceae",
       "authority": "(Sowerby) Quél. 1872",
-      "totalSamples": 4,
+      "totalSamples": 5,
       "monthlyCount": [
         0,
         0,
@@ -23271,7 +23271,7 @@
         0,
         0,
         2,
-        2,
+        3,
         0
       ],
       "earliestDate": "10-06",
@@ -23285,15 +23285,15 @@
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       },
-      "latestDate": "11-16",
-      "latestDayOfYear": 321,
+      "latestDate": "11-18",
+      "latestDayOfYear": 323,
       "latestSample": {
-        "collectionDate": "2026-11-16",
-        "collector": "Pierino Bigoni",
-        "locality": "Roccolo Sparpaì, Piario",
-        "localityCoordinates": "45.887066, 9.921201",
-        "habitat": "Bosco misto conifere e latifoglie",
-        "determiner": "Pierino Bigoni",
+        "collectionDate": "2026-11-18",
+        "collector": "Fabio Locatelli",
+        "locality": "Busgarina, Clusone",
+        "localityCoordinates": "45.873024, 9.916009",
+        "habitat": "Bosco misto",
+        "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
     },

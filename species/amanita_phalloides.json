@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-11-18",
+      "collector": "Fabio Locatelli",
+      "locality": "Busgarina, Clusone",
+      "localityCoordinates": "45.873024, 9.916009",
+      "habitat": "Bosco misto",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2026-10-19",
       "collector": "Pierino Bigoni",
       "locality": "Roccolo Sparpaì, Piario",
@@ -161,7 +169,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "06-18",
-    "raccoltaPiuTarda": "10-19",
+    "raccoltaPiuTarda": "11-18",
     "campioniPerMese": [
       {
         "gen": 0
@@ -194,7 +202,7 @@
         "ott": 4
       },
       {
-        "nov": 0
+        "nov": 1
       },
       {
         "dic": 0
@@ -202,8 +210,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 19,
-    "campioniRaccolti": 19,
+    "totaleCampioni": 20,
+    "campioniRaccolti": 20,
     "campioniExsiccata": 0
   }
 }
