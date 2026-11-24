@@ -1,8 +1,8 @@
 {
   "title": "Parco Avventura in Pineta della Selva",
-  "generatedAt": "2026-11-17T01:15:27.012Z",
-  "totalSpecies": 28,
-  "totalSamples": 41,
+  "generatedAt": "2026-11-24T01:15:48.066Z",
+  "totalSpecies": 29,
+  "totalSamples": 44,
   "species": [
     {
       "genus": "Armillaria",
@@ -95,6 +95,13 @@
       "fullName": "Hebeloma crustuliniforme",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Strophariaceae",
       "authority": "(Bull.) Quél. 1872"
+    },
+    {
+      "genus": "Hydnum",
+      "species": "rufescens",
+      "fullName": "Hydnum rufescens",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Cantharellales > famiglia: Hydnaceae",
+      "authority": "Pers. 1800"
     },
     {
       "genus": "Hypholoma",

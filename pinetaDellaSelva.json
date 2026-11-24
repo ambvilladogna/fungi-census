@@ -1,8 +1,8 @@
 {
   "title": "Pineta della Selva",
-  "generatedAt": "2026-11-17T08:11:40.922Z",
-  "totalSpecies": 197,
-  "totalSamples": 357,
+  "generatedAt": "2026-11-24T01:15:48.118Z",
+  "totalSpecies": 198,
+  "totalSamples": 369,
   "species": [
     {
       "genus": "Agaricus",
@@ -887,6 +887,15 @@
       "authority": "(Scop.) Pat. 1887",
       "currentName": "Paralepista flaccida",
       "currentAuthority": "(Sowerby) Vizzini 2012"
+    },
+    {
+      "genus": "Lepista",
+      "species": "nuda",
+      "fullName": "Lepista nuda",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Clitocybaceae",
+      "authority": "(Bull.) Cooke 1871",
+      "currentName": "Collybia nuda",
+      "currentAuthority": "(Bull.) Z.M. He & Zhu L. Yang 2023"
     },
     {
       "genus": "Leucoagaricus",

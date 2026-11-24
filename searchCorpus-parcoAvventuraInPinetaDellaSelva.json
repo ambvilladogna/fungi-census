@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T01:15:27.102Z",
+  "generatedAt": "2026-11-24T01:15:48.169Z",
   "corpus": [
     {
       "type": "genus",
@@ -111,6 +111,13 @@
       "value": "Hebeloma",
       "matchSpecies": [
         "Hebeloma crustuliniforme"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Hydnum",
+      "matchSpecies": [
+        "Hydnum rufescens"
       ]
     },
     {
@@ -333,6 +340,13 @@
     },
     {
       "type": "species",
+      "value": "Hydnum rufescens",
+      "matchSpecies": [
+        "Hydnum rufescens"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Hypholoma capnoides",
       "matchSpecies": [
         "Hypholoma capnoides"
@@ -524,6 +538,13 @@
     },
     {
       "type": "famiglia",
+      "value": "Hydnaceae",
+      "matchSpecies": [
+        "Hydnum rufescens"
+      ]
+    },
+    {
+      "type": "famiglia",
       "value": "Hydnangiaceae",
       "matchSpecies": [
         "Laccaria affinis",
@@ -658,6 +679,13 @@
     },
     {
       "type": "ordine",
+      "value": "Cantharellales",
+      "matchSpecies": [
+        "Hydnum rufescens"
+      ]
+    },
+    {
+      "type": "ordine",
       "value": "Dacrymycetales",
       "matchSpecies": [
         "Dacrymyces stillatus"
@@ -697,6 +725,7 @@
         "Cystodermella granulosa",
         "Galerina stylifera",
         "Hebeloma crustuliniforme",
+        "Hydnum rufescens",
         "Hypholoma capnoides",
         "Hypholoma fasciculare",
         "Laccaria affinis",
@@ -757,6 +786,7 @@
         "Dacrymyces stillatus",
         "Galerina stylifera",
         "Hebeloma crustuliniforme",
+        "Hydnum rufescens",
         "Hypholoma capnoides",
         "Hypholoma fasciculare",
         "Laccaria affinis",
@@ -796,6 +826,7 @@
         "Dacrymyces stillatus",
         "Galerina stylifera",
         "Hebeloma crustuliniforme",
+        "Hydnum rufescens",
         "Hypholoma capnoides",
         "Hypholoma fasciculare",
         "Laccaria affinis",

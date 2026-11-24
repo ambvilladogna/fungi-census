@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-11-23",
+      "collector": "Antonio Guana",
+      "locality": "Piazzolo, Ardesio",
+      "localityCoordinates": "45.939095, 9.940667",
+      "habitat": "Bosco misto conifere e latifoglie",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-11-14",
       "collector": "Pierino Bigoni",
       "locality": "Cà de Spì, Monte Poieto, Gazzaniga",
@@ -162,7 +170,7 @@
         "ott": 2
       },
       {
-        "nov": 5
+        "nov": 6
       },
       {
         "dic": 1
@@ -170,8 +178,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 15,
-    "campioniRaccolti": 15,
+    "totaleCampioni": 16,
+    "campioniRaccolti": 16,
     "campioniExsiccata": 0
   }
 }

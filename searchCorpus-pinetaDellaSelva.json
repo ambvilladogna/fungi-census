@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T08:11:40.964Z",
+  "generatedAt": "2026-11-24T01:15:48.175Z",
   "corpus": [
     {
       "type": "genus",
@@ -208,8 +208,10 @@
         "Collybia distorta",
         "Collybia erythropus",
         "Collybia fusipes",
+        "Collybia nuda",
         "Gymnopus erythropus",
         "Gymnopus fusipes",
+        "Lepista nuda",
         "Rhodocollybia butyracea",
         "Rhodocollybia prolixa"
       ]
@@ -572,8 +574,10 @@
       "type": "genus",
       "value": "Lepista",
       "matchSpecies": [
+        "Collybia nuda",
         "Lepista glaucocana",
         "Lepista inversa",
+        "Lepista nuda",
         "Paralepista flaccida"
       ]
     },
@@ -1393,6 +1397,14 @@
     },
     {
       "type": "species",
+      "value": "Collybia nuda",
+      "matchSpecies": [
+        "Collybia nuda",
+        "Lepista nuda"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Coprinellus disseminatus",
       "matchSpecies": [
         "Coprinellus disseminatus",
@@ -2008,6 +2020,14 @@
       "matchSpecies": [
         "Lepista inversa",
         "Paralepista flaccida"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Lepista nuda",
+      "matchSpecies": [
+        "Collybia nuda",
+        "Lepista nuda"
       ]
     },
     {
@@ -2824,7 +2844,9 @@
       "type": "famiglia",
       "value": "Clitocybaceae",
       "matchSpecies": [
-        "Clitocybe nebularis"
+        "Clitocybe nebularis",
+        "Collybia nuda",
+        "Lepista nuda"
       ]
     },
     {
@@ -3305,6 +3327,7 @@
         "Collybia distorta",
         "Collybia erythropus",
         "Collybia fusipes",
+        "Collybia nuda",
         "Coprinellus disseminatus",
         "Coprinellus micaceus",
         "Coprinopsis lagopus",
@@ -3362,6 +3385,7 @@
         "Lepiota ventriosospora",
         "Lepista glaucocana",
         "Lepista inversa",
+        "Lepista nuda",
         "Leucoagaricus bresadolae",
         "Leucocybe connata",
         "Lycoperdon echinatum",
@@ -3649,6 +3673,7 @@
         "Collybia distorta",
         "Collybia erythropus",
         "Collybia fusipes",
+        "Collybia nuda",
         "Coprinellus disseminatus",
         "Coprinellus micaceus",
         "Coprinopsis lagopus",
@@ -3725,6 +3750,7 @@
         "Lepiota ventriosospora",
         "Lepista glaucocana",
         "Lepista inversa",
+        "Lepista nuda",
         "Leucoagaricus bresadolae",
         "Leucocybe connata",
         "Lycoperdon echinatum",
@@ -3950,6 +3976,7 @@
         "Collybia distorta",
         "Collybia erythropus",
         "Collybia fusipes",
+        "Collybia nuda",
         "Coprinellus disseminatus",
         "Coprinellus micaceus",
         "Coprinopsis lagopus",
@@ -4027,6 +4054,7 @@
         "Lepiota ventriosospora",
         "Lepista glaucocana",
         "Lepista inversa",
+        "Lepista nuda",
         "Leucoagaricus bresadolae",
         "Leucocybe connata",
         "Lycoperdon echinatum",
@@ -4197,6 +4225,7 @@
         "Collybia distorta",
         "Collybia erythropus",
         "Collybia fusipes",
+        "Collybia nuda",
         "Coprinellus disseminatus",
         "Coprinellus micaceus",
         "Coprinopsis lagopus",
@@ -4279,6 +4308,7 @@
         "Lepiota ventriosospora",
         "Lepista glaucocana",
         "Lepista inversa",
+        "Lepista nuda",
         "Leucoagaricus bresadolae",
         "Leucocybe connata",
         "Lycoperdon echinatum",

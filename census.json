@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-22T01:14:41.541Z",
-  "totalSpecies": 618,
-  "totalSamples": 2130,
+  "generatedAt": "2026-11-24T01:15:47.868Z",
+  "totalSpecies": 625,
+  "totalSamples": 2180,
   "species": [
     {
       "genus": "Abortiporus",
@@ -586,6 +586,15 @@
       "currentAuthority": "(Bull.) Demoulin & Rebriev 2017"
     },
     {
+      "genus": "Camarophyllus",
+      "species": "virgineus",
+      "fullName": "Camarophyllus virgineus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cuphophyllaceae",
+      "authority": "(Wulfen) P. Kumm. 1871",
+      "currentName": "Cuphophyllus virgineus",
+      "currentAuthority": "(Wulfen) Kovalenko 1989"
+    },
+    {
       "genus": "Cantharellus",
       "species": "amethysteus",
       "fullName": "Cantharellus amethysteus",
@@ -823,6 +832,15 @@
       "authority": "(P. Gaertn., B. Mey. & Scherb.) P. Kumm. 1871",
       "currentName": "Infundibulicybe gibba",
       "currentAuthority": "(Pers.) Harmaja 2003"
+    },
+    {
+      "genus": "Clitocybe",
+      "species": "metachroa",
+      "fullName": "Clitocybe metachroa",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales",
+      "authority": "(Fr.) P. Kumm. 1871",
+      "currentName": "Pseudolyophyllum metachroum",
+      "currentAuthority": "(Fr.) Raithelh. ex Z.M. He & Zhu L. Yang 2023"
     },
     {
       "genus": "Clitocybe",
@@ -1142,6 +1160,13 @@
     },
     {
       "genus": "Cortinarius",
+      "species": "camphoratus",
+      "fullName": "Cortinarius camphoratus",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
+      "authority": "(Fr.) Fr. 1838"
+    },
+    {
+      "genus": "Cortinarius",
       "species": "caninus",
       "fullName": "Cortinarius caninus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Cortinariaceae",
@@ -1438,6 +1463,13 @@
       "fullName": "Crepidotus mollis",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Crepidotaceae",
       "authority": "(Schaeff.) Staude 1857"
+    },
+    {
+      "genus": "Crepidotus",
+      "species": "variabilis",
+      "fullName": "Crepidotus variabilis",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Crepidotaceae",
+      "authority": "(Pers.) P. Kumm. 1871"
     },
     {
       "genus": "Crucibulum",
@@ -3049,6 +3081,13 @@
     },
     {
       "genus": "Mycena",
+      "species": "crocata",
+      "fullName": "Mycena crocata",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Mycenaceae",
+      "authority": "(Schrad.) P. Kumm. 1871"
+    },
+    {
+      "genus": "Mycena",
       "species": "epipterygia",
       "fullName": "Mycena epipterygia",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Mycenaceae",
@@ -3094,6 +3133,13 @@
       "authority": "(Fr.) Quél. 1872",
       "currentName": "Prunulus pelianthinus",
       "currentAuthority": "(Fr.) Jacq. Johnson, Vilgalys & Redhead 2001"
+    },
+    {
+      "genus": "Mycena",
+      "species": "polygramma",
+      "fullName": "Mycena polygramma",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Mycenaceae",
+      "authority": "(Bull.) Gray 1821"
     },
     {
       "genus": "Mycena",
@@ -3235,6 +3281,13 @@
       "fullName": "Paxillus rubicundulus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Paxillaceae",
       "authority": "P.D. Orton 1969"
+    },
+    {
+      "genus": "Peniophora",
+      "species": "incarnata",
+      "fullName": "Peniophora incarnata",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Peniophoraceae",
+      "authority": "(Pers.) P. Karst. 1889"
     },
     {
       "genus": "Perenniporia",

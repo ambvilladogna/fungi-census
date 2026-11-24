@@ -6,6 +6,22 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-11-23",
+      "collector": "Pierino Bigoni",
+      "locality": "Parco avventura in Pineta, Clusone",
+      "localityCoordinates": "45.880916, 9.919919",
+      "habitat": "Pino silvestre",
+      "determiner": "Pierino Bigoni"
+    },
+    {
+      "collectionDate": "2026-11-23",
+      "collector": "Antonio Guana",
+      "locality": "Piazzolo, Ardesio",
+      "localityCoordinates": "45.939095, 9.940667",
+      "habitat": "Bosco misto conifere e latifoglie",
+      "determiner": "Pierino Bigoni"
+    },
+    {
       "collectionDate": "2026-11-15",
       "collector": "Pietro Centenari",
       "locality": "Sentiero dalle baite di Parè alla cappella degli Alpini di Blum, Rovetta",
@@ -65,7 +81,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "08-26",
-    "raccoltaPiuTarda": "11-17",
+    "raccoltaPiuTarda": "11-23",
     "campioniPerMese": [
       {
         "gen": 0
@@ -98,7 +114,7 @@
         "ott": 2
       },
       {
-        "nov": 3
+        "nov": 5
       },
       {
         "dic": 0
@@ -106,8 +122,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 7,
-    "campioniRaccolti": 7,
+    "totaleCampioni": 9,
+    "campioniRaccolti": 9,
     "campioniExsiccata": 0
   }
 }

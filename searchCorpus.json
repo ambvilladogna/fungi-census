@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T01:14:55.851Z",
+  "generatedAt": "2026-11-24T01:15:48.148Z",
   "corpus": [
     {
       "type": "genus",
@@ -344,6 +344,14 @@
     },
     {
       "type": "genus",
+      "value": "Camarophyllus",
+      "matchSpecies": [
+        "Camarophyllus virgineus",
+        "Cuphophyllus virgineus"
+      ]
+    },
+    {
+      "type": "genus",
       "value": "Candolleomyces",
       "matchSpecies": [
         "Candolleomyces candolleanus",
@@ -485,6 +493,7 @@
         "Clitocybe geotropa",
         "Clitocybe gibba",
         "Clitocybe maxima",
+        "Clitocybe metachroa",
         "Clitocybe nebularis",
         "Clitocybe odora",
         "Clitocybe phaeophthalma",
@@ -497,6 +506,7 @@
         "Infundibulicybe costata",
         "Infundibulicybe geotropa",
         "Infundibulicybe gibba",
+        "Pseudolyophyllum metachroum",
         "Rhizocybe pruinosa",
         "Singerocybe phaeophthalma"
       ]
@@ -650,6 +660,7 @@
         "Cortinarius bulliardii",
         "Cortinarius callisteus",
         "Cortinarius callochrous",
+        "Cortinarius camphoratus",
         "Cortinarius caninus",
         "Cortinarius caperatus",
         "Cortinarius collinitus",
@@ -708,7 +719,8 @@
       "type": "genus",
       "value": "Crepidotus",
       "matchSpecies": [
-        "Crepidotus mollis"
+        "Crepidotus mollis",
+        "Crepidotus variabilis"
       ]
     },
     {
@@ -716,6 +728,14 @@
       "value": "Crucibulum",
       "matchSpecies": [
         "Crucibulum laeve"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Cuphophyllus",
+      "matchSpecies": [
+        "Camarophyllus virgineus",
+        "Cuphophyllus virgineus"
       ]
     },
     {
@@ -1661,6 +1681,7 @@
       "matchSpecies": [
         "Galactopus galopus",
         "Mycena alcalina",
+        "Mycena crocata",
         "Mycena eburnea",
         "Mycena epipterygia",
         "Mycena galericulata",
@@ -1668,6 +1689,7 @@
         "Mycena inclinata",
         "Mycena pearsoniana",
         "Mycena pelianthina",
+        "Mycena polygramma",
         "Mycena pura",
         "Mycena renati",
         "Mycena rosea",
@@ -1781,6 +1803,13 @@
         "Paxillus involutus",
         "Paxillus rubicundulus",
         "Tapinella atrotomentosa"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Peniophora",
+      "matchSpecies": [
+        "Peniophora incarnata"
       ]
     },
     {
@@ -1994,6 +2023,14 @@
         "Pseudohydnum gelatinosum",
         "Pseudohydnum gelatinosum f. album",
         "Pseudohydnum gelatinosum f. fuscum"
+      ]
+    },
+    {
+      "type": "genus",
+      "value": "Pseudolyophyllum",
+      "matchSpecies": [
+        "Clitocybe metachroa",
+        "Pseudolyophyllum metachroum"
       ]
     },
     {
@@ -3290,6 +3327,14 @@
     },
     {
       "type": "species",
+      "value": "Camarophyllus virgineus",
+      "matchSpecies": [
+        "Camarophyllus virgineus",
+        "Cuphophyllus virgineus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Candolleomyces candolleanus",
       "matchSpecies": [
         "Candolleomyces candolleanus",
@@ -3547,6 +3592,14 @@
       "matchSpecies": [
         "Clitocybe maxima",
         "Infundibulicybe gibba"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Clitocybe metachroa",
+      "matchSpecies": [
+        "Clitocybe metachroa",
+        "Pseudolyophyllum metachroum"
       ]
     },
     {
@@ -3954,6 +4007,13 @@
     },
     {
       "type": "species",
+      "value": "Cortinarius camphoratus",
+      "matchSpecies": [
+        "Cortinarius camphoratus"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Cortinarius caninus",
       "matchSpecies": [
         "Cortinarius caninus"
@@ -4245,9 +4305,24 @@
     },
     {
       "type": "species",
+      "value": "Crepidotus variabilis",
+      "matchSpecies": [
+        "Crepidotus variabilis"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Crucibulum laeve",
       "matchSpecies": [
         "Crucibulum laeve"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Cuphophyllus virgineus",
+      "matchSpecies": [
+        "Camarophyllus virgineus",
+        "Cuphophyllus virgineus"
       ]
     },
     {
@@ -6143,6 +6218,13 @@
     },
     {
       "type": "species",
+      "value": "Mycena crocata",
+      "matchSpecies": [
+        "Mycena crocata"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Mycena eburnea",
       "matchSpecies": [
         "Mycena alcalina",
@@ -6192,6 +6274,13 @@
       "matchSpecies": [
         "Mycena pelianthina",
         "Prunulus pelianthinus"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Mycena polygramma",
+      "matchSpecies": [
+        "Mycena polygramma"
       ]
     },
     {
@@ -6371,6 +6460,13 @@
       "value": "Paxillus rubicundulus",
       "matchSpecies": [
         "Paxillus rubicundulus"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Peniophora incarnata",
+      "matchSpecies": [
+        "Peniophora incarnata"
       ]
     },
     {
@@ -6734,6 +6830,14 @@
       "value": "Pseudohydnum gelatinosum f. fuscum",
       "matchSpecies": [
         "Pseudohydnum gelatinosum f. fuscum"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Pseudolyophyllum metachroum",
+      "matchSpecies": [
+        "Clitocybe metachroa",
+        "Pseudolyophyllum metachroum"
       ]
     },
     {
@@ -8339,6 +8443,7 @@
         "Cortinarius bulliardii",
         "Cortinarius callisteus",
         "Cortinarius callochrous",
+        "Cortinarius camphoratus",
         "Cortinarius caninus",
         "Cortinarius caperatus",
         "Cortinarius collinitus",
@@ -8385,6 +8490,7 @@
       "value": "Crepidotaceae",
       "matchSpecies": [
         "Crepidotus mollis",
+        "Crepidotus variabilis",
         "Simocybe sumptuosa"
       ]
     },
@@ -8393,6 +8499,14 @@
       "value": "Cudoniaceae",
       "matchSpecies": [
         "Spathularia flavida"
+      ]
+    },
+    {
+      "type": "famiglia",
+      "value": "Cuphophyllaceae",
+      "matchSpecies": [
+        "Camarophyllus virgineus",
+        "Cuphophyllus virgineus"
       ]
     },
     {
@@ -8803,6 +8917,7 @@
         "Favolaschia claudopus",
         "Galactopus galopus",
         "Mycena alcalina",
+        "Mycena crocata",
         "Mycena eburnea",
         "Mycena epipterygia",
         "Mycena galericulata",
@@ -8810,6 +8925,7 @@
         "Mycena inclinata",
         "Mycena pearsoniana",
         "Mycena pelianthina",
+        "Mycena polygramma",
         "Mycena pura",
         "Mycena renati",
         "Mycena rosea",
@@ -8899,6 +9015,13 @@
         "Paxillus filamentosus",
         "Paxillus involutus",
         "Paxillus rubicundulus"
+      ]
+    },
+    {
+      "type": "famiglia",
+      "value": "Peniophoraceae",
+      "matchSpecies": [
+        "Peniophora incarnata"
       ]
     },
     {
@@ -9469,6 +9592,7 @@
         "Calvatia excipuliformis",
         "Calvatia gigantea",
         "Calvatia utriformis",
+        "Camarophyllus virgineus",
         "Candolleomyces candolleanus",
         "Catathelasma imperiale",
         "Chamaemyces fracidus",
@@ -9482,6 +9606,7 @@
         "Clitocybe geotropa",
         "Clitocybe gibba",
         "Clitocybe maxima",
+        "Clitocybe metachroa",
         "Clitocybe nebularis",
         "Clitocybe odora",
         "Clitocybe phaeophthalma",
@@ -9533,6 +9658,7 @@
         "Cortinarius bulliardii",
         "Cortinarius callisteus",
         "Cortinarius callochrous",
+        "Cortinarius camphoratus",
         "Cortinarius caninus",
         "Cortinarius caperatus",
         "Cortinarius collinitus",
@@ -9567,7 +9693,9 @@
         "Cortinarius venetus",
         "Cortinarius violaceus",
         "Crepidotus mollis",
+        "Crepidotus variabilis",
         "Crucibulum laeve",
+        "Cuphophyllus virgineus",
         "Cyathus striatus",
         "Cyclocybe cylindracea",
         "Cystinarius crassus",
@@ -9716,6 +9844,7 @@
         "Micromphale perforans",
         "Mucidula mucida",
         "Mycena alcalina",
+        "Mycena crocata",
         "Mycena eburnea",
         "Mycena epipterygia",
         "Mycena galericulata",
@@ -9723,6 +9852,7 @@
         "Mycena inclinata",
         "Mycena pearsoniana",
         "Mycena pelianthina",
+        "Mycena polygramma",
         "Mycena pura",
         "Mycena renati",
         "Mycena rosea",
@@ -9768,6 +9898,7 @@
         "Psathyrella corrugis",
         "Psathyrella multipedata",
         "Psathyrella piluliformis",
+        "Pseudolyophyllum metachroum",
         "Pseudosperma rimosum",
         "Pyrrhulomyces astragalinus",
         "Rhizocybe pruinosa",
@@ -10203,6 +10334,7 @@
         "Lactifluus volemus",
         "Laeticutis cristata",
         "Lentinellus cochleatus",
+        "Peniophora incarnata",
         "Russula adusta",
         "Russula albonigra",
         "Russula alutacea",
@@ -10404,6 +10536,7 @@
         "Calvatia excipuliformis",
         "Calvatia gigantea",
         "Calvatia utriformis",
+        "Camarophyllus virgineus",
         "Candolleomyces candolleanus",
         "Cantharellus amethysteus",
         "Cantharellus cibarius",
@@ -10436,6 +10569,7 @@
         "Clitocybe geotropa",
         "Clitocybe gibba",
         "Clitocybe maxima",
+        "Clitocybe metachroa",
         "Clitocybe nebularis",
         "Clitocybe odora",
         "Clitocybe phaeophthalma",
@@ -10487,6 +10621,7 @@
         "Cortinarius bulliardii",
         "Cortinarius callisteus",
         "Cortinarius callochrous",
+        "Cortinarius camphoratus",
         "Cortinarius caninus",
         "Cortinarius caperatus",
         "Cortinarius collinitus",
@@ -10526,7 +10661,9 @@
         "Craterellus melanoxeros",
         "Craterellus tubaeformis",
         "Crepidotus mollis",
+        "Crepidotus variabilis",
         "Crucibulum laeve",
+        "Cuphophyllus virgineus",
         "Cyanoboletus pulverulentus",
         "Cyanosporus caesius",
         "Cyathus striatus",
@@ -10755,6 +10892,7 @@
         "Mucidula mucida",
         "Mutinus elegans",
         "Mycena alcalina",
+        "Mycena crocata",
         "Mycena eburnea",
         "Mycena epipterygia",
         "Mycena galericulata",
@@ -10762,6 +10900,7 @@
         "Mycena inclinata",
         "Mycena pearsoniana",
         "Mycena pelianthina",
+        "Mycena polygramma",
         "Mycena pura",
         "Mycena renati",
         "Mycena rosea",
@@ -10786,6 +10925,7 @@
         "Paxillus filamentosus",
         "Paxillus involutus",
         "Paxillus rubicundulus",
+        "Peniophora incarnata",
         "Perenniporia fraxinea",
         "Phaeoclavulina abietina",
         "Phaeoclavulina myceliosa",
@@ -10834,6 +10974,7 @@
         "Pseudohydnum gelatinosum",
         "Pseudohydnum gelatinosum f. album",
         "Pseudohydnum gelatinosum f. fuscum",
+        "Pseudolyophyllum metachroum",
         "Pseudosperma rimosum",
         "Pycnoporus cinnabarinus",
         "Pyrrhulomyces astragalinus",
@@ -11276,6 +11417,7 @@
         "Calvatia excipuliformis",
         "Calvatia gigantea",
         "Calvatia utriformis",
+        "Camarophyllus virgineus",
         "Candolleomyces candolleanus",
         "Cantharellus amethysteus",
         "Cantharellus cibarius",
@@ -11309,6 +11451,7 @@
         "Clitocybe geotropa",
         "Clitocybe gibba",
         "Clitocybe maxima",
+        "Clitocybe metachroa",
         "Clitocybe nebularis",
         "Clitocybe odora",
         "Clitocybe phaeophthalma",
@@ -11360,6 +11503,7 @@
         "Cortinarius bulliardii",
         "Cortinarius callisteus",
         "Cortinarius callochrous",
+        "Cortinarius camphoratus",
         "Cortinarius caninus",
         "Cortinarius caperatus",
         "Cortinarius collinitus",
@@ -11399,7 +11543,9 @@
         "Craterellus melanoxeros",
         "Craterellus tubaeformis",
         "Crepidotus mollis",
+        "Crepidotus variabilis",
         "Crucibulum laeve",
+        "Cuphophyllus virgineus",
         "Cyanoboletus pulverulentus",
         "Cyanosporus caesius",
         "Cyathus striatus",
@@ -11631,6 +11777,7 @@
         "Mucidula mucida",
         "Mutinus elegans",
         "Mycena alcalina",
+        "Mycena crocata",
         "Mycena eburnea",
         "Mycena epipterygia",
         "Mycena galericulata",
@@ -11638,6 +11785,7 @@
         "Mycena inclinata",
         "Mycena pearsoniana",
         "Mycena pelianthina",
+        "Mycena polygramma",
         "Mycena pura",
         "Mycena renati",
         "Mycena rosea",
@@ -11662,6 +11810,7 @@
         "Paxillus filamentosus",
         "Paxillus involutus",
         "Paxillus rubicundulus",
+        "Peniophora incarnata",
         "Perenniporia fraxinea",
         "Phaeoclavulina abietina",
         "Phaeoclavulina myceliosa",
@@ -11710,6 +11859,7 @@
         "Pseudohydnum gelatinosum",
         "Pseudohydnum gelatinosum f. album",
         "Pseudohydnum gelatinosum f. fuscum",
+        "Pseudolyophyllum metachroum",
         "Pseudosperma rimosum",
         "Pycnoporus cinnabarinus",
         "Pyrrhulomyces astragalinus",
@@ -12001,6 +12151,7 @@
         "Calvatia gigantea",
         "Calvatia utriformis",
         "Calycina citrina",
+        "Camarophyllus virgineus",
         "Candolleomyces candolleanus",
         "Cantharellus amethysteus",
         "Cantharellus cibarius",
@@ -12036,6 +12187,7 @@
         "Clitocybe geotropa",
         "Clitocybe gibba",
         "Clitocybe maxima",
+        "Clitocybe metachroa",
         "Clitocybe nebularis",
         "Clitocybe odora",
         "Clitocybe phaeophthalma",
@@ -12088,6 +12240,7 @@
         "Cortinarius bulliardii",
         "Cortinarius callisteus",
         "Cortinarius callochrous",
+        "Cortinarius camphoratus",
         "Cortinarius caninus",
         "Cortinarius caperatus",
         "Cortinarius collinitus",
@@ -12127,7 +12280,9 @@
         "Craterellus melanoxeros",
         "Craterellus tubaeformis",
         "Crepidotus mollis",
+        "Crepidotus variabilis",
         "Crucibulum laeve",
+        "Cuphophyllus virgineus",
         "Cyanoboletus pulverulentus",
         "Cyanosporus caesius",
         "Cyathus striatus",
@@ -12377,6 +12532,7 @@
         "Mucidula mucida",
         "Mutinus elegans",
         "Mycena alcalina",
+        "Mycena crocata",
         "Mycena eburnea",
         "Mycena epipterygia",
         "Mycena galericulata",
@@ -12384,6 +12540,7 @@
         "Mycena inclinata",
         "Mycena pearsoniana",
         "Mycena pelianthina",
+        "Mycena polygramma",
         "Mycena pura",
         "Mycena renati",
         "Mycena rosea",
@@ -12408,6 +12565,7 @@
         "Paxillus filamentosus",
         "Paxillus involutus",
         "Paxillus rubicundulus",
+        "Peniophora incarnata",
         "Perenniporia fraxinea",
         "Phaeoclavulina abietina",
         "Phaeoclavulina myceliosa",
@@ -12457,6 +12615,7 @@
         "Pseudohydnum gelatinosum",
         "Pseudohydnum gelatinosum f. album",
         "Pseudohydnum gelatinosum f. fuscum",
+        "Pseudolyophyllum metachroum",
         "Pseudosperma rimosum",
         "Pycnoporus cinnabarinus",
         "Pyrrhulomyces astragalinus",
