@@ -6,6 +6,14 @@
   "autoreCorrente": "(Schumach.) Vizzini, P. Alvarado, G. Moreno & Consiglio 2015",
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-11-23",
+      "collector": "Pietro Centenari",
+      "locality": "Zenier, Rovetta",
+      "localityCoordinates": "45.900034, 9.988739",
+      "habitat": "Bosco misto conifere e latifoglie",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2026-11-15",
       "collector": "Pietro Centenari",
       "locality": "Sentiero di Blum, Rovetta, Bergamo",
@@ -41,7 +49,7 @@
   "campioniExsiccata": [],
   "fenologia": {
     "raccoltaPiuPrecoce": "10-27",
-    "raccoltaPiuTarda": "11-15",
+    "raccoltaPiuTarda": "11-23",
     "campioniPerMese": [
       {
         "gen": 0
@@ -74,7 +82,7 @@
         "ott": 1
       },
       {
-        "nov": 3
+        "nov": 4
       },
       {
         "dic": 0
@@ -82,8 +90,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 4,
-    "campioniRaccolti": 4,
+    "totaleCampioni": 5,
+    "campioniRaccolti": 5,
     "campioniExsiccata": 0
   }
 }

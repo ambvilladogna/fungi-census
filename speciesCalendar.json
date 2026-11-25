@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-24T01:15:47.926Z",
+  "generatedAt": "2026-11-25T01:15:08.236Z",
   "totalSpecies": 625,
-  "totalSamples": 2397,
+  "totalSamples": 2399,
   "species": [
     {
       "genus": "Flammulina",
@@ -185,7 +185,7 @@
       "fullName": "Stereum hirsutum",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Russulales > famiglia: Stereaceae",
       "authority": "(Willd.) Pers. 1800",
-      "totalSamples": 1,
+      "totalSamples": 2,
       "monthlyCount": [
         1,
         0,
@@ -197,7 +197,7 @@
         0,
         0,
         0,
-        0,
+        1,
         0
       ],
       "earliestDate": "01-31",
@@ -211,14 +211,14 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "01-31",
-      "latestDayOfYear": 31,
+      "latestDate": "11-23",
+      "latestDayOfYear": 328,
       "latestSample": {
-        "collectionDate": "2026-01-31",
-        "collector": "Pierino Bigoni",
-        "locality": "Bricconi Oltressenda Alta",
-        "localityCoordinates": "45.920360, 9.948130",
-        "habitat": "Ceppaie marcescenti",
+        "collectionDate": "2026-11-23",
+        "collector": "Antonio Guana",
+        "locality": "Piazzolo, Ardesio",
+        "localityCoordinates": "45.939095, 9.940667",
+        "habitat": "Bosco misto conifere e latifoglie",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       }
@@ -25658,7 +25658,7 @@
       "authority": "(Schumach.) Singer 1939",
       "currentName": "Leucocybe connata",
       "currentAuthority": "(Schumach.) Vizzini, P. Alvarado, G. Moreno & Consiglio 2015",
-      "totalSamples": 4,
+      "totalSamples": 5,
       "monthlyCount": [
         0,
         0,
@@ -25670,7 +25670,7 @@
         0,
         0,
         1,
-        3,
+        4,
         0
       ],
       "earliestDate": "10-27",
@@ -25684,13 +25684,13 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "11-15",
-      "latestDayOfYear": 320,
+      "latestDate": "11-23",
+      "latestDayOfYear": 328,
       "latestSample": {
-        "collectionDate": "2026-11-15",
+        "collectionDate": "2026-11-23",
         "collector": "Pietro Centenari",
-        "locality": "Sentiero di Blum, Rovetta, Bergamo",
-        "localityCoordinates": "45.902596, 9.982928",
+        "locality": "Zenier, Rovetta",
+        "localityCoordinates": "45.900034, 9.988739",
         "habitat": "Bosco misto conifere e latifoglie",
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
