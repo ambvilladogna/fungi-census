@@ -6,6 +6,14 @@
   "autoreCorrente": null,
   "campioniRaccolti": [
     {
+      "collectionDate": "2026-11-25",
+      "collector": "Fabio Locatelli",
+      "locality": "Canechel",
+      "localityCoordinates": "45.907064, 10.012301",
+      "habitat": "Pino silvestre",
+      "determiner": "Fabio Locatelli"
+    },
+    {
       "collectionDate": "2026-10-05",
       "collector": "Pietro Centenari",
       "locality": "Cappella Alpini San Lorenzo, Vogno, Rovetta",
@@ -146,7 +154,7 @@
         "ott": 1
       },
       {
-        "nov": 0
+        "nov": 1
       },
       {
         "dic": 1
@@ -154,8 +162,8 @@
     ]
   },
   "statistiche": {
-    "totaleCampioni": 13,
-    "campioniRaccolti": 13,
+    "totaleCampioni": 14,
+    "campioniRaccolti": 14,
     "campioniExsiccata": 0
   }
 }

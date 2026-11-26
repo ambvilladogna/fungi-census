@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-25T01:15:08.236Z",
+  "generatedAt": "2026-11-26T01:15:36.856Z",
   "totalSpecies": 625,
-  "totalSamples": 2399,
+  "totalSamples": 2409,
   "species": [
     {
       "genus": "Flammulina",
@@ -3253,7 +3253,7 @@
       "fullName": "Suillus grevillei",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Suillaceae",
       "authority": "(Klotzsch) Singer 1945",
-      "totalSamples": 13,
+      "totalSamples": 14,
       "monthlyCount": [
         0,
         0,
@@ -3265,7 +3265,7 @@
         4,
         6,
         1,
-        0,
+        1,
         1
       ],
       "earliestDate": "06-07",
@@ -3846,8 +3846,8 @@
         5,
         7,
         5,
-        3,
-        3,
+        2,
+        4,
         0
       ],
       "earliestDate": "06-16",
@@ -3861,14 +3861,14 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "11-18",
-      "latestDayOfYear": 323,
+      "latestDate": "11-25",
+      "latestDayOfYear": 330,
       "latestSample": {
-        "collectionDate": "2026-11-18",
+        "collectionDate": "2026-11-25",
         "collector": "Fabio Locatelli",
-        "locality": "Busgarina, Clusone",
-        "localityCoordinates": "45.873024, 9.916009",
-        "habitat": "Bosco misto",
+        "locality": "Brugai, Onore, Bergamo",
+        "localityCoordinates": "45.899692, 10.014690",
+        "habitat": "Abete rosso",
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
@@ -8515,7 +8515,7 @@
       "fullName": "Amanita muscaria",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Amanitaceae",
       "authority": "(L.) Lam. 1783",
-      "totalSamples": 17,
+      "totalSamples": 18,
       "monthlyCount": [
         0,
         0,
@@ -8527,7 +8527,7 @@
         3,
         7,
         4,
-        3,
+        4,
         0
       ],
       "earliestDate": "08-01",
@@ -8541,15 +8541,15 @@
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       },
-      "latestDate": "11-16",
-      "latestDayOfYear": 321,
+      "latestDate": "11-25",
+      "latestDayOfYear": 330,
       "latestSample": {
-        "collectionDate": "2026-11-16",
-        "collector": "Giuseppe Bonicelli",
-        "locality": "Selva d'Agnone, Valgoglio",
-        "localityCoordinates": "45.982797, 9.891481",
-        "habitat": "Bosco misto conifere e latifoglie",
-        "determiner": "Pierino Bigoni",
+        "collectionDate": "2026-11-25",
+        "collector": "Fabio Locatelli",
+        "locality": "Brugai, Onore, Bergamo",
+        "localityCoordinates": "45.899692, 10.014690",
+        "habitat": "Abete rosso",
+        "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
     },
@@ -15645,7 +15645,7 @@
       "authority": "(Fr.) E.-J. Gilbert 1931",
       "currentName": "Imleria badia",
       "currentAuthority": "(Fr.) Vizzini 2014",
-      "totalSamples": 18,
+      "totalSamples": 19,
       "monthlyCount": [
         0,
         0,
@@ -15657,7 +15657,7 @@
         1,
         9,
         4,
-        4,
+        5,
         0
       ],
       "earliestDate": "08-31",
@@ -15671,14 +15671,14 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "11-16",
-      "latestDayOfYear": 321,
+      "latestDate": "11-25",
+      "latestDayOfYear": 330,
       "latestSample": {
-        "collectionDate": "2026-11-16",
+        "collectionDate": "2026-11-25",
         "collector": "Fabio Locatelli",
-        "locality": "Schilpario",
-        "localityCoordinates": "46.009394, 10.154059",
-        "habitat": "Bosco misto conifere e latifoglie",
+        "locality": "Brugai, Onore, Bergamo",
+        "localityCoordinates": "45.899692, 10.014690",
+        "habitat": "Pino silvestre",
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
@@ -16979,7 +16979,7 @@
       "fullName": "Hygrophorus agathosmus",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Hygrophoraceae",
       "authority": "(Fr.) Fr. 1838",
-      "totalSamples": 6,
+      "totalSamples": 7,
       "monthlyCount": [
         0,
         0,
@@ -16991,7 +16991,7 @@
         0,
         2,
         1,
-        3,
+        4,
         0
       ],
       "earliestDate": "09-08",
@@ -17005,15 +17005,15 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "11-23",
-      "latestDayOfYear": 328,
+      "latestDate": "11-25",
+      "latestDayOfYear": 330,
       "latestSample": {
-        "collectionDate": "2026-11-23",
-        "collector": "Antonio Guana",
-        "locality": "Piazzolo, Ardesio",
-        "localityCoordinates": "45.939095, 9.940667",
-        "habitat": "Bosco misto conifere e latifoglie",
-        "determiner": "Pierino Bigoni",
+        "collectionDate": "2026-11-25",
+        "collector": "Fabio Locatelli",
+        "locality": "Canechel",
+        "localityCoordinates": "45.907064, 10.012301",
+        "habitat": "Abete rosso",
+        "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
     },
@@ -23083,7 +23083,7 @@
       "fullName": "Stropharia aeruginosa",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Strophariaceae",
       "authority": "(Curtis) Quél. 1872",
-      "totalSamples": 4,
+      "totalSamples": 5,
       "monthlyCount": [
         0,
         0,
@@ -23095,7 +23095,7 @@
         0,
         0,
         3,
-        1,
+        2,
         0
       ],
       "earliestDate": "10-06",
@@ -23109,15 +23109,15 @@
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       },
-      "latestDate": "11-03",
-      "latestDayOfYear": 308,
+      "latestDate": "11-25",
+      "latestDayOfYear": 330,
       "latestSample": {
-        "collectionDate": "2025-11-03",
-        "collector": "Angelo Ballabeni",
-        "locality": "Percorso vita, Rovetta",
-        "localityCoordinates": "45.89368, 9.97672",
-        "habitat": "Bosco misto",
-        "determiner": "Angelo Ballabeni",
+        "collectionDate": "2026-11-25",
+        "collector": "Fabio Locatelli",
+        "locality": "Brugai, Onore, Bergamo",
+        "localityCoordinates": "45.899692, 10.014690",
+        "habitat": "Bosco misto abete e pino silvestre e larice",
+        "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
     },
@@ -23839,7 +23839,7 @@
       "fullName": "Macrolepiota excoriata",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Agaricaceae",
       "authority": "(Schaeff.) Wasser 1978",
-      "totalSamples": 3,
+      "totalSamples": 4,
       "monthlyCount": [
         0,
         0,
@@ -23851,7 +23851,7 @@
         0,
         0,
         2,
-        1,
+        2,
         0
       ],
       "earliestDate": "10-10",
@@ -23865,14 +23865,14 @@
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       },
-      "latestDate": "11-03",
-      "latestDayOfYear": 308,
+      "latestDate": "11-25",
+      "latestDayOfYear": 330,
       "latestSample": {
-        "collectionDate": "2026-11-03",
+        "collectionDate": "2026-11-25",
         "collector": "Fabio Locatelli",
-        "locality": "Cadrega, Clusone",
-        "localityCoordinates": "45.8965854N, 9.9651656E",
-        "habitat": "Pascolo",
+        "locality": "Brugai, Onore, Bergamo",
+        "localityCoordinates": "45.899692, 10.014690",
+        "habitat": "Abete rosso",
         "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
@@ -25257,7 +25257,7 @@
       "fullName": "Hygrophoropsis aurantiaca",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Boletales > famiglia: Hygrophoropsidaceae",
       "authority": "(Wulfen) Maire ex Martin-Sans 1929",
-      "totalSamples": 2,
+      "totalSamples": 3,
       "monthlyCount": [
         0,
         0,
@@ -25269,7 +25269,7 @@
         0,
         0,
         1,
-        1,
+        2,
         0
       ],
       "earliestDate": "10-26",
@@ -25283,15 +25283,15 @@
         "determiner": "Angelo Ballabeni",
         "_tipo": "raccolto"
       },
-      "latestDate": "11-02",
-      "latestDayOfYear": 307,
+      "latestDate": "11-25",
+      "latestDayOfYear": 330,
       "latestSample": {
-        "collectionDate": "2026-11-02",
+        "collectionDate": "2026-11-25",
         "collector": "Fabio Locatelli",
         "locality": "Brugai, Onore, Bergamo",
         "localityCoordinates": "45.899692, 10.014690",
-        "habitat": "Abete rosso",
-        "determiner": "Pierino Bigoni",
+        "habitat": "Bosco misto",
+        "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
     },
@@ -25389,7 +25389,7 @@
       "fullName": "Sparassis crispa",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Polyporales > famiglia: Sparassidaceae",
       "authority": "(Wulfen) Fr. 1821",
-      "totalSamples": 1,
+      "totalSamples": 2,
       "monthlyCount": [
         0,
         0,
@@ -25401,7 +25401,7 @@
         0,
         0,
         1,
-        0,
+        1,
         0
       ],
       "earliestDate": "10-26",
@@ -25415,15 +25415,15 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "10-26",
-      "latestDayOfYear": 299,
+      "latestDate": "11-25",
+      "latestDayOfYear": 330,
       "latestSample": {
-        "collectionDate": "2026-10-26",
+        "collectionDate": "2026-11-25",
         "collector": "Fabio Locatelli",
         "locality": "Brugai, Onore, Bergamo",
         "localityCoordinates": "45.899692, 10.014690",
-        "habitat": "Bosco misto conifere e latifoglie",
-        "determiner": "Pierino Bigoni",
+        "habitat": "Pino silvestre",
+        "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
     },
@@ -26724,7 +26724,7 @@
       "fullName": "Gymnopilus penetrans",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Galerinaceae",
       "authority": "(Fr.) Murrill 1912",
-      "totalSamples": 2,
+      "totalSamples": 3,
       "monthlyCount": [
         0,
         0,
@@ -26736,7 +26736,7 @@
         0,
         0,
         0,
-        1,
+        2,
         1
       ],
       "earliestDate": "11-16",
@@ -27308,7 +27308,7 @@
       "authority": "(Fr.) P. Kumm. 1871",
       "currentName": "Pseudolyophyllum metachroum",
       "currentAuthority": "(Fr.) Raithelh. ex Z.M. He & Zhu L. Yang 2023",
-      "totalSamples": 1,
+      "totalSamples": 2,
       "monthlyCount": [
         0,
         0,
@@ -27320,7 +27320,7 @@
         0,
         0,
         0,
-        1,
+        2,
         0
       ],
       "earliestDate": "11-23",
@@ -27334,15 +27334,15 @@
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
       },
-      "latestDate": "11-23",
-      "latestDayOfYear": 328,
+      "latestDate": "11-25",
+      "latestDayOfYear": 330,
       "latestSample": {
-        "collectionDate": "2026-11-23",
+        "collectionDate": "2026-11-25",
         "collector": "Fabio Locatelli",
-        "locality": "Busgarina, Clusone",
-        "localityCoordinates": "45.873024, 9.916009",
-        "habitat": "Bosco misto conifere e latifoglie",
-        "determiner": "Pierino Bigoni",
+        "locality": "Brugai, Onore, Bergamo",
+        "localityCoordinates": "45.899692, 10.014690",
+        "habitat": "Pino silvestre",
+        "determiner": "Fabio Locatelli",
         "_tipo": "raccolto"
       }
     },
