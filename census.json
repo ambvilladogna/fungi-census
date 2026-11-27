@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-26T01:15:36.797Z",
-  "totalSpecies": 625,
-  "totalSamples": 2192,
+  "generatedAt": "2026-11-27T01:15:23.925Z",
+  "totalSpecies": 626,
+  "totalSamples": 2193,
   "species": [
     {
       "genus": "Abortiporus",
@@ -1746,6 +1746,13 @@
       "fullName": "Galerina stylifera",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Galerinaceae",
       "authority": "(G.F. Atk.) A.H. Sm. & Singer 1958"
+    },
+    {
+      "genus": "Galerina",
+      "species": "vittiformis",
+      "fullName": "Galerina vittiformis",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Galerinaceae",
+      "authority": "(Fr.) Earle 1909"
     },
     {
       "genus": "Ganoderma",

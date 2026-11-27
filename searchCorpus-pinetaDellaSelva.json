@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T01:15:48.175Z",
+  "generatedAt": "2026-11-27T01:15:24.175Z",
   "corpus": [
     {
       "type": "genus",
@@ -369,7 +369,8 @@
       "type": "genus",
       "value": "Galerina",
       "matchSpecies": [
-        "Galerina stylifera"
+        "Galerina stylifera",
+        "Galerina vittiformis"
       ]
     },
     {
@@ -1655,6 +1656,13 @@
     },
     {
       "type": "species",
+      "value": "Galerina vittiformis",
+      "matchSpecies": [
+        "Galerina vittiformis"
+      ]
+    },
+    {
+      "type": "species",
       "value": "Ganoderma adspersum",
       "matchSpecies": [
         "Ganoderma adspersum"
@@ -2896,7 +2904,8 @@
       "type": "famiglia",
       "value": "Galerinaceae",
       "matchSpecies": [
-        "Galerina stylifera"
+        "Galerina stylifera",
+        "Galerina vittiformis"
       ]
     },
     {
@@ -3355,6 +3364,7 @@
         "Flammulina velutipes",
         "Galactopus galopus",
         "Galerina stylifera",
+        "Galerina vittiformis",
         "Gymnopus erythropus",
         "Gymnopus fusipes",
         "Hebeloma crustuliniforme",
@@ -3704,6 +3714,7 @@
         "Flammulina velutipes",
         "Galactopus galopus",
         "Galerina stylifera",
+        "Galerina vittiformis",
         "Ganoderma adspersum",
         "Gloeophyllum odoratum",
         "Gomphidius glutinosus",
@@ -4008,6 +4019,7 @@
         "Flammulina velutipes",
         "Galactopus galopus",
         "Galerina stylifera",
+        "Galerina vittiformis",
         "Ganoderma adspersum",
         "Gloeophyllum odoratum",
         "Gomphidius glutinosus",
@@ -4258,6 +4270,7 @@
         "Flammulina velutipes",
         "Galactopus galopus",
         "Galerina stylifera",
+        "Galerina vittiformis",
         "Ganoderma adspersum",
         "Gloeophyllum odoratum",
         "Gomphidius glutinosus",

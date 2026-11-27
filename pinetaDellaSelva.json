@@ -1,8 +1,8 @@
 {
   "title": "Pineta della Selva",
-  "generatedAt": "2026-11-26T01:15:37.003Z",
-  "totalSpecies": 198,
-  "totalSamples": 368,
+  "generatedAt": "2026-11-27T01:15:24.136Z",
+  "totalSpecies": 199,
+  "totalSamples": 369,
   "species": [
     {
       "genus": "Agaricus",
@@ -547,6 +547,13 @@
       "fullName": "Galerina stylifera",
       "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Galerinaceae",
       "authority": "(G.F. Atk.) A.H. Sm. & Singer 1958"
+    },
+    {
+      "genus": "Galerina",
+      "species": "vittiformis",
+      "fullName": "Galerina vittiformis",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Galerinaceae",
+      "authority": "(Fr.) Earle 1909"
     },
     {
       "genus": "Ganoderma",

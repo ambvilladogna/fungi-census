@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T01:15:48.148Z",
+  "generatedAt": "2026-11-27T01:15:24.164Z",
   "corpus": [
     {
       "type": "genus",
@@ -967,7 +967,8 @@
       "value": "Galerina",
       "matchSpecies": [
         "Galerina marginata",
-        "Galerina stylifera"
+        "Galerina stylifera",
+        "Galerina vittiformis"
       ]
     },
     {
@@ -4685,6 +4686,13 @@
       "value": "Galerina stylifera",
       "matchSpecies": [
         "Galerina stylifera"
+      ]
+    },
+    {
+      "type": "species",
+      "value": "Galerina vittiformis",
+      "matchSpecies": [
+        "Galerina vittiformis"
       ]
     },
     {
@@ -8584,6 +8592,7 @@
       "matchSpecies": [
         "Galerina marginata",
         "Galerina stylifera",
+        "Galerina vittiformis",
         "Gymnopilus penetrans"
       ]
     },
@@ -9724,6 +9733,7 @@
         "Galactopus galopus",
         "Galerina marginata",
         "Galerina stylifera",
+        "Galerina vittiformis",
         "Gymnopilus penetrans",
         "Gymnopus aquosus",
         "Gymnopus dryophilus",
@@ -10702,6 +10712,7 @@
         "Galactopus galopus",
         "Galerina marginata",
         "Galerina stylifera",
+        "Galerina vittiformis",
         "Ganoderma adspersum",
         "Ganoderma applanatum",
         "Ganoderma lucidum",
@@ -11587,6 +11598,7 @@
         "Galactopus galopus",
         "Galerina marginata",
         "Galerina stylifera",
+        "Galerina vittiformis",
         "Ganoderma adspersum",
         "Ganoderma applanatum",
         "Ganoderma lucidum",
@@ -12329,6 +12341,7 @@
         "Galactopus galopus",
         "Galerina marginata",
         "Galerina stylifera",
+        "Galerina vittiformis",
         "Ganoderma adspersum",
         "Ganoderma applanatum",
         "Ganoderma lucidum",

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-26T01:15:36.856Z",
-  "totalSpecies": 625,
-  "totalSamples": 2409,
+  "generatedAt": "2026-11-27T01:15:23.985Z",
+  "totalSpecies": 626,
+  "totalSamples": 2410,
   "species": [
     {
       "genus": "Flammulina",
@@ -27605,6 +27605,50 @@
         "collector": "Antonio Guana",
         "locality": "Piazzolo, Ardesio",
         "localityCoordinates": "45.939095, 9.940667",
+        "habitat": "Bosco misto conifere e latifoglie",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      }
+    },
+    {
+      "genus": "Galerina",
+      "species": "vittiformis",
+      "fullName": "Galerina vittiformis",
+      "lineage": "regno: Fungi > phylum: Basidiomycota > classe: Agaricomycetes > ordine: Agaricales > famiglia: Galerinaceae",
+      "authority": "(Fr.) Earle 1909",
+      "totalSamples": 1,
+      "monthlyCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "earliestDate": "11-25",
+      "earliestDayOfYear": 330,
+      "earliestSample": {
+        "collectionDate": "2026-11-25",
+        "collector": "Pierino Bigoni",
+        "locality": "Pineta della Selva, Clusone",
+        "localityCoordinates": "45.88196, 9.91806",
+        "habitat": "Bosco misto conifere e latifoglie",
+        "determiner": "Pierino Bigoni",
+        "_tipo": "raccolto"
+      },
+      "latestDate": "11-25",
+      "latestDayOfYear": 330,
+      "latestSample": {
+        "collectionDate": "2026-11-25",
+        "collector": "Pierino Bigoni",
+        "locality": "Pineta della Selva, Clusone",
+        "localityCoordinates": "45.88196, 9.91806",
         "habitat": "Bosco misto conifere e latifoglie",
         "determiner": "Pierino Bigoni",
         "_tipo": "raccolto"
